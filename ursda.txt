@@ -1,0 +1,100 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" ,===USA RADIO===
+http://..........
+
+#EXTINF:-1   tvg-logo="https://static-media.streema.com/media/cache/c3/89/c389ada9f436d27771d77c764e16b230.jpg" ,100.1 FM Flagstaff-Prescott
+http://206.190.135.28:8602/listen.
+#EXTINF:-1   tvg-logo="https://i3.radionomy.com/radios/400/058f0af8-6395-4c89-900e-88cf4db1c015.png" ,Ambient Sleeping Pill 
+http://163.172.169.217:80/asp-s
+#EXTINF:-1   tvg-logo="https://i3.radionomy.com/radios/400/058f0af8-6395-4c89-900e-88cf4db1c015.png" ,Ambient Sleeping Pill 
+http://163.172.169.217:80/asp-h
+#EXTINF:-1   tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/07/Audio-Noir-Radio.jpg" ,Audio Noir Radio
+http://198.245.61.123:8000/noir
+#EXTINF:-1   tvg-logo="https://cdn-radiotime-logos.tunein.com/s226064q.png" ,Classic Rock 109
+http://209.222.19.108:10042/stream
+#EXTINF:-1   tvg-logo="https://static-media.streema.com/media/cache/be/01/be01c0a3b0ac6874473933c01f60f8bc.jpg" ,Classical WETA 90.9 FM
+http://38.100.128.106:8000/fmlive
+#EXTINF:-1   tvg-logo="http://hispanicmediadigest.com/wp/wp-content/uploads/2013/03/CNNe_Radio_600.jpg" ,CNN en Espanol Radio
+http://tunein.streamguys1.com/cnnespanola
+#EXTINF:-1   tvg-logo="https://pbs.twimg.com/profile_images/553394749642522624/OdBQw_vV.png" ,Crooner Radio
+http://50.7.76.250:8790/stream
+#EXTINF:-1   tvg-logo="http://collectingclassicmonsters.com/wp-content/uploads/CultRadioA-Go-Go-CRAGG1.png" ,Cult Radio A-Go-Go!
+http://s10.voscast.com:8502/;stream.mp3
+#EXTINF:-1   tvg-logo="https://s3-media2.fl.yelpcdn.com/bphoto/ha-Mwd_GP_cQ4Reejz_KEQ/258s.jpg" ,CvsRadio1 - Reggae Jam
+http://74.50.122.103:9128/;stream
+#EXTINF:-1   tvg-logo="https://lh3.googleusercontent.com/-PIsQTw7kEck/AAAAAAAAAAI/AAAAAAAAABo/_QFPRY4a3ro/s640/photo.jpg" ,Da Urban Jungle Radio
+http://198.178.123.20:8202/listen.
+#EXTINF:-1   tvg-logo="http://www.deephouselounge.com/wp-content/uploads/2016/07/itunespodcast_new.jpg" ,Deep House Lounge
+http://198.15.94.34:8024/stream
+#EXTINF:-1   tvg-logo="https://i.imgur.com/3GNshY3.jpg" ,Horror + Halloween Radio
+http://s2.voscast.com:11034/;stream.mp3
+#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/V5lHI3bct5Q/hqdefault.jpg" ,Hot 108 JAMZ
+http://66.85.88.174:80/hot108
+#EXTINF:-1   tvg-logo="http://i.imgur.com/MmWQqsX.png" ,iHeartRadio 80s
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://secureimg.stitcher.com/feedimagesplain328/68797.jpg" ,InfoWars - Alex Jones Show
+http://192.240.107.134:80/alexjonesshow
+#EXTINF:-1   tvg-logo="https://jewishmusicstream.com/wp-content/uploads/2011/07/icon.jpg" ,JewishMusic Stream
+http://stream.jewishmusicstream.com:8000/stream
+#EXTINF:-1   tvg-logo="https://www.ksgn.com/images/ksgn_logo.png" ,KSGN 89.7 FM Riverside
+http://1.ice1.firststreaming.com:8000/ksgn_fm.mp3
+#EXTINF:-1   tvg-logo="http://static.radio.net/images/broadcasts/5f/ce/17570/c175.png" ,Jazz 91.7 FM San Antonio
+http://131.194.66.88:9000/krtu_live-36kb
+#EXTINF:-1   tvg-logo="http://www.kuoi.org/wp-content/themes/UI-KUOI-Theme/img/brand-large-kuoi.png" ,KUOI-FM 89.3 Moscow
+http://majestic.wavestreamer.com:5562/Live
+#EXTINF:-1   tvg-logo="http://www.floydianslip.com/news/wp-content/uploads/2012/02/kzro.gif" ,Z100 100.1 FM Redding
+http://64.202.98.51:7940/kzro
+#EXTINF:-1   tvg-logo="http://i.imgur.com/xhqB0IJ.png" ,Lite FM 106.7 New York
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.imgur.com/JvYuakR.png" ,Music Choice - Christmas Music
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.imgur.com/BsxQzmg.png" ,News Radio 1450 AM Wilmington
+http://c10icy.prod.playlists.ihrhls.com/465_icy
+#EXTINF:-1   tvg-logo="http://i.imgur.com/By8OGzZ.png" ,Nick Radio (Opt-2)
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://pbs.twimg.com/profile_images/832355311155572736/JXqwkgbm.jpg" ,NPR Illinois
+http://64.202.98.51:7800/event
+#EXTINF:-1   tvg-logo="http://www.otrnow.com/amazingtales/AmazingTales300.png" ,Old Time Radio - Amazing Tales
+http://167.114.64.181:8462/stream
+#EXTINF:-1   tvg-logo="https://images.radiovolna.net/_files/images/164x164/c5242b7f3a54328ad2c77568ce5ac4b9/n4/q4yl59f0a8ee68b27202212071.jpg" ,Old Time Radio - Crimetime
+http://142.4.217.133:9195/stream
+#EXTINF:-1   tvg-logo="https://cdn-profiles.tunein.com/s275196/images/logoq.jpg" ,Pulso Digital
+http://67.227.220.171:8066/stream
+#EXTINF:-1   tvg-logo="https://lh6.ggpht.com/NwfkhEn0SDjWXd6CRKqAXMW2_RU9uDhW9lyN3I00ea9diJLX-ltOd5QUTxyZdy1VgPA=w300" ,Radio Ashour
+http://74.50.122.103:9352/;stream
+#EXTINF:-1   tvg-logo="https://www.smoothjazz.com/themes/smoothjazz/images/sj-circle-logo.png" ,SmoothJazz.com Global Radio
+http://144.217.153.67:80/live
+#EXTINF:-1   tvg-logo="https://i.imgur.com/vau9Z0B.png" ,Smooth Jazz 107.1 FM Sacramento (Opt-2)
+http://c9.prod.playlists.ihrhls.com/4242/playlist.m3u8?listeningSessionID=573aa3a50116edba_230911_zluekKxF_0000000ofY5&downloadSessionID=0&at=0&clientType=web&fb_broadcast=0&init_id=8169&modTime=1463691594128&pname=OrganicWeb&profileid=248665060&birthYear=null&territory=US&host=webapp.US&listenerId=2af9feef0b0210de61e97b0c25264388&uid=1463690853820&gender=null&age=null&amsparams=playerid:iHeartRadioWebPlayer;skey:1463691594&terminalid=159&zipcode=null&awparams=g:null;n:null;ccaud:["10358","10410","10385","10032","10093","10379","10488","10290","10085","10167","10404","10022","10097","10078","10029","10359","10010","10277","all","10018","10275","10202","10019","10028","10396","10407","10008","10043","10094","10030","10393","10103","10017","10088","10468","10086"];companionAds:true&playedFrom=338
+#EXTINF:-1   tvg-logo="http://www.jazzgroove.org/theme/16/img/logo-circle-white1-no-org.png" ,The Jazz Groove
+http://199.180.75.116:80/stream
+#EXTINF:-1   tvg-logo="https://baovecovang2012.files.wordpress.com/2013/10/tieng_nuoc_toi_network_logo.gif" ,Tieng Nuoc Toi Radio Atlanta
+http://162.244.80.118:3092/stream/1/
+#EXTINF:-1   tvg-logo="http://ideastream-production.s3.amazonaws.com/images/about/logo-wcpn.png" ,WCPN 90.3 FM Cleveland
+http://audio1.ideastream.org/wcpn128.mp3
+#EXTINF:-1   tvg-logo="https://a1-images.myspacecdn.com/images04/2/6ac571914e3e431fb7c3c8251613c94c/300x300.jpg" ,WLOY Loyola Radio
+http://64.202.98.51:8130/live
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WHTZ_logo.png" ,Z100 Radio New York
+http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
+#EXTINF:-1   tvg-logo="http://www.canuckradios.com/wp-content/uploads/2017/03/allhits-86.6.jpg"  ,All Hits 86.6 FM Brantford
+http://149.56.147.197:8326/stream
+#EXTINF:-1   tvg-logo="https://cdn-radiotime-logos.tunein.com/s25730d.png"  ,British Sixties Radio
+http://5.63.151.52:7070/stream
+#EXTINF:-1   tvg-logo="http://www.cbc.ca/labradormorning/CBC_RadioOne_Gen_4c.jpg"  ,CBC Radio One
+http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
+#EXTINF:-1   tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg"  ,CBC Radio 2
+http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
+#EXTINF:-1   tvg-logo="https://static-media.streema.com/media/cache/95/36/9536a0521b23d24f14eff8c57e685554.jpg"  ,CROC Radio
+http://82.145.43.92:8122/stream
+#EXTINF:-1   tvg-logo="http://static.radio.net/images/broadcasts/97/3a/1650/c175.png"  ,InBeatRadio.com Montreal
+http://50.7.99.155:7208/stream
+#EXTINF:-1   tvg-logo="https://pbs.twimg.com/profile_images/555195858430345216/OiBKQ64G_400x400.jpeg"  ,Pulse FM - Hit Music Now!
+http://176.31.107.8:8946/stream
+#EXTINF:-1   tvg-logo="https://i3.radionomy.com/radios/400/e65d7c77-6f45-486c-b8de-2eafa8d6a6b1.png"  ,Retro Hits
+http://149.56.183.178:8300/stream
+#EXTINF:-1   tvg-logo="https://i3.radionomy.com/radios/400/d2d4b3c3-10f1-4e72-b9d6-7c2105739179.jpg"  ,rockXradio
+http://158.69.227.214:8000/stream
+#EXTINF:-1 ,New York
+http://stream0.wfmu.org/freeform-128k
+#EXTINF:-1 ,WBEZ Chicago
+http://stream.wbez.org/wbez128.mp3
