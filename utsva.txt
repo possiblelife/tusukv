@@ -58,6 +58,8 @@ http://123tv.live/watch/bet/|webview zoom=200 scroll=200,200
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Big_Ten_Network.svg/800px-Big_Ten_Network.svg.png" ,BIG TEN NETWORK
 http://ustv247.com/big-ten-network-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 
+#EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/bloomberg-269x151.jpg"  ,Bloomberg 
+https://www.livenewswatch.com/bloomberg.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/bloomberg-269x151.jpg"  ,Bloomberg (When Video Starts Double click for fullscreen)
 http://123tv.live/watch/bloomberg-usa/|webview zoom=200 scroll=200,200
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/bloombergtv.jpg" ,Bloomberg Europe- TEMPORARY OFFLINE  (Retry iF Failed)-Wuffy_Player
@@ -246,6 +248,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1083.m3u8$http-refferer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" ,FOX BUSINESS
 http://ustv247.com/fox-business-live-stream-hd/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" ,FOX BUSINESS
+https://www.livenewswatch.com/fox-business.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/fbn-269x151.jpg"  ,FOX Business (When Video Starts Double click for fullscreen)
 http://123tv.live/watch/fox-business/|webview zoom=200 scroll=200,200
 #EXTINF:-1  tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" ,Fox Deportes HD- TEMPORARY OFFLINE  (Retry iF Failed)-Wuffy_Player
@@ -313,13 +317,6 @@ http://ustv247.com/golf-channel-live-stream/|agentnodown$$start=  file: '$$end='
 #EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/golf-269x151.png"  ,Golf Channel (When Video Starts Double click for fullscreen)
 http://123tv.live/watch/golf-channel/|webview zoom=200 scroll=200,200
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" ,HISTORY CHANNEL
-http://ustv247.com/history-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add= 
-
-#EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/History-269x151.png" ,History Channel  (When Video Starts Double click for fullscreen)
-http://123tv.live/watch/history-channel/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/historyhd.png" ,HISTORY CHANNEL- TEMPORARY OFFLINE  (Retry iF Failed)-Wuffy_Player
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1000.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/HGTV_new_logo.png" ,HGTV
 http://ustv247.com/hgtv-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 
@@ -329,8 +326,17 @@ http://123tv.live/watch/hgtv/|webview zoom=200 scroll=200,200
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1064.m3u8$http-refferer=http://localhost
 #EXTINF:-1 ,HIFI- TEMPORARY OFFLINE  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1113.m3u8$http-refferer=http://localhost
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" ,HISTORY CHANNEL
+http://ustv247.com/history-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add= 
+
+#EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/History-269x151.png" ,History Channel  (When Video Starts Double click for fullscreen)
+http://123tv.live/watch/history-channel/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/historyhd.png" ,HISTORY CHANNEL- TEMPORARY OFFLINE  (Retry iF Failed)-Wuffy_Player
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1000.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://fondazione.museostorico.it/var/plain_site/storage/images/progetti/principali-ambiti-tematici-di-ricerca/history-lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria/63732-1-ita-IT/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria_galleryfull.jpg" ,HISTORY LAB  ITALIA
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/9080/brand.gif" ,HLN
+https://www.livenewswatch.com/hln.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1  tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVW-House-Channel_o.jpg" ,House of Representatives
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/hsn.png" ,HSN YT LIVE 1080p HD- TEMPORARY OFFLINE  (Retry iF Failed)-Wuffy_Player
@@ -594,6 +600,8 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" ,WEATHER CHANNEL
 http://ustv247.com/watch-weather-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" ,WEATHER CHANNEL
+https://www.livenewswatch.com/the-weather-channel.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/Weather-Channel-269x151.png"  ,Weather Channel (When Video Starts Double click for fullscreen)
 http://123tv.live/watch/the-weather-channel/|webview zoom=200 scroll=200,200
 #EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/WeatherNation-269x148.png"  ,WeatherNation TV (When Video Starts Double click for fullscreen)
