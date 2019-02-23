@@ -131,7 +131,9 @@ http://radio.7chan.org:8000/CH7
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1051.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/TCC.png" ,Church Channel (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1050.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" ,CNBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" ,CNBC [1]
+https://www.livenewswatch.com/cnbc.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" ,CNBC [2]
 http://ustv247.com/cnbc-live-stream-hd/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/cnbc.png" ,CNBC (Retry iF Failed)-Wuffy_Player
@@ -250,9 +252,11 @@ http://123tv.live/watch/fox-business/|webview zoom=200 scroll=200,200
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1058.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/fox-269x151.png"  ,FOX Network  (When Video Starts Double click for fullscreen)
 http://123tv.live/watch/fox-network/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://jlcauvin.com/wp-content/uploads/2014/04/fox-news-logo.png" ,FOX NEWS
+#EXTINF:-1 tvg-logo="http://jlcauvin.com/wp-content/uploads/2014/04/fox-news-logo.png" ,FOX NEWS [1]
 http://ustv247.com/fox-news-live-stream-hd/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 
+#EXTINF:-1 tvg-logo="http://jlcauvin.com/wp-content/uploads/2014/04/fox-news-logo.png" ,FOX NEWS [2]
+https://www.livenewswatch.com/fox-news.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1  tvg-logo="http://d31wsou9chh9ss.cloudfront.net/0/mobile/images/1409171234/3043/300/200/PlayerLogo.jpg" ,Fox News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
 #EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/fox-news-269x151.jpg"  ,FOX NEWS HD (When Video Starts Double click for fullscreen)
@@ -366,7 +370,9 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1086.m3u8$http-refferer
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/msg.jpg" ,MSG HD (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1034.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MSNBC_2015_logo.svg/2000px-MSNBC_2015_logo.svg.png" ,MSNBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MSNBC_2015_logo.svg/2000px-MSNBC_2015_logo.svg.png" ,MSNBC [1]
+https://www.livenewswatch.com/msnbc-news.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MSNBC_2015_logo.svg/2000px-MSNBC_2015_logo.svg.png" ,MSNBC [2]
 http://ustv247.com/msnbc-live-stream-hd/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 
 #EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg"  ,MSNBC  (When Video Starts Double click for fullscreen)
