@@ -6,13 +6,13 @@ http://..........
 https://www.freeview.co.uk/tv-guide|webepg zoom=100 scroll=0,200
 
 
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [1] (TEMPORARY OFFLINE)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [1] 
 http://185.53.163.214:5678/ipvt_006
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [2]
 https://easyview.eu/watch.php?stream=bbc-1|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1  (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1123.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg" ,BBC 2 [1] (TEMPORARY OFFLINE)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg" ,BBC 2 [1] 
 http://185.53.163.214:5678/ipvt_007
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg" ,BBC 2 [2]
 https://easyview.eu/watch.php?stream=bbc-two|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -24,7 +24,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1124.m3u8$http-refferer
 https://easyview.eu/watch.php?stream=bbc-four|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg" ,BBC 4 (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1254.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [1] (TEMPORARY OFFLINE)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [1] 
 http://185.53.163.214:5678/ipvt_009
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [2]
 https://easyview.eu/watch.php?stream=cbbc|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -44,35 +44,35 @@ https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|agentnodown$$start
 https://easyview.eu/watch.php?stream=bbc-parliament|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc-parliament.jpg" ,BBC Parliament (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1238.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc_news.jpg" ,BBC News [1] (TEMPORARY OFFLINE)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc_news.jpg" ,BBC News [1] 
 http://185.53.163.214:5678/ipvt_010
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc_news.jpg" ,BBC News [2]
 https://easyview.eu/watch.php?stream=bbc-news|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC alba [1]
 https://easyview.eu/watch.php?stream=bbc-alba|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC alba [2] (TEMPORARY OFFLINE)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC alba [2] 
 http://185.53.163.214:5678/ipvt_008
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC alba (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1239.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg" ,ITV 1 [1] (TEMPORARY OFFLINE)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg" ,ITV 1 [1] 
 http://185.53.163.214:5678/ipvt_001
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg" ,ITV 1 [2]
 https://easyview.eu/watch.php?stream=itv|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg" ,ITV 1 (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/5.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2 [1] (TEMPORARY OFFLINE)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2 [1] 
 http://185.53.163.214:5678/ipvt_002
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2 [2]
 https://easyview.eu/watch.php?stream=itv2|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2 (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/6.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV 3 [1] (TEMPORARY OFFLINE)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV 3 [1] 
 http://185.53.163.214:5678/ipvt_003
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV 3 [2]
 https://easyview.eu/watch.php?stream=itv3|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV 3  (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/7.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv4-400x284.jpg" ,ITV 4 [1] (TEMPORARY OFFLINE)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv4-400x284.jpg" ,ITV 4 [1] 
 http://185.53.163.214:5678/ipvt_004
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/itv4-400x284.jpg" ,ITV 4 [2]
 https://easyview.eu/watch.php?stream=itv4|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -80,7 +80,7 @@ https://easyview.eu/watch.php?stream=itv4|agentnodown$$start=hls.loadSource('htt
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/8.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg" ,CITV  
 https://easyview.eu/watch.php?stream=citv|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg" ,ITV Be. [1] (TEMPORARY OFFLINE)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg" ,ITV Be. [1] 
 http://185.53.163.214:5678/ipvt_005
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg" ,ITV Be. [2]
 https://easyview.eu/watch.php?stream=itvbe|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
