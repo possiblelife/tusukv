@@ -2,6 +2,9 @@
 #EXTINF:-1  tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" ,===USA TV===
 http://............
 
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" ,LATEST VERSION V1.09. UPDATE FROM GOOGLE PLAY (Click here).
+http://play.google.com/store/apps/details?id=com.usatvradio|updatelink
+
 #EXTINF:-1 tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG All channels
 https://www.ontvtonight.com/guide/|webepg zoom=100 scroll=0,200
 
