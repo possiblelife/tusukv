@@ -488,14 +488,24 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1062.m3u8$http-refferer
 http://123tv.live/watch/oxygen/|webview zoom=200 scroll=200,200
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20arizona.png" ,PAC-12 Arizona  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1024.m3u8$http-refferer=http://localhost
+#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20arizona.png" ,PAC-12 Arizona
+https://pac12hd2-lh.akamaihd.net/i/adhoc_ariz_ch_1@138572/master.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20bay%20area.png" ,PAC-12 Bay Area  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1025.m3u8$http-refferer=http://localhost
+#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20bay%20area.png" ,PAC-12 Bay Area 
+https://p12b.pac-12.com/index.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20los%20angeles.png" ,PAC-12 Los Angeles  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1026.m3u8$http-refferer=http://localhost
+#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20los%20angeles.png" ,PAC-12 Los Angeles
+https://p12l.pac-12.com/index.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20oregan.png" ,PAC-12 Oregon  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1027.m3u8$http-refferer=http://localhost
+#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20oregan.png" ,PAC-12 Oregon 
+https://pac12hd2-lh.akamaihd.net/i/adhoc_ore_ch_1@138581/master.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20washington.png" ,PAC-12 Washington  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1028.m3u8$http-refferer=http://localhost
+#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20washington.png" ,PAC-12 Washington  
+https://pac12hd2-lh.akamaihd.net/i/adhoc_wash_ch_1@138599/master.m3u8
 #EXTINF:-1 ,PAG HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1093.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/pbs.png" ,PBS [1]
