@@ -16,8 +16,8 @@ http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlis
 http://ustv247.com/ae-channel-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/AE.png" ,A&E [2]
 http://ustvgo.net/ae-networks-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/ae-269x151.png"  ,A&E [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/ae/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E [3]
+http://e1.123tv-uk.host/live/ae/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/aande.png" ,A&E HD [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1015.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="http://logonoid.com/images/abc-news-logo.png" ,ABC NEWS [1]
@@ -28,20 +28,22 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/993.m3u8$http-refferer=
 http://ustvgo.net/abc-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/WLNE-TV_2011_Logo.png" ,ABC [2]
 http://ustv247.com/abc-live-stream-usa-free/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/abc-269x151.jpg"  ,ABC [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/abc/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC [3]
+http://espn.tmedia.me/cache/abc432.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/abc.png" ,ABC HD [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/992.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/adultswim-269x151.png"  ,Adult Swim  (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/adult-swim/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/adultswim-269x151.png" ,Adult Swim 
+https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer6.m3u8
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/18-ahc-1432375751.jpg" ,AHC (American Heroes Channel) 
+http://e1.123tv-uk.host/live/ahc/chunks.m3u8|Referer=http://123tvgo.com/watch/ahc-american-heroes-channel/
 #EXTINF:-1 ,Al Jazeera English
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156" ,AMC [1]
 http://ustv247.com/amc-live-stream-free/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/AMC-1.png" ,AMC [2]
 http://ustvgo.net/amc-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/amc-269x151.png"  ,AMC [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/amc/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [3]
+http://e1.123tv-uk.host/live/amc/chunks.m3u8|Referer=http://123tvgo.com/watch/amc/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/amc.png" ,AMC HD [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/968.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/419141811785854978/kYXvz2bh_400x400.jpeg" ,Arirang
@@ -60,18 +62,16 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:0 ,Beto TV (Lifestyle)
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bet-269x151.png"  ,Bet (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/bet/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bet-269x151.png" ,Bet
+http://espn.tmedia.me/cache/bet.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Big_Ten_Network.svg/800px-Big_Ten_Network.svg.png" ,BIG TEN NETWORK
 http://ustv247.com/big-ten-network-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 
 #EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bloomberg-269x151.jpg"  ,Bloomberg [1]
 https://www.livenewswatch.com/bloomberg.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bloomberg-269x151.jpg"  ,Bloomberg [2](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/bloomberg-usa/|webview zoom=200 scroll=200,200
-#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/bloombergtv.jpg" ,Bloomberg Europe [3](Retry iF Failed)-Wuffy_Player
+#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/bloombergtv.jpg" ,Bloomberg Europe [2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1074.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/bloombergtv.jpg" ,Bloomberg TV [4](Retry iF Failed)-Wuffy_Player
+#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/bloombergtv.jpg" ,Bloomberg TV [3](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1054.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://playbackonline.ca/wp/wp-content/uploads/2010/10/BNN-logo.jpg" ,BNN  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1073.m3u8$http-refferer=http://localhost
@@ -81,8 +81,8 @@ http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 http://ustv247.com/bravo-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/bravo-269x151.png" ,Bravo Channel [2]
 http://ustvgo.net/bravo-channel-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bravo-269x151.png"  ,Bravo [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/bravo/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bravo-269x151.png" ,Bravo [3]
+http://e1.123tv-uk.host/live/bravo/chunks.m3u8|Referer=http://123tvgo.com/watch/bravo/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/bravo.png" ,BRAVO HD [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/994.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://phonebookoftheworld.com/usa/newyork/city/seal-of-buffalo.jpg" ,Buffalo Gov't TV
@@ -103,29 +103,25 @@ http://123tvgo.com/watch/c-span3-american-history-tv/|webview zoom=200 scroll=20
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1080.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg" ,California Music Channel [1]
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/CMC-269x151.jpg"  ,California Music Channel - CMC [2](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/california-music-channel-cmc-tv/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/CMC-269x151.jpg" ,California Music Channel - CMC [2]
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/City_of_Montgomery_Great_Seal.png" ,Capital City Connection
 http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/capitaltv.png" ,CAPITAL TV  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1052.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png"  ,CBN News  (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/cbn-news/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/cbs-269x151.png"  ,CBS [1](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/cbs/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" ,CBN News 
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS [1]
+http://e1.123tv-uk.host/live/cbs/chunks.m3u8|Referer=http://123tvgo.com/watch/cbs/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/cbs.png" ,CBS [2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/995.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://tribwttv.files.wordpress.com/2017/03/cropped-cbs4512.png" ,CBS 4 News (Indianapolis)
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
-
 #EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png" ,CBS NEWS HD [1]
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbsn-269x151.jpg"  ,CBS News [2](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/cbs-news-cbsn/|webview zoom=200 scroll=200,200
-
-#EXTINF:-1  tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU3NDI0MTUwNjA3MDQ2MzEw/cbsn-logo.png" ,CBSN [1]
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/cbsnews.jpg" ,CBSN HD [2](Retry iF Failed)-Wuffy_Player
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbsn-269x151.jpg" ,CBS News (CBSN) [2]
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
+#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/cbsnews.jpg" ,CBSN HD [3](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/971.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://cgtv.la/wp-content/uploads/2015/01/cgtv-logo-300x137.png" ,CGTV
 http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
@@ -137,6 +133,8 @@ http://radio.7chan.org:8000/CH7
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1051.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/TCC.png" ,Church Channel  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1050.m3u8$http-refferer=http://localhost
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmtcanada.png" ,CMT (Country Music Television)
+http://espn.tmedia.me/cache/cmt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" ,CNBC [1]
 https://www.livenewswatch.com/cnbc.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" ,CNBC [2]
@@ -153,8 +151,8 @@ http://218.202.220.2:5000/nn_live.ts?id=CNN
 http://ustv247.com/cnn-news-live-stream-usa/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/CNN-1.png" ,CNN [4]
 http://ustvgo.net/cnn-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cnn-269x151.jpg"  ,CNN [5](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/cnn/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cnn-269x151.jpg" ,CNN [5]
+http://e1.123tv-uk.host/live/cnn/chunks.m3u8|Referer=http://123tvgo.com/watch/cnn/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/cnn.png" ,CNN HD [6](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/9.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/cnn.png" ,CNN US HD [7](Retry iF Failed)-Wuffy_Player
@@ -163,8 +161,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1039.m3u8$http-refferer
 http://ustvgo.net/comedy-central-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Comedylogo.png/200px-Comedylogo.png" ,COMEDY Central [2]
 http://ustv247.com/the-comedy-channel-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/comedy-central-269x151.png"  ,Comedy Central [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/comedy-central/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/comedy-central-269x151.png" ,Comedy Central [3]
+http://espn.tmedia.me/cache/cc.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/comedycentral.png" ,COMEDY CENTRAL HD [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/996.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://20549-presscdn.pagely.netdna-cdn.com/wp-content/uploads/cpac_social_seo_logo_bil_1200x630.jpg" ,CPAC
@@ -181,8 +179,8 @@ http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
 http://ustv247.com/cw/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/cw-269x151.png" ,CW [2]
 http://ustvgo.net/the-cw-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cw-269x151.png"  ,CW [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/the-cw/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cw-269x151.png" ,CW [3]
+http://e1.123tv-uk.host/live/cw/chunks.m3u8|Referer=http://123tvgo.com/watch/the-cw/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/cw.png" ,CW HD [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/997.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://cbscw11.files.wordpress.com/2012/10/cw11.jpg" ,CW11  (Retry iF Failed)-Wuffy_Player
@@ -191,11 +189,15 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1069.m3u8$http-refferer
 http://ustv247.com/discovery-channel-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Discovery.png" ,Discovery Channel [2]
 http://ustvgo.net/discovery-channel-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoverychannelhd%20(1).png" ,DISCOVERY HD [3]
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Discovery-269x151.png" ,Discovery Channel [3]
+http://e1.123tv-uk.host/live/discovery/chunks.m3u8|Referer=http://123tvgo.com/watch/discovery-channel/
+#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoverychannelhd%20(1).png" ,DISCOVERY HD [4]
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/973.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://oct.dc.gov/sites/default/files/styles/medium/public/dc/sites/office%20of%20cable%20television/page_content/images/DCN.gif" ,District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/diynetwork.png" ,DIY Network  (Retry iF Failed)-Wuffy_Player
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/99/66/01/996601033581f5bb038b37a327a54b2b.jpg" ,DIY Network [1]
+http://e4.123tv-uk.host/live/diy/chunks.m3u8|Referer=http://123tvgo.com/watch/disney-channel/
+#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/diynetwork.png" ,DIY Network [2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1107.m3u8$http-refferer=http://localhost
 #EXTINF:0  tvg-logo="http://www.tvtuga.com/wp-content/uploads/2014/12/djing-200x141.jpg" ,DjinG
 https://www.djing.com/tv/d-28081-04.m3u8
@@ -211,30 +213,32 @@ http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/974.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://dcps.dc.gov/sites/default/files/styles/medium/public/dc/sites/dcps/service_content/images/district-knowledge-network-.jpg" ,District Knowledge Network
 http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/e-267x151.png"  ,E!  (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/e-network/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/espn-269x151.png"  ,ESPN  [1](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/espn/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/e-267x151.png" ,E! 
+http://e3.123tv-uk.host/live/enw/chunks.m3u8|Referer=http://123tvgo.com/watch/e-network/
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [1]
+http://espn.tmedia.me/cache/espn1_540.m3u8
 #EXTINF:-1   tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn.png" ,ESPN [2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1017.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn.png" ,ESPN HD [3](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/998.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://refb.org/wp-content/uploads/2018/09/ESPN-Logo.png" ,ESPN2
 http://ustv247.com/espn2-live/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/espnews-269x151.png"  ,ESPN News [1](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/espn-news/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News [1]
+http://espn.tmedia.me/cache/espnews.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espnnews.png" ,ESPN News US HD [2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1038.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/espnu-269x151.png"  ,ESPN U [1](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/espn-u-espnu/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/espnu-269x151.png" ,ESPN U [1]
+http://espn.tmedia.me/cache/espnu.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn.png" ,ESPN U HD [2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1037.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/espn2-269x151.png"  ,ESPN2 [1](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/espn2/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [1]
+http://espn.tmedia.me/cache/espn2_540.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn2.png" ,ESPN 2 [2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1082.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/ftv-269x151.png"  ,Fashion TV (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fashiontv-global/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/ftv-269x151.png" ,Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",FASHION TV MIDNIGHT SECRETS
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FashionOneLogo.jpg/200px-FashionOneLogo.jpg" ,FASHION ONE HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1067.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/fightnetwork.jpg" ,Fight HD  (Retry iF Failed)-Wuffy_Player
@@ -243,18 +247,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/975.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1066.m3u8$http-refferer=http://localhost
 #EXTINF:-1 ,FIX TV HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1049.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox13-269x151.png"  ,FOX 13 Tampa Bay (WTVT) (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fox-13-tampa-bay-wtvt/|webview zoom=200 scroll=200,200
 #EXTINF:-1 tvg-logo="https://i0.wp.com/getorganizedbk.org/wp-content/uploads/2017/03/fox5ny300px.png?zoom=2.625&resize=300%2C300&ssl=1" ,FOX 5
 http://ustv247.com/fox-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox5dc-269x151.png"  ,FOX 5 DC (WTTG) (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fox-5-dc-wttg/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox5-269x151.png"  ,FOX 5 New York (WNYW)  (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fox-5-new-york-wnyw/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox8-269x151.png"  ,FOX 8 New Orleans (WVUE)  (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fox-8-new-orleans-wvue/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox9-269x151.png"  ,FOX 9 Minneapolis (KMSP) (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fox-9-minneapolis-kmsp/|webview zoom=200 scroll=200,200
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/WPMT_43_logo.png" ,FOX 43  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1083.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" ,FOX BUSINESS [1]
@@ -263,14 +257,14 @@ http://ustv247.com/fox-business-live-stream-hd/|agentnodown$$start=source: 'http
 http://ustvgo.net/fox-business-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" ,FOX BUSINESS [3]
 https://www.livenewswatch.com/fox-business.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fbn-269x151.jpg"  ,FOX Business [4](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fox-business/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fbn-269x151.jpg" ,FOX Business [4]
+http://e8.123tv-uk.host/live/fbn/chunks.m3u8|Referer=http://123tvgo.com/watch/fox-business/
 #EXTINF:-1  tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" ,Fox Deportes HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1058.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/FOX-1.png" ,FOX HD
 http://ustvgo.net/fox-hd-live-streaming/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-269x151.png"  ,FOX Network  (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fox-network/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-269x151.png" ,FOX Network 
+http://e6.123tv-uk.host/live/foxnw/chunks.m3u8|Referer=http://123tvgo.com/watch/fox-network/
 #EXTINF:-1 tvg-logo="http://jlcauvin.com/wp-content/uploads/2014/04/fox-news-logo.png" ,FOX NEWS [1]
 http://ustv247.com/fox-news-live-stream-hd/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/foxnews.jpg" ,Fox News [2]
@@ -279,50 +273,48 @@ http://ustvgo.net/fox-news-live-streaming-free/|agentnodown$$start=file: 'http$$
 https://www.livenewswatch.com/fox-news.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1  tvg-logo="http://d31wsou9chh9ss.cloudfront.net/0/mobile/images/1409171234/3043/300/200/PlayerLogo.jpg" ,Fox News Radio [4]
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg"  ,FOX NEWS HD [5](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fox-news-hd/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg" ,FOX NEWS HD [5]
+http://f1.123tv.host/live/666f786e657773/chunks.m3u8|Referer=http://123tvgo.com/watch/fox-news-hd/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/foxnews.png" ,FOX NEWS HD [6](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/999.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg"  ,FOX NEWS LD [7](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fox-news-ld/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg"  ,FOX NEWS SD [8](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fox-news-sd/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg"  ,FOX NEWS Talk - FOX NEWS Radio [9](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fox-news-talk-fox-news-radio/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg" ,FOX NEWS LD [7]
+https://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/index_300000_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg" ,FOX NEWS SD [8]
+http://e5.123tv-uk.host/live/fnsd/chunks.m3u8|Referer=http://123tvgo.com/watch/fox-news-sd/
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg" ,FOX NEWS Talk - FOX NEWS Radio
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/foxsoccerplus.png" ,Fox Soccer Plus HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1057.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2000px-FOX_Sports_logo.svg.png" ,FOX SPORTS WEST
 http://ustv247.com/fox-sports-west-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" ,FOX Sports 1 [1]
 http://ustv247.com/fox-sports-1-live/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fs1-269x151.png"  ,FOX Sports 1 [2](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fox-sports-1-fs1/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fs1-269x151.png" ,FOX Sports 1 [2]
+http://e4.123tv-uk.host/live/fs1/chunks.m3u8|Referer=http://123tvgo.com/watch/fox-sports-1-fs1/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2000px-FS2_logo_2015.svg.png" ,FOX Sports 2 [1]
 http://ustv247.com/fox-sports-2-live/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fs2-269x151.png"  ,FOX Sports 2 [2](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fox-sports-2-fs2/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fs2-269x151.png" ,FOX Sports 2 [2]
+http://e4.123tv-uk.host/live/fs2/chunks.m3u8|Referer=http://123tvgo.com/watch/fox-sports-2-fs2/
 #EXTINF:-1  tvg-logo="http://www.france24.com/bundles/aefhermesf24/img/france-24-logo.png?version=20180301121500" ,FRANCE 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" ,Free Speech TV [1]
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/free-speech-269x151.png"  ,Free Speech TV [2](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/free-speech-tv/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/free-speech-269x151.png" ,Free Speech TV [2]
+https://edge.free-speech-tv-live.top.comcast.net/out/u/39569_5.m3u8
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/freeform-269x151.png" ,Freeform Channel [1]
 http://ustvgo.net/freeform-channel-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://ustv247.com/wp-content/uploads/2019/01/freeform-269x151.png" ,Freeform Channel [2]
 http://ustv247.com/freeform-live/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/freeform-269x151.png"  ,Freeform (ABC Family) [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/freeform-abc-family/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/FTV-Midnight-Secrets-269x151.png"  ,FTV Midnight Secrets  (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/ftv-midnight-secrets/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/freeform-269x151.png" ,Freeform (ABC Family) [3]
+http://e9.123tv-uk.host/live/frfrm/chunks.m3u8|Referer=http://123tvgo.com/watch/freeform-abc-family/
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/07/Fuel_HD.jpg" ,FUEL HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1065.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FX_Italia_logo.svg/1200px-FX_Italia_logo.svg.png" ,FX [1]
 http://ustv247.com/fx-live/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/fx-269x151.png" ,FX Channel [2]
 http://ustvgo.net/fx-channel-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fx-269x151.png"  ,FX [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/fx-live/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fx-269x151.png" ,FX Live [3] 
+http://e8.123tv-uk.host/live/fx/chunks.m3u8|Referer=http://123tvgo.com/watch/fx-live/
 #EXTINF:-1 tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/fx.png" ,FX HD [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1110.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/fxx.png" ,FXX  (Retry iF Failed)-Wuffy_Player
@@ -333,14 +325,12 @@ http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
 http://ustv247.com/golf-channel-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/golf-269x151.png" ,Golf Channel [2]
 http://ustvgo.net/golf-channel-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/golf-269x151.png"  ,Golf Channel [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/golf-channel/|webview zoom=200 scroll=200,200
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/HGTV_new_logo.png" ,HGTV [1]
 http://ustv247.com/hgtv-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/HGTV-269x151.png" ,HGTV [2]
 http://ustvgo.net/hgtv-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/HGTV-269x151.png"  ,HGTV [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/hgtv/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/HGTV-269x151.png" ,HGTV [3]
+http://e2.123tv-uk.host/live/hgtv/chunks.m3u8|Referer=http://123tvgo.com/watch/hgtv/
 #EXTINF:-1 tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/hgtv.png" ,HGTV HD [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1064.m3u8$http-refferer=http://localhost
 #EXTINF:-1 ,HIFI  (Retry iF Failed)-Wuffy_Player
@@ -349,8 +339,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1113.m3u8$http-refferer
 http://ustv247.com/history-channel-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add=   
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/History.png" ,History Channel [2]
 http://ustvgo.net/history-channel-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/history-channel/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [3]
+http://e7.123tv-uk.host/live/history/chunks.m3u8|Referer=http://123tvgo.com/watch/history-channel/
 #EXTINF:-1 tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/historyhd.png" ,HISTORY CHANNEL [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1000.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://fondazione.museostorico.it/var/plain_site/storage/images/progetti/principali-ambiti-tematici-di-ricerca/history-lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria/63732-1-ita-IT/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria_galleryfull.jpg" ,HISTORY LAB  ITALIA
@@ -363,8 +353,8 @@ http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1053.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg" ,InfoWars [1]
 http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/InfoWars-269x151.png"  ,InfoWars [2](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/infowars/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/InfoWars-269x151.png" ,InfoWars [2]
+https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/index_800_av-p.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/ion.png" ,ION Television East HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1036.m3u8$http-refferer=http://localhost
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/JUCE_TV_logo.png" ,Juce tv (Family)
@@ -379,12 +369,14 @@ http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 http://ustvgo.net/lifetime-channel-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://ustv247.com/wp-content/uploads/2019/01/Lifetime-269x151.png" ,Lifetime [2]
 http://ustv247.com/lifetime-live/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Lifetime-269x151.png"  ,Lifetime [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/lifetime-tv/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Lifetime-269x151.png" ,Lifetime [3]
+http://e7.123tv-uk.host/live/lifetime/chunks.m3u8|Referer=http://123tvgo.com/watch/lifetime-tv/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/lifetimemovies.png" ,Lifetime Movie Network HD [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1035.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/espnlhn-269x151.png"  ,Longhorn Network (ESPNLHN) (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/longhorn-network-espnlhn/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/12/logo-tv-grid-logo-1.jpg?w=300&h=200&crop=1" ,Logo TV
+http://espn.tmedia.me/cache/logotv.m3u8
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/espnlhn-269x151.png" ,Longhorn Network (ESPNLHN)
+http://espn.tmedia.me/cache/lghn.m3u8
 #EXTINF:-1 ,MBL HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1085.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://www.mellotv.com/uc/Mello%20icon.png" ,Mello TV  (Retry iF Failed)-Wuffy_Player
@@ -405,20 +397,20 @@ https://www.livenewswatch.com/msnbc-news.html|agentnodown$$start=file: "https$$e
 http://ustv247.com/msnbc-live-stream-hd/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/msnbc_logo-269x151.jpg" ,MSNBC [3]
 http://ustvgo.net/msnbc-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg"  ,MSNBC [4] (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/msnbc/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" ,MSNBC [4]
+http://e3.123tv-uk.host/live/msnbc/chunks.m3u8|Referer=http://123tvgo.com/watch/msnbc/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/msnbc.png" ,MSNBC HD [5](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1087.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/mtv-269x151.png"  ,MTV  (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/mtv/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/mtv-269x151.png" ,MTV 
+http://espn.tmedia.me/cache/mtv.m3u8
 #EXTINF:-1  tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" ,Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/my9(1).jpg" ,MY9 TV  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1047.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nasatv-269x151.jpg"  ,NASA TV (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/nasa-tv/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nbatv-269x151.jpg"  ,NBA TV [1](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/nba-tv/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" ,NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA TV [1]
+http://e9.123tv-uk.host/live/nbatv/chunks.m3u8|Referer=http://123tvgo.com/watch/nba-tv/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/nba.png" ,NBA SD [2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/982.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/nba.png" ,NBA TV HD [3](Retry iF Failed)-Wuffy_Player
@@ -437,14 +429,14 @@ http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
 http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/nbcgolf(1).jpg" ,NBC Golf  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1002.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nbc-269x151.png"  ,NBC News (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/nbc/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nbc-269x151.png" ,NBC News
+http://e1.123tv-uk.host/live/nbc/chunks.m3u8|Referer=http://123tvgo.com/watch/nbc/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/2000px-NBC_Sports_2012.svg.png" ,NBC SPORTS NETWORK [1]
 http://ustv247.com/nbc-sports-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/nbcsn-269x151.jpg" ,NBC Sports [2]
 http://ustvgo.net/nbc-sports-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg"  ,NBC SPORTS Network (NBCSN) [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/nbc-sport-network-nbcsn/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN) [3]
+http://e7.123tv-uk.host/live/nbcsn/chunks.m3u8|Referer=http://123tvgo.com/watch/nbc-sport-network-nbcsn/
 #EXTINF:-1   tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/nbcsn.jpg" ,NBCSN HD [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/10.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" ,News 12 (Long Island)
@@ -459,24 +451,26 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
 http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" ,NEWSMAXTV (US) [1]
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Newsmax-259x151.jpg"  ,Newsmax TV [2](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/newsmax-tv/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Newsmax-259x151.jpg" ,Newsmax TV [2]
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-V_P5kDWxm20/AAAAAAAAAAI/AAAAAAAACFQ/pOgMC6p5ruY/s0-c-k-no-ns/photo.jpg" ,NFL NETWORK [1]
 http://ustv247.com/nfl-network-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/nfln-logo-dark.png" ,NFL Network [2]
 http://ustvgo.net/nfl-network-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nfl-269x151.png"  ,NFL Network [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/nfl-network/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nfl-269x151.png" ,NFL Network [3]
+http://e9.123tv-uk.host/live/nfltv/chunks.m3u8|Referer=http://123tvgo.com/watch/nfl-network/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/nflsundayticket.jpg" ,NFL Network [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/967.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/nflsundayticket.jpg" ,NFL Network HD [5](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1023.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nfl-now-269x151.png"  ,NFL Now (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/nfl-now/|webview zoom=200 scroll=200,200
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Nfl-redzone.png" ,NFL REDZONE SD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/966.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://img7.androidappsapk.co/300/7/3/7/jp.or.nhk.nhkworld.tv.png" ,NHK WORLD HD
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1069587614985056256/d4Kl2nIv_400x400.jpg" ,NHL Network
+http://e6.123tv-uk.host/live/nhltv/chunks.m3u8|Referer=http://123tvgo.com/watch/nhl-network/
+#EXTINF:-1 tvg-logo="http://www.kidvertisers.com/images/biglogo_nickelodeon.gif" ,Nickelodeon
+http://e9.123tv-uk.host/live/nick2/chunks.m3u8|Referer=http://123tvgo.com/watch/nickelodeon/
 #EXTINF:-1 ,Nursery Rhymes (Baby Songs)  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1046.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="http://ustv247.com/wp-content/uploads/2019/03/OANN.jpg" ,One America News
@@ -485,8 +479,8 @@ http://ustv247.com/one-america-news-network/|agentnodown$$start=source: 'http://
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
 #EXTINF:-1  tvg-logo="http://imagesredirect.theoutdoorwire.com/image_archive/2005242.jpg" ,OUTDOOR CHANNEL HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1062.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Oxygen-269x151.png"  ,Oxygen (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/oxygen/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Oxygen-269x151.png" ,Oxygen
+http://e3.123tv-uk.host/live/oxygen/chunks.m3u8|Referer=http://123tvgo.com/watch/oxygen/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20arizona.png" ,PAC-12 Arizona  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1024.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20arizona.png" ,PAC-12 Arizona
@@ -539,34 +533,34 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/986.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1061.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://www2.selu.edu/thesoutheasternchannel/schedule/images/sectv.jpg" ,Southeastern Channel
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/spike-269x151.png"  ,Spike Paramount Network (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/paramount-network-spike/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/spike-269x151.png" ,Spike Paramount Network
+http://espn.tmedia.me/cache/spikeus.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/spike.png" ,SPIKE HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1116.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/rt-usa-269x151.png"  ,RT USA  (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/rt-usa/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Showtime-269x151.png"  ,Showtime  (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/showtime/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/rt-usa-269x151.png" ,RT USA 
+https://secure-streams.akamaized.net/rt/index.m3u8
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Showtime-269x151.png" ,Showtime 
+http://e5.123tv-uk.host/live/showtime/chunks.m3u8|Referer=http://123tvgo.com/watch/showtime/
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/StarZ-269x151.png" ,Starz Channel [1]
 http://ustvgo.net/starz-channel-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://ustv247.com/wp-content/uploads/2019/01/StarZ-269x151.png" ,Starz [2]
 http://ustv247.com/starz-channel-live/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/StarZ-269x151.png"  ,Starz [2](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/starz/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/StarZ-269x151.png" ,Starz [3]
+http://e1.123tv-uk.host/live/starz/chunks.m3u8|Referer=http://123tvgo.com/watch/starz/
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Syfy-logo-880x660.png" ,SYFY [1]
 http://ustv247.com/syfy-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/syfy-269x151.png" ,Syfy [2]
 http://ustvgo.net/syfy-channel-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/syfy-269x151.png"  ,Syfy [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/syfy/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/syfy-269x151.png" ,Syfy [3]
+http://e9.123tv-uk.host/live/syfy/chunks.m3u8|Referer=http://123tvgo.com/watch/syfy/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/syfy.png" ,SYFY HD [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1004.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/tbs-logo.png" ,TBS [1]
 http://ustv247.com/tbs-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/tbs-269x151.png" ,TBS Channel [2]
 http://ustvgo.net/tbs-channel-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/tbs-269x151.png"  ,TBS [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/tbs/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/tbs-269x151.png" ,TBS [3]
+http://e1.123tv-uk.host/live/tbs/chunks.m3u8|Referer=http://123tvgo.com/watch/tbs/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/tbs.png" ,TBS HD [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1095.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png" ,TCM
@@ -585,8 +579,8 @@ http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
 #EXTINF:-1  tvg-logo="https://a2.allaccess.com/assets/img/content/socialmediology-101/2011/sm-08-16-pic1.jpg" ,The Country Network [1]
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Country-Network-269x151.png"  ,The Country Network [2](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/the-country-network/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Country-Network-269x151.png" ,The Country Network [2]
+http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1283125776/TFClogoforTwitter_400x400.jpg" ,THE FLORIDA CHANNEL  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1044.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg" ,The Shopping Channel
@@ -595,20 +589,20 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 http://ustvgo.net/tlc-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://ustv247.com/wp-content/uploads/2019/01/tlc-269x151.png" ,TLC [2]
 http://ustv247.com/tlc-channel-live/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/tlc-269x151.png"  ,TLC [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/tlc/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/tnt-269x151.png"  ,TNT [1](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/tnt/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC [3]
+http://e8.123tv-uk.host/live/tlc/chunks.m3u8|Referer=http://123tvgo.com/watch/tlc/
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT [1]
+http://e7.123tv-uk.host/live/tnt/chunks.m3u8|Referer=http://123tvgo.com/watch/tnt/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/tnt.png" ,TNT HD [2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1005.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Travel-269x151.png" ,Travel Channel [1]
 http://ustvgo.net/travel-channel-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://ustv247.com/wp-content/uploads/2019/01/Travel-269x151.png" ,Travel Channel [2]
 http://ustv247.com/travel-channel-live/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Travel-269x151.png"  ,Travel Channel [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/travel-channel/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/TruTV-269x151.png"  ,TruTV  (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/trutv/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Travel-269x151.png" ,Travel Channel [3]
+http://e8.123tv-uk.host/live/travel/chunks.m3u8|Referer=http://123tvgo.com/watch/travel-channel/
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/TruTV-269x151.png" ,TruTV 
+http://e9.123tv-uk.host/live/trutv/chunks.m3u8|Referer=http://123tvgo.com/watch/trutv/
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Current_logo_for_TUFF_TV.png" ,Tuff TV
 http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVW-Air-Channel_o.jpg" ,TVW
@@ -619,14 +613,14 @@ http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
 http://ustvgo.net/tv-land-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://ustv247.com/wp-content/uploads/2019/01/TVLand-269x151.png" ,TV Land [2]
 http://ustv247.com/tv-land-live/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/TVLand-269x151.png"  ,TV Land [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/tvland/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/TVLand-269x151.png" ,TV Land [3]
+http://espn.tmedia.me/cache/tvland.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2000px-USA-Network-Logo.svg.png" ,USA NETWORK [1]
 http://ustv247.com/usa-network-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/USA-Network-269x151.png" ,USA Network [2]
 http://ustvgo.net/usa-network-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/USA-Network-269x151.png"  ,USA Network [3](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/usa-network/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/USA-Network-269x151.png" ,USA Network [3]
+http://e7.123tv-uk.host/live/usa/chunks.m3u8|Referer=http://123tvgo.com/watch/usa-network/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/usanetwork.jpg" ,USA Network HD [4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1118.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022011/versus_logo_1.png" ,Versus HD  (Retry iF Failed)-Wuffy_Player
@@ -635,12 +629,12 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1031.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1060.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/V/vh1-music-first-classic-logo-90C25C650E-seeklogo.com.png" ,VH1 Classic [2]
 http://37.192.100.141:81/udp/239.1.8.7:1234
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/vh1-269x151.png"  ,VH1 (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/vh1/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/vh1-269x151.png" ,VH1 
+http://espn.tmedia.me/cache/vh1.m3u8
 #EXTINF:-1  tvg-logo="https://www.bbgdirect.com/Content/images/VOA-logo.png" ,VoA [1]
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/VOA-269x151.png"  ,Voice of America (VOA) [2](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/voice-of-america-voa/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/VOA-269x151.png" ,Voice of America (VOA) [2]
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" ,WBZ 4 News (Boston)
 http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" ,WCCB News (Charlotte)
@@ -655,10 +649,10 @@ http://ustv247.com/watch-weather-channel-live-stream/|agentnodown$$start=source:
 http://ustvgo.net/the-weather-channel-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" ,WEATHER CHANNEL [4]
 https://www.livenewswatch.com/the-weather-channel.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Weather-Channel-269x151.png"  ,Weather Channel [5](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/the-weather-channel/|webview zoom=200 scroll=200,200
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/WeatherNation-269x148.png"  ,WeatherNation TV [1](When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/weathernation-tv/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Weather-Channel-269x151.png" ,Weather Channel [5]
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/WeatherNation-269x148.png" ,WeatherNation TV [1]
+http://klive.kaltura.com/dc-1/m/ny-live-publish109/live/legacy/p/931702/e/1_oorxcge2/sd/10000/t/BfzLUJ_m8tBbdNeSqAPsRg/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" ,WEATHERNATION [2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1043.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://www.ebosscanada.com/wp-content/uploads/2016/10/The-Weather-Network_01.jpg" ,Weather Network
@@ -675,12 +669,9 @@ http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Sports/wwe.jpg" ,WWE HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1032.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/wwe-269x151.png"  ,WWE NETWORK (When Video Starts Double click for fullscreen)
-http://123tvgo.com/watch/wwe-network/|webview zoom=200 scroll=200,200
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK
+http://e8.123tv-uk.host/live/wwe/chunks.m3u8|Referer=http://123tvgo.com/watch/wwe-network/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/yesnetwork.jpg" ,Yes Network  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1041.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1007733108848746497/dYaGH1_G_400x400.jpg" ,YTV  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1040.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC 
-http://e1.123tv-uk.host/live/amc/chunks.m3u8|Referer=http://123tvgo.com/watch/amc/
-
