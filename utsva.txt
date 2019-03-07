@@ -681,5 +681,6 @@ http://123tvgo.com/watch/wwe-network/|webview zoom=200 scroll=200,200
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1041.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1007733108848746497/dYaGH1_G_400x400.jpg" ,YTV  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1040.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC 
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC 
 http://e1.123tv-uk.host/live/amc/chunks.m3u8|Referer=http://123tvgo.com/watch/amc/
+
