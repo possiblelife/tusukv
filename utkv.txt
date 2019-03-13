@@ -8,6 +8,9 @@ http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
 #EXTINF:-1 tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" , EPG All channels
 https://www.freeview.co.uk/tv-guide|webepg zoom=100 scroll=0,200
 
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [test]
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?protocol=hls
+
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [1]
 http://77.226.204.228:25461/live/test/test/1.m3u8
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [2] [TEMPORARY OFFLINE]
