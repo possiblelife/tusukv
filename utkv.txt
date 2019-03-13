@@ -91,6 +91,8 @@ https://easyview.eu/watch.php?stream=itvbe|agentnodown$$start=hls.loadSource('ht
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1150.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://www.tvwise.co.uk/wp-content/uploads/2014/11/ITV-Encore-300x165.jpg" ,ITV encore (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1227.m3u8$http-refferer=http://localhost
+#EXTINF:-1 tvg-logo="https://www.nijobs.com/Logos/UTV-6700.gif" ,UTV
+http://185.53.163.214:5678/ipvt_012
 #EXTINF:-1  tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png" ,Channel 4  [TEMPORARY OFFLINE - SERVER MAINTENACE]
 https://easyview.eu/watch.php?stream=channel4|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png" ,Channel 4  (Retry if failed)-Long Buffer-Wuffy_Player
