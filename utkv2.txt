@@ -9,20 +9,21 @@ http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
 https://www.freeview.co.uk/tv-guide|webepg zoom=100 scroll=0,200
 
 
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [1]
-http://77.226.204.228:25461/live/test/test/1.m3u8
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [2] (USE External Player Please)
+
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [1] (USE External Player Please)
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?protocol=hls
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [2]
+http://77.226.204.228:25461/live/test/test/1.m3u8
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [3] [TEMPORARY OFFLINE]
 http://185.53.163.214:5678/ipvt_006
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [4] [TEMPORARY OFFLINE - SERVER MAINTENACE]
 https://easyview.eu/watch.php?stream=bbc-1|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [5] (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1123.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg" ,BBC 2 [1]
-http://77.226.204.228:25461/live/test/test/2.m3u8
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg" ,BBC 2 [2] (USE External Player Please)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg" ,BBC 2 [1] (USE External Player Please)
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/25?protocol=hls
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg" ,BBC 2 [2]
+http://77.226.204.228:25461/live/test/test/2.m3u8
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg" ,BBC 2 [3] [TEMPORARY OFFLINE]
 http://185.53.163.214:5678/ipvt_007
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg" ,BBC 2 [4] [TEMPORARY OFFLINE - SERVER MAINTENACE]
@@ -82,9 +83,9 @@ http://185.53.163.214:5678/ipvt_008
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC alba (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1239.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg" ,ITV 1 [1] 
-http://77.226.204.228:25461/live/test/test/3.m3u8
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg" ,ITV 1 [2] 
 http://185.53.163.214:5678/ipvt_001
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg" ,ITV 1 [2] 
+http://77.226.204.228:25461/live/test/test/3.m3u8
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg" ,ITV 1 [3]  (USE External Player Please)
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?protocol=hls
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg" ,ITV 1 [4] [TEMPORARY OFFLINE - SERVER MAINTENACE]
@@ -93,10 +94,10 @@ https://easyview.eu/watch.php?stream=itv|agentnodown$$start=hls.loadSource('http
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/5.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://static.filmon.com/assets/channels/1817/extra_big_logo.png" ,ITV 1+1 (USE External Player Please)
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1817?protocol=hls
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2 [1]
-http://77.226.204.228:25461/live/test/test/4.m3u8
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2 [2] (USE External Player Please)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2 [1] (USE External Player Please)
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?protocol=hls
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2 [2]
+http://77.226.204.228:25461/live/test/test/4.m3u8
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2 [3] 
 http://185.53.163.214:5678/ipvt_002
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2 [4] [TEMPORARY OFFLINE - SERVER MAINTENACE]
@@ -105,10 +106,10 @@ https://easyview.eu/watch.php?stream=itv2|agentnodown$$start=hls.loadSource('htt
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/6.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1 (USE External Player Please)
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1820?protocol=hls
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV 3 [1] 
-http://77.226.204.228:25461/live/test/test/29.m3u8
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV 3 [2]  (USE External Player Please)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV 3 [1]  (USE External Player Please)
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/26?protocol=hls
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV 3 [2] 
+http://77.226.204.228:25461/live/test/test/29.m3u8
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV 3 [3] 
 http://185.53.163.214:5678/ipvt_003
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV 3 [4] [TEMPORARY OFFLINE - SERVER MAINTENACE]
@@ -117,10 +118,10 @@ https://easyview.eu/watch.php?stream=itv3|agentnodown$$start=hls.loadSource('htt
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/7.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://static.filmon.com/assets/channels/1823/extra_big_logo.png" ,ITV 3+1 (USE External Player Please)
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1823?protocol=hls
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv4-400x284.jpg" ,ITV 4 [1] 
-http://77.226.204.228:25461/live/test/test/5.m3u8
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv4-400x284.jpg" ,ITV 4 [2]  (USE External Player Please)
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv4-400x284.jpg" ,ITV 4 [1]  (USE External Player Please)
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/101?protocol=hls
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/itv4-400x284.jpg" ,ITV 4 [2] 
+http://77.226.204.228:25461/live/test/test/5.m3u8
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/itv4-400x284.jpg" ,ITV 4 [3] 
 http://185.53.163.214:5678/ipvt_004
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/itv4-400x284.jpg" ,ITV 4 [4] [TEMPORARY OFFLINE - SERVER MAINTENACE]
