@@ -130,10 +130,10 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1227.m3u8$http-refferer
 http://185.53.163.214:5678/ipvt_012
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/f8/eb/6a/f8eb6ac1-8f46-8ae7-3747-4903479feecc/mzl.mqrfxpka.png/246x0w.jpg" ,STV
 http://185.53.163.214:5678/ipvt_011
-#EXTINF:-1  tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png" ,Channel 4 [1] [TEMPORARY OFFLINE - SERVER MAINTENACE]
-https://easyview.eu/watch.php?stream=channel4|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1  tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png" ,Channel 4 [2](USE External Player Please)
+#EXTINF:-1  tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png" ,Channel 4 [1](USE External Player Please)
 https://tvpc.us/player/embed.php?cid=3|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
+#EXTINF:-1  tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png" ,Channel 4 [2] [TEMPORARY OFFLINE - SERVER MAINTENACE]
+https://easyview.eu/watch.php?stream=channel4|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png" ,Channel 4 [3] (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1235.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/bigbrother/images/9/99/Channel_5_Logo.png" ,5 [1](USE External Player Please)
@@ -150,10 +150,10 @@ https://www.firstonetv.net/Live/United-Kingdom/Film4-16|webview zoom=200 scroll=
 https://tvpc.us/player/embed.php?cid=13|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/175px-E4_%28channel%29_logo.svg.png" ,E4 [2](Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1144.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/More4-269x151.png" ,More 4 [1][TEMPORARY OFFLINE - SERVER MAINTENACE]
-https://easyview.eu/watch.php?stream=more4|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/More4-269x151.png" ,More 4 [2] (USE External Player Please)
+#EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/More4-269x151.png" ,More 4 [1] (USE External Player Please)
 https://tvpc.us/player/embed.php?cid=14|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
+#EXTINF:-1 tvg-logo="http://123tv.live/wp-content/uploads/2018/08/More4-269x151.png" ,More 4 [2][TEMPORARY OFFLINE - SERVER MAINTENACE]
+https://easyview.eu/watch.php?stream=more4|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_more4.jpg" ,More 4 [3] (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1182.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JwXwTpkm.png" ,Dave [1][TEMPORARY OFFLINE - SERVER MAINTENACE]
@@ -176,10 +176,11 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1249.m3u8$http-refferer
 https://tvpc.us/player/embed.php?cid=221|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 #EXTINF:-1  tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo178.png" ,5usa [2](Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1242.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg" ,Really [1] [TEMPORARY OFFLINE - SERVER MAINTENACE]
-https://easyview.eu/watch.php?stream=really|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1  tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg" ,Really [2](USE External Player Please)
+#EXTINF:-1  tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg" ,Really [1](USE External Player Please)
 https://tvpc.us/player/embed.php?cid=219|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
+#EXTINF:-1  tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg" ,Really [2] [TEMPORARY OFFLINE - SERVER MAINTENACE]
+https://easyview.eu/watch.php?stream=really|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+
 
  
  
