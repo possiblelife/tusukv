@@ -11,7 +11,7 @@ https://www.freeview.co.uk/tv-guide|webepg zoom=100 scroll=0,200
 
 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [1] (USE External Player Please)
-http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?protocol=hls|Referer=http://tv4embed.com/players2/uk.php?14
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?protocol=hls
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [3] [TEMPORARY OFFLINE]
 http://185.53.163.214:5678/ipvt_006
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1 [4] [TEMPORARY OFFLINE - SERVER MAINTENACE]
