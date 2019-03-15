@@ -40,7 +40,7 @@ https://easyview.eu/watch.php?stream=cbbc|agentnodown$$start=hls.loadSource('htt
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1125.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [1]  (USE External Player Please)
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3191?protocol=hls
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [2] 
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [2] [TEMPORARY OFFLINE - SERVER MAINTENACE]
 https://easyview.eu/watch.php?stream=cbeebies|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [3](Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1201.m3u8$http-refferer=http://localhost
@@ -180,7 +180,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1242.m3u8$http-refferer
 https://tvpc.us/player/embed.php?cid=219|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 #EXTINF:-1  tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg" ,Really [2] [TEMPORARY OFFLINE - SERVER MAINTENACE]
 https://easyview.eu/watch.php?stream=really|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-
+#EXTINF:-1  tvg-logo="https://static.filmon.com/assets/channels/5947/big_logo.png" ,Box Hits
+https://tvpc.us/player/embed.php?cid=220|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 
  
  
