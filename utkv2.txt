@@ -182,10 +182,12 @@ https://tvpc.us/player/embed.php?cid=219|agentnodown$$start=src: "$$end=" $$repl
 https://easyview.eu/watch.php?stream=really|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://static.filmon.com/assets/channels/5947/big_logo.png" ,Box Hits
 https://tvpc.us/player/embed.php?cid=220|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-
+#EXTINF:-1  tvg-logo="https://static.filmon.com/assets/channels/371/big_logo.png" ,Pick (USE External Player Please)
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/371?protocol=hls
  
- 
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera English
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera [1]
+https://tvpc.us/player/embed.php?cid=70|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera English [2]
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 #EXTINF:0 tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg" ,Amazing Facts TV
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
