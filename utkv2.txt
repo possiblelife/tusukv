@@ -38,8 +38,8 @@ http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/29?p
 https://easyview.eu/watch.php?stream=cbbc|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [4](Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1125.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [1]  (USE External Player Please)
-http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3191?protocol=hls
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [1] 
+https://tvpc.us/player/embed.php?cid=15|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [2] [TEMPORARY OFFLINE - SERVER MAINTENACE]
 https://easyview.eu/watch.php?stream=cbeebies|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [3](Retry if failed)-Long Buffer-Wuffy_Player
