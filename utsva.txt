@@ -66,7 +66,6 @@ http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 http://espn.tmedia.me/cache/bet.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Big_Ten_Network.svg/800px-Big_Ten_Network.svg.png" ,BIG TEN NETWORK
 http://ustv247.com/big-ten-network-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bloomberg-269x151.jpg"  ,Bloomberg [1]
 https://www.livenewswatch.com/bloomberg.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/bloombergtv.jpg" ,Bloomberg Europe [2](Retry iF Failed)-Wuffy_Player
@@ -547,6 +546,8 @@ http://ustvgo.net/starz-channel-live/|agentnodown$$start=file: 'http$$end=',$$re
 http://ustv247.com/starz-channel-live/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/StarZ-269x151.png" ,Starz [3]
 http://e1.112223344.host/live/starz/chunks.m3u8|Referer=http://123tvnow.com/watch/starz/
+#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/233063DF0-0D27-410E-73BC33F917D17636.jpg" ,Sundance TV
+https://tvpc.us/player/embed.php?cid=394|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Syfy-logo-880x660.png" ,SYFY [1]
 http://ustv247.com/syfy-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/syfy-269x151.png" ,Syfy [2]
