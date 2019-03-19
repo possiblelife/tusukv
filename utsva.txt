@@ -190,7 +190,7 @@ http://218.202.220.2:5000/nn_live.ts?id=CNN
 http://ustv247.com/cnn-news-live-stream-usa/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/CNN-1.png" ,CNN [5]
 http://ustvgo.net/cnn-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cnn-269x151.jpg" ,CNN [6]
+#EXTINF:-1 tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/CNN-1.png" ,CNN [6]
 http://e1.112223344.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/cnn.png" ,CNN HD [7](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/9.m3u8$http-refferer=http://localhost
@@ -216,9 +216,9 @@ http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
 http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
 #EXTINF:-1  tvg-logo="http://i67.tinypic.com/261m6it.jpg" ,CTV News Live Events 4
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" ,CW [1]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" ,CW 50[1]
 http://ustv247.com/cw/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/cw-269x151.png" ,CW [2]
+#EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/cw-269x151.png" ,CW 50[2]
 http://ustvgo.net/the-cw-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" ,CW [3]
 http://e1.112223344.host/live/cw/chunks.m3u8|Referer=http://123tvnow.com/watch/the-cw/
@@ -730,7 +730,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1118.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1031.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/V/vh1-classic-logo-7075E054C2-seeklogo.com.png" ,VH1 Classic [1](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1060.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/V/vh1-music-first-classic-logo-90C25C650E-seeklogo.com.png" ,VH1 Classic [2](external Player)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/V/vh1-music-first-classic-logo-90C25C650E-seeklogo.com.png" ,VH1 Classic [2] (external Player)
 http://37.192.100.141:81/udp/239.1.8.7:1234
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/vh1-269x151.png" ,VH1 
 http://espn.tmedia.me/cache/vh1.m3u8
