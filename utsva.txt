@@ -689,7 +689,7 @@ https://tvpc.us/player/embed.php?cid=396|agentnodown$$start=src: "$$end=" $$repl
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT [1]
 http://e2.112223344.host/live/tnt/chunks.m3u8|Referer=http://123tvnow.com/watch/tnt/
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT [2]
-https://tvpc.us/player/embed.php?cid=399|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+http://190.13.120.114/streams/tnt.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/tnt.png" ,TNT HD [3](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1005.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Travel-269x151.png" ,Travel Channel [1]
