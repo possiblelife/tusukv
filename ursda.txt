@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" ,===USA RADIO===
-http://..........
+#EXTINF:-1  tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA RADIO===
+https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/ed/d3/00/edd30070-6cb7-df24-d075-ab86286ebe65/mzl.cxsvssnj.png/246x0w.png|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1   tvg-logo="https://static-media.streema.com/media/cache/c3/89/c389ada9f436d27771d77c764e16b230.jpg" ,100.1 FM Flagstaff-Prescott
 http://206.190.135.28:8602/listen.
