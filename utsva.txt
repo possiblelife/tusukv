@@ -274,10 +274,6 @@ https://tvpc.us/player/embed.php?cid=384|agentnodown$$start=src: "$$end=" $$repl
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1017.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn.png" ,ESPN HD [Option-4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/998.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="https://refb.org/wp-content/uploads/2018/09/ESPN-Logo.png" ,ESPN2 [Option-1]
-http://ustv247.com/espn2-live/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="https://refb.org/wp-content/uploads/2018/09/ESPN-Logo.png" ,ESPN2 [Option-2]
-https://tvpc.us/player/embed.php?cid=385|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News [Option-1]
 http://espn.tmedia.me/cache/espnews.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espnnews.png" ,ESPN News US HD [Option-2](Retry iF Failed)-Wuffy_Player
@@ -290,6 +286,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1037.m3u8$http-refferer
 http://espn.tmedia.me/cache/espn2_540.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn2.png" ,ESPN 2 [Option-2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1082.m3u8$http-refferer=http://localhost
+#EXTINF:-1 tvg-logo="https://refb.org/wp-content/uploads/2018/09/ESPN-Logo.png" ,ESPN2 [Option-3]
+https://tvpc.us/player/embed.php?cid=385|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ftv-269x151.png" ,Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" ,FASHION TV MIDNIGHT SECRETS
