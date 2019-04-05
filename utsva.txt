@@ -22,7 +22,9 @@ http://e1.112223344.host/live/ae/chunks.m3u8|Referer=http://123tvnow.com/watch/a
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1015.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="http://logonoid.com/images/abc-news-logo.png" ,ABC NEWS [Option-1]
 https://www.livenewswatch.com/abc-news.html|agentnodown$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
-#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/abcnews(1).jpg" ,ABC NEWS HD [Option-2](Retry iF Failed)-Wuffy_Player
+#EXTINF:-1 tvg-logo="https://iwpr.org/wp-content/uploads/2017/04/abc-news.png" ,ABC News [Option-2]
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/abcnews(1).jpg" ,ABC NEWS HD [Option-3](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/993.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/abc-269x151.jpg" ,ABC [Option-1]
 http://ustvgo.net/abc-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
@@ -34,8 +36,6 @@ http://espn.tmedia.me/cache/abc432.m3u8
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/992.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/ec/5f/35/ec5f35bf-32b4-25f6-7791-85cf5ebf32e6/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg" ,ABC 7 KABC LA
 https://tklist.us/vid/abclaclappr.php|agentnodown$$start=source: "$$end=",$$replace=source: "$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="https://iwpr.org/wp-content/uploads/2017/04/abc-news.png" ,ABC News
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/adultswim-269x151.png" ,Adult Swim 
 https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer6.m3u8
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/18-ahc-1432375751.jpg" ,AHC (American Heroes Channel) 
