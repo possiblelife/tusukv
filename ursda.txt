@@ -4,9 +4,9 @@ https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/ed/d3/00/edd30070-6cb7-df24
 
 #EXTINF:-1   tvg-logo="https://static-media.streema.com/media/cache/c3/89/c389ada9f436d27771d77c764e16b230.jpg" ,100.1 FM Flagstaff-Prescott
 http://206.190.135.28:8602/listen.
-#EXTINF:-1   tvg-logo="https://i3.radionomy.com/radios/400/058f0af8-6395-4c89-900e-88cf4db1c015.png" ,Ambient Sleeping Pill 
+#EXTINF:-1   tvg-logo="https://i3.radionomy.com/radios/400/058f0af8-6395-4c89-900e-88cf4db1c015.png" ,Ambient Sleeping Pill [Option-1]
 http://163.172.169.217:80/asp-s
-#EXTINF:-1   tvg-logo="https://i3.radionomy.com/radios/400/058f0af8-6395-4c89-900e-88cf4db1c015.png" ,Ambient Sleeping Pill 
+#EXTINF:-1   tvg-logo="https://i3.radionomy.com/radios/400/058f0af8-6395-4c89-900e-88cf4db1c015.png" ,Ambient Sleeping Pill [Option-2]
 http://163.172.169.217:80/asp-h
 #EXTINF:-1   tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/07/Audio-Noir-Radio.jpg" ,Audio Noir Radio
 http://198.245.61.123:8000/noir
@@ -50,7 +50,7 @@ http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.imgur.com/BsxQzmg.png" ,News Radio 1450 AM Wilmington
 http://c10icy.prod.playlists.ihrhls.com/465_icy
-#EXTINF:-1   tvg-logo="http://i.imgur.com/By8OGzZ.png" ,Nick Radio (Opt-2)
+#EXTINF:-1   tvg-logo="http://i.imgur.com/By8OGzZ.png" ,Nick Radio
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://pbs.twimg.com/profile_images/832355311155572736/JXqwkgbm.jpg" ,NPR Illinois
 http://64.202.98.51:7800/event
@@ -64,7 +64,7 @@ http://67.227.220.171:8066/stream
 http://74.50.122.103:9352/;stream
 #EXTINF:-1   tvg-logo="https://www.smoothjazz.com/themes/smoothjazz/images/sj-circle-logo.png" ,SmoothJazz.com Global Radio
 http://144.217.153.67:80/live
-#EXTINF:-1   tvg-logo="https://i.imgur.com/vau9Z0B.png" ,Smooth Jazz 107.1 FM Sacramento (Opt-2)
+#EXTINF:-1   tvg-logo="https://i.imgur.com/vau9Z0B.png" ,Smooth Jazz 107.1 FM Sacramento
 http://c9.prod.playlists.ihrhls.com/4242/playlist.m3u8?listeningSessionID=573aa3a50116edba_230911_zluekKxF_0000000ofY5&downloadSessionID=0&at=0&clientType=web&fb_broadcast=0&init_id=8169&modTime=1463691594128&pname=OrganicWeb&profileid=248665060&birthYear=null&territory=US&host=webapp.US&listenerId=2af9feef0b0210de61e97b0c25264388&uid=1463690853820&gender=null&age=null&amsparams=playerid:iHeartRadioWebPlayer;skey:1463691594&terminalid=159&zipcode=null&awparams=g:null;n:null;ccaud:["10358","10410","10385","10032","10093","10379","10488","10290","10085","10167","10404","10022","10097","10078","10029","10359","10010","10277","all","10018","10275","10202","10019","10028","10396","10407","10008","10043","10094","10030","10393","10103","10017","10088","10468","10086"];companionAds:true&playedFrom=338
 #EXTINF:-1   tvg-logo="http://www.jazzgroove.org/theme/16/img/logo-circle-white1-no-org.png" ,The Jazz Groove
 http://199.180.75.116:80/stream
