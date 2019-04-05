@@ -1,37 +1,37 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://images.cdn1.stockunlimited.net/clipart/united-kingdom-flag-icon_1579695.jpg" ,===UK RADIO===
 http://..........
-#EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" ,BBC - Radio 1
+#EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" ,BBC - Radio 1 [Option-1]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
-#EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" ,BBC - Radio 1
+#EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" ,BBC - Radio 1 [Option-2]
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
 #EXTINF:-1  tvg-logo="https://madnews.files.wordpress.com/2010/11/1xtra.jpg" ,BBC - Radio 1Xtra
 http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" ,BBC - Radio 2
+#EXTINF:-1  tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" ,BBC - Radio 2 [Option-1]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
-#EXTINF:-1  tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" ,BBC - Radio 2
+#EXTINF:-1  tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" ,BBC - Radio 2 [Option-2]
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
-#EXTINF:-1  tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" ,BBC - Radio 2
+#EXTINF:-1  tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" ,BBC - Radio 2 [Option-3]
 http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" ,BBC - Radio 3
+#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" ,BBC - Radio 3 [Option-1]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
-#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" ,BBC - Radio 3
+#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" ,BBC - Radio 3 [Option-2]
 http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" ,BBC - Radio 4
+#EXTINF:-1  tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" ,BBC - Radio 4 [Option-1]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
-#EXTINF:-1  tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" ,BBC - Radio 4
+#EXTINF:-1  tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" ,BBC - Radio 4 [Option-2]
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
-#EXTINF:-1  tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" ,BBC - Radio 4
+#EXTINF:-1  tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" ,BBC - Radio 4 [Option-3]
 http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
 #EXTINF:-1  tvg-logo="http://www.bbc.co.uk/staticarchive/44a9d03f481254b8be3b4ed19ed9ddaf36e442cc.jpg" ,BBC - Radio 4Xtra
 http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" ,BBC - Radio 5 live
+#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" ,BBC - Radio 5 live [Option-1]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
-#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" ,BBC - Radio 5 live
+#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" ,BBC - Radio 5 live [Option-2]
 http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" ,BBC - Radio 6 Music
+#EXTINF:-1  tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" ,BBC - Radio 6 Music [Option-1]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
-#EXTINF:-1  tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" ,BBC - Radio 6 Music
+#EXTINF:-1  tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" ,BBC - Radio 6 Music [Option-2]
 http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8
 #EXTINF:-1  tvg-logo="http://static.radio.net/images/broadcasts/dd/cb/3476/c175.png" ,BBC World Service
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
@@ -62,11 +62,11 @@ http://s02.whooshserver.net:9091/live.mp3
 http://91.121.202.224:4986/listen.pls
 #EXTINF:-1 ,94.4 Flava Radio
 http://37.187.90.196:8891/listen.pls
-#EXTINF:-1  tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,95.8 Capital FM
+#EXTINF:-1  tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,95.8 Capital FM [Option-1]
 http://media-ice.musicradio.com/CapitalMP3.m3u
-#EXTINF:-1  tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,95.8 Capital FM
+#EXTINF:-1  tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,95.8 Capital FM [Option-2]
 http://media-sov.musicradio.com:80/CapitalMP3
-#EXTINF:-1  tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,95.8 Capital FM London
+#EXTINF:-1  tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,95.8 Capital FM London [Option-3]
 http://ice-the.musicradio.com/CapitalMP3
 #EXTINF:-1 ,96.1 S-Dance
 http://91.121.122.94:8003/listen.pls
@@ -84,9 +84,9 @@ http://50.7.77.115:8446/listen.pls
 http://176.31.239.83:8061/listen.pls
 #EXTINF:-1 ,101.9 Real Beat FM
 http://176.31.239.83:8063/stream
-#EXTINF:-1 ,102.0 Concious Radio
+#EXTINF:-1 ,102.0 Concious Radio [Option-1]
 http://rascast.podzone.org:8014/conciousradio.xspf
-#EXTINF:-1 ,102.0 CONCIOUS RADIO 
+#EXTINF:-1 ,102.0 CONCIOUS RADIO  [Option-2]
 http://rascast.podzone.org:8006/conciousradio
 #EXTINF:-1 tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,102.0 Capital Manchester FM
 http://media-ice.musicradio.com/CapitalManchesterMP3
@@ -94,7 +94,7 @@ http://media-ice.musicradio.com/CapitalManchesterMP3
 http://edge-audio-03-gos2.sharp-stream.com:80/harboroughfm.aac
 #EXTINF:-1 tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,103.2 Capital South Coast FM
 http://media-ice.musicradio.com/CapitalSouthCoastMP3
-#EXTINF:-1 tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,103.2 Capital South Wales FM Cardiff, Wales
+#EXTINF:-1 tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,103.2 Capital South Wales FM
 http://media-ice.musicradio.com/CapitalSouthWalesMP3
 #EXTINF:-1 ,104.2 Play FM
 http://185.40.87.155:9994/listen.pls
