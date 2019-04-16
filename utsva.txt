@@ -31,7 +31,7 @@ http://ustvgo.net/abc-live-streaming-free/|agentnodown$$start=file: 'http$$end='
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/WLNE-TV_2011_Logo.png" ,ABC [Option-2]
 http://ustv247.com/abc-live-stream-usa-free/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC [Option-3]
-http://espn.tmedia.me/cache/abc432.m3u8
+http://espn.tmedia.me/cache/abc.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/abc.png" ,ABC HD [Option-4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/992.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/ec/5f/35/ec5f35bf-32b4-25f6-7791-85cf5ebf32e6/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg" ,ABC 7 KABC LA
