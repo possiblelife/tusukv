@@ -125,7 +125,7 @@ http://e1.112223344.host/live/cbs/chunks.m3u8|Referer=http://123tvnow.com/watch/
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS [Option-2]
 http://ustvgo.net/cbs-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS [Option-3]
-http://ustv247.com/cbs-live-stream-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add=  
+http://ustv247.com/cbs-live-stream-free/|agentnodown$$start=source src='$$end=' type=$$replace=source src='$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/cbs.png" ,CBS [Option-5](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/995.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://tribwttv.files.wordpress.com/2017/03/cropped-cbs4512.png" ,CBS 4 News (Indianapolis)
