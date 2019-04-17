@@ -434,8 +434,12 @@ http://espn.tmedia.me/cache/mtv.m3u8
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/my9(1).jpg" ,MY9 TV [Option-2] (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1047.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" ,NASA TV [Option-1]
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" ,NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/NatGeoWild.jpeg" ,Nat Geo Wild [Option-1]
+http://ustvgo.net/nat-geo-wild-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 tvg-logo="http://ustv247.com/wp-content/uploads/2018/11/NATGEOWILD-326x245.png" ,Nat Geo Wild [Option-2]
+http://ustv247.com/nat-geo-wild-live-stream/|agentnodown$$start=source src='$$end=' type=$$replace=source src='$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA TV [Option-1]
 http://e2.112223344.host/live/nbatv/chunks.m3u8|Referer=http://123tvnow.com/watch/nba-tv/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/nba.png" ,NBA SD [Option-2](Retry iF Failed)-Wuffy_Player
