@@ -686,6 +686,8 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" ,WBZ 4 News (Boston)
 http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+#EXTINF:-1  tvg-logo="https://dcer237tfveol.cloudfront.net/raw/wbrz/css/images/logo.png" ,WBRZ news 2
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" ,WCCB News (Charlotte)
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 #EXTINF:-1  tvg-logo="http://cdn.tribtv.com/slates/wgntv.png"  ,WGN 9 News (Chicago)
