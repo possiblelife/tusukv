@@ -432,6 +432,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1087.m3u8$http-refferer
 http://espn.tmedia.me/cache/mtv.m3u8
 #EXTINF:-1  tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" ,Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/my9(1).jpg" ,MY9 TV (WWOR)[Option-1]
+https://player-api.new.livestream.com/accounts/6372957/events/2592490/broadcasts/190185037.secure.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/my9(1).jpg" ,MY9 TV [Option-2] (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1047.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" ,NASA TV
