@@ -2,11 +2,29 @@
 #EXTINF:-1  tvg-logo="https://images.cdn1.stockunlimited.net/clipart/united-kingdom-flag-icon_1579695.jpg" , ===UK TV===
 http://..........
 
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.27. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.31. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
 http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.27. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.31. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
 http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.27. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.13. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
+http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.31. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
+http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.31. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
+http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.13. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
+http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.31. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
+http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.31. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
+http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.13. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
+http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.31. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
+http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.31. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
+http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.13. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
 http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
 
 #EXTINF:-1 tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" , EPG All channels
