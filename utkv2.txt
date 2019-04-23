@@ -210,6 +210,18 @@ http://bglive-a.bitgravity.com/ndtv/247hi/live/native
 http://ndtv.indostan.epac.to/ndtv/247lo/live/native
 #EXTINF:0  tvg-logo="http://picon.webhop.net/logo/france/nrj_fr_hits.png"  ,NRJ HITS
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:0  tvg-logo="http://uniquetv.xyz/Box_Upfront_%2528Black%2529.png"  ,Box Upfront
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxupfront%2f
+#EXTINF:0  tvg-logo="http://okteve.com/wp-content/uploads/media/9780c200f43ce5e791d82cd19120d67d.jpeg"  ,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png"  ,The Box
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fthebox%2f
+#EXTINF:0  tvg-logo="http://uband.co.uk/wp-content/uploads/2011/12/kiss-logo.png"  ,Kiss TV
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fkiss%2f
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Magic_TV.png"  ,Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fmagic%2f
+#EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/566297265078140929/F3mh9XMq_400x400.jpeg"  ,KERRANG
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fkerrang%2f
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Peace_TV_logo_2015.jpeg" ,Peace tv 
 http://199.167.151.237:1935/live/sp15_3.stream/master-baba_1.m3u8?
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png"  ,QVC Style
