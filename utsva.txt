@@ -221,7 +221,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/973.m3u8$http-refferer=
 #EXTINF:-1  tvg-logo="https://oct.dc.gov/sites/default/files/styles/medium/public/dc/sites/office%20of%20cable%20television/page_content/images/DCN.gif" ,District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/99/66/01/996601033581f5bb038b37a327a54b2b.jpg" ,DIY Network [Option-1] 
-http://w2.11223344.host/live/diy/chunks.m3u8|Referer=http://123tvnow.com/watch/disney-channel/
+http://w2.11223344.host/live/diy/chunks.m3u8|Referer=http://123tvnow.com/watch/diy-network/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/diynetwork.png" ,DIY Network [Option-2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1107.m3u8$http-refferer=http://localhost
 #EXTINF:0  tvg-logo="http://www.tvtuga.com/wp-content/uploads/2014/12/djing-200x141.jpg" ,DjinG (buffer about 3-10 seconds)
@@ -566,6 +566,8 @@ https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5_1_2728/chunklist.m3
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1094.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://apps.seminolecountyfl.gov/images/logo2_sgtv.gif" ,Seminole TV
 http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/showtime.jpg" ,Showtime 
+http://w2.11223344.host/live/showtime/chunks.m3u8|Referer=http://123tvnow.com/watch/showtime/
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/showtime2.png" ,Showtime 2  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/984.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/showtime.jpg" ,SHOWTIME HD  (Retry iF Failed)-Wuffy_Player
@@ -582,8 +584,6 @@ http://espn.tmedia.me/cache/spikeus.m3u8
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1116.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://spydartv.com/wp-content/uploads/2018/02/Spydar-Logo-Revised-3.png" ,Spydar TV
 https://nimble.dashmedia.tv/onestudio/spydar/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Showtime-269x151.png" ,Showtime  
-http://w2.11223344.host/live/showtime/chunks.m3u8|Referer=http://123tvnow.com/watch/showtime/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" ,Stadium TV
 https://tklist.us/vid/stadiumtvclappr.php|agentnodown$$start=source: "$$end=",$$replace=source: "$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/StarZ-269x151.png" ,Starz Channel [Option-1]
@@ -591,7 +591,7 @@ http://ustvgo.net/starz-channel-live/|agentnodown$$start=file: 'http$$end=',$$re
 #EXTINF:-1 tvg-logo="http://ustv247.com/wp-content/uploads/2019/01/StarZ-269x151.png" ,Starz [Option-2]
 http://ustv247.com/starz-channel-live/|agentnodown$$start=source: '$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/StarZ-269x151.png" ,Starz [Option-3] 
-http://w1.11223344.host/live/starz/chunks.m3u8|Referer=http://123tvnow.com/watch/starz/= 
+http://w1.11223344.host/live/starz/chunks.m3u8|Referer=http://123tvnow.com/watch/starz/
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Syfy-logo-880x660.png" ,SYFY [Option-1]
 http://ustv247.com/syfy-live-stream/|agentnodown$$start=source: '$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/syfy-269x151.png" ,Syfy [Option-2]
