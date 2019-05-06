@@ -98,3 +98,5 @@ http://158.69.227.214:8000/stream
 http://stream0.wfmu.org/freeform-128k
 #EXTINF:-1 ,WBEZ Chicago
 http://stream.wbez.org/wbez128.mp3
+#EXTINF:-1   tvg-logo="https://static.radio.net/images/broadcasts/78/fa/34279/c300.png"  ,SalsagordaRadio
+http://stream.zenolive.com/s4s85axxaseuv
