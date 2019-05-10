@@ -781,7 +781,7 @@ http://w2.11223344.host/live/trutv/chunks.m3u8|Referer=http://123tvnow.com/watch
 #EXTINF:-1  tvg-logo="https://i.imgur.com/3QAaaZj.png" ,TSTV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Current_logo_for_TUFF_TV.png" ,Tuff TV
-http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-604/mp4:Tufftv_all/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.waseniorlobby.org/wp-content/uploads/TVW-logo.png" ,TVW
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
 #EXTINF:-1  tvg-logo="http://www.waseniorlobby.org/wp-content/uploads/TVW-logo.png" ,TVW-2
