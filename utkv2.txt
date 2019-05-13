@@ -164,7 +164,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1176.m3u8$http-refferer
 https://tvpc.us/player/embed.php?cid=29|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/yesterday_uktv.png" ,Yesterday [Option-2] (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1191.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="https://www.firstonetv.net/images/logos/uk/QUEST.png" ,Quest (Retry if failed)-Long Buffer-Wuffy_Player
+#EXTINF:-1  tvg-logo="https://assets.tvplayer.com/common/logos/256/Inverted/327.png" ,Quest (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1223.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://orig00.deviantart.net/95df/f/2018/008/6/b/channel_4_s_most_popular_shows_of_the_week__by_mickeyfan123-db744vh.png" ,4 Seven (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1314.m3u8$http-refferer=http://localhost
