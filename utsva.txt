@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA TV===
+#EXTINF:-1  tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA TV===-
 https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2b/a4/62/2ba4620b-8049-4ea9-97ba-06f9792b8d70/pr_source.png/246x0w.jpg|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , LATEST VERSION V1.22. UPDATE FROM GOOGLE PLAY (Click here) IF NEEDED.
@@ -661,7 +661,7 @@ http://espn.tmedia.me/cache/spikeus.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/spike.png" ,SPIKE HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1116.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://spydartv.com/wp-content/uploads/2018/02/Spydar-Logo-Revised-3.png" ,Spydar TV
-https://nimble.dashmedia.tv/onestudio/spydar/chunks.m3u8
+https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" ,Stadium TV
 https://tklist.us/vid/stadiumtvclappr.php|agentnodown$$start=source: "$$end=",$$replace=source: "$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/StarZ-269x151.png" ,Starz Channel [Option-1]
@@ -769,7 +769,7 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/648868667615133696/kPvB4ye4.png" ,VTV Channel 6 Colorado
 http://hls.ksl.com/t/strata/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" ,WBZ 4 News (Boston)
-http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+https://ctslive-i.akamaihd.net/hls/live/676495/WBZTV/master.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" ,WBZ TV LIVE 2
 https://ctslive-i.akamaihd.net/hls/live/678849/WBZTV2/master.m3u8
 #EXTINF:-1  tvg-logo="https://dcer237tfveol.cloudfront.net/raw/wbrz/css/images/logo.png" ,WBRZ news 2
