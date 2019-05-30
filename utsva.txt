@@ -711,7 +711,7 @@ http://w1.11223344.host/live/tbs/chunks.m3u8|Referer=http://123tvnow.com/watch/t
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1095.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png" ,TCM [Option-1](USA VPN REQUIRE)
 http://ustvgo.net/tcm/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
-#EXTINF:-1 tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tcm.png",TCM [Option-2](Retry iF Failed)-Wuffy_Player
+#EXTINF:-1 tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tcm.png" ,TCM [Option-2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1196.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://templetv.net/files/2012/06/TUTV_new_fb_logo.jpg" ,Temple University TV
 http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
