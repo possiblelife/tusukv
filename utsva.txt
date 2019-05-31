@@ -155,18 +155,23 @@ https://tvpc.us/player/embed.php?cid=374|agentnodown$$start=src: "$$end=" $$repl
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/cbs.png" ,CBS [Option-5](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/995.m3u8$http-refferer=http://localhost
+#EXTINF:-1  tvg-logo="https://cbsphilly.files.wordpress.com/2019/01/philly_cbs3_light.png?w=129&h=67&crop=1" ,CBS 3 Philly (KYW) 
+https://ctslive-i.akamaihd.net/hls/live/677250/WPSGTV/master.m3u8
 #EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png" ,CBS NEWS HD [Option-1]
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cbsn-269x151.jpg" ,CBS News (CBSN) [Option-2]
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/cbsnews.jpg" ,CBSN HD [Option-3](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/971.m3u8$http-refferer=http://localhost
+#EXTINF:-1  tvg-logo="https://cbsphilly.files.wordpress.com/2018/02/cbs-sports-hq.png?w=133&h=66&crop=1" ,CBS Sports (USA VPN REQUIRE) 
+https://sportshq-mediapackage-fastly.cbsaavideo.com/out/v1/9bce4c1bfbde4f8bbba602a090ec77e3/master.m3u8
 #EXTINF:-1  tvg-logo="http://cgtv.la/wp-content/uploads/2015/01/cgtv-logo-300x137.png" ,CGTN [Option-1]
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1  tvg-logo="https://z4u03a0h98qmyuk34iyrjwb-wpengine.netdna-ssl.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" ,CGTN [Option-2]
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://z4u03a0h98qmyuk34iyrjwb-wpengine.netdna-ssl.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" ,CGTN News [Option-3]
-https://livestream.com/accounts/7082210/events/7115682/player?enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false|agentnodown$$start=m3u8_url":"$$end=","$$replace=m3u8_url":"$$replacewith=$$add= 
+https://livestream.com/accounts/7082210/events/7115682/player?enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false|agentnodown$$start=m3u8_url":"$$end=","$$replace=m3u8_url":"$$replacewith=$$add=
+
 #EXTINF:-1  tvg-logo="http://i.imgur.com/IH7rVcy.png" ,Channel 7 (use External Player)
 http://radio.7chan.org:8000/CH7
 #EXTINF:-1  tvg-logo="https://www.yesmarketing.com.au/images//tv/11.jpg" ,Channel 11  (Retry iF Failed)-Wuffy_Player
@@ -309,6 +314,8 @@ http://espn.tmedia.me/cache/espn2_540.m3u8
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1082.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-3]
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1  tvg-logo="https://cbsphilly.files.wordpress.com/2019/04/et-live-stacked-transparent.png" ,ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/EVINE_Logo.png" ,Evine
 https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ftv-269x151.png" ,Fashion TV
@@ -331,6 +338,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6a/4f/c4/6a4fc461-eb4c-936c-d5dd-9c878429f7e1/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg"  ,FOX 5
 https://livestream.com/accounts/2363281/events/1763520/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=true|agentdesktopnodown$$start="m3u8_url":"$$end=",$$replace="m3u8_url":"$$replacewith=$$add=
+
+#EXTINF:-1  tvg-logo="http://www.newstvliveonline.com/wp-content/uploads/2019/04/WXIX-FOX-19-News.jpg" , FOX 19 (WXIX)
+https://livestream.com/accounts/12136532/events/3798375/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false|agentdesktopnodown$$start="m3u8_url":"$$end=",$$replace="m3u8_url":"$$replacewith=$$add=
+
+#EXTINF:-1  tvg-logo="https://static.foxtv.com/static/orion/img/core/s/logos/fts-philadelphia-b.svg" , FOX 29 (WTXF)
+https://livestream.com/accounts/6370754/events/2591860/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false|agentdesktopnodown$$start="m3u8_url":"$$end=",$$replace="m3u8_url":"$$replacewith=$$add=
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/WPMT_43_logo.png" ,FOX 43 [Option-2] (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1083.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/foxbusiness.jpg" ,Fox Business [Option-2](USA VPN REQUIRE)
@@ -454,7 +468,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1036.m3u8$http-refferer
 #EXTINF:-1  tvg-logo="https://i.imgur.com/1HJraea.png" ,Jewelry Television
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/JUCE_TV_logo.png" ,Juce tv (Family)
-https://livestream.com/accounts/27460990/events/8266912/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false|agentdesktopnodown$$start="m3u8_url":"$$end=",$$replace="m3u8_url":"$$replacewith=$$add= 
+https://livestream.com/accounts/27460990/events/8266912/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false|agentdesktopnodown$$start="m3u8_url":"$$end=",$$replace="m3u8_url":"$$replacewith=$$add=
+
 #EXTINF:-1  tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/kbvrtv-profile_image-666cfc3f59b5f449-300x300.jpeg" ,KBVR TV
 http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
 #EXTINF:-1  tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/970x545/public/live_keytv_0_0.jpg" ,Key TV
@@ -508,7 +523,8 @@ http://espn.tmedia.me/cache/mtv.m3u8
 #EXTINF:-1  tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" ,Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/my9(1).jpg" ,MY9 TV (WWOR)[Option-1]
-https://livestream.com/accounts/6372957/events/2592490/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=true|agentdesktopnodown$$start="m3u8_url":"$$end=",$$replace="m3u8_url":"$$replacewith=$$add= 
+https://livestream.com/accounts/6372957/events/2592490/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=true|agentdesktopnodown$$start="m3u8_url":"$$end=",$$replace="m3u8_url":"$$replacewith=$$add=
+
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/my9(1).jpg" ,MY9 TV [Option-2] (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1047.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/1200px-WWOR_NewJersey.svg.png" ,MY9 [Option-3]
