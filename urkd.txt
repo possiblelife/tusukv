@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://images.cdn1.stockunlimited.net/clipart/united-kingdom-flag-icon_1579695.jpg" ,===UK RADIO===
+#EXTINF:-1  tvg-logo="https://images.cdn1.stockunlimited.net/clipart/united-kingdom-flag-icon_1579695.jpg" ,===UK RADIO===-
 https://images-eu.ssl-images-amazon.com/images/I/51ogcPy92TL.png|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" ,BBC - Radio 1 [Option-1]
@@ -165,3 +165,5 @@ http://shoutcast.wrn.org:8025/vor
 http://stream-uk1.radioparadise.com/mp3-192
 #EXTINF:-1  tvg-logo="https://www.invubu.com/radio/radio_images/logos/powerstationuk/powerstationuk-logo500.png" ,The Power Station
 http://5.63.151.52:7032/stream
+#EXTINF:-1   tvg-logo="https://pbs.twimg.com/profile_images/674691790142758912/mtkNQpsg.png"  ,Italy Classical Radio
+http://176.31.107.8:8204/
