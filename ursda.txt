@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA RADIO===
+#EXTINF:-1  tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA RADIO===-
 https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/ed/d3/00/edd30070-6cb7-df24-d075-ab86286ebe65/mzl.cxsvssnj.png/246x0w.png|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1   tvg-logo="https://static-media.streema.com/media/cache/c3/89/c389ada9f436d27771d77c764e16b230.jpg" ,100.1 FM Flagstaff-Prescott
@@ -100,3 +100,5 @@ http://stream0.wfmu.org/freeform-128k
 http://stream.wbez.org/wbez128.mp3
 #EXTINF:-1   tvg-logo="https://static.radio.net/images/broadcasts/78/fa/34279/c300.png"  ,SalsagordaRadio
 http://stream.zenolive.com/s4s85axxaseuv
+#EXTINF:-1   tvg-logo="https://pbs.twimg.com/profile_images/674691790142758912/mtkNQpsg.png"  ,Italy Classical Radio
+http://176.31.107.8:8204/
