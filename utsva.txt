@@ -4,7 +4,7 @@ https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2b/a4/62/2ba4620b-8049-4ea
 
 #EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , LATEST VERSION V1.25. Click here to UPDATE FROM GOOGLE PLAY IF NEEDED.
 http://play.google.com/store/apps/details?id=com.usatvradio|updatelink
- 
+
 #EXTINF:-1  tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , LATEST VERSION V1.25. Click here to AUTO-UPDATE IF NEEDED.
 http://www.mediafire.com/file/y8eccc0waiqf1wt/USA_TV_%2526_Radio_V1.25.apk/file|externalupdate
 
@@ -296,7 +296,7 @@ http://video.oct.dc.gov/out/u/DKN.m3u8
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" ,E!  
 http://w3.11223344.host/live/enw/chunks.m3u8|Referer=http://123tvnow.com/watch/e-network/
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-1]
-http://espn.tmedia.me/cache/espn1_540.m3u8
+http://espn.tmedia.me/cache/espn1.m3u8
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-2]
 http://80.80.160.168/live/6/2500000/live.m3u8
 #EXTINF:-1   tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn.png" ,ESPN [Option-3](Retry iF Failed)-Wuffy_Player
@@ -312,7 +312,7 @@ http://espn.tmedia.me/cache/espnu.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn.png" ,ESPN U HD [Option-2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1037.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-1]
-http://espn.tmedia.me/cache/espn2_540.m3u8
+http://espn.tmedia.me/cache/espn2.m3u8
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn2.png" ,ESPN 2 [Option-2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1082.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-3]
