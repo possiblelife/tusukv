@@ -201,7 +201,7 @@ https://tvpc.us/player/embed.php?cid=221|agentnodown$$start=src: "$$end=" $$repl
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/372?protocol=hls
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/really_uktv.png" ,Really [Option-2] 
 https://easyview.eu/watch.php?stream=really|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/really_uktv.png" ,Really  [Option-3]  (USE External Player)
+#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/really_uktv.png" ,Really  [Option-3] 
 https://tvpc.us/player/embed.php?cid=219|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://static.filmon.com/assets/channels/5947/big_logo.png" ,Box Hits
 https://tvpc.us/player/embed.php?cid=220|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
