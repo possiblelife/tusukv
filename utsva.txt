@@ -900,5 +900,5 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1041.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1040.m3u8$http-refferer=http://localhost
 
 
-#EXTINF:-1 ,123
-http://ustvgo.net/ae-networks-live-streaming-free/|webpronoagent$$start=src=\"$$end=\" $$replace=src=\"$$replacewith=$$add=
+#EXTINF:-1 ,1234
+http://ustvgo.net/ae-networks-live-streaming-free/|webnoagent$$start=src=\"$$end=\" $$replace=src=\"$$replacewith=$$add=
