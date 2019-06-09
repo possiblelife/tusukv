@@ -259,8 +259,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1069.m3u8$http-refferer
 http://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/q66RMSc.png" ,Denver 8 TV
 http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ee/Destination_America_2015.svg/revision/latest/scale-to-width-down/250?cb%3D20151128124124" ,Destination America
-http://80.80.160.168/live/4/500000/live.m3u8
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Discovery.png" ,Discovery Channel [Option-1]
 https://tvpc.us/player/embed.php?cid=383|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Discovery.png" ,Discovery Channel [Option-2](USA VPN REQUIRE)
@@ -668,6 +666,8 @@ http://ustvgo.net/pbs-live/|agentnodown$$start=file: 'http$$end=',$$replace=file
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1045.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://judygold.com/wp-content/uploads/2015/04/people-tv-300x235.jpg" ,People TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1  tvg-logo="http://news.doddleme.com/wp-content/uploads/2012/04/logo-319x209-300x196.jpg" ,PLANET GREEN
+http://80.80.160.168/live/4/500000/live.m3u8
 #EXTINF:-1  tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" ,Pluto TV Movies 1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1  tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" ,Pluto TV Movies 2
