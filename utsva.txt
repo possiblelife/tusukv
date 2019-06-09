@@ -388,6 +388,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1057.m3u8$http-refferer
 http://w2.11223344.host/live/fs1/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-1-fs1/
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs2-269x151.png" ,FOX Sports 2 
 http://w2.11223344.host/live/fs2/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-2-fs2/
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" ,FOX SPORT
+http://161.0.157.38/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" ,Fox Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" ,Fox Sports Racing
