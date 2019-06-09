@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA TV===-
+#EXTINF:-1  tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA TV===
 https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2b/a4/62/2ba4620b-8049-4ea9-97ba-06f9792b8d70/pr_source.png/246x0w.jpg|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , LATEST VERSION V1.25. Click here to UPDATE FROM GOOGLE PLAY IF NEEDED.
@@ -46,8 +46,10 @@ http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 https://tklist.us/vid/abclaclappr.php|agentnodown$$start=source: "$$end=",$$replace=source: "$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" ,Action Movies
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/955830377733545984/JhptxLYU_400x400.jpg" ,Action News Now
+https://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/adultswim-269x151.png" ,Adult Swim 
-https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer6.m3u8
+https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 #EXTINF:-1  tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5938876b78d8d9c074c3c657/featuredImage.jpg" ,Adventure TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1  tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" ,After School Cartoons
@@ -348,6 +350,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a
 #EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6a/4f/c4/6a4fc461-eb4c-936c-d5dd-9c878429f7e1/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg"  ,FOX 5
 https://livestream.com/accounts/2363281/events/1763520/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=true|agentdesktopnodown$$start="m3u8_url":"$$end=",$$replace="m3u8_url":"$$replacewith=$$add=
 
+#EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6a/4f/c4/6a4fc461-eb4c-936c-d5dd-9c878429f7e1/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg"  ,FOX 5 [Option-2]
+http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:-1  tvg-logo="http://www.newstvliveonline.com/wp-content/uploads/2019/04/WXIX-FOX-19-News.jpg" , FOX 19 (WXIX)
 https://livestream.com/accounts/12136532/events/3798375/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false|agentdesktopnodown$$start="m3u8_url":"$$end=",$$replace="m3u8_url":"$$replacewith=$$add=
 
@@ -366,6 +370,14 @@ http://w2.11223344.host/live/fbn/chunks.m3u8|Referer=http://123tvnow.com/watch/f
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:-1  tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" ,Fox Deportes HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1058.m3u8$http-refferer=http://localhost
+#EXTINF:-1  tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/09/foxnewsedge-150x150.jpg" ,Fox Edge 1
+https://foxedge-lh.akamaihd.net/i/EDGE1_1@320288/master.m3u8
+#EXTINF:-1  tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/09/foxnewsedge-150x150.jpg" ,Fox Edge 2
+https://foxedge-lh.akamaihd.net/i/EDGE2_1@320289/master.m3u8
+#EXTINF:-1  tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/09/foxnewsedge-150x150.jpg" ,Fox Edge 3
+https://foxedge-lh.akamaihd.net/i/EDGE3_1@576167/master.m3u8
+#EXTINF:-1  tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/09/foxnewsedge-150x150.jpg" ,Fox Edge 4
+https://foxedge-lh.akamaihd.net/i/EDGE4_1@576168/master.m3u8
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/FOX-1.png" ,FOX HD(USA VPN REQUIRE)
 http://ustvgo.net/fox-hd-live-streaming/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fox-269x151.png" ,FOX Network 
@@ -487,6 +499,8 @@ http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1  tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" ,Kids TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1  tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFMnazs_v6YCQ/company-logo_200_200/0?e=2159024400&v=beta&t=ZMlq40fUHz0RT5459RrPErIZNksnHGhYMgVcAQ5N_Iw" ,KPNX
+https://b_kpnx-f.akamaihd.net/i/KPNXBreaking_1@398330/master.m3u8
 #EXTINF:-1  tvg-logo="http://machammond.org/wp-content/uploads/2016/04/koolTV.gif" ,Kool TV
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/21e009_71562791c9ce4d4789a0dc6e3492edf4~mv2.png" ,Liarias Live TV
@@ -507,6 +521,8 @@ http://espn.tmedia.me/cache/lghn.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 ,MBL HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1085.m3u8$http-refferer=http://localhost
+#EXTINF:-1  tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" ,MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/master.m3u8
 #EXTINF:-1  tvg-logo="http://www.mellotv.com/uc/Mello%20icon.png" ,Mello TV  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1048.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://www.mellotv.com/uc/Mello%20icon.png" ,MelloTV  (Retry iF Failed)-Wuffy_Player
@@ -584,7 +600,7 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
 #EXTINF:-1  tvg-logo="http://www.destinationnetwork.com/images/channel_logos/notv_logo.png" ,New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://content.secondspace.com/ktvz/img/KTVZ_Widget.png" ,NewsChannel 21 (Oregon)
+#EXTINF:-1  tvg-logo="http://content.secondspace.com/ktvz/img/KTVZ_Widget.png" ,NewsChannel 21 KTVZ (Oregon)
 http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" ,NEWSMAX TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
@@ -868,6 +884,8 @@ http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m
 http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/e97c417/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fa9%2F3c%2F9f6b133f451482c4fb7d56b6f94c%2Fwptv-geographic-locator-600x200.png" ,WPTV 5
 https://www.wptv.com/live|agentdesktopnodown$$start=data-m3u8="$$end=">$$replace=data-m3u8="$$replacewith=$$add=
+#EXTINF:-1  tvg-logo="https://s.wsj.net/media/wsj-live-blog-icon.jpg" ,WSJ Live
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 #EXTINF:-1  tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png" ,WVIT 30 News (Hartford)
 http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
 #EXTINF:-1  tvg-logo="http://img.new.livestream.com/events/000000000068bfe1/9052fb7b-99ee-4dcd-87fd-c1102bc5592e_30000.jpg" ,WXXV News 25 (Mississippi)
