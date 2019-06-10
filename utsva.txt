@@ -898,3 +898,9 @@ http://w2.11223344.host/live/wwe/chunks.m3u8|Referer=http://123tvnow.com/watch/w
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1041.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1007733108848746497/dYaGH1_G_400x400.jpg" ,YTV  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1040.m3u8$http-refferer=http://localhost
+
+
+#EXTINF:-1 ,12345678
+http://ustvgo.net/ae-networks-live-streaming-free/|webpronoagent$$start=src=\"http$$end=\" $$replace=src=\"$$replacewith=$$add=
+#EXTINF:-1 ,123456789
+http://ustvgo.net/amc-live/|webpronoagent$$start=src=\"http$$end=\" $$replace=src=\"$$replacewith=$$add=
