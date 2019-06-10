@@ -5,7 +5,7 @@ https://clipart.wpblink.com/sites/default/files/wallpaper/slang-clipart/143532/s
 #EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , LATEST VERSION V1.38. Click here to UPDATE FROM GOOGLE PLAY IF NEEDED.
 http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
 
-#EXTINF:-1  tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , LATEST VERSION V1.37. Click here to AUTO-UPDATE IF NEEDED.
+#EXTINF:-1  tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , LATEST VERSION V1.38. Click here to AUTO-UPDATE IF NEEDED.
 http://www.mediafire.com/file/svg6q8ba9a9w6l5/UK_TV_%2526_Radio_V1.38.apk/file|externalupdate
 
 #EXTINF:-1 tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" , EPG All channels
