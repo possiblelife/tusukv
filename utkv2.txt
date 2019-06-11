@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://images.cdn1.stockunlimited.net/clipart/united-kingdom-flag-icon_1579695.jpg" , ===UK TV===-
+#EXTINF:-1  tvg-logo="https://images.cdn1.stockunlimited.net/clipart/united-kingdom-flag-icon_1579695.jpg" , ===UK TV===
 https://clipart.wpblink.com/sites/default/files/wallpaper/slang-clipart/143532/slang-clipart-appropriate-language-143532-1239542.jpg|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , LATEST VERSION V1.38. Click here to UPDATE FROM GOOGLE PLAY IF NEEDED.
@@ -164,7 +164,7 @@ https://tvpc.us/player/embed.php?cid=13|agentnodown$$start=src: "$$end=" $$repla
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/e4_uk.png" ,E4 [Option-2](Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1144.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="http://picon.webhop.net/logo/uk/channel_4_more4_uk.png" ,More 4 [Option-1]
-https://easyview.eu/watch.php?stream=more4|
+https://easyview.eu/watch.php?stream=more4|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://picon.webhop.net/logo/uk/channel_4_more4_uk.png" ,More 4 [Option-2] [USE INTERNAL Player for better stability (ONLY V1.38)]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/97?protocol=hlsagentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_more4.jpg" ,More 4 [Option-3] (Retry if failed)-Long Buffer-Wuffy_Player
