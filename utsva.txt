@@ -344,17 +344,12 @@ http://ustvgo.net/food-network-live-free/|webpronoagent$$start=file: '$$end='\$$
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1108.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg" ,Food TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6a/4f/c4/6a4fc461-eb4c-936c-d5dd-9c878429f7e1/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg"  ,FOX 5
-https://livestream.com/accounts/2363281/events/1763520/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=true|agentdesktopnodown$$start="m3u8_url":"$$end=",$$replace="m3u8_url":"$$replacewith=$$add=
-
-#EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6a/4f/c4/6a4fc461-eb4c-936c-d5dd-9c878429f7e1/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg"  ,FOX 5 [Option-2]
+#EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6a/4f/c4/6a4fc461-eb4c-936c-d5dd-9c878429f7e1/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg"  ,FOX 5 (use External Player)
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
-#EXTINF:-1  tvg-logo="http://www.newstvliveonline.com/wp-content/uploads/2019/04/WXIX-FOX-19-News.jpg" , FOX 19 (WXIX)
-https://livestream.com/accounts/12136532/events/3798375/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false|agentdesktopnodown$$start="m3u8_url":"$$end=",$$replace="m3u8_url":"$$replacewith=$$add=
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/WTXF-TV_logo.png/150px-WTXF-TV_logo.png" , FOX 29 (WTXF)
-https://livestream.com/accounts/6370754/events/2591860/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false|agentdesktopnodown$$start="m3u8_url":"$$end=",$$replace="m3u8_url":"$$replacewith=$$add=
-
+#EXTINF:-1  tvg-logo="http://www.newstvliveonline.com/wp-content/uploads/2019/04/WXIX-FOX-19-News.jpg" , FOX 19 (WXIX) (use External Player)
+http://api.new.livestream.com/accounts/12136532/events/3798375/live.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/WTXF-TV_logo.png/150px-WTXF-TV_logo.png" , FOX 29 (WTXF) (use External Player)
+http://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/WPMT_43_logo.png" ,FOX 43 [Option-2] (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1083.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/foxbusiness.jpg" ,Fox Business [Option-2]- ONLY WITH V1.26
