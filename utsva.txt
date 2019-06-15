@@ -8,8 +8,6 @@ http://play.google.com/store/apps/details?id=com.usatvradio|updatelink
 #EXTINF:-1  tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , LATEST VERSION V1.26. Click here to AUTO-UPDATE IF NEEDED.
 http://www.mediafire.com/file/bn1b74cautilc1w/USA_TV_%2526_Radio_V1.26.apk/file|externalupdate
 
-#EXTINF:-1  tvg-logo="https://judimoreo.com/wordpress/wp-content/uploads/2015/02/important.jpg" , IMPORTANT: SOME CHANNELS NOW REQUIRE USA VPN TO WORK(Due to claim)!!!! 
-https://judimoreo.com/wordpress/wp-content/uploads/2015/02/important.jpg|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1 tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" , EPG All channels
 https://www.ontvtonight.com/guide/|webepg zoom=100 scroll=0,200
