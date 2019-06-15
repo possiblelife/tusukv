@@ -379,7 +379,7 @@ https://foxedge-lh.akamaihd.net/i/EDGE4_1@576168/master.m3u8
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/FOX-1.png" ,FOX HD- ONLY WITH V1.26
 http://ustvgo.net/fox-hd-live-streaming/|webpronoagent$$start=source: '$$end=',$$replace=source: '$$replacewith=$$add=
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fox-269x151.png" ,FOX Network 
-https://ok.ru/videoembed/1082883382883?nochat=1&autoplay=1|agentnodown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
+http://w2.11223344.host/live/foxnw/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-network/
 #EXTINF:-1  tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/foxnews.jpg" ,Fox News [Option-2]- ONLY WITH V1.26
 http://ustvgo.net/fox-news-live-streaming-free/|webpronoagent$$start=source: '$$end=',$$replace=source: '$$replacewith=$$add=
 #EXTINF:-1 tvg-logo="http://jlcauvin.com/wp-content/uploads/2014/04/fox-news-logo.png" ,FOX NEWS [Option-3]
@@ -789,7 +789,7 @@ https://ok.ru/videoembed/1082887708259?nochat=1&autoplay=1|agentnodown$$start=Pl
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC [Option-4]
 http://80.80.160.168/live/2/live.m3u8
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT [Option-1] 
-https://ok.ru/videoembed/1125218786915?nochat=1&autoplay=1|agentnodown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
+http://w2.11223344.host/live/tnt/chunks.m3u8|Referer=http://123tvnow.com/watch/tnt/
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT [Option-2] - ONLY WITH V1.26
 http://ustvgo.net/tnt/|webpronoagent$$start=source: '$$end=',$$replace=source: '$$replacewith=$$add=
 #EXTINF:-1  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/tnt.png" ,TNT HD [Option-3](Retry iF Failed)-Wuffy_Player
