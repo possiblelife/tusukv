@@ -232,6 +232,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/996.m3u8$http-refferer=
 https://content-aeui1.uplynk.com/9eaf12caf19b45528150b0cd69747e83/d.m3u8
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/Cooking_Channel.svg/revision/latest/scale-to-width-down/200?cb%3D20180329192431" ,Cooking Channel (TEMPORARY OFFLINE)
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" ,Cooking Channel (The Outdoor)
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 #EXTINF:-1  tvg-logo="https://panpages.blob.core.windows.net/pp-kh/kh/logo_images/original/1369901249/1401172?1369901249" ,CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 #EXTINF:-1  tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812be1c249444e05d09cc50/featuredImage.jpg" ,Crime Network
@@ -360,6 +362,8 @@ https://www.livenewswatch.com/fox-business.html|agentnodown$$start=file: "https$
 http://w2.11223344.host/live/fbn/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-business/
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png/revision/latest?cb%3D20160119140528" ,Fox Comedy (TEMPORARY OFFLINE)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png/revision/latest?cb%3D20160119140528" ,Fox Comedy [Option-2]
+https://1.ip2stream.icu/live/fox_comedy_hd/chunks.m3u8
 #EXTINF:-1  tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" ,Fox Deportes HD  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1058.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/09/foxnewsedge-150x150.jpg" ,Fox Edge 1
