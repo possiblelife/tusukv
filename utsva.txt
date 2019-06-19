@@ -293,13 +293,15 @@ http://video.oct.dc.gov/out/u/DKN.m3u8
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" ,E!  
 http://w3.11223344.host/live/enw/chunks.m3u8|Referer=http://123tvnow.com/watch/e-network/
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-1]
-http://123tvnow.com/watch/espn/|fullweb
+https://tvpc.us/player/embed.php?cid=384|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-2]
 http://80.80.160.168/live/6/2500000/live.m3u8
 #EXTINF:-1   tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-3](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1017.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN HD [Option-4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/998.m3u8$http-refferer=http://localhost
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-5]
+http://123tvnow.com/watch/espn/|fullweb
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News [Option-1]
 http://123tvnow.com/watch/espn-news/|fullweb
 #EXTINF:-1  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News US HD [Option-2](Retry iF Failed)-Wuffy_Player
@@ -309,10 +311,11 @@ http://123tvnow.com/watch/espn-u-espnu/|fullweb
 #EXTINF:-1  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnu-269x151.png" ,ESPN U HD [Option-2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1037.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-1]
-http://123tvnow.com/watch/espn2/|fullweb
+https://tvpc.us/player/embed.php?cid=385|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 #EXTINF:-1  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN 2 [Option-2](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1082.m3u8$http-refferer=http://localhost
-
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-3]
+http://123tvnow.com/watch/espn2/|fullweb
 #EXTINF:-1  tvg-logo="https://cbsphilly.files.wordpress.com/2019/04/et-live-stacked-transparent.png" ,ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/EVINE_Logo.png" ,Evine
