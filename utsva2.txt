@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA TV===-
+#EXTINF:-1  tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA TV===
 https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2b/a4/62/2ba4620b-8049-4ea9-97ba-06f9792b8d70/pr_source.png/246x0w.jpg|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , LATEST VERSION V1.30. Click here to UPDATE FROM GOOGLE PLAY IF NEEDED.
@@ -71,7 +71,7 @@ http://w1.11223344.host/live/amc/chunks.m3u8|Referer=http://123tvnow.com/watch/a
 #EXTINF:-1  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC HD [Option-4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/968.m3u8$http-refferer=http://localhost 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-5] 
-http://watchfomny.tv/Menu2/Pop3/Pop-iframe-progtv-01.php?https://hindimean.com/tk/amc.php|webdig
+http://watchfomny.tv/Menu2/Pop3/Pop-iframe-progtv-01.php?https://hindimean.com/tk/amc.php|webdeskdig
 #EXTINF:-1  tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" ,American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9e3a8364-6268-caa1-53ee-fccdbca198aa-Hero%20Optional%201560x878.jpg" ,Anime All Day
@@ -304,7 +304,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/998.m3u8$http-refferer=
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-5]
 http://123tvnow.com/watch/espn/|webdig
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-6]
-http://watchfomny.tv/Menu2/Pop3/Pop-iframe-progtv-01.php?https://hindimean.com/tk/espn.php|webdig
+http://watchfomny.tv/Menu2/Pop3/Pop-iframe-progtv-01.php?https://hindimean.com/tk/espn.php|webdeskdig
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News [Option-1]
 http://123tvnow.com/watch/espn-news/|webdig
 #EXTINF:-1  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News US HD [Option-2](Retry iF Failed)-Wuffy_Player
@@ -320,7 +320,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1082.m3u8$http-refferer
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-3]
 http://123tvnow.com/watch/espn2/|webdig
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-4]
-http://watchfomny.tv/Menu2/Pop3/Pop-iframe-progtv-01.php?https://hindimean.com/tk/espn2.php|webdig
+http://watchfomny.tv/Menu2/Pop3/Pop-iframe-progtv-01.php?https://hindimean.com/tk/espn2.php|webdeskdig
 #EXTINF:-1  tvg-logo="https://cbsphilly.files.wordpress.com/2019/04/et-live-stacked-transparent.png" ,ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/EVINE_Logo.png" ,Evine
@@ -543,7 +543,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1087.m3u8$http-refferer
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/mtv-269x151.png" ,MTV 
 http://123tvnow.com/watch/mtv/|webdig
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/mtv-269x151.png" ,MTV [Option-2]
-http://watchfomny.tv/Menu2/Pop3/Pop-iframe-progtv-01.php?https://hindimean.com/tk/mtv.php|webdig
+http://watchfomny.tv/Menu2/Pop3/Pop-iframe-progtv-01.php?https://hindimean.com/tk/mtv.php|webdeskdig
 #EXTINF:-1  tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" ,Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://img.new.livestream.com/events/0000000000278eea/f6faaf88-4543-4f49-b8ee-763a5ed5ecf8_170x255.png" ,MY9 TV (WWOR)[Option-1]
