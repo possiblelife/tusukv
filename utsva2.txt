@@ -70,6 +70,8 @@ http://ustvgo.net/amc-live/|webprodig
 http://w1.11223344.host/live/amc/chunks.m3u8|Referer=http://123tvnow.com/watch/amc/
 #EXTINF:-1  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC HD [Option-4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/968.m3u8$http-refferer=http://localhost 
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-5] 
+http://watchfomny.tv/Menu2/Pop3/Pop-iframe-progtv-01.php?https://hindimean.com/tk/amc.php|webdig
 #EXTINF:-1  tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" ,American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9e3a8364-6268-caa1-53ee-fccdbca198aa-Hero%20Optional%201560x878.jpg" ,Anime All Day
@@ -301,6 +303,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1017.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/998.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-5]
 http://123tvnow.com/watch/espn/|webdig
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-6]
+http://watchfomny.tv/Menu2/Pop3/Pop-iframe-progtv-01.php?https://hindimean.com/tk/espn.php|webdig
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News [Option-1]
 http://123tvnow.com/watch/espn-news/|webdig
 #EXTINF:-1  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News US HD [Option-2](Retry iF Failed)-Wuffy_Player
@@ -315,6 +319,8 @@ https://tvpc.us/player/embed.php?cid=385|agentnodown$$start=src: "$$end=" $$repl
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1082.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-3]
 http://123tvnow.com/watch/espn2/|webdig
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-4]
+http://watchfomny.tv/Menu2/Pop3/Pop-iframe-progtv-01.php?https://hindimean.com/tk/espn2.php|webdig
 #EXTINF:-1  tvg-logo="https://cbsphilly.files.wordpress.com/2019/04/et-live-stacked-transparent.png" ,ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/EVINE_Logo.png" ,Evine
