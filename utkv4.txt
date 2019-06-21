@@ -12,9 +12,6 @@ http://www.mediafire.com/file/svg6q8ba9a9w6l5/UK_TV_%2526_Radio_V1.38.apk/file|e
 https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
 
 
-#EXTINF:-1 ,amc
-https://www.streamlive.to/view/76666/AMC-(SD)|webdeskdig
-
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-1] 
 https://tvpc.us/player/embed.php?cid=5|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-2]
