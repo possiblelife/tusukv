@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://images.cdn1.stockunlimited.net/clipart/united-kingdom-flag-icon_1579695.jpg" , ===UK TV===
+#EXTINF:-1  tvg-logo="https://images.cdn1.stockunlimited.net/clipart/united-kingdom-flag-icon_1579695.jpg" , ===UK TV===-
 https://clipart.wpblink.com/sites/default/files/wallpaper/slang-clipart/143532/slang-clipart-appropriate-language-143532-1239542.jpg|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , LATEST VERSION V1.38. Click here to UPDATE FROM GOOGLE PLAY IF NEEDED.
@@ -39,7 +39,7 @@ http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/103?
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1254.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/bbc_four_uk.png" ,BBC 4 [Option-4]
 https://tvpc.us/player/embed.php?cid=15|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [Option-1] 
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [Option-1] [TEMPORARY OFFLINE]
 http://185.53.163.214:5678/ipvt_009
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [Option-2] [USE INTERNAL Player for better stability (ONLY V1.38)]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/29?protocol=hls
@@ -75,7 +75,7 @@ https://easyview.eu/watch.php?stream=bbc-parliament|agentnodown$$start=hls.loadS
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1666?protocol=hls
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament [Option-3] (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1238.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-1] 
+#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-1]  [TEMPORARY OFFLINE]
 http://185.53.163.214:5678/ipvt_010
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-2]
 https://tvpc.us/player/embed.php?cid=12|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
@@ -85,11 +85,11 @@ https://easyview.eu/watch.php?stream=bbc-news|agentnodown$$start=hls.loadSource(
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3227?protocol=hls 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC alba [Option-1]  (MXPLAYER ONLY)
 https://easyview.eu/watch.php?stream=bbc-alba|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC alba [Option-2] 
+#EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC alba [Option-2]  [TEMPORARY OFFLINE]
 http://185.53.163.214:5678/ipvt_008
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC alba [Option-3](Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1239.m3u8$http-refferer=http://localhost
-#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-1] 
+#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-1]  [TEMPORARY OFFLINE]
 http://185.53.163.214:5678/ipvt_001
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-2]
 https://tvpc.us/player/embed.php?cid=62|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
@@ -105,7 +105,7 @@ https://tvpc.us/player/embed.php?cid=223|agentnodown$$start=src: "$$end=" $$repl
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1817?protocol=hls
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-1]
 https://tvpc.us/player/embed.php?cid=7|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-2] 
+#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-2]  [TEMPORARY OFFLINE]
 http://185.53.163.214:5678/ipvt_002
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-3]  (MXPLAYER ONLY)
 https://easyview.eu/watch.php?stream=itv2|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -119,7 +119,7 @@ https://tvpc.us/player/embed.php?cid=222|agentnodown$$start=src: "$$end=" $$repl
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1820?protocol=hls
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-1]
 https://tvpc.us/player/embed.php?cid=8|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-2] 
+#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-2]  [TEMPORARY OFFLINE]
 http://185.53.163.214:5678/ipvt_003
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-3]  (MXPLAYER ONLY)
 https://easyview.eu/watch.php?stream=itv3|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -133,7 +133,7 @@ https://tvpc.us/player/embed.php?cid=224|agentnodown$$start=src: "$$end=" $$repl
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1823?protocol=hls
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 4 [Option-1] 
 https://tvpc.us/player/embed.php?cid=9|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 4 [Option-2] 
+#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 4 [Option-2]  [TEMPORARY OFFLINE]
 http://185.53.163.214:5678/ipvt_004
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 4 [Option-3]  (MXPLAYER ONLY)
 https://easyview.eu/watch.php?stream=itv4|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -147,7 +147,7 @@ http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1826
 https://tvpc.us/player/embed.php?cid=225|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg" ,CITV   (MXPLAYER ONLY)
 https://easyview.eu/watch.php?stream=citv|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_be.png" ,ITV Be. [Option-1] 
+#EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_be.png" ,ITV Be. [Option-1]  [TEMPORARY OFFLINE]
 http://185.53.163.214:5678/ipvt_005
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_be.png" ,ITV Be. [Option-2] [USE INTERNAL Player for better stability (ONLY V1.38)]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3211?protocol=hls
@@ -159,9 +159,9 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1150.m3u8$http-refferer
 https://tvpc.us/player/embed.php?cid=226|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="https://www.tvwise.co.uk/wp-content/uploads/2014/11/ITV-Encore-300x165.jpg" ,ITV encore (Retry if failed)-Long Buffer-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1227.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="https://www.nijobs.com/Logos/UTV-6700.gif" ,UTV
+#EXTINF:-1 tvg-logo="https://www.nijobs.com/Logos/UTV-6700.gif" ,UTV [TEMPORARY OFFLINE]
 http://185.53.163.214:5678/ipvt_012
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/f8/eb/6a/f8eb6ac1-8f46-8ae7-3747-4903479feecc/mzl.mqrfxpka.png/246x0w.jpg" ,STV
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/f8/eb/6a/f8eb6ac1-8f46-8ae7-3747-4903479feecc/mzl.mqrfxpka.png/246x0w.jpg" ,STV [TEMPORARY OFFLINE]
 http://185.53.163.214:5678/ipvt_011
 
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 [Option-1]
