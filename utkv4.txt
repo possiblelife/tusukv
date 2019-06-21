@@ -13,6 +13,9 @@ https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
 
 #EXTINF:-1 ,AMC 2 (NOOO)
 https://www.streamlive.to/view/76666/AMC-(SD)|webdeskalldig
+#EXTINF:-1 ,AMC 2 
+https://www.streamlive.to/view/76666/AMC-(SD)|weballdig
+
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-1] 
 https://tvpc.us/player/embed.php?cid=5|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-2]
