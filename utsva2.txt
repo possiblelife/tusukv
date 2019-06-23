@@ -20,7 +20,7 @@ http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlis
 #EXTINF:-1  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E [Option-2]
 http://ustvgo.net/ae-networks-live-streaming-free/|webprodig
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E [Option-3] 
-https://ok.ru/videoembed/644794359395?nochat=1&autoplay=1|agentnodown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
+https://ok.ru/videoembed/644794359395?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E HD [Option-4](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1015.m3u8$http-refferer=http://localhost
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML._SY355_.png" ,ABC NEWS [Option-1]
@@ -411,7 +411,7 @@ http://ustvgo.net/freeform-channel-live-free/|webprodig
 #EXTINF:-1  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/freeform-269x151.png" ,Freeform Channel [Option-2]
 https://tvpc.us/player/embed.php?cid=388|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/freeform-269x151.png" ,Freeform (ABC Family) [Option-4]
-https://ok.ru/videoembed/1082884824675?nochat=1&autoplay=1|agentnodown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
+https://ok.ru/videoembed/1082884824675?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5938888cd045ffce74cf9048/featuredImage.jpg" ,FrontDoor 
 https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/07/Fuel_HD.jpg" ,FUEL HD  (Retry iF Failed)-Wuffy_Player
@@ -784,7 +784,7 @@ http://ustvgo.net/tlc-live-free/|webprodig
 #EXTINF:-1  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC [Option-2]
 https://tvpc.us/player/embed.php?cid=396|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC [Option-3]
-https://ok.ru/videoembed/1082887708259?nochat=1&autoplay=1|agentnodown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
+https://ok.ru/videoembed/1082887708259?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC [Option-4]
 http://80.80.160.168/live/2/live.m3u8
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT [Option-1] 
