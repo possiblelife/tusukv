@@ -901,4 +901,4 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1040.m3u8$http-refferer
 
 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs1-269x151.png" ,FOX Sports 1 ()
-http://123tvnow.com/watch/fox-sports-1/|webdig
+http://123tvnow.com/watch/fox-sports-1/|weballdig
