@@ -932,7 +932,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1032.m3u8$http-refferer
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK 
 http://w6.11223344.host/live/wwe/chunks.m3u8|Referer=http://123tvnow.com/watch/wwe-network/
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK [Option-2]
-http://watchfomny.tv/Video/United-kindom/Sky-sport/pop-sky-4__Scale=05.php?http://crichd.ws/update/wwe.php|webdeskdig
+http://crichd.ws/update/wwe.php|webdeskdig
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1057642489912258560/BDfNLJz7_400x400.jpg" ,Yes Network  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1041.m3u8$http-refferer=http://localhost
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1007733108848746497/dYaGH1_G_400x400.jpg" ,YTV  (Retry iF Failed)-Wuffy_Player
