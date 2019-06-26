@@ -300,6 +300,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/974.m3u8$http-refferer=
 http://video.oct.dc.gov/out/u/DKN.m3u8
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" ,E!  
 http://w6.11223344.host/live/enw/chunks.m3u8|Referer=http://123tvnow.com/watch/e-network/
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" ,E! (Alternate) 
+http://123tvnow.com/watch/e-network/|weballdig
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-1]
 https://tvpc.us/player/embed.php?cid=384|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-2]
