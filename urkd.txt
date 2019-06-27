@@ -71,6 +71,8 @@ http://media-sov.musicradio.com:80/CapitalMP3
 http://ice-the.musicradio.com/CapitalMP3
 #EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/43/08/34749/c300.png" ,96.1 S-Dance
 http://91.121.122.94:8003/listen.pls
+#EXTINF:-1 tvg-logo="https://static.lbc.co.uk/d/lbc.co.uk/img/ukrp/ukrp_default_screen.png" ,97.3 LBC
+http://media-the.musicradio.com/LBCLondon
 #EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/1a/2d/34751/c300.png" ,98.1 Mystic Radio
 http://178.32.222.61:6008/listen.pls
 #EXTINF:-1 tvg-logo="http://ttstation.com/wp-content/uploads/2016/04/131333.png" ,98.3 RJR London
