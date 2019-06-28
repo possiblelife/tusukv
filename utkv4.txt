@@ -11,6 +11,7 @@ http://www.mediafire.com/file/rp12371zth75d3b/UK_TV_%2526_Radio_V1.41.apk/file|e
 #EXTINF:-1 tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" , EPG All channels
 https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
 
+
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-1] 
 https://tvpc.us/player/embed.php?cid=5|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1  tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-2]
@@ -236,9 +237,7 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera [Option-3] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4?protocol=hls
 #EXTINF:0 tvg-logo="http://picon.webhop.net/logo/usa/amazing_facts.png" ,Amazing Facts TV
-https://www.youtube.com/watch?v=b-qSJWbmsW0
-#EXTINF:0  tvg-logo="http://picon.webhop.net/logo/usa/amazing_facts.png" ,Amazing Facts TV
-http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
+https://www.youtube.com/watch?v=Rexcifab2z0
 #EXTINF:-1  tvg-logo="http://media-assets-03.thedrum.com/cache/images/thedrum-prod/public-drum_basic_article-120126-main_images-Capital_FM_Network_logo_0--default--300.png"  ,Capital TV Radio
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
 #EXTINF:0  tvg-logo="http://bul-tv.com/wp-content/uploads/2015/01/city-tv-logo.jpg"  ,CITY
