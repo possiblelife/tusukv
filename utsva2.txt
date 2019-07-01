@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA TV===
+#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA TV===-
 https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2b/a4/62/2ba4620b-8049-4ea9-97ba-06f9792b8d70/pr_source.png/246x0w.jpg|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , Message From Developer
@@ -89,8 +89,14 @@ https://hindimean.com/tk/amc.php|webdeskdig
 https://www.streamlive.to/view/76666/AMC-(SD)|webdeskalldig
 #EXTINF:-1 group-title="Movies"   tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" ,American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/animal-planet-269x151.png" ,ANIMAL PLANET
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/animal-planet-269x151.png" ,ANIMAL PLANET [Option-1]
 http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/animal-planet-269x151.png" ,Animal Planet [Option-2]
+http://w6.11223344.host/live/animalplanet/chunks.m3u8|Referer=http://123tvnow.com/watch/animal-planet/
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/animal-planet-269x151.png" ,Animal Planet [Option-3]
+http://ustvgo.net/animal-planet-live/|webprodig
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/animal-planet-269x151.png" ,ANIMAL PLANET HD [Option-4]
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1077.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Kids"   tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9e3a8364-6268-caa1-53ee-fccdbca198aa-Hero%20Optional%201560x878.jpg" ,Anime All Day 
 http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="USA"   tvg-logo="https://pbs.twimg.com/profile_images/419141811785854978/kYXvz2bh_400x400.jpeg" ,Arirang
@@ -191,6 +197,12 @@ http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
 #EXTINF:-1 group-title="Music"  tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Capital-TV-NEW.png" ,CAPITAL TV  [Option-2] (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1052.m3u8$http-refferer=http://localhost
+#EXTINF:-1 group-title="Kids" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cartoon-network-269x151.png" ,Cartoon Network [Option-1]
+http://ustvgo.net/cartoon-network-live-streaming-free/|webprodig
+#EXTINF:-1 group-title="Kids" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cartoon-network-269x151.png" ,Cartoon Network [Option-2]
+http://w6.11223344.host/live/ctnw/chunks.m3u8|Referer=http://123tvnow.com/watch/cartoon-network/
+#EXTINF:-1 group-title="Kids" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cartoon-network-269x151.png" ,CARTOON NETWORK [Option-3](Retry iF Failed)-Wuffy_Player
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/970.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Sports"   tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b3a4249444e05d09cc46/featuredImage.jpg" ,Cars 
 http://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/CatholicTV_logo.png/220px-CatholicTV_logo.png" ,CATHOLIC TV
@@ -356,8 +368,16 @@ http://ustvgo.net/discovery-channel-live/|webprodig
 http://w8.11223344.host/live/discovery/chunks.m3u8|Referer=http://123tvnow.com/watch/discovery-channel/
 #EXTINF:-1 group-title="Documentary"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Discovery-269x151.png" ,Discovery Channel [Option-4] 
 http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1 group-title="Documentary"   tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Discovery-269x151.png" ,DISCOVERY HD [Option-5]
+#EXTINF:-1 group-title="Documentary"   tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Discovery-269x151.png" ,DISCOVERY HD [Option-5](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/973.m3u8$http-refferer=http://localhost
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" ,DISCOVERY SCIENCE [Option-1]
+http://w4.11223344.host/live/sci/chunks.m3u8|Referer=http://123tvnow.com/watch/science-channel/
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" ,Discovery Science HD [Option-2](Retry iF Failed)-Wuffy_Player
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1106.m3u8$http-refferer=http://localhost
+#EXTINF:-1 group-title="Kids" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/disney-269x151.png" ,Disney Channel [Option-1]
+http://ustvgo.net/disney-channel-live-streaming-free/|webprodig
+#EXTINF:-1 group-title="Kids" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/disney-269x151.png" ,Disney Channel [Option-2]
+http://w4.11223344.host/live/disney/chunks.m3u8|Referer=http://123tvnow.com/watch/disney-channel/
 #EXTINF:-1 group-title="Local"   tvg-logo="https://oct.dc.gov/sites/default/files/styles/medium/public/dc/sites/office%20of%20cable%20television/page_content/images/DCN.gif" ,District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/p5rREUo.png" ,Ditty TV
@@ -651,6 +671,12 @@ http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/835_300.png" ,Golf Channel [Option-2]
 http://ustvgo.net/golf-channel-live-free/|webprodig
+#EXTINF:-1 group-title="Movies" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg" ,Hallmark Channel  [Option-1]
+http://ustvgo.net/hallmark-channel-live-streaming-free/|webprodig
+#EXTINF:-1 group-title="Movies" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg" ,HALLMARK [Option-2](Retry iF Failed)-Wuffy_Player
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1112.m3u8$http-refferer=http://localhost
+#EXTINF:-1 group-title="Movies" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/HMM_logo_black-700x245.jpg" ,Hallmark Movies & Mysteries 
+http://ustvgo.net/hallmark-movies-mysteries-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="Movies"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/hbo-269x151.png" ,HBO [Option-1]
 http://w8.11223344.host/live/hbo/chunks.m3u8|Referer=http://123tvnow.com/watch/hbo/
 #EXTINF:-1 group-title="Movies"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/hbo-269x151.png" ,HBO [Option-2]
@@ -697,6 +723,12 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1053.m3u8$http-refferer
 http://stitcher.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="Sports"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" ,Impact Wrestling 
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery  [Option-1]
+http://ustvgo.net/investigation-discovery-live-streaming-free/|webprodig
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery [Option-2]
+http://w4.11223344.host/live/id/chunks.m3u8|Referer=http://123tvnow.com/watch/investigation-discovery/
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery [Option-3] (Retry iF Failed)-Wuffy_Player
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1001.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="USA"   tvg-logo="https://indiewaveentertainment.com/wp-content/uploads/2017/09/logo_square.png" ,IndieWave
 https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg" ,InfoWars [Option-1]
@@ -832,6 +864,12 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="Documentary"  tvg-logo="http://carolebeves.com/wp-content/uploads/2014/10/nat-geo-wild-canada-logo-partner-page-WHITE-BG.jpg" ,Nat Geo Wild [Option-1]
 http://ustvgo.net/nat-geo-wild-live/|webprodig 
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic [Option-1]
+http://ustvgo.net/national-geographic-live/|webprodig
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic [Option-2]
+http://w4.11223344.host/live/natgeo/chunks.m3u8|Referer=http://123tvnow.com/watch/national-geographic/
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic [Option-3](Retry iF Failed)-Wuffy_Player
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1114.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Sports"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA TV [Option-1] 
 http://w6.11223344.host/live/nbatv/chunks.m3u8|Referer=http://123tvnow.com/watch/nba-tv/
 #EXTINF:-1 group-title="Sports"   tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA SD [Option-2](Retry iF Failed)-Wuffy_Player
