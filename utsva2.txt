@@ -318,7 +318,7 @@ httphost://$http-raw=http://123tvnow.com/watch/cnn/$http-refferer=http://123tvno
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/9.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="News"  tvg-id="10142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN US HD [Option-8](Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1039.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Live cam",Columbus Circle
+#EXTINF:-1 group-title="Live cam" ,Columbus Circle
 http://video3.earthcam.com/fecnetwork/6427.flv/HasBahCa.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="10149"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/comedy-central-269x151.png" ,Comedy Central [Option-1] 
 http://ustvgo.net/comedy-central-live-free/|webprodig
@@ -462,11 +462,11 @@ http://c6.123cdn.host/live/enw/chunks.m3u8|Referer=http://123tvnow.com/watch/e-n
 http://123tvnow.com/watch/e-network/|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="10989"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" ,E! [Alternate-2] 
 httphost://$http-raw=http://123tvnow.com/watch/e-network/$http-refferer=http://123tvnow.com/watch/e-network/
-#EXTINF:-1 group-title="Live cam",EartCam Street
+#EXTINF:-1 group-title="Live cam" ,EartCam Street
 http://video3.earthcam.com/fecnetwork/9974.flv/.m3u8
-#EXTINF:-1 group-title="Live cam",EarthCam SouthView
+#EXTINF:-1 group-title="Live cam" ,EarthCam SouthView
 http://video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
-#EXTINF:-1 group-title="Live cam",Eiffel cam HD
+#EXTINF:-1 group-title="Live cam" ,Eiffel cam HD
 http://video3.earthcam.com/fecnetwork/eiffelcamHD.flv/playlist.m3u8
 #EXTINF:-1  group-title="USA" tvg-logo="https://myescambia.com/favicon.png" ,Escambia County TV
 http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
@@ -538,7 +538,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1049.m3u8$http-refferer
 https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_is35xshu/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/1f/02/8d/1f028dc9-0feb-8280-37a0-ae9eaf62dde2/mzl.whuoihua.png/1200x630bb.jpg" ,FLORIDA CH
 https://wowzaprod4-i.akamaihd.net/hls/live/254057/persisTarget_2443575804_tvweb1_247_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Live cam",Florida Everglades
+#EXTINF:-1 group-title="Live cam" ,Florida Everglades
 http://video3.earthcam.com/fecnetwork/14162.flv/playlist.m3u8
 #EXTINF:-1 group-title="Movies"   tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" ,Flicks of Fury 
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -591,7 +591,7 @@ http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 http://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://localtvkdvr.files.wordpress.com/2016/03/fox31denver-kdvr.jpg" ,Fox 31 Denver (KDVR)
 http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="" group-title="Local",FOX 32 [720p]
+#EXTINF:-1 group-title="News" tvg-logo="" group-title="Local" ,FOX 32 [720p]
 http://api.new.livestream.com/accounts/6370732/events/live/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://media.fox32chicago.com/lakana-fox-global/theme/images/wfld/placeholder-4x3.jpg" ,Fox 32 Chicago (WFLD)
 http://api.new.livestream.com/accounts/6370732/events/2591850/live.m3u8
@@ -712,13 +712,13 @@ https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/glob
 http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
 #EXTINF:-1 group-title="Sports"   tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg" ,Glory Kickboxing 
 http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 group-title="USA",GOOD LIFE 45
+#EXTINF:-1 group-title="USA" ,GOOD LIFE 45
 http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
 #EXTINF:-1 group-title="Movies"   tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59120e45877eeb3760b3d9da/featuredImage.jpg" ,Gravitas Movies 
 http://stitcher.pluto.tv/stitch/hls/channel/59120e45877eeb3760b3d9da/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="USA"   tvg-logo="https://www.omgtv.rocks/sites/default/files/styles/medium/public/Greenbelt%20Municipal%20Access%20TV.jpg?itok=LdwhjXro" ,Greenbelt Municipal Access TV
 http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
-#EXTINF:-1 group-title="Local",GREENSBORO TV NETWORK
+#EXTINF:-1 group-title="Local" ,GREENSBORO TV NETWORK
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="14899"   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/835_300.png" ,Golf Channel [Option-2]
 http://ustvgo.net/golf-channel-live-free/|webprodig
@@ -752,7 +752,7 @@ httphost://$http-raw=http://123tvnow.com/watch/hgtv/$http-refferer=http://123tvn
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1064.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="USA"  ,HIFI  (Retry iF Failed)-Wuffy_Player
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1113.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Live cam",High Line
+#EXTINF:-1 group-title="Live cam" ,High Line
 http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary"  tvg-id="14771" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-2]
 http://ustvgo.net/history-channel-live/|webprodig 
@@ -824,7 +824,7 @@ https://x.tribtv.com/namp/player/ktla.html|agentnodown$$start=			var vidsource =
 #EXTINF:-1 group-title="USA" ,KTVB
 http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/DMQFY0I.jpg" ,LA36
-http://granicusliveus6-a.akamaihd.net/la36/G0019_002/chunklist_w1442089063.m3u8?fluxustv.m3u8
+http://granicusliveus6-a.akamaihd.net/la36/G0019_002/chunklist_w1442089063.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://www.lhcaz.gov/images/default-source/topics/cvb.png" ,Lake Havasu City 4
 https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
@@ -835,16 +835,16 @@ http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t6
 #EXTINF:-1 group-title="Local" ,LEOMINSTER TV EDUCATIONAL [720p]
 http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" ,Leominster TV Government
-http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Local",LEOMINSTER TV GOVERNMENT [720p]
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Local" ,LEOMINSTER TV GOVERNMENT [720p]
 http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" ,Leominster TV Public
 http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="Local",LEOMINSTER TV PUBLIC
+#EXTINF:-1 group-title="Local" ,LEOMINSTER TV PUBLIC
 http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="http://www.kyforward.com/wp-content/uploads/2017/11/City-Logo-Files_Web_Horse_Blue_1.png" ,Lex TV
 http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
-#EXTINF:-1 group-title="Local",LEX TV
+#EXTINF:-1 group-title="Local" ,LEX TV
 http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
 
 
