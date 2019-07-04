@@ -1358,7 +1358,7 @@ http://ustvgo.net/tv-land-live-free/|webprodig
 http://123tvnow.com/watch/tvland/|webdig
 #EXTINF:-1 group-title="Movies"   tvg-id="16123" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/TVLand-269x151.png" ,TV Land [Option-3] [Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/tvland/$http-refferer=http://123tvnow.com/watch/tvland/
-#EXTINF:-1 group-title="USA",TV84
+#EXTINF:-1 group-title="USA" ,TV84
 http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TWiT.svg/130px-TWiT.svg.png" ,TWiT
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
