@@ -1345,6 +1345,14 @@ http://80.80.160.168/live/3/500000/live.m3u8
 http://c8.123cdn.host/live/trutv/chunks.m3u8|Referer=http://123tvnow.com/watch/trutv/
 #EXTINF:-1 group-title="USA"  tvg-id="10153" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/TruTV-269x151.png" ,TruTV 
 httphost://$http-raw=http://123tvnow.com/watch/trutv/$http-refferer=http://123tvnow.com/watch/trutv/
+#EXTINF:-1 group-title="Sports"  tvg-id="I400.11182.schedulesdirect.org" tvg-logo="https://sport-tv-guide.live/images/stations/a188.png" ,tsn1
+http://free.crichd.online/embed2.php?id=tsn1|webdeskalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="I401.18990.schedulesdirect.org" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" ,tsn2
+http://free.crichd.online/embed2.php?id=tsn2|webdeskalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="I402.90118.schedulesdirect.org" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" ,tsn3
+http://free.crichd.online/embed2.php?id=tsn3|webdeskalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="I403.90122.schedulesdirect.org" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" ,tsn4
+http://free.crichd.online/embed2.php?id=tsn4|webdeskalldig
 #EXTINF:-1 group-title="USA"   tvg-logo="https://i.imgur.com/3QAaaZj.png" ,TSTV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Current_logo_for_TUFF_TV.png" ,Tuff TV
