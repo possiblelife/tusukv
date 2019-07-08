@@ -124,6 +124,8 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/f4/a2/91f4a2f1-e6e3-bb27-4642-3f49dc25542d/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg" ,Beach TV - 30A
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 group-title="Sports"  tvg-id="76942" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" ,Bein Sports USA
+https://cricfree.stream/watch/site/update/beinusa|webdeskalldig
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/MyRpTRc.jpg" ,Benicia TV
 https://granicusliveus6-a.akamaihd.net/benicia/G1750_002/chunklist.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="63236" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bet-269x151.png" ,Bet
