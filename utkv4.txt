@@ -197,7 +197,7 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 #EXTINF:-1 tvg-id="Al Jazeera English" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera [Option-3] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4?protocol=hls
 #EXTINF:0 tvg-logo="http://picon.webhop.net/logo/usa/amazing_facts.png" ,Amazing Facts TV
-https://www.youtube.com/watch?v=Rexcifab2z0
+https://www.youtube.com/watch?v=dXx3t0gBwBM
 #EXTINF:-1 tvg-id="Capital TV" tvg-logo="http://media-assets-03.thedrum.com/cache/images/thedrum-prod/public-drum_basic_article-120126-main_images-Capital_FM_Network_logo_0--default--300.png"  ,Capital TV Radio
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
 #EXTINF:0  tvg-logo="http://bul-tv.com/wp-content/uploads/2015/01/city-tv-logo.jpg"  ,CITY
