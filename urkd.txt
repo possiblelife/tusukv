@@ -153,6 +153,14 @@ http://188.40.135.197:8434/listen.
 http://5.63.151.52:7044/stream
 #EXTINF:-1  tvg-logo="http://hearme.fm/wp-content/uploads/2018/02/logo.png" ,HearMe.fm - Cool Jazz
 http://78.129.251.150:8181/stream
+#EXTINF:-1  tvg-logo="https://static.heart.co.uk/assets_v4r/dist/combined/img/logos/network_red.png" ,Heart 96-107
+http://media-ice.musicradio.com/HeartUK
+#EXTINF:-1  tvg-logo="https://static.heart.co.uk/assets_v4r/dist/combined/img/logos/heart80s_red.png" ,Heart 80s
+http://media-ice.musicradio.com/Heart80s
+#EXTINF:-1  tvg-logo="https://static.heart.co.uk/assets_v4r/dist/combined/img/logos/extra_red.png" ,Heart Extra
+http://media-ice.musicradio.com/Heartextra
+#EXTINF:-1  tvg-logo="https://static.heart.co.uk/assets_v4r/dist/combined/img/logos/dance_red.png" ,Heart Dance
+https://media-ssl.musicradio.com/HeartDance
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kiss_Network_logo.svg/1200px-Kiss_Network_logo.svg.png" ,Kiss FM 100.0 London
 http://5.63.151.52:7038/stream
 #EXTINF:-1  tvg-logo="http://streamitter.com/images/logos/C7M93S.png" ,Mondo Bongo Radio
