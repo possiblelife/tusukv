@@ -202,12 +202,14 @@ https://www.youtube.com/watch?v=dXx3t0gBwBM
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
 #EXTINF:0  tvg-logo="http://bul-tv.com/wp-content/uploads/2015/01/city-tv-logo.jpg"  ,CITY
 https://tv.city.bg/play/tshls/citytv/3.m3u8
-#EXTINF:-1 tvg-id="Heart TV" tvg-logo="http://channelpear.com/images/media/11526.jpg"  ,Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.createandcraft.com/gb/common/images/brand-shop/about-us/logo.png" ,Create and Craft
+https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+#EXTINF:-1  tvg-logo="https://tv-english.club/wp-content/uploads/2014/11/logo-ECTV_%D1%88%D0%B8%D1%80%D0%BE%D0%BA%D0%BE%D0%B5-205x205.jpg" ,English Club TV
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Gemporia_tv_in.png" ,Gemporia
+https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
 #EXTINF:-1 tvg-id="The Jewellery Channel" tvg-logo="https://www.digitaltveurope.com/files/2015/11/Jewellery-Maker.jpeg"  ,Jewellery Maker
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/21e009_71562791c9ce4d4789a0dc6e3492edf4~mv2.png" ,Liarias Live TV
-http://app.viloud.tv/player/embed/channel/b161a8e5c4558959895d8e9cd9ccb56d?autoplay=1&volume=1&controls=1&title=0&share=0&random=0|webepg zoom=100 scroll=0,0
 #EXTINF:-1 tvg-id="London Live" tvg-logo="http://picon.webhop.net/logo/uk/london_live_uk.png"  ,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 #EXTINF:0  tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/11/ndtv001.jpg" ,NDTV
@@ -215,30 +217,35 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:0  tvg-logo="http://picon.webhop.net/logo/france/nrj_fr_hits.png"  ,NRJ HITS
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist.m3u8
 #EXTINF:0  tvg-logo="http://uniquetv.xyz/Box_Upfront_%2528Black%2529.png"  ,Box Upfront
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxupfront%2f
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,boxupfront-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxupfront%2f
 #EXTINF:0  tvg-logo="http://okteve.com/wp-content/uploads/media/9780c200f43ce5e791d82cd19120d67d.jpeg"  ,Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+http://csm-e-cebxeurxaws101j8-7g4lrjcdqlrr.tls1.yospace.com/csm/extlive/boxplus01,boxhits-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:0  tvg-id="The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png"  ,The Box
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fthebox%2f
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fthebox%2f
 #EXTINF:0 tvg-id="Kiss TV" tvg-logo="http://uband.co.uk/wp-content/uploads/2011/12/kiss-logo.png"  ,Kiss TV
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fkiss%2f
+http://csm-e-cebxeurxaws101j8-7g4lrjcdqlrr.tls1.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fkiss%2f
 #EXTINF:0 tvg-id="Magic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Magic_TV.png"  ,Magic
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fmagic%2f
+http://csm-e-cebxeurxaws101j8-7g4lrjcdqlrr.tls1.yospace.com/csm/extlive/boxplus01,magic-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fmagic%2f
 #EXTINF:0 tvg-id="Kerrang! TV" tvg-logo="https://pbs.twimg.com/profile_images/566297265078140929/F3mh9XMq_400x400.jpeg"  ,KERRANG
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fkerrang%2f
+http://csm-e-cebxeurxaws101j8-7g4lrjcdqlrr.tls1.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fkerrang%2f
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Peace_TV_logo_2015.jpeg" ,Peace tv 
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-id="QVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png"  ,QVC Style
+#EXTINF:-1 tvg-id="QVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png"  ,QVC
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" ,QVC UK +1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png"  ,QVC Style
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png"  ,QVC Beauty
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png"  ,QVC 3
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png"  ,QVC 4
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png"  ,QVC Extra
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="RT" tvg-logo="https://yt3.ggpht.com/-rYFeIFqsCxg/AAAAAAAAAAI/AAAAAAAAAAA/lSsBZ4jxgsg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"  ,Russia Today UK
-https://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
+https://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
 #EXTINF:0 tvg-id="Sky News" tvg-logo="https://www.dejero.com/assets/files/news/373/skynews-2__medium.jpg"  ,Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0 tvg-id="Sky News" tvg-logo="https://www.dejero.com/assets/files/news/373/skynews-2__medium.jpg"  ,Sky News (HD)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+
 #EXTINF:0  tvg-logo="http://tvnews.by/uploads/posts/2014-10/1413546329_World_Fashion.png"  ,World Fashion
 https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
