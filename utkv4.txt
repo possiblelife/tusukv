@@ -2,7 +2,7 @@
 #EXTINF:-1  tvg-logo="https://images.cdn1.stockunlimited.net/clipart/united-kingdom-flag-icon_1579695.jpg" , ===UK TV===-
 https://clipart.wpblink.com/sites/default/files/wallpaper/slang-clipart/143532/slang-clipart-appropriate-language-143532-1239542.jpg|webepg zoom=100 scroll=0,200
 
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , LATEST VERSION V2.01. Click here to UPDATE FROM GOOGLE PLAY IF NEEDED.
+#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , LATEST VERSION V2.02. Click here to UPDATE FROM GOOGLE PLAY IF NEEDED.
 http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
 
 #EXTINF:-1  tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , LATEST VERSION V2.02. Click here to AUTO-UPDATE IF NEEDED.
