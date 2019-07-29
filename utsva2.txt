@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA TV===-
+#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA TV===
 https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2b/a4/62/2ba4620b-8049-4ea9-97ba-06f9792b8d70/pr_source.png/246x0w.jpg|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , Message From Developer
@@ -477,7 +477,7 @@ http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
 http://c6.123cdn.host/live/enw/chunks.m3u8|Referer=http://123tvnow.com/watch/e-network/
 #EXTINF:-1 group-title="Entertainment" tvg-id="10989"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" ,E! [Alternate] 
 http://123tvnow.com/watch/e-network/|weballdig
-#EXTINF:-1 group-title="Music" tvg-id="42567" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/vh1-269x151.png" ,VH1 [Alternate2]
+#EXTINF:-1 group-title="Entertainment" tvg-id="10989"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" ,E! [Alternate2]
 httphost://$http-raw=http://123tvnow.com/watch/e-network/$http-refferer=http://123tvnow.com/watch/e-network/
 #EXTINF:-1 group-title="Live cam" ,EartCam Street
 https://videos3.earthcam.com/fecnetwork/9974.flv/.m3u8
