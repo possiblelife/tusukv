@@ -1367,8 +1367,6 @@ http://sv8.dailymotion.com.1cdn.host/live/trutv/chunks.m3u8|Referer=http://123tv
 httphost://$http-raw=http://123tvnow.com/watch/trutv/$http-refferer=http://123tvnow.com/watch/trutv/
 #EXTINF:-1 group-title="Sports"  tvg-id="I400.11182.schedulesdirect.org" tvg-logo="https://sport-tv-guide.live/images/stations/a188.png" ,tsn1
 http://free.crichd.online/embed2.php?id=tsn1|webdeskalldig
-#EXTINF:-1 group-title="Sports"  tvg-id="I400.11182.schedulesdirect.org" tvg-logo="https://sport-tv-guide.live/images/stations/a188.png" ,tsn1 [Option-2] [TEST]
-https://ustreamix.org/go.php?interlink=a436acb3ffc0e0e4c2304b7ce2443915&backpath=/embed.php?id=tsn1&ref=callback&time=1564408801|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-id="I401.18990.schedulesdirect.org" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" ,tsn2
 http://free.crichd.online/embed2.php?id=tsn2|webdeskalldig
 #EXTINF:-1 group-title="Sports"  tvg-id="I402.90118.schedulesdirect.org" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" ,tsn3
