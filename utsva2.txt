@@ -441,7 +441,9 @@ http://123tvnow.com/watch/disney-channel/|weballdig
 httphost://$http-raw=http://123tvnow.com/watch/disney-channel/$http-refferer=http://123tvnow.com/watch/disney-channel/
 #EXTINF:-1 group-title="Kids" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" ,Disney Junior (Retry iF Failed)-Wuffy_Player [OFFLINE]
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1139.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest/scale-to-width-down/250?cb=20171202144958" ,Disney XD (Retry iF Failed)-Wuffy_Player [OFFLINE]
+#EXTINF:-1 group-title="Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest/scale-to-width-down/250?cb=20171202144958" ,Disney XD [Option-1]
+http://ustvgo.tv/disneyxd/|webprodig
+#EXTINF:-1 group-title="Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest/scale-to-width-down/250?cb=20171202144958" ,Disney XD [Option-2] (Retry iF Failed)-Wuffy_Player [OFFLINE]
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1140.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Local"   tvg-logo="https://oct.dc.gov/sites/default/files/styles/medium/public/dc/sites/office%20of%20cable%20television/page_content/images/DCN.gif" ,District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
