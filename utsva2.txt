@@ -1542,6 +1542,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1042.m3u8$http-refferer
 http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="http://livedetroit.tv/TVPops/images/WPHRst.jpg" ,WHPR TV 33 Detroit
 http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+#EXTINF:-1 group-title="USA"   tvg-logo="https://ewscripps.brightspotcdn.com/66/27/029bd99448cfa4da9ff491782b11/wkbw-geographic-locator-600x200.png" ,WKBW BUFFALO
+https://content.uplynk.com/channel/7a8b777a12f646f7b38d917ec0301595.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFTg5S-zo0oYA/company-logo_200_200/0?e=2159024400&v=beta&t=X4nXF1PyDspT4KqdYNnnufDFVytXGU7NPehyqdNEvVg" ,WLOX TV Biloxi
 https://api.new.livestream.com/accounts/11595500/events/3707011/live.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/WPTV.png" ,WPTV 5
