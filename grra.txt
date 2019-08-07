@@ -37,8 +37,6 @@ http://diesi.live24.gr/diesi1013
 http://213.239.206.179:8850/;stream.mp3
 #EXTINF:-1 ,SFERA FM 102.2
 http://netradio.live24.gr/sfera4132
-#EXTINF:-1 ,RADIO BLACKMAN 103.1
-http://213.239.206.179:8184/;.mp3
 #EXTINF:-1 ,SPORT24 103.3
 http://sport24radio.live24.gr/sport24radio
 #EXTINF:-1 ,HOT FM 104.6
@@ -59,8 +57,6 @@ http://icecast.902.gr:8000/904
 http://s10.voscast.com:9940/;
 #EXTINF:-1 ,RADIO THESS 94.5
 http://eu7.fastcast4u.com:6156/;
-#EXTINF:-1 ,EROTIKOS FM 94.8
-http://eu7.fastcast4u.com:6154/;
 #EXTINF:-1 ,COSMORADIO 95.1
 http://sc5.greekstream.net:5000/;
 #EXTINF:-1 ,NEXT 96.1
@@ -103,8 +99,6 @@ http://stream2.proradio.gr:8004/erotokritos
 http://144.76.92.208:8840/;listen.pls
 #EXTINF:-1 ,GAYDOS FM 88.8
 http://streaming.multiserver.gr:8044/;
-#EXTINF:-1 ,METRO FM 89.2
-http://37.59.14.77:8152/1
 #EXTINF:-1 ,VENUS FM 91
 http://eco.onestreaming.com:8534/;listen.pls
 #EXTINF:-1 ,SKY FM 91.3
@@ -123,8 +117,6 @@ http://147.27.23.40:8000/;
 http://46.4.37.132:9382/;listen.pls
 #EXTINF:-1 ,ORIGINAL 94.4
 http://eco.onestreaming.com:8105/;
-#EXTINF:-1 ,KENTRO KARDIAS 95
-http://37.59.14.77:8146/stream
 #EXTINF:-1 ,DRS 95.3
 http://drs953.live24.gr/drs953
 #EXTINF:-1 ,FLY RADIO 95.9
@@ -143,20 +135,12 @@ http://eco.onestreaming.com:8237/live
 http://stream2.proradio.gr:8004/sfera987
 #EXTINF:-1 ,CITY FM HPAKLEIO 100
 http://eco.onestreaming.com:8173/;
-#EXTINF:-1 ,MAX FM XANIA 100.2
-http://stream2.proradio.gr:8004/maxfm?1441972115985.aac
-#EXTINF:-1 ,STUDIO 19 101.9
-http://37.59.14.77:8159/stream
 #EXTINF:-1 ,LOVE RADIO KPHTHS 102.8
 http://loveradio-her.live24.gr/loveradio-her2
 #EXTINF:-1 ,RADIO YPAPXW 103.7
 http://www.onradio.gr/url_mp/433.asx
-#EXTINF:-1 ,ATHLETIC RADIO 104.2
-http://eco.onestreaming.com:8052/;
 #EXTINF:-1 ,RADIO 1044 104.4
 http://10440fm.live24.gr/10440fm
-#EXTINF:-1 ,STUDIO FM1 TEI KPHTHS 105.4
-http://fm1.teicrete.gr:8000/live
 #EXTINF:-1 ,COOL FM 106.8
 http://listen.onestreaming.com/asx/coolfm.asx
 #EXTINF:-1 ,YDPOGEIOS 106.9
@@ -193,16 +177,10 @@ http://live.e-streaming.eu:8110/;
 http://stream2.proradio.gr:8004/ionionfmf?type=.flv
 #EXTINF:-1 ,SPORT FM PATRAS 96.3
 http://netradio.live24.gr/sportfmpatras
-#EXTINF:-1 ,LOUTPAKI FM 96.9
-http://s3.onweb.gr:8510/;
 #EXTINF:-1 ,MUST FM 97
 http://shoutcast.24radio.gr:8012/;listen.pls
-#EXTINF:-1 ,BEST FM KALAMATAS 97.3
-http://stream.24100.com:8000/bestfm
 #EXTINF:-1 ,DIAYLOS 99.2
 http://213.239.206.179:7060/;
-#EXTINF:-1 ,FASMA 99.7
-http://67.212.165.106:8104/;listen.pls
 #EXTINF:-1 ,BRAKE FM 100.8
 http://stream2.proradio.gr:8004/brake?type=.flv
 #EXTINF:-1 ,PARADISE RADIO 101.6
@@ -215,8 +193,6 @@ http://213.239.206.179:7027/;liste.pls
 http://go.erad.io/asx/ermionida.asx
 #EXTINF:-1 ,IEPA MHTPOPOLH APGOLIDOS 105.2
 http://listen.onestreaming.com/asx/imargol1052.asx
-#EXTINF:-1 ,PALMOS POPOS 105.4
-http://s6.onweb.gr:8010/;
 #EXTINF:-1 ,MINI FM 107.1
 http://eco.onestreaming.com:8142/;
 #EXTINF:-1 ,PHASE RADIO 87.7
@@ -249,22 +225,16 @@ http://proradio.gr:8004/radio981m
 http://xroma985.live24.gr/xroma985
 #EXTINF:-1 ,AEPAS FM 99.5
 http://ice.streamcloud.mediacdn.com/aerasfm995
-#EXTINF:-1 ,PADIO ISTIAIA 100.4
-http://www.radioistiaia.gr/music1.mp3
 #EXTINF:-1 ,AVANTI XALKIDAS 101.2
 http://netradio.live24.gr/metrofm1012xalkida
 #EXTINF:-1 ,HIT FM XALKIDAS 103.5
 http://94.23.62.189:5650/stream
-#EXTINF:-1 ,PADIO EYBOIA 104.1
-http://178.21.169.118:8012/live
 #EXTINF:-1 ,PADIO AMFISA 104.4
 http://stream3.468.gr:8104/;listen.pls
 #EXTINF:-1 ,PADIO DISTOMO 106.1
 http://radio.icehosting.com:8091
 #EXTINF:-1 ,RADIO IN 106.5
 http://go.radioin.audio:7002/;listen.pls
-#EXTINF:-1 ,MAD RADIO AGPINIOY 107
-http://37.59.14.77:7038/;listen.pls
 #EXTINF:-1 ,BEST RADIO IWANNINA 90.7
 http://907ioannina.live24.gr/907ioannina
 #EXTINF:-1 ,PADIO PWMAIOS 94
@@ -281,14 +251,10 @@ http://eco.onestreaming.com:8153/stream
 http://live.skyradio.gr:9920/;
 #EXTINF:-1 ,PIGASOS APTA 106
 http://ice.streamcloud.mediacdn.com/pegasosarta-128mp3
-#EXTINF:-1 ,RYTHMOS FM IWANNINA 107.5
-http://radio.pointer.gr:8013/live
 #EXTINF:-1 ,PINDOS FM 107.7
 http://netradio.live24.gr/radiopindos1077
 #EXTINF:-1 ,STAR FM KEPKYPA 88.8
 http://s1.onweb.gr:8800/;
-#EXTINF:-1 ,O AGIOS SPYPIDON 91.2
-http://eco.onestreaming.com:8516/;
 #EXTINF:-1 ,ELEFTHEPH PADIOFWNIA KEFALONIAS - EASY KEFALONIAS 93.9
 http://eco.onestreaming.com:8072/;
 #EXTINF:-1 ,RYTHMOS ZAKYNTHOS 94.3
@@ -301,14 +267,10 @@ http://s1.onweb.gr:8422/;
 http://sc2.streamwithq.com:8018/;
 #EXTINF:-1 ,SUPER FM 88
 http://eco.onestreaming.com:8354/;
-#EXTINF:-1 ,PADIO KSANTHI 93.5
-http://78.47.56.126:8022/;
 #EXTINF:-1 ,STATUS RADIO 94.2
 http://eco.onestreaming.com:8131/;
 #EXTINF:-1 ,IEPA MHTPOPOLH MAPWNEIAS KAI KOMOTHNHS 95.8
 http://ice.streamcloud.mediacdn.com/imkomotini
-#EXTINF:-1 ,TOP FM KSANTHHS 96.9
-http://eco.onestreaming.com:8226/;
 #EXTINF:-1 ,NRG ALEKSANDPOYPOYLHS 98.5
 http://eco.onestreaming.com:8452/;listen.pls
 #EXTINF:-1 ,SFAIPIKOS 99.3
