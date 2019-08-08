@@ -63,8 +63,8 @@ http://.....
 rtmp://stream2.svbllc.com:1935/4e/4e.stream
 #EXTINF:-1 tvg-id="4Ε" tvg-logo="https://goo.gl/2eMR7A" ,4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ACTION24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png" ,Action 24 (Εξωτερικό player)
-https://www.dailymotion.com/video/x61fbhs|webdig
+#EXTINF:-1 tvg-id="ACTION24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png" ,Action 24
+https://www.dailymotion.com/embed/video/x61fbhs?logo=0&hideInfos=1&related=0&autoplay=1|webdig
 #EXTINF:-1 tvg-id="AIGAIOTV" tvg-logo="https://goo.gl/3EsuCz" ,AIGAIO
 http://ad.mysisli.com/live/aigaiotvonline/index.m3u8
 #EXTINF:-1 tvg-id="ALERT" tvg-logo="https://www.digea.gr/images/channel-icons/ALERT.jpg" ,ALERT
