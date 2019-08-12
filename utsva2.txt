@@ -1232,6 +1232,8 @@ https://tvpc.us/player/embed.php?cid=378|agentnodown$$start=src: "$$end=" $$repl
 http://ustvgo.net/pbs-live/|webprodig
 #EXTINF:-1 group-title="Kids"  tvg-id="I284.11460.schedulesdirect.org"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL._SY355_.png" ,PBS [Option-3]
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
+#EXTINF:-1 group-title="Kids"  tvg-id="I284.11460.schedulesdirect.org"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL._SY355_.png" ,PBS WNED [Option-4] (USA ONLY)
+https://live-cdn.pbskids.org/out/u/aim/wned.m3u8
 #EXTINF:-1 group-title="Kids"  tvg-id="I284.11460.schedulesdirect.org"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL._SY355_.png" ,P.B.S Kids [Option-4]- Wuffy_Player[USE VPN IF STUCK LOADING]
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1045.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="USA"   tvg-logo="http://judygold.com/wp-content/uploads/2015/04/people-tv-300x235.jpg" ,People TV 
