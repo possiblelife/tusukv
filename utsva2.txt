@@ -122,6 +122,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.babytv.com/Uploads/Editor/Images/IconsAPP-site-gradiant.jpg",Baby TV- Wuffy_Player[USE VPN IF STUCK LOADING]
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1122.m3u8$http-refferer=http://localhost
+#EXTINF:-1 group-title="Live cam" ,Banff Live Cam, Alberta, Canada
+https://www.youtube.com/watch?v=9HwSNgcdQ7k 
 #EXTINF:-1 group-title="News"  tvg-id="18332" tvg-logo="https://pmcdeadline2.files.wordpress.com/2013/12/bbc-america-logo__130325101911-275x144.jpg" ,BBC America [Option-1]
 https://tvpc.us/player/embed.php?cid=381|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="News"  tvg-id="18332"  tvg-logo="https://pmcdeadline2.files.wordpress.com/2013/12/bbc-america-logo__130325101911-275x144.jpg" ,BBC America [Option-2] 
@@ -186,6 +188,8 @@ https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
 https://videos3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8
 #EXTINF:-1 group-title="Live cam" ,Broadway South View NY
 https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/HasBahCa.m3u8
+#EXTINF:-1 group-title="Live cam" ,Brooks Falls - Katmai National Park, Alaska
+https://www.youtube.com/watch?v=c4C1c4z8hTQ
 #EXTINF:-1 group-title="Local" tvg-logo="http://phonebookoftheworld.com/usa/newyork/city/seal-of-buffalo.jpg" ,Buffalo Gov't TV
 http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" ,Buzzr
@@ -272,6 +276,8 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/971.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Sports" tvg-id="16365"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/dc/c4/8f/dcc48f79-3697-1935-9cb9-bdeba30d3575/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" ,CBS Sports (USA VPN REQUIRE) 
 https://sportshq-mediapackage-fastly.cbsaavideo.com/out/v1/9bce4c1bfbde4f8bbba602a090ec77e3/master.m3u8
+#EXTINF:-1 group-title="Live cam" ,Central Memorial Park, Calgary, Alberta
+https://www.youtube.com/watch?v=xsRDTfuksyI
 #EXTINF:-1 group-title="USA" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg" ,Cerritos TV3
 http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="http://cgtv.la/wp-content/uploads/2015/01/cgtv-logo-300x137.png" ,CGTN [Option-1]
@@ -289,7 +295,7 @@ http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1051.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" ,Charge! (USA ONLY)
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 group-title="USA" ,Charging Bull
+#EXTINF:-1 group-title="Live cam" ,Charging Bull
 https://videos3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
 #EXTINF:-1 group-title="News"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Cheddar_logo.png/220px-Cheddar_logo.png" ,Cheddar News
 https://live.chdrstatic.com/cheddar/index.m3u8
@@ -907,10 +913,6 @@ http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_
 http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="http://www.kyforward.com/wp-content/uploads/2017/11/City-Logo-Files_Web_Horse_Blue_1.png" ,Lex TV
 http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
-#EXTINF:-1 group-title="Local" ,LEX TV
-http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
-
-
 #EXTINF:-1 group-title="USA"   tvg-logo="https://static.wixstatic.com/media/21e009_71562791c9ce4d4789a0dc6e3492edf4~mv2.png" ,Liarias Live TV
 http://app.viloud.tv/player/embed/channel/b161a8e5c4558959895d8e9cd9ccb56d?autoplay=1&volume=1&controls=1&title=0&share=0&random=0|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Movies"  tvg-id="10918"   tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Lifetime-269x151.png" ,Lifetime Channel [Option-1]
@@ -923,6 +925,8 @@ http://123tvnow.com/watch/lifetime-tv/|weballdig
 httphost://$http-raw=http://123tvnow.com/watch/lifetime-tv/$http-refferer=http://123tvnow.com/watch/lifetime-tv/
 #EXTINF:-1 group-title="Movies"  tvg-id="18480"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Lifetime-269x151.png" ,Lifetime Movie Network HD [Option-4]- Wuffy_Player[USE VPN IF STUCK LOADING]
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1035.m3u8$http-refferer=http://localhost
+#EXTINF:-1 group-title="Live cam" ,Live Train 24/7 Train Driver's View, Cab Ride, Winter Train Live View Front Window View
+https://www.youtube.com/watch?v=XWY1gJKCoD0
 #EXTINF:-1 group-title="USA"   tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" ,Live Stream
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
 #EXTINF:-1 group-title="USA" ,LIFEVISION TV
@@ -1153,6 +1157,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1152.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1153.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="USA"   tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aec96ec5126c2157123c657/featuredImage.jpg" ,Nosey 
 http://stitcher.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 group-title="Live cam" ,Northern Lights
+https://www.youtube.com/watch?v=CwriDd8STdI
 #EXTINF:-1 group-title="USA"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ZKK0s2FAL._SY355_.png" ,NRA TV
 https://stream1.nra.tv/nratv/ngrp:nratvall/chunklist_b1144576.m3u8
 #EXTINF:-1 group-title="USA"  ,NRB NETWORK
@@ -1265,7 +1271,8 @@ https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="Movies" ,RETRO TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-
+#EXTINF:-1 group-title="Live cam" ,Revelstoke, B.C. Canada - Virtual Railfan LIVE
+https://www.youtube.com/watch?v=X6KzfTT3Hko
 #EXTINF:-1 group-title="Sports"  tvg-logo="https://performanceracing.com/sites/default/files/news/revn_1.jpg" ,REV'N
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/index_1_av-p.m3u8?sd=6&rebase=on
 #EXTINF:-1 group-title="News"  tvg-logo="https://pbs.twimg.com/profile_images/896407502396555265/2iw0BBPr_400x400.jpg" ,Reuters
@@ -1501,6 +1508,8 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://pbs.twimg.com/profile_images/648868667615133696/kPvB4ye4.png" ,VTV Channel 6 Colorado
 http://hls.ksl.com/t/strata/playlist.m3u8
+#EXTINF:-1 group-title="Live cam" ,Waikiki Beach Meditation
+https://www.youtube.com/watch?v=L2Qln30b2nE
 #EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" ,WBZ 4 News (Boston)
 https://ctslive-i.akamaihd.net/hls/live/676495/WBZTV/master.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" ,WBZ TV LIVE 2
@@ -1548,6 +1557,8 @@ https://content.uplynk.com/channel/7a8b777a12f646f7b38d917ec0301595.m3u8
 https://api.new.livestream.com/accounts/11595500/events/3707011/live.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/WPTV.png" ,WPTV 5
 https://www.wptv.com/live|agentdesktopnodown$$start=data-m3u8="$$end=">$$replace=data-m3u8="$$replacewith=$$add=
+#EXTINF:-1 group-title="Live cam" ,Wrasse and Anthias Fish Cam
+https://www.youtube.com/watch?v=HYknTgcw2BM
 #EXTINF:-1 group-title="USA"   tvg-logo="https://s.wsj.net/media/wsj-live-blog-icon.jpg" ,WSJ Live
 http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 #EXTINF:-1 group-title="News"   tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png" ,WVIT 30 News (Hartford)
