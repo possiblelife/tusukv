@@ -1,4 +1,4 @@
-#EXTINF:-1  tvg-logo="https://panathinaikoskosmos.files.wordpress.com/2011/09/greek-flag-in-tv.jpg?w=288&h=242" , ===ΤΗΛΕΟΡΑΣΗ===-
+#EXTINF:-1  tvg-logo="https://panathinaikoskosmos.files.wordpress.com/2011/09/greek-flag-in-tv.jpg?w=288&h=242" , ===ΤΗΛΕΟΡΑΣΗ===
 http://www.allaboutandroid.gr/wp-content/uploads/2015/02/10362372_319264588280423_4566848749308524368_n.jpg|webview zoom=100 scroll=0,0
 
 
@@ -95,7 +95,7 @@ https://www.diontv.gr/webtv/|webdig
 https://diktyotv.gr/live/|webdig
 #EXTINF:-1 tvg-id="ENA CHANNEL" tvg-logo="http://enachannel.gr/uploads/logo.png" ,ENA CHANNEL
 http://176.9.123.140:1935/1c/stream/master.m3u8
-#EXTINF:-1 tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png" ,EPSILON TV
+#EXTINF:-1 tvg-id="EPSILON" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png" ,EPSILON TV
 https://neotv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 tvg-id="ETV" tvg-logo="https://www.digea.gr/images/channel-icons/E%20TV%20EPG.jpg" ,E TV
 http://176.9.30.75:1935/live/epsilon/playlist.m3u8
