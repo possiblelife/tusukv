@@ -1,4 +1,4 @@
-#EXTINF:-1  tvg-logo="https://panathinaikoskosmos.files.wordpress.com/2011/09/greek-flag-in-tv.jpg?w=288&h=242" , ===ΤΗΛΕΟΡΑΣΗ===
+#EXTINF:-1  tvg-logo="https://panathinaikoskosmos.files.wordpress.com/2011/09/greek-flag-in-tv.jpg?w=288&h=242" , ===ΤΗΛΕΟΡΑΣΗ===-
 http://www.allaboutandroid.gr/wp-content/uploads/2015/02/10362372_319264588280423_4566848749308524368_n.jpg|webview zoom=100 scroll=0,0
 
 
@@ -33,8 +33,8 @@ https://webtv.ert.gr/ertplay-4-live/|youtubedig
 https://streaming.onetv.gr/show/onetv.m3u8
 #EXTINF:-1 tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-#EXTINF:-1 tvg-id="Mega" tvg-logo="http://greektv.pbworks.com/f/MEGA.png" ,MEGA (Youtube)
-http://www.megatv.com/webtv/default.asp?catid=33880&pubid=33005683|agentnodown$$start=https://www.youtube.com/embed$$end="$$replace=https://www.youtube.com/embed/$$replacewith=https://www.youtube.com/watch?v=$$add=
+#EXTINF:-1 tvg-id="Mega" tvg-logo="http://greektv.pbworks.com/f/MEGA.png" ,MEGA
+https://vermantia.secure2.footprint.net/egress/bhandler/telmacortmp/vermantia/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/w37uJo1.png" ,MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (Youtube)
