@@ -80,7 +80,7 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BEST TV" tvg-logo="http://4.bp.blogspot.com/-CSt3UGbihus/U_D9TOsr3CI/AAAAAAAAZv4/z1L9SCenBKo/s1600/best_tv.png" ,BEST TV 
 https://best-tv.gr/HLS/hls/best/index.m3u8
 #EXTINF:-1 tvg-id="BLUE SKY" tvg-logo="https://www.digea.gr/images/channel-icons/BLUESKY.png" ,BLUE SKY  (Youtube)
-http://blueskytv.gr/live-tv/|agentnodown$$start=https://www.youtube.com/embed$$end=?feature$$replace=embed/$$replacewith=watch?v=$$add= 
+http://blueskytv.gr/live-tv/|agentnodown$$start=https://www.youtube.com/embed$$end=?feature$$replace=embed/$$replacewith=watch?v=$$add=
 #EXTINF:-1 tvg-id="CHANNEL 9" tvg-logo="https://www.channel9.gr/images/logo_channel9_header.png" ,ΚΑΝΑΛΙ 9 
 https://server.tvdj.info:8222/channel9/channel9/playlist.m3u8
 #EXTINF:-1 tvg-id="CORFU TV" tvg-logo="https://www.digea.gr/images/channel-icons/CORFU%20TV%20EPG.jpg" ,CORFU TV
