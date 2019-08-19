@@ -79,6 +79,8 @@ http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BEST TV" tvg-logo="http://4.bp.blogspot.com/-CSt3UGbihus/U_D9TOsr3CI/AAAAAAAAZv4/z1L9SCenBKo/s1600/best_tv.png" ,BEST TV 
 https://best-tv.gr/HLS/hls/best/index.m3u8
+#EXTINF:-1 tvg-id="BERGINA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" ,ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ
+https://www.verginatv.gr/web-tv-2/|webdig
 #EXTINF:-1 tvg-id="BLUE SKY" tvg-logo="https://www.digea.gr/images/channel-icons/BLUESKY.png" ,BLUE SKY  (Youtube)
 http://blueskytv.gr/live-tv/|agentnodown$$start=https://www.youtube.com/embed$$end=?feature$$replace=embed/$$replacewith=watch?v=$$add=
 #EXTINF:-1 tvg-id="CHANNEL 9" tvg-logo="https://www.channel9.gr/images/logo_channel9_header.png" ,ΚΑΝΑΛΙ 9 
