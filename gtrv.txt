@@ -179,7 +179,7 @@ http://bit.ly/2Dn2Yty
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
 http://.....
-#EXTINF:-1 tvg-id="RISE TV" tvg-logo="https://www.digea.gr/images/channel-icons/RISE%20EPG%20WHITE%203.png" ,Rise
+#EXTINF:-1 tvg-id="RISE TV" tvg-logo="https://www.digea.gr/images/channel-icons/RISE%20EPG%20WHITE%203.png" ,Rise (Εξωτερικό Player)
 https://www.rise.gr/el/live-tv/|webprodig
 #EXTINF:-1 tvg-logo="https://goo.gl/7tKqOl" ,ΤΗΛΕ ΜΟΥΣΙΚΗ
 http://wpso.com:1936/hls/music1.m3u8
