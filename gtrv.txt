@@ -58,6 +58,8 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============= ΠΕΡΙΦΕΡΕΙΑΚΑ ============
 http://.....
+#EXTINF:-1 tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα Περιφερειακών Καναλιών
+https://www.digea.gr/EPG/el#!Regional|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1 tvg-id="4Ε" tvg-logo="https://goo.gl/2eMR7A" ,4E (Εξωτερικό player)
 rtmp://stream2.svbllc.com:1935/4e/4e.stream
