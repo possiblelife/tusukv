@@ -73,8 +73,8 @@ http://ad.mysisli.com/live/aigaiotvonline/index.m3u8
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-id="ART TV" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png" ,AΡΤ
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
-#EXTINF:-1 tvg-id="ASTRA TV" tvg-logo="https://goo.gl/nYsDIa" ,ASTRA (Youtube)
-https://www.astratv.gr/live-streaming/|youtube2dig
+#EXTINF:-1 tvg-id="ASTRA TV" tvg-logo="https://goo.gl/nYsDIa" ,ASTRA
+https://live.gointernet.gr:7342/hls/astratv/astratv.m3u8
 #EXTINF:-1 tvg-id="ATTICA TV" tvg-logo="https://www.digea.gr/images/channel-icons/ATTICATV.png" ,ATTICA TV
 http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AXELWOS TV" tvg-logo="https://goo.gl/mNqHoo" ,ΑΧΕΛΩΟΣ
