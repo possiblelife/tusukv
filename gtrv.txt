@@ -101,6 +101,8 @@ https://diktyotv.gr/live/|webdig
 http://176.9.123.140:1935/1c/stream/master.m3u8
 #EXTINF:-1 tvg-id="EPSILON" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png" ,EPSILON TV
 https://neotv.streamings.gr/live/tv/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.eetep.gr/wp-content/uploads/2016/10/cus-tile-epiloges.png" ,Επιλογές tv
+https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 tvg-id="ETV" tvg-logo="https://www.digea.gr/images/channel-icons/E%20TV%20EPG.jpg" ,E TV
 http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 #EXTINF:-1 tvg-id="EPIRUS TV1" tvg-logo="https://www.digea.gr/images/channel-icons/EPIRUS%20TV1%20EPG.jpg" ,ΗΠΕΙΡΟΣ TV1
@@ -183,6 +185,8 @@ http://bit.ly/2Dn2Yty
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
 http://.....
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-eQzBt9fEXzqfZMSLjr0106VZm8aiwmjjlPw=s288-c-k-c0xffffffff-no-rj-mo" ,Heaven TV
+https://www.youtube.com/watch?v=Dhj7Voqg4tE
 #EXTINF:-1 tvg-id="RISE TV" tvg-logo="https://www.digea.gr/images/channel-icons/RISE%20EPG%20WHITE%203.png" ,Rise (Εξωτερικό Player αν δέν δουλέυει ο Εσωτερικός)
 https://www.rise.gr/el/live-tv/|webprodig
 #EXTINF:-1 tvg-logo="https://goo.gl/7tKqOl" ,ΤΗΛΕ ΜΟΥΣΙΚΗ
