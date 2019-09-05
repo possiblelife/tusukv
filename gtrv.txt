@@ -66,6 +66,8 @@ http://ad.mysisli.com/live/aigaiotvonline/index.m3u8
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-id="ART TV" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png" ,AΡΤ
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.arttv.gr/wp-content/uploads/2017/02/logo_mobile_retina.png" ,Art tv (Άρτα tv) (Εξωτερικό Player αν δέν δουλέυει ο Εσωτερικός)
+https://server.tvdj.info:8222/arttv/arttv/playlist.m3u8
 #EXTINF:-1 tvg-id="ASTRA TV" tvg-logo="https://goo.gl/nYsDIa" ,ASTRA
 https://live.gointernet.gr:7342/hls/astratv/astratv.m3u8
 #EXTINF:-1 tvg-id="ATTICA TV" tvg-logo="https://www.digea.gr/images/channel-icons/ATTICATV.png" ,ATTICA TV
@@ -100,6 +102,8 @@ https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 #EXTINF:-1 tvg-id="EPIRUS TV1" tvg-logo="https://www.digea.gr/images/channel-icons/EPIRUS%20TV1%20EPG.jpg" ,ΗΠΕΙΡΟΣ TV1
 http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hlektra.gr/wp-content/uploads/2018/02/hlektra-logo.png" ,ΗΛΕΚΤΡΑ TV
+http://94.156.174.52:25461/live/all/all/2.m3u8
 #EXTINF:-1 tvg-id="EXTRA CHANNEL" tvg-logo="https://www.digea.gr/images/channel-icons/ABCHANNEL.png" ,EXTRA CHANNEL
 https://extratv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 tvg-id="HIGH TV" tvg-logo="http://greektv.pbworks.com/f/HIGH.png" ,HIGH TV
@@ -146,8 +150,6 @@ http://178.62.176.153/hls/tv100/index.m3u8
 https://5948d12b760bb.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============= WEBTV ============
 http://.....
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-S2QJbqLn1yE/WiWWTHETdVI/AAAAAAABwS4/OP2uqUbwWgM9fnxVdoWjaYouA8cHBn3LQCLcBGAs/h120/ertplay1.jpg" ,ΕΡΤ Play WebTV (Youtube)
@@ -172,6 +174,8 @@ http://94.130.180.175:8081/live/greektv/chunks.m3u8
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 tvg-logo="https://ustvstaticcdn1-a.akamaihd.net/i/channel/picture/1/9/8/9/1989576/1989576_greekvoice-logo_1337057406,192x192,r:1.jpg" ,GREEK VOICE 
 http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/78uO2wCXUtT84YuUHYd0Pt-BGdhROoLQa0U7wSC2w2DrODYVJYOAfD2gcXVzPF2CMzm7" ,ORASI TV
+http://orasi.tv:1935/live/myStream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΤΑΙΝΙΕΣ   ============
