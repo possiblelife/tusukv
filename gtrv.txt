@@ -170,6 +170,8 @@ https://live.cast-control.eu/organismos/organismos/playlist.m3u8
 http://94.130.180.175:8081/live/greektv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/RmY1lD" ,MESSINIA WEB TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
+#EXTINF:-1 tvg-logo="https://ustvstaticcdn1-a.akamaihd.net/i/channel/picture/1/9/8/9/1989576/1989576_greekvoice-logo_1337057406,192x192,r:1.jpg" ,GREEK VOICE 
+http://wpso.com:1936/hls/wzra.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΤΑΙΝΙΕΣ   ============
