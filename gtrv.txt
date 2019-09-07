@@ -64,9 +64,9 @@ https://www.dailymotion.com/embed/video/x61fbhs?logo=0&hideInfos=1&related=0&aut
 http://ad.mysisli.com/live/aigaiotvonline/index.m3u8
 #EXTINF:-1 tvg-id="ALERT" tvg-logo="https://www.digea.gr/images/channel-icons/ALERT.jpg" ,ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-#EXTINF:-1 tvg-id="ART TV" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png" ,AΡΤ
+#EXTINF:-1 tvg-id="ART" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png" ,AΡΤ
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.arttv.gr/wp-content/uploads/2017/02/logo_mobile_retina.png" ,Art tv (Άρτα tv) (Εξωτερικό Player αν δέν δουλέυει ο Εσωτερικός)
+#EXTINF:-1 tvg-id="ART TV" tvg-logo="http://www.arttv.gr/wp-content/uploads/2017/02/logo_mobile_retina.png" ,Art tv (Άρτα tv) (Εξωτερικό Player αν δέν δουλέυει ο Εσωτερικός)
 https://server.tvdj.info:8222/arttv/arttv/playlist.m3u8
 #EXTINF:-1 tvg-id="ASTRA TV" tvg-logo="https://goo.gl/nYsDIa" ,ASTRA
 https://live.gointernet.gr:7342/hls/astratv/astratv.m3u8
@@ -96,13 +96,13 @@ https://diktyotv.gr/live/|webdig
 http://176.9.123.140:1935/1c/stream/master.m3u8
 #EXTINF:-1 tvg-id="EPSILON" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png" ,EPSILON TV
 https://neotv.streamings.gr/live/tv/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.eetep.gr/wp-content/uploads/2016/10/cus-tile-epiloges.png" ,Επιλογές tv
+#EXTINF:-1 tvg-id="TILE EPILOGES" tvg-logo="http://www.eetep.gr/wp-content/uploads/2016/10/cus-tile-epiloges.png" ,Επιλογές tv
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 tvg-id="ETV" tvg-logo="https://www.digea.gr/images/channel-icons/E%20TV%20EPG.jpg" ,E TV
 http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 #EXTINF:-1 tvg-id="EPIRUS TV1" tvg-logo="https://www.digea.gr/images/channel-icons/EPIRUS%20TV1%20EPG.jpg" ,ΗΠΕΙΡΟΣ TV1
 http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://hlektra.gr/wp-content/uploads/2018/02/hlektra-logo.png" ,ΗΛΕΚΤΡΑ TV
+#EXTINF:-1 tvg-id="HLEKTRA TV" tvg-logo="https://hlektra.gr/wp-content/uploads/2018/02/hlektra-logo.png" ,ΗΛΕΚΤΡΑ TV
 http://94.156.174.52:25461/live/all/all/2.m3u8
 #EXTINF:-1 tvg-id="EXTRA CHANNEL" tvg-logo="https://www.digea.gr/images/channel-icons/ABCHANNEL.png" ,EXTRA CHANNEL
 https://extratv.streamings.gr/live/tv/index.m3u8
@@ -176,6 +176,10 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/78uO2wCXUtT84YuUHYd0Pt-BGdhROoLQa0U7wSC2w2DrODYVJYOAfD2gcXVzPF2CMzm7" ,ORASI TV
 http://orasi.tv:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ellastv.com/wp-content/uploads/2018/07/retina-logo-ellastv-2018.png" ,Ellas TV
+http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΤΑΙΝΙΕΣ   ============
@@ -205,7 +209,7 @@ https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.anacon.org/app/img/ellinikos.jpg" ,Ellinikos FM
 https://itv.streams.ovh/ellinikosfm/ellinikosfm/chunklist_w620343428.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/kkjOp4" ,ΖΟΥΓΚΛΑ
-https://zglive1-mdc-secure.akamaized.net/hls/live/570950/z1/master_Layer1.m3u8
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/mainnew2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BjVgNNmExgo/WhMYN1dmDHI/AAAAAAAAXTY/TmPb086-0acq-FzrTVn7eNqLDF9BU7VvwCLcBGAs/s1600/xalastra%2Btv.jpg" ,Xalastra TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/74911.v2.png" ,FOX TV
