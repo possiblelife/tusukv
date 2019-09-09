@@ -136,7 +136,7 @@ http://www.anacon.org/app/chans/gr/starke.html|webdig
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="SUPER B" tvg-logo="https://www.digea.gr/images/channel-icons/SUPER-B-TV.png" ,SUPER B
 https://live.streams.ovh/Superb/Superb/playlist.m3u8
-#EXTINF:-1 tvg-id="SYROS TV1" tvg-logo="https://goo.gl/aVVUtg" ,ΣΥΡΟΣ TV1
+#EXTINF:-1 tvg-id="SYROS TV1 " tvg-logo="https://goo.gl/aVVUtg" ,ΣΥΡΟΣ TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 tvg-id="THRAKINET" tvg-logo="https://goo.gl/oJ9YrY" ,ΘΡΑΚΗNET
 http://video.onestreaming.com:8081/thraki/thrakinettv/playlist.m3u8
