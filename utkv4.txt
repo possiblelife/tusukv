@@ -89,7 +89,9 @@ https://tvpc.us/player/embed.php?cid=12|agentnodown$$start=src: "$$end=" $$repla
 #EXTINF:-1 tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-3] 
 https://easyview.eu/watch.php?stream=bbc-news|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-news$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-4] [USE INTERNAL Player for better stability]
-http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3227?protocol=hls 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3227?protocol=hls
+#EXTINF:-1 tvg-id="BBC News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/512_300.png" ,BBC World News
+http://ott-cdn.ucom.am/s24/01.m3u8
 #EXTINF:-1 tvg-id="BBC Alba" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC alba [Option-1] 
 https://easyview.eu/watch.php?stream=bbc-alba|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-alba$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 tvg-id="BBC Alba" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC alba [Option-2]
