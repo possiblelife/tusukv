@@ -166,6 +166,8 @@ http://granicusliveus2-a.akamaihd.net/bloomingtonmn/G1223_002/chunklist.m3u8
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1073.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/057/original/pic_boomerang.png?1522177819" ,Boomerang
 http://185.246.209.109:8080/BOOMERANG/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/057/original/pic_boomerang.png?1522177819" ,Boomerang [Option-2]
+http://ustvgo.tv/boomerang/|webprodig
 #EXTINF:-1 group-title="News" tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/placeholder-16x9_1532051234409_12382778_ver1.0_320_180.png" ,Boston 25 News (Massachusetts)
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
 #EXTINF:-1 group-title="USA" ,Bourbon Street
@@ -1153,10 +1155,8 @@ http://123tvnow.com/watch/nickelodeon/|weballdig
 httphost://$http-raw=http://123tvnow.com/watch/nickelodeon/$http-refferer=http://123tvnow.com/watch/nickelodeon/
 #EXTINF:-1 group-title="Kids"  tvg-id="11006" tvg-logo="http://www.kidvertisers.com/images/biglogo_nickelodeon.gif" ,Nickelodeon [Option-2]
 http://ustvgo.net/nickelodeon-live-streaming-free/|webprodig
-#EXTINF:-1 group-title="Kids" tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?quality=0.75" ,Nick Jr- Wuffy_Player[USE VPN IF STUCK LOADING]
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1152.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Kids" tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/nicktoons-logo-1501.jpg" ,Nicktoons- Wuffy_Player[USE VPN IF STUCK LOADING]
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1153.m3u8$http-refferer=http://localhost
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/nicktoons-logo-1501.jpg" ,Nicktoons
+http://ustvgo.tv/nicktoons/|webprodig
 #EXTINF:-1 group-title="USA"   tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aec96ec5126c2157123c657/featuredImage.jpg" ,Nosey 
 http://stitcher.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="Live cam" ,Northern Lights
