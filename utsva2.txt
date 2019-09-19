@@ -1376,3 +1376,5 @@ http://123tvnow.com/watch/wwe-network/|weballdig
 httphost://$http-raw=http://123tvnow.com/watch/wwe-network/$http-refferer=http://123tvnow.com/watch/wwe-network/
 #EXTINF:-1 group-title="Sports"  tvg-id="91306" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK [Option-2]
 http://crichd.ws/update/wwe.php|webdeskdig
+#EXTINF:-1 group-title="Sports"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK [Option-3]
+http://ustvgo.tv/wwe-network/|webprodig
