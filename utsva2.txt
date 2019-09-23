@@ -227,15 +227,15 @@ http://ustvgo.net/cbs-live-streaming-free/|webprodig
 https://tvpc.us/player/embed.php?cid=370|weballdig
 #EXTINF:-1 group-title="USA" tvg-id="17195" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS [Option-4] 
 https://hindimean.com/tk/cbs.php|webdeskdig
-#EXTINF:-1 group-title="USA"   tvg-logo="https://cbsphilly.files.wordpress.com/2019/01/philly_cbs3_light.png?w=129&h=67&crop=1" ,CBS 3 Philly (KYW) 
-https://ctslive-i.akamaihd.net/hls/live/677250/WPSGTV/master.m3u8
+#EXTINF:-1 group-title="USA"   tvg-logo="https://pbs.twimg.com/profile_images/953033237210656768/Ek4OiCPd_400x400.jpg" ,CBS 3 Philly (KYW) 
+https://ctslive-i.akamaihd.net/hls/live/676500/KYWTV/master.m3u8
 #EXTINF:-1 group-title="News" ,CBS 4 News 
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://pictures.grabien.com/profiles/large/0006/6721.jpg" ,CBS 12 West Palm Beach (WPEC)
 http://170.250.96.20:8110/cbs.m3u8
 #EXTINF:-1  group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1920px-WJAX-TV_logo.png" ,CBS 47 Jacksonville (WJAX)
 http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
-#EXTINF:-1 group-title="USA"  tvg-logo="https://sportsfly.cbsistatic.com/fly-269/bundles/sportsmediacss/images/team-logos/ncaa/light/OHIOST.svg" ,CBS Ohio
+#EXTINF:-1 group-title="USA"  tvg-logo="https://sportsfly.cbsistatic.com/fly-136/bundles/sportsmediacss/images/team-logos/ncaa/OHIOST.svg" ,CBS Ohio
 https://www.streamlive.to/view/69956/CBS-(SD)|webdeskalldig
 #EXTINF:-1 group-title="News"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png" ,CBS NEWS HD [Option-1]
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
@@ -280,8 +280,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u
 http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="Movies"   tvg-logo="https://i.imgur.com/Qf54pnv.png" ,Classic TV 4U
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
-#EXTINF:-1 group-title="Music" ,CMC TV
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
 #EXTINF:-1 group-title="Music"  tvg-id="2288" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmtcanada.png" ,CMT (Country Music Television)
 http://123tvnow.com/watch/cmt-country-music-television/|weballdig
 #EXTINF:-1 group-title="Music"  tvg-id="2288" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmtcanada.png" ,CMT (Country Music Television)[Alternate]
@@ -324,6 +322,10 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="http://www.counterthink.com/Assets/Uploads/640/CounterThink-with-Mike-Adams.jpg" ,CounterThink
 https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://media.nbcnewyork.com/designimages/coziSocialLogo.png" ,COZI
+http://live.highstream.club/edge/COZI/chunks.m3u8|Referer=http://123tvgo.club/cozi-tv/
+#EXTINF:-1 group-title="News"  tvg-logo="https://www.cp24.com/polopoly_fs/1.133595.1337371306!/httpImage/image._gen/derivatives/landscape_225/image." ,CP24
+https://capi.9c9media.com/destinations/cp24_web/platforms/desktop/contents/1786494/contentpackages/3047143/manifest.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://panpages.blob.core.windows.net/pp-kh/kh/logo_images/original/1369901249/1401172?1369901249" ,CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="5272"  tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812be1c249444e05d09cc50/featuredImage.jpg" ,Crime Network 
@@ -340,13 +342,13 @@ http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
 http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" ,CT-N Streaming Media
 http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
-#EXTINF:-1 group-title="News"   tvg-logo="http://i67.tinypic.com/261m6it.jpg" ,CTV News Live Events 1
+#EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/1113463193144262657/Rq4YTRpY_400x400.png" ,CTV News Live Events 1
 http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
-#EXTINF:-1 group-title="News"   tvg-logo="http://i67.tinypic.com/261m6it.jpg" ,CTV News Live Events 2
+#EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/1113463193144262657/Rq4YTRpY_400x400.png" ,CTV News Live Events 2
 http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-#EXTINF:-1 group-title="News"   tvg-logo="http://i67.tinypic.com/261m6it.jpg" ,CTV News Live Events 3
+#EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/1113463193144262657/Rq4YTRpY_400x400.png" ,CTV News Live Events 3
 http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-#EXTINF:-1 group-title="News"   tvg-logo="http://i67.tinypic.com/261m6it.jpg" ,CTV News Live Events 4
+#EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/1113463193144262657/Rq4YTRpY_400x400.png" ,CTV News Live Events 4
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
 #EXTINF:-1 group-title="News" tvg-id="3120"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" ,CW 50[Option-1] 
 https://tvpc.us/player/embed.php?cid=504|weballdig
@@ -360,6 +362,8 @@ http://123tvnow.com/watch/the-cw/|weballdig
 httphost://$http-raw=http://123tvnow.com/watch/the-cw/$http-refferer=http://123tvnow.com/watch/the-cw/
 #EXTINF:-1 group-title="USA" tvg-id="3120" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" ,CW [Option-4] 
 https://hindimean.com/tk/cw.php|webdeskdig
+#EXTINF:-1 group-title="USA"   tvg-logo="https://drexel.edu/~/media/Images/westphal/news/C/CWPhillyNews.ashx?la=en" ,CW Philly57 (WPSGTV) 
+https://ctslive-i.akamaihd.net/hls/live/677250/WPSGTV/master.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://i.imgur.com/l2O0fY1.png" ,Darcizzle Offshore
 http://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 group-title="Local" ,DC COUNCIL CHANNEL
@@ -843,12 +847,12 @@ https://videos3.earthcam.com/fecnetwork/4282.flv/HasBahCa.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="Live cam" ,Manatee Cam US
 https://videos3.earthcam.com/fecnetwork/14014.flv/playlist.m3u8
-#EXTINF:-1 group-title="Music"   tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" ,MC Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/master.m3u8
 #EXTINF:-1 group-title="Music" ,Melody Channel TV
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1 group-title="Live cam" ,Miami Cafe US
 https://videos3.earthcam.com/fecnetwork/15061.flv/playlist.m3u8
+#EXTINF:-1 group-title="Sports"  tvg-logo="https://metv.org/wp-content/uploads/2017/08/metv-3d-logo2.png" ,Middle East Television (METV)
+http://cdg3.edge.tmed.pw/metv/abr_live/metv/live_1024p/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="6178"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB NETWORK [Option-1]
 http://ustvgo.net/mlb-network/|webprodig
 #EXTINF:-1 group-title="Sports"  tvg-id="6178" tvg-logo="http://channelpear.com/images/media/5249.jpg" ,MLB Network [Option-3]
@@ -875,7 +879,7 @@ httphost://$http-raw=http://123tvnow.com/watch/mtv/$http-refferer=http://123tvno
 https://hindimean.com/tk/mtv.php|webdeskdig
 #EXTINF:-1 group-title="Live cam" ,Mulberry France Street
 https://videos3.earthcam.com/fecnetwork/5775.flv/playlist.m3u8
-#EXTINF:-1 group-title="Music"  tvg-id="20168" tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" ,Music Choice
+#EXTINF:-1 group-title="Music"  tvg-id="20168" tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" ,Music Choice (MC Play)
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://img.new.livestream.com/events/0000000000278eea/f6faaf88-4543-4f49-b8ee-763a5ed5ecf8_170x255.png" ,MY9 TV (WWOR)[Option-1]
 https://livestream.com/accounts/6372957/events/2592490/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=true|agentdesktopnodown$$start="m3u8_url":"$$end=",$$replace="m3u8_url":"$$replacewith=$$add=
