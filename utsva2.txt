@@ -17,6 +17,7 @@ http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|ex
 #EXTINF:-1 group-title="Info"  tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" , EPG All channels
 https://www.ontvtonight.com/guide/|webepg zoom=100 scroll=0,200
 
+
 #EXTINF:-1 group-title="USA"   tvg-logo="http://channels.roku.com/images/93032ce95a064d129cdefa1ecbce95e1-hd.jpg" ,30A TV
 http://30a-tv.com/my999.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="http://2pouqfl1mif26n3ql1jslyj1.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/360NorthTuneIn3-650x457.jpg" ,360 North
@@ -1169,6 +1170,20 @@ https://videos3.earthcam.com/fecnetwork/3635.flv/HasBahCa.m3u8
 http://123tvnow.com/watch/paramount-network-spike/|weballdig
 #EXTINF:-1 group-title="USA"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/spike-269x151.png" ,Spike Paramount Network[Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/paramount-network-spike/$http-refferer=http://123tvnow.com/watch/paramount-network-spike/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a203.png" ,sportsnet ontario
+https://ustreamix.stream/embed.php?id=sportsnet-ontario|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports"  tvg-logo="https://sport-tv-guide.live/images/stations/a200.png" ,sportsnet one
+https://ustreamix.stream/embed.php?id=sportsnet-one|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a202.png" ,sportsnet world
+https://ustreamix.stream/embed.php?id=sports-net-world|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a201.png" ,sportsnet 360
+https://ustreamix.stream/embed.php?id=sportsnet-360|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a198.png" ,sportsnet pacific
+https://ustreamix.stream/embed.php?id=sportsnet-pacific|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a199.png" ,sportsnet west
+https://ustreamix.stream/embed.php?id=sportsnet-west|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a197.png" ,sportsnet east
+https://ustreamix.stream/embed.php?id=sportsnet-east|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="USA"   tvg-logo="http://spydartv.com/wp-content/uploads/2018/02/Spydar-Logo-Revised-3.png" ,Spydar TV
 https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
 #EXTINF:-1 group-title="USA"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" ,Stadium TV
@@ -1217,6 +1232,8 @@ http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
 http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"  tvg-id="2269" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" ,Tennis Channel [Option-1]
 https://hindimean.com/tk/tennischannel.php|webdeskdig
+#EXTINF:-1 group-title="Sports"  tvg-id="2269" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" ,Tennis Channel  [Option-2]
+https://ustreamix.live/embed.php?id=tennis-channel|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Tstv2006.png/220px-Tstv2006.png" ,Texas Student TV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/880ab7c4-5a84-dd74-f084-ecc22cba366f-TheHighChannel_featured.jpg" ,THC 
@@ -1274,12 +1291,22 @@ http://123tvnow.com/watch/trutv/|weballdig
 httphost://$http-raw=http://123tvnow.com/watch/trutv/$http-refferer=http://123tvnow.com/watch/trutv/
 #EXTINF:-1 group-title="Sports"   tvg-logo="https://sport-tv-guide.live/images/stations/a188.png" ,tsn1
 http://free.crichd.online/embed2.php?id=tsn1|webdeskalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="11182" tvg-logo="https://sport-tv-guide.live/images/stations/a188.png" ,tsn1 [Option-2]
+https://ustreamix.live/embed.php?id=tsn1|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="Sports"   tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" ,tsn2
 http://free.crichd.online/embed2.php?id=tsn2|webdeskalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="18990" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" ,tsn2 [Option-2]
+https://ustreamix.live/embed.php?id=tsn-2|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="Sports"  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" ,tsn3
 http://free.crichd.online/embed2.php?id=tsn3|webdeskalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="90118" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" ,tsn3 [Option-2]
+https://ustreamix.live/embed.php?id=tsn3|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="Sports"   tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" ,tsn4
 http://free.crichd.online/embed2.php?id=tsn4|webdeskalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="90122" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" ,tsn4 [Option-2]
+https://ustreamix.live/embed.php?id=tsn4|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports"  tvg-id="90122" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" ,tsn5 
+https://ustreamix.live/embed.php?id=tsn5|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="USA"   tvg-logo="https://i.imgur.com/3QAaaZj.png" ,TSTV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Current_logo_for_TUFF_TV.png" ,Tuff TV
