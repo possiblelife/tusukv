@@ -127,8 +127,6 @@ http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/65?p
 https://easyview.eu/watch.php?stream=more4|refererdown$$referer=https://easyview.eu/watch.php?stream=more4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="More4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_more4_uk.png" ,More 4 [Option-2] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/97?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="Dave" tvg-logo="http://picon.webhop.net/logo/uk/dave_uktv.png" ,Dave [Option-1]
-https://easyview.eu/watch.php?stream=dave|refererdown$$referer=https://easyview.eu/watch.php?stream=dave$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="YESTERDAY" tvg-logo="http://picon.webhop.net/logo/uk/yesterday_uktv.png" ,Yesterday [Option-1] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1039?protocol=hls
 #EXTINF:-1 group-title="Entertainment" tvg-id="5STAR" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star [Option-1] [USE INTERNAL Player for better stability]
