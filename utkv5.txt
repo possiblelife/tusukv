@@ -2,8 +2,6 @@
 #EXTINF:-1 group-title="Info"  tvg-logo="https://images.cdn1.stockunlimited.net/clipart/united-kingdom-flag-icon_1579695.jpg" , ===UK TV===
 https://clipart.wpblink.com/sites/default/files/wallpaper/slang-clipart/143532/slang-clipart-appropriate-language-143532-1239542.jpg|webepg zoom=100 scroll=0,200
  
-#EXTINF:-1 group-title="Info"  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , LATEST VERSION V2.20. Click here to UPDATE FROM GOOGLE PLAY IF NEEDED.
-http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
  
 #EXTINF:-1 group-title="Info" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" , EPG All channels
 https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
@@ -13,16 +11,16 @@ https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
 https://tvpc.us/player/embed.php?cid=5|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-2] 
 https://easyview.eu/watch.php?stream=bbc-1|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-1$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-3] 
-http://86.15.69.208:9981/stream/channelid/398077114
+#EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-3](V2.21/advance mode only)
+https://ustreamix.live/embed.php?id=bbc1|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-4] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?protocol=hls
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-1]
 https://tvpc.us/player/embed.php?cid=6|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-2] 
 https://easyview.eu/watch.php?stream=bbc-two|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-two$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-3]
-http://86.15.69.208:9981/stream/channelid/502020085
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-3](V2.21/advance mode only)
+https://ustreamix.net/embed.php?id=bbc-two|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2  [Option-4] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/25?protocol=hls
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_four_uk.png" ,BBC 4 [Option-1] 
