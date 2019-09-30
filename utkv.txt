@@ -2,27 +2,12 @@
 #EXTINF:-1  tvg-logo="https://images.cdn1.stockunlimited.net/clipart/united-kingdom-flag-icon_1579695.jpg" , ===UK TV===
 http://..........
 
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.38. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
-http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.38. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
-http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.38. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
-http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.38. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
-http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.38. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
-http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.38. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
-http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.38. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
-http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.38. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
-http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.38. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
-http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.38. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
-http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.38. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
-http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
-#EXTINF:-1  tvg-logo="http://sswlhc.org/wp-content/uploads/2018/06/Update.jpg" , NEW VERSION V1.38. PLEASE UPDATE FROM GOOGLE PLAY - THIS VERSION WONT WORK PROPERLY (Click here).
-http://play.google.com/store/apps/details?id=com.uktvradio|updatelink
+#EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , Message From Developer
+https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
+ 
+#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , OLD VERSIONS WONT GET CHANNEL LIST UPDATES ANYMORE
+https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , CONSIDER UPDATE TO LATEST VERSION.
+https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Info"   tvg-logo="http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg" , Click here to get link to latest version V2.22.
+http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg|webepg zoom=100 scroll=0,200
