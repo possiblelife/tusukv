@@ -463,9 +463,9 @@ https://ustreamix.org/embed.php?id=espn|downdig$$start=/go.php?interlink=$$end='
 #EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-2]
 http://80.80.160.168/live/6/2500000/live.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-5]
-http://123tvnow.com/watch/espn/|weballdig
+http://123tvnow.com/watch/espn-2/|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-5][Alternate]
-httphost://$http-raw=http://123tvnow.com/watch/espn/$http-refferer=http://123tvnow.com/watch/espn/
+httphost://$http-raw=http://123tvnow.com/watch/espn-2/$http-refferer=http://123tvnow.com/watch/espn-2/
 #EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-7]
 https://www.streamlive.to/view/76659/ESPN-(SD)|webdeskalldig
 #EXTINF:-1 group-title="Sports" tvg-id="1527" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News [Option-1]
@@ -481,9 +481,9 @@ https://www.streamlive.to/view/76663/ESPNU-(SD)|webdeskalldig
 #EXTINF:-1 group-title="Sports"  tvg-id="650" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-1]
 https://ustreamix.org/embed.php?id=espn2|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="Sports"  tvg-id="650" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-3]
-http://123tvnow.com/watch/espn-2/|weballdig
+http://123tvnow.com/watch/espn2/|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-id="650" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-3] [Alternate]
-httphost://$http-raw=http://123tvnow.com/watch/espn-2/$http-refferer=http://123tvnow.com/watch/espn2/
+httphost://$http-raw=http://123tvnow.com/watch/espn2/$http-refferer=http://123tvnow.com/watch/espn2/
 #EXTINF:-1 group-title="Sports"  tvg-id="650" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-5]
 https://www.streamlive.to/view/69028/ESPN2-(SD)|webdeskalldig
 #EXTINF:-1 group-title="USA"   tvg-logo="https://cbsphilly.files.wordpress.com/2019/04/et-live-stacked-transparent.png" ,ET Live
@@ -918,15 +918,15 @@ https://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8
 #EXTINF:-1 group-title="News"  tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2018/09/NBC-NEWS-LOGO-Stacked-White-background.jpg" ,NBC News 
 http://sv8.dailymotion.com.1cdn.host/live/nbc/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc/
 #EXTINF:-1 group-title="News"  tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2018/09/NBC-NEWS-LOGO-Stacked-White-background.jpg" ,NBC News [Alternate]
-http://123tvnow.com/watch/nbc/|weballdig
+http://123tvnow.com/watch/nbc-2/|weballdig
 #EXTINF:-1 group-title="News"  tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2018/09/NBC-NEWS-LOGO-Stacked-White-background.jpg" ,NBC News [Alternate2]
-httphost://$http-raw=http://123tvnow.com/watch/nbc/$http-refferer=http://123tvnow.com/watch/nbc/
+httphost://$http-raw=http://123tvnow.com/watch/nbc-2/$http-refferer=http://123tvnow.com/watch/nbc-2/
 #EXTINF:-1 group-title="Sports"  tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN) [Option-1] 
 http://sv4.dailymotion.com.1cdn.host/live/nbcsn/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sport-network-nbcsn/
 #EXTINF:-1 group-title="Sports"  tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN) [Option-1] [Alternate]
-http://123tvnow.com/watch/nbc-sport-network-nbcsn/|weballdig
+http://123tvnow.com/watch/nbc-sport-network-2/|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN) [Option-1] [Alternate2]
-httphost://$http-raw=http://123tvnow.com/watch/nbc-sport-network-nbcsn/$http-refferer=http://123tvnow.com/watch/nbc-sport-network-nbcsn/
+httphost://$http-raw=http://123tvnow.com/watch/nbc-sport-network-2//$http-refferer=http://123tvnow.com/watch/nbc-sport-network-2/
 #EXTINF:-1 group-title="Sports"  tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN) [Option-4] 
 https://www.streamlive.to/view/71137/NBCSports-(SD)|webdeskalldig
 #EXTINF:-1 group-title="News" tvg-id="8965"  tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2016/11/ndtv001.jpg" ,NDTV
@@ -1193,7 +1193,7 @@ http://ustvgo.net/syfy-channel-live/|webprodig
 #EXTINF:-1 group-title="USA"  tvg-id="596"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/syfy-269x151.png" ,Syfy [Option-3] 
 http://sv6.dailymotion.com.1cdn.host/live/syfy/chunks.m3u8|Referer=http://123tvnow.com/watch/syfy/
 #EXTINF:-1 group-title="USA"  tvg-id="596"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/syfy-269x151.png" ,Syfy [Option-3] [Alternate]
-http://123tvnow.com/watch/syfy/|weballdig
+http://123tvnow.com/watch/starz/|weballdig
 #EXTINF:-1 group-title="USA"  tvg-id="596"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/syfy-269x151.png" ,Syfy [Option-3] [Alternate2]
 httphost://$http-raw=http://123tvnow.com/watch/syfy/$http-refferer=http://123tvnow.com/watch/syfy/
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Fbzbq1y.png" ,TBD
