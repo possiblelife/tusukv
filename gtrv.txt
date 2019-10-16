@@ -1,4 +1,4 @@
-#EXTINF:-1  tvg-logo="https://panathinaikoskosmos.files.wordpress.com/2011/09/greek-flag-in-tv.jpg?w=288&h=242" , ===ΤΗΛΕΟΡΑΣΗ===
+#EXTINF:-1  tvg-logo="https://panathinaikoskosmos.files.wordpress.com/2011/09/greek-flag-in-tv.jpg?w=288&h=242" , ===ΤΗΛΕΟΡΑΣΗ===-
 http://www.allaboutandroid.gr/wp-content/uploads/2015/02/10362372_319264588280423_4566848749308524368_n.jpg|webview zoom=100 scroll=0,0
 
 
@@ -41,7 +41,7 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (Youtube)
 http://www.skaitv.gr/json/settings.php|agentnodown$$start="live_url":"$$end=",$$replace="live_url":"$$replacewith=https://www.youtube.com/watch?v=$$add=
 #EXTINF:-1 tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI
-http://www.anacon.org/app/chans/gr/skai.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+http://www.anacon.org/app/chans/gr/skai.php|agentdown$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
 #EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR
@@ -51,7 +51,7 @@ https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV  (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
 #EXTINF:-1 tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV 
-http://www.anacon.org/app/chans/gr/open.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+http://www.anacon.org/app/chans/gr/open.php|agentdown$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
 #EXTINF:-1 tvg-id="vouli" tvg-logo="https://goo.gl/m1ZYJB" ,ΒΟΥΛΗ
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 
