@@ -45,7 +45,7 @@ http://www.anacon.org/app/chans/gr/skai.php|agentdown$$start=src:  "$$end=",$$re
 #EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR
-http://www.anacon.org/app/chans/gr/starg.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+http://www.anacon.org/app/chans/gr/star.php|agentdown$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
 #EXTINF:-1 tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ALPHA (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV  (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
