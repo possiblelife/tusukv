@@ -243,6 +243,8 @@ https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 https://www.youtube.com/watch?v=-HXyc9TP7Oo
 #EXTINF:-1 tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv-150x150.jpg" ,Load play
 https://web.onair-radio.eu/video/video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kQA63XBBiyU/hqdefault.jpg" ,Cannali - Web Music Channel
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 
 
 
