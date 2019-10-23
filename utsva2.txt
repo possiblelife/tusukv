@@ -78,7 +78,7 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 #EXTINF:-1 group-title="News"  tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Aljazeera [Option-2]
 https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="177"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-1]
-https://tvpc.us/player/embed.php?cid=372|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+https://tvpc.us/player/embed.php?cid=620|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="Movies"  tvg-id="177" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-2] 
 http://ustvgo.net/amc-live/|webprodig
 #EXTINF:-1 group-title="Movies" tvg-id="177" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-3] 
@@ -222,7 +222,7 @@ httphost://$http-raw=http://123tvnow.com/watch/cbs/$http-refferer=http://123tvno
 #EXTINF:-1 group-title="USA" tvg-id="17195" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS [Option-2] 
 http://ustvgo.net/cbs-live-streaming-free/|webprodig 
 #EXTINF:-1 group-title="USA" tvg-id="17195" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS [Option-3] 
-https://tvpc.us/player/embed.php?cid=370|weballdig
+https://tklist.us/vid/cbsVS.php|agentdown$$start=source: "$$end=",$$replace=source: "$$replacewith=$$add=
 #EXTINF:-1 group-title="USA"   tvg-logo="https://pbs.twimg.com/profile_images/953033237210656768/Ek4OiCPd_400x400.jpg" ,CBS 3 Philly (KYW) 
 https://ctslive-i.akamaihd.net/hls/live/676500/KYWTV/master.m3u8
 #EXTINF:-1 group-title="News" ,CBS 4 News 
@@ -347,7 +347,7 @@ http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
 #EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/1113463193144262657/Rq4YTRpY_400x400.png" ,CTV News Live Events 4
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
 #EXTINF:-1 group-title="News" tvg-id="3120"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" ,CW 50[Option-1] 
-https://tvpc.us/player/embed.php?cid=504|weballdig
+https://tvpc.us/player/embed.php?cid=375|weballdig
 #EXTINF:-1 group-title="News" tvg-id="3120"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" ,CW 50[Option-2] 
 http://ustvgo.net/the-cw-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA"  tvg-id="3120" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" ,CW [Option-3] 
