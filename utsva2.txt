@@ -525,10 +525,10 @@ http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8
 https://www.fox2detroit.com/live|webdig
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Fox_4_Kansas_City_logo.png/375px-Fox_4_Kansas_City_logo.png" ,Fox 4 Kanas (WDAF)
 http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6a/4f/c4/6a4fc461-eb4c-936c-d5dd-9c878429f7e1/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg"  ,FOX 5 
+#EXTINF:-1 group-title="News" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6a/4f/c4/6a4fc461-eb4c-936c-d5dd-9c878429f7e1/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg"  ,FOX 5  Washington
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6a/4f/c4/6a4fc461-eb4c-936c-d5dd-9c878429f7e1/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg"  ,FOX 5 New York
-http://api.new.livestream.com/accounts/6372917/events/2592483/live.m3u8
+https://www.fox5ny.com/live|webdig
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/WBRC_logo_2015.png/300px-WBRC_logo_2015.png" ,Fox 6 Birmingham (WBRC)
 http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/WJW_%28TV%29_logo.png" ,Fox 8 Cleveland (WJW)
