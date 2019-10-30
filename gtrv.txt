@@ -9,20 +9,14 @@ http://.....
 https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 tvg-id="ert1" tvg-logo="https://goo.gl/hD0NSD" ,ΕΡΤ1 WebTV (Youtube)
 https://webtv.ert.gr/ert1-live/|youtubedig
-#EXTINF:-1 tvg-id="ert1" tvg-logo="https://goo.gl/hD0NSD" ,ΕΡΤ1
-http://www.anacon.org/app/chans/gr/ert1s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 tvg-id="ert2" tvg-logo="https://goo.gl/quc9Qp" ,ΕΡΤ2 WebTV
 https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8
 #EXTINF:-1 tvg-id="ert2" tvg-logo="https://goo.gl/quc9Qp" ,ΕΡΤ2 WebTV (Youtube)
 https://webtv.ert.gr/ert2-live/|youtubedig
-#EXTINF:-1 tvg-id="ert2" tvg-logo="https://goo.gl/quc9Qp" ,ΕΡΤ2
-http://www.anacon.org/app/chans/gr/ert2s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 WebTV 
 https://ert-live.siliconweb.com/media/ert_3/ert_3.m3u8
 #EXTINF:-1 tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 WebTV (Youtube)
 https://webtv.ert.gr/ert3-live/|youtubedig
-#EXTINF:-1 tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3
-http://www.anacon.org/app/chans/gr/ert3s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 tvg-id="ert1" tvg-logo="https://goo.gl/DLhMC3" ,ΕΡΤ WORLD WebTV (Youtube)
 https://webtv.ert.gr/ertworld-live/|youtubedig
 #EXTINF:-1 tvg-id="ertsports" tvg-logo="https://webtv.ert.gr/wp-content/uploads/2019/02/ERTSports-logoPage1.png" ,ΕΡΤ SPORTS
@@ -42,16 +36,22 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 http://www.skaitv.gr/json/settings.php|agentnodown$$start="live_url":"$$end=",$$replace="live_url":"$$replacewith=https://www.youtube.com/watch?v=$$add=
 #EXTINF:-1 tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI
 http://www.anacon.org/app/chans/gr/skai.php|agentdown$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
+#EXTINF:-1 tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (ΕΝΑΛΛΑΚΤΙΚΟ)
+http://www.anacon.org/app/chans/gr/skai.php|weballdig
 #EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://www.anacon.org/app/chans/gr/star.php|agentdown$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
+#EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR (ΕΝΑΛΛΑΚΤΙΚΟ)
+http://www.anacon.org/app/chans/gr/star.php|weballdig
 #EXTINF:-1 tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ALPHA (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV  (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
 #EXTINF:-1 tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV 
 http://www.anacon.org/app/chans/gr/open.php|agentdown$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
+#EXTINF:-1 tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV (ΕΝΑΛΛΑΚΤΙΚΟ)
+http://www.anacon.org/app/chans/gr/open.php|weballdig
 #EXTINF:-1 tvg-id="vouli" tvg-logo="https://goo.gl/m1ZYJB" ,ΒΟΥΛΗ
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 
@@ -245,7 +245,6 @@ https://www.youtube.com/watch?v=-HXyc9TP7Oo
 https://web.onair-radio.eu/video/video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kQA63XBBiyU/hqdefault.jpg" ,Cannali - Web Music Channel
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΠΑΙΔΙΚΑ   ============
