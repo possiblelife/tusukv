@@ -253,6 +253,8 @@ http://.....
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,Smile
 http://www.anacon.org/app/chans/cy/smilecy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+#EXTINF:-1 tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,Smile (ΕΝΑΛΛΑΚΤΙΚΟ)
+http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
 
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ============
