@@ -116,6 +116,8 @@ http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
 http://94.156.174.52:25461/live/all/all/2.m3u8
 #EXTINF:-1 tvg-id="EXTRA CHANNEL" tvg-logo="https://www.digea.gr/images/channel-icons/ABCHANNEL.png" ,EXTRA CHANNEL
 https://extratv.streamings.gr/live/tv/index.m3u8
+#EXTINF:-1  tvg-logo="https://flash-tv.gr/wp-content/uploads/2016/05/flash_logo-panw-1-300x62.jpg" ,Flash tv
+https://flash-tv.gr/live/|webdig
 #EXTINF:-1 tvg-id="HIGH TV" tvg-logo="http://greektv.pbworks.com/f/HIGH.png" ,HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 tvg-id="IONIAN CHANNEL" tvg-logo="https://www.digea.gr/images/channel-icons/IONIAN-CHANNEL.png" ,IONIAN CHANNEL
@@ -221,6 +223,8 @@ https://web.onair-radio.eu/groovytv/groovytv/playlist.m3u8
 http://.....
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-eQzBt9fEXzqfZMSLjr0106VZm8aiwmjjlPw=s288-c-k-c0xffffffff-no-rj-mo" ,Heaven TV
 https://www.youtube.com/watch?v=f64l0rh301I
+#EXTINF:-1  tvg-logo="https://i.imgur.com/l8dDtCp.png" ,Baraza TV
+https://5cc309e93b721.streamlock.net/8452/8452/playlist.m3u8
 #EXTINF:-1 tvg-id="RISE TV" tvg-logo="https://www.digea.gr/images/channel-icons/RISE%20EPG%20WHITE%203.png" ,Rise (Εξωτερικό Player αν δέν δουλέυει ο Εσωτερικός)
 https://www.rise.gr/el/live-tv/|webprodig
 #EXTINF:-1 tvg-logo="https://goo.gl/7tKqOl" ,ΤΗΛΕ ΜΟΥΣΙΚΗ
@@ -255,6 +259,7 @@ http://wpso.com:1936/hls/kidshd.m3u8
 http://www.anacon.org/app/chans/cy/smilecy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,Smile (ΕΝΑΛΛΑΚΤΙΚΟ)
 http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
+
 
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ============
