@@ -116,7 +116,7 @@ http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
 http://94.156.174.52:25461/live/all/all/2.m3u8
 #EXTINF:-1 tvg-id="EXTRA CHANNEL" tvg-logo="https://www.digea.gr/images/channel-icons/ABCHANNEL.png" ,EXTRA CHANNEL
 https://extratv.streamings.gr/live/tv/index.m3u8
-#EXTINF:-1  tvg-logo="https://flash-tv.gr/wp-content/uploads/2016/05/flash_logo-panw-1-300x62.jpg" ,Flash tv
+#EXTINF:-1 tvg-id="FLASH TV" tvg-logo="https://flash-tv.gr/wp-content/uploads/2016/05/flash_logo-panw-1-300x62.jpg" ,Flash tv
 https://flash-tv.gr/live/|webdig
 #EXTINF:-1 tvg-id="HIGH TV" tvg-logo="http://greektv.pbworks.com/f/HIGH.png" ,HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
