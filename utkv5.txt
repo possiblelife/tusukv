@@ -117,15 +117,15 @@ https://easyview.eu/watch.php?stream=citv|refererdown$$referer=https://easyview.
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3211?protocol=hls
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITVBe" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_be.png" ,ITV Be. [Option-3] 
 https://easyview.eu/watch.php?stream=itvbe|refererdown$$referer=https://easyview.eu/watch.php?stream=itvbe$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="Entertainment" tvg-id="Drama" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Drama [USE INTERNAL Player for better stability]
+#EXTINF:-1 group-title="Entertainment" tvg-id="Drama" tvg-logo="https://www.youview.com/wp-content/uploads/2016/06/12111755/drama-400x390.png" ,Drama [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5944?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="Cbs Reality" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbs Reality [USE INTERNAL Player for better stability]
+#EXTINF:-1 group-title="Entertainment" tvg-id="Cbs Reality" tvg-logo="https://pbs.twimg.com/profile_images/854674078254411776/P_yzfBIn_400x400.jpg" ,Cbs Reality [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1808?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="Cbs Reality+1" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbs Reality+1 [USE INTERNAL Player for better stability]
+#EXTINF:-1 group-title="Entertainment" tvg-id="Cbs Reality+1" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo191.png" ,Cbs Reality+1 [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1811?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="Cbs Drama" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbs Drama [USE INTERNAL Player for better stability]
+#EXTINF:-1 group-title="Entertainment" tvg-id="Cbs Drama" tvg-logo="http://www.cbsdrama.tv/uk/content/wp-content/uploads/2016/05/CBS-Drama-Logo.jpg" ,Cbs Drama [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1805?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="Cbs Action" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbs Action [USE INTERNAL Player for better stability]
+#EXTINF:-1 group-title="Entertainment" tvg-id="Cbs Action" tvg-logo="http://hytham.net/logo/CBS%20action.png" ,Cbs Action [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?protocol=hls
 #EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 [Option-1]
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=2|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
