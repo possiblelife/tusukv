@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA TV===
+#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA TV===-
 https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2b/a4/62/2ba4620b-8049-4ea9-97ba-06f9792b8d70/pr_source.png/246x0w.jpg|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , Message From Developer
@@ -883,7 +883,7 @@ http://123tvnow.com/watch/nba-tv/|weballdig
 httphost://$http-raw=http://123tvnow.com/watch/nba-tv/$http-refferer=http://123tvnow.com/watch/nba-tv/
 #EXTINF:-1 group-title="USA" tvg-id="2839"  tvg-logo="https://s31242.pcdn.co/wp-content/uploads/2019/06/NBC2.png" ,NBC [Option-1]
 http://ustvgo.net/nbc/|weballdig
-#EXTINF:-1 group-title="USA"  tvg-id="2839"  tvg-logo="https://s31242.pcdn.co/wp-content/uploads/2019/06/NBC2.pngg" ,NBC HD [Option-3]
+#EXTINF:-1 group-title="USA"  tvg-id="2839"  tvg-logo="https://s31242.pcdn.co/wp-content/uploads/2019/06/NBC2.png" ,NBC HD [Option-3]
 https://tvpc.us/player/embed.php?cid=377|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="News"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" ,NBC 4 News (Washington DC)
 https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
@@ -891,13 +891,13 @@ https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/WTVJ_2009_Logo.png" ,NBC 6 (Florida)
 http://190.80.3.28/NBC/NBC.isml/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/WGAL.png" ,NBC 8 PA (WGAL)
+https://tvpc.us/player/embed.php?cid=66|webdig
 #EXTINF:-1 group-title="News"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" ,NBC 9 Odessa (KWES)
 https://api.new.livestream.com/accounts/16923548/events/4681078/live.m3u8
 #EXTINF:-1 group-title="News"   tvg-logo="http://channelpear.com/images/media/14551.jpg" ,NBC 11 News (Bay Area)
 http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
-#EXTINF:-1 group-title="News"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/KPNX_12_logo.svg/300px-KPNX_12_logo.svg.png" ,NBC 12 Phoniex (KPNX)
-https://12news-lh.akamaihd.net/i/KPNXLive_1@854336/master.m3u88
-#EXTINF:-1 group-title="News" ,NBC12
+#EXTINF:-1 group-title="News"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/KPNX_12_logo.svg/300px-KPNX_12_logo.svg.png" ,NBC 12 Phonex (KPNX)
 http://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
 #EXTINF:-1 group-title="News"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/WVIR.png" ,NBC 29 (WVIR)
 http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8?forceCacheClearSM=530806100000
