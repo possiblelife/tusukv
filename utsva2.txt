@@ -21,7 +21,8 @@ http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|ne
 #EXTINF:-1 group-title="Info"  tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" , EPG All channels
 https://www.ontvtonight.com/guide/|webepg zoom=100 scroll=0,200
 
-
+#EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/1099016552718819328/qh2b_Fyi_400x400.jpg" ,8 News Now Las Vegas (USA ONLY)
+https://www.8newsnow.com/live-stream/|webdig
 #EXTINF:-1 group-title="USA"   tvg-logo="http://channels.roku.com/images/93032ce95a064d129cdefa1ecbce95e1-hd.jpg" ,30A TV
 http://30a-tv.com/my999.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="http://2pouqfl1mif26n3ql1jslyj1.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/360NorthTuneIn3-650x457.jpg" ,360 North
@@ -48,6 +49,8 @@ httphost://$http-raw=http://123tvnow.com/watch/abc/$http-refferer=http://123tvno
 https://tklist.us/vid/abclaclappr.php|agentnodown$$start=source: "$$end=",$$replace=source: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="USA"  tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wabc_icon.png" ,ABC 7 WABC NY
 https://abc7ny.com/watch/live/|weballdig
+#EXTINF:-1 group-title="News" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/5a32b46/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F06%2F20%2Fd7cb93764c9d917b5084759009fa%2Fktnv-geographic-locator-600x200.png" ,ABC13 (ktnv) Las Vegas
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/WSBTV.png" ,ABC Atlanta (WSB-TV)
 https://w3.cdn.anvato.net/player/prod/v3/anvload.html?key=eyJtIjoiYW52IiwidiI6ImNtZy13c2J0diIsImFudmFjayI6Ilh2RWd3eUp2eDdsclZJOEpMbUhlVkNXOG1PbXk4TWJvIiwic2hhcmVMaW5rIjoiaHR0cHM6Ly93d3cud3NidHYuY29tL2xpdmUtc3RyZWFtIiwicGx1Z2lucyI6eyJjb21zY29yZSI6eyJjbGllbnRJZCI6NjAzNTk0NH0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjoiaHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2Fkcz9zej00MDB4MzAwJml1PS8xMjUyMzI5My9BdGxhbnRhX1RWL3dzYnR2X3dlYl9kZWZhdWx0L3ByZV9yb2xsJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZvdXRwdXQ9dmFzdCZ1bnZpZXdlZF9wb3NpdGlvbl9zdGFydD0xJmNvbnRlbnRfcGFnZV91cmw9W3JlZmVycmVyX3VybF0mZGVzY3JpcHRpb25fdXJsPVtyZWZlcnJlcl91cmxdJmNvcnJlbGF0b3I9W3RpbWVzdGFtcF0mdmlkPUFOVl9BTlZfd3NidHYmY21zaWQ9MTk4NTMiLCJoaWRlTm9uTGluZWFyQWRzT25DbG9zZSI6dHJ1ZSwia2V5VmFsdWVzIjp7ImNhdGVnb3J5IjoiLCIsInZpZGVvIjoiY21nLXdzYnR2Iiwib3duZXJfaWQiOiI5OTgxMTkiLCJrdyI6ImxpdmVzdHJlYW0sIiwidG9waWNzIjoibGl2ZXN0cmVhbSwiLCJ3ZWF0aGVyIjoid2VhdGhlciBjb25kaXRpb24iLCJ0ZW1wX3JhbmdlIjoidGVtcCByYW5nZSIsInNreSI6InNreSIsIm9ial90eXBlIjoic2VjdGlvbiBmcm9udCIsIm9ial9pZCI6ImFydGljbGUgaWQiLCJwbGF5ZXJfaWQiOiJwMCIsIm92ZXJsYXlzaXplIjoibGFyZ2UifSwibG9hZFZpZGVvVGltZW91dCI6MTAsIm1hY3JvcyI6eyJ2aWQiOiJBTlZfQU5WX2NtZy13c2J0diIsInJlZmVycmVyX3VybCI6Imh0dHBzOi8vd3d3LndzYnR2LmNvbS9saXZlLXN0cmVhbSJ9LCJzdGFydFRpbWVvdXQiOjIwLCJ1c2VTdHlsZWROb25MaW5lYXJBZHMiOnRydWUsInZhc3RMb2FkVGltZW91dCI6MTB9fSwiY2xvdWRWaWRlb0FuYWx5dGljcyI6eyJ0cmFja2VySWQiOiI4NjlmM2RiYyIsInBsYXllclZlcnNpb24iOiIzLjIuMTEifSwiaGVhcnRiZWF0QmV0YSI6eyJtYXJrZXRpbmdDbG91ZElkIjoiMTQ2MjM0Qjg1Mjc4MzVFMTBBNDkwRDQ0QEFkb2JlT3JnIiwiY3VzdG9tVHJhY2tpbmdTZXJ2ZXIiOiJjb3huZXQuMTEyLjJvNy5uZXQiLCJ0cmFja2luZ1NlcnZlciI6ImNveG5ldC5oYi5vbXRyZGMubmV0Iiwiam9iSWQiOiJqMiIsImFjY291bnQiOiJjb3h3c2J0dixjb3hnbG9iYWwiLCJwdWJsaXNoZXJJZCI6ImNveG5ldCIsInZlcnNpb24iOiIxLjUiLCJwYXJlbnRQYWdlVVJMIjoiaHR0cHM6Ly93d3cud3NidHYuY29tL2xpdmUtc3RyZWFtIiwicGFyZW50VGl0bGUiOiJXU0IgTm93IHwgQWx3YXlzIE9uIHwgV1NCLVRWIiwicEluc3RhbmNlIjoicDAiLCJwcm9maWxlIjoiY294IiwiY3VzdG9tVHJhY2tpbmdTZXJ2ZXJTZWN1cmUiOiJjb3huZXQuMTEyLjJvNy5uZXQifX0sImh0bWw1Ijp0cnVlLCJ0b2tlbiI6IiAiLCJsaXZlIjoidHJ1ZSJ9|webdig
 
@@ -525,6 +528,8 @@ http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6a/4f/c4/6a4fc461-eb4c-936c-d5dd-9c878429f7e1/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg"  ,FOX 5 New York
 https://www.fox5ny.com/live|webdig
+#EXTINF:-1 group-title="News" tvg-logo="http://www.glitteringlightslasvegas.com/wp-content/uploads/fox2.png" ,Fox 5 (kvvu-tv) Las Vegas
+https://livestream.com/accounts/6910894/events/2707630|webdeskdig
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/WBRC_logo_2015.png/300px-WBRC_logo_2015.png" ,Fox 6 Birmingham (WBRC)
 http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/WJW_%28TV%29_logo.png" ,Fox 8 Cleveland (WJW)
@@ -945,7 +950,8 @@ https://videos3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
 https://videos3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8
 #EXTINF:-1 group-title="Live cam" ,New Mexico
 https://videos3.earthcam.com/fecnetwork/4831.flv/HasBahCa.m3u8
-
+#EXTINF:-1 group-title="News" tvg-logo="https://www.cityof.com/uploads/media/local/0001/87/thumb_86641_local_normal.jpeg" ,News 3 (ksnv) Las Vegas
+https://news3lv.com/watch|webdig
 #EXTINF:-1 group-title="News" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" ,News 12 (Brooklyn)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
 #EXTINF:-1 group-title="News" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" ,News 12 (Connecticut - Traffic)
