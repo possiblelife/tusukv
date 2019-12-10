@@ -558,6 +558,8 @@ https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/master.m3u8
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/WTXF-TV_logo.png/150px-WTXF-TV_logo.png" , FOX 29 (WTXF) 
 https://www.fox29.com/live|webdig
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Kabblogo.PNG/265px-Kabblogo.PNG" ,Fox 29 (kabb) San Antonio
+https://content-aeuf1.uplynk.com/channel/305309e8862f4059ba7a179a10f12cda.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://localtvkdvr.files.wordpress.com/2016/03/fox31denver-kdvr.jpg" ,Fox 31 Denver (KDVR)
 http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="" group-title="Local" ,FOX 32 [720p]
