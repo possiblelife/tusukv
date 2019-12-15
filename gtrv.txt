@@ -24,8 +24,8 @@ https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 #EXTINF:-1 tvg-id="ertsports" tvg-logo="https://webtv.ert.gr/wp-content/uploads/2019/02/ERTSports-logoPage1.png" ,ΕΡΤ SPORTS (Youtube)
 https://webtv.ert.gr/ert-sports-live/|youtubedig
 
-#EXTINF:-1 tvg-id="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" ,ONE TV (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
-https://streaming.onetv.gr/show/onetv.m3u8
+#EXTINF:-1 tvg-id="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" ,ONE TV
+https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 tvg-id="Mega" tvg-logo="http://greektv.pbworks.com/f/MEGA.png" ,MEGA
@@ -39,7 +39,7 @@ http://www.anacon.org/app/chans/gr/skai.php|agentdown$$start=src:  "$$end=",$$re
 #EXTINF:-1 tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (ΕΝΑΛΛΑΚΤΙΚΟ)
 http://www.anacon.org/app/chans/gr/skai.php|weballdig
 #EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
-http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
+https://cdnapisec.kaltura.com/p/713821/sp/0/playManifest/entryId/1_fp7fyi3j/format/applehttp/protocol/https/flavorParamId/0/manifest.m3u8
 #EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://www.anacon.org/app/chans/gr/star.php|agentdown$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
 #EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR (ΕΝΑΛΛΑΚΤΙΚΟ)
@@ -219,7 +219,9 @@ https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bh1iOFz.png" ,CINEFIL GR
 http://bit.ly/2Dn2Yty
 #EXTINF:-1 tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/Groovy-3-150x48.png" ,Groovy
-https://web.onair-radio.eu/groovytv/groovytv/playlist.m3u8
+http://bit.ly/2p6JqSo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrXkKRp.png" ,WORLD Z
+https://web.onair-radio.eu/Worldz/Worldz/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
