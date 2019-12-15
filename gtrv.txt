@@ -117,7 +117,7 @@ http://94.156.174.52:25461/live/all/all/2.m3u8
 #EXTINF:-1 tvg-id="EXTRA CHANNEL" tvg-logo="https://www.digea.gr/images/channel-icons/ABCHANNEL.png" ,EXTRA CHANNEL
 https://extratv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 tvg-id="FLASH TV" tvg-logo="https://flash-tv.gr/wp-content/uploads/2016/05/flash_logo-panw-1-300x62.jpg" ,Flash tv
-https://ad.mysisli.com/live/flashtvwm/index.m3u8
+https://flash-tv.gr/live/|webdig
 #EXTINF:-1 tvg-id="HIGH TV" tvg-logo="http://greektv.pbworks.com/f/HIGH.png" ,HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 tvg-id="IONIAN CHANNEL" tvg-logo="https://www.digea.gr/images/channel-icons/IONIAN-CHANNEL.png" ,IONIAN CHANNEL
@@ -145,7 +145,7 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR B. ELLADOS" tvg-logo="http://www.anacon.org/app/img/starbe.jpg" ,Star B. ΕΛΛΑΔΟΣ
 http://www.startvfm.gr/live/|webdig
 #EXTINF:-1 tvg-id="STAR K.E." tvg-logo="https://www.digea.gr/images/channel-icons/STAR%20KENTIKHS%20ELLADAS.jpg" ,Star ΚΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ
-http://www.anacon.org/app/chans/gr/starke.html|webdig
+https://www.dailymotion.com/embed/video/xqjey2?logo=0&hideInfos=1&related=0&autoplay=1|webdig
 #EXTINF:-1 tvg-id="START TV" tvg-logo="https://goo.gl/fFjaAp" ,START
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="SUPER B" tvg-logo="https://www.digea.gr/images/channel-icons/SUPER-B-TV.png" ,SUPER B
@@ -226,7 +226,7 @@ https://www.youtube.com/watch?v=f64l0rh301I
 #EXTINF:-1  tvg-logo="https://i.imgur.com/l8dDtCp.png" ,Baraza TV
 https://5cc309e93b721.streamlock.net/8452/8452/playlist.m3u8
 #EXTINF:-1 tvg-id="RISE TV" tvg-logo="https://www.digea.gr/images/channel-icons/RISE%20EPG%20WHITE%203.png" ,Rise (Εξωτερικό Player αν δέν δουλέυει ο Εσωτερικός)
-https://www.rise.gr/el/live-tv/|webprodig
+https://www.rise.gr/el/live-tv/|webdig
 #EXTINF:-1 tvg-logo="https://goo.gl/7tKqOl" ,ΤΗΛΕ ΜΟΥΣΙΚΗ
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Zl1OJ5.png" ,NRG TV
@@ -236,7 +236,7 @@ https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.anacon.org/app/img/ellinikos.jpg" ,Ellinikos FM
 https://itv.streams.ovh/ellinikosfm/ellinikosfm/chunklist_w620343428.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/kkjOp4" ,ΖΟΥΓΚΛΑ
-https://zouglacam-mdc-secure.akamaized.net/zouglalive/mainnew2/chunks.m3u8
+https://zouglacam-mdc-secure.akamaized.net/zouglastream/radio_backup5/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BjVgNNmExgo/WhMYN1dmDHI/AAAAAAAAXTY/TmPb086-0acq-FzrTVn7eNqLDF9BU7VvwCLcBGAs/s1600/xalastra%2Btv.jpg" ,Xalastra TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/74911.v2.png" ,FOX TV
