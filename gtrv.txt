@@ -182,8 +182,8 @@ https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4.m3u8
 http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GdgekUL.png" ,TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6xRxPun.png" ,TV GOLD
-mms://tvgold.webcast.mediacdn.com/tvgold
+#EXTINF:-1 tvg-logo="http://www.tvgold.gr/images/tvlogo_new_small.png" ,TV GOLD
+http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.anacon.org/app/img/eoe.jpg" ,EOE
 https://live.cast-control.eu/organismos/organismos/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.anacon.org/app/img/montreal.jpg" ,Montreal
