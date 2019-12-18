@@ -169,15 +169,16 @@ https://5948d12b760bb.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============= WEBTV ============
 http://.....
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-S2QJbqLn1yE/WiWWTHETdVI/AAAAAAABwS4/OP2uqUbwWgM9fnxVdoWjaYouA8cHBn3LQCLcBGAs/h120/ertplay1.jpg" ,ΕΡΤ Play WebTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4pvyyYb/1.jpg" ,ΕΡΤ Play 1
 https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cL6bbbQTXTc/WiWWZUVOMEI/AAAAAAABwS8/yLQFnNU7qIU-FXk6ciMZLYdnRvo1ustFACLcBGAs/h120/ertplay2.jpg" ,ΕΡΤ Play 2 WebTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y6M72Gk/2.jpg" ,ΕΡΤ Play 2
 https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzabKkj.jpg" ,ΕΡΤ Play 3 WebTV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QNw1CSN/3.jpg" ,ΕΡΤ Play 3
 https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzabKkj.jpg" ,ΕΡΤ Play 4 WebTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f8PGJpQ/4.jpg" ,ΕΡΤ Play 4
 https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgcRStr/5.jpg",ERT PLAY 5
+https://ert-live.siliconweb.com/media/ert_play_5/ert_play_5.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0Ovqq2f.png" ,TILESPORT
 http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GdgekUL.png" ,TV FILOPOLI
