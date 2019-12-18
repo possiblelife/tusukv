@@ -177,7 +177,7 @@ https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2.m3u8
 https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f8PGJpQ/4.jpg" ,ΕΡΤ Play 4
 https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgcRStr/5.jpg",ERT PLAY 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgcRStr/5.jpg" ,ERT PLAY 5
 https://ert-live.siliconweb.com/media/ert_play_5/ert_play_5.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0Ovqq2f.png" ,TILESPORT
 http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
