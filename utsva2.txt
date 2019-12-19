@@ -361,6 +361,8 @@ httphost://$http-raw=http://123tvnow.com/watch/the-cw/$http-refferer=http://123t
 https://ctslive-i.akamaihd.net/hls/live/677250/WPSGTV/master.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://i.imgur.com/l2O0fY1.png" ,Darcizzle Offshore
 http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://vhx.imgix.net/daystartv1/assets/0c1247ef-0118-4754-8865-0ce2a7913588.png?fit=max&h=84&q=92&w=400" ,Daystar Channel
+https://www.daystar.tv/videos/live-stream|webdeskdig
 #EXTINF:-1 group-title="Local" ,DC COUNCIL CHANNEL
 http://video.oct.dc.gov/out/u/15_12.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://i.imgur.com/q66RMSc.png" ,Denver 8 TV
