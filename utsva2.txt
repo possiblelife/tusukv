@@ -559,7 +559,7 @@ http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/WTXF-TV_logo.png/150px-WTXF-TV_logo.png" , FOX 29 (WTXF) 
 https://www.fox29.com/live|webdig
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Kabblogo.PNG/265px-Kabblogo.PNG" ,Fox 29 (kabb) San Antonio
-https://content-aeuf1.uplynk.com/channel/305309e8862f4059ba7a179a10f12cda.m3u8
+https://foxsanantonio.com/watch|webdig
 #EXTINF:-1 group-title="News" tvg-logo="https://localtvkdvr.files.wordpress.com/2016/03/fox31denver-kdvr.jpg" ,Fox 31 Denver (KDVR)
 http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="" group-title="Local" ,FOX 32 [720p]
@@ -816,6 +816,8 @@ http://s8.11223344.host/live/lifetime/chunks.m3u8|Referer=http://123tvnow.com/wa
 http://123tvnow.com/watch/lifetime-tv/|weballdig
 #EXTINF:-1 group-title="Movies"  tvg-id="654"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Lifetime-269x151.png" ,Lifetime [Option-3] [Alternate2]
 httphost://$http-raw=http://123tvnow.com/watch/lifetime-tv/$http-refferer=http://123tvnow.com/watch/lifetime-tv/
+#EXTINF:-1 group-title="Movies"  tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/08/lifetimeM.jpeg" ,Lifetime Movies (LMN)
+https://ustvgo.tv/lifetime-movies/|webproalldig
 #EXTINF:-1 group-title="Live cam" ,Live Train 24/7 Train Driver's View, Cab Ride, Winter Train Live View Front Window View
 https://www.youtube.com/watch?v=XWY1gJKCoD0
 #EXTINF:-1 group-title="USA"   tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" ,Live Stream
