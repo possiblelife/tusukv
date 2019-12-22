@@ -816,7 +816,7 @@ http://s8.11223344.host/live/lifetime/chunks.m3u8|Referer=http://123tvnow.com/wa
 http://123tvnow.com/watch/lifetime-tv/|weballdig
 #EXTINF:-1 group-title="Movies"  tvg-id="654"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Lifetime-269x151.png" ,Lifetime [Option-3] [Alternate2]
 httphost://$http-raw=http://123tvnow.com/watch/lifetime-tv/$http-refferer=http://123tvnow.com/watch/lifetime-tv/
-#EXTINF:-1 group-title="Movies"  tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/08/lifetimeM.jpeg" ,Lifetime Movies (LMN)
+#EXTINF:-1 group-title="Movies" tvg-id="1333" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/08/lifetimeM.jpeg" ,Lifetime Movies (LMN)
 https://ustvgo.tv/lifetime-movies/|webproalldig
 #EXTINF:-1 group-title="Live cam" ,Live Train 24/7 Train Driver's View, Cab Ride, Winter Train Live View Front Window View
 https://www.youtube.com/watch?v=XWY1gJKCoD0
