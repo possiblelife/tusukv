@@ -35,13 +35,13 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (Youtube)
 http://www.skaitv.gr/live|agentnodown$$start=https:\/\/www.youtube.com$$end=",$$replace=\$$replacewith=$$add=
 #EXTINF:-1 tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI
-http://www.anacon.org/app/chans/gr/skai.php|agentdown$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
+http://www.anacon.org/app/chans/gr/skai.php|refererdown$$referer=http://www.anacon.org/app/chans/gr/skai.php$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
 #EXTINF:-1 tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (ΕΝΑΛΛΑΚΤΙΚΟ)
 http://www.anacon.org/app/chans/gr/skai.php|weballdig
 #EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 https://cdnapisec.kaltura.com/p/713821/sp/0/playManifest/entryId/1_fp7fyi3j/format/applehttp/protocol/https/flavorParamId/0/manifest.m3u8
 #EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR
-http://www.anacon.org/app/chans/gr/star.php|agentdown$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
+http://www.anacon.org/app/chans/gr/star.php|refererdown$$referer=http://www.anacon.org/app/chans/gr/star.php$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
 #EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR (ΕΝΑΛΛΑΚΤΙΚΟ)
 http://www.anacon.org/app/chans/gr/star.php|weballdig
 #EXTINF:-1 tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ALPHA (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
@@ -49,7 +49,7 @@ https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
 https://liveopen.siliconweb.com/openTvLive/stream2a/chunklist.m3u8
 #EXTINF:-1 tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV 
-http://www.anacon.org/app/chans/gr/open.php|agentdown$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
+http://www.anacon.org/app/chans/gr/open.php|refererdown$$referer=http://www.anacon.org/app/chans/gr/open.php$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
 #EXTINF:-1 tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV (ΕΝΑΛΛΑΚΤΙΚΟ)
 http://www.anacon.org/app/chans/gr/open.php|weballdig
 #EXTINF:-1 tvg-id="vouli" tvg-logo="https://goo.gl/m1ZYJB" ,ΒΟΥΛΗ
@@ -266,7 +266,7 @@ http://.....
 #EXTINF:-1 tvg-logo="https://goo.gl/ablVkW" ,WZRA KID'S GR 
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,Smile
-http://www.anacon.org/app/chans/cy/smilecy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+http://www.anacon.org/app/chans/cy/smilecy.html|refererdown$$referer=http://www.anacon.org/app/chans/cy/smilecy.php$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,Smile (ΕΝΑΛΛΑΚΤΙΚΟ)
 http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
 
