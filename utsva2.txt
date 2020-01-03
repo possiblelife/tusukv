@@ -555,7 +555,7 @@ http://api.new.livestream.com/accounts/12136532/events/3798375/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/KOKI23.png" ,FOX 23 Tulsa (KOKI)
 https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" ,Fox 28 Savannah (WTGS)
-http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+https://fox28media.com/watch|webdig
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/WTXF-TV_logo.png/150px-WTXF-TV_logo.png" , FOX 29 (WTXF) 
 https://www.fox29.com/live|webdig
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Kabblogo.PNG/265px-Kabblogo.PNG" ,Fox 29 (kabb) San Antonio
@@ -1251,6 +1251,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/54173136ff9fba68282f4d53/master.m3u8
 http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
 #EXTINF:-1 group-title="Shop"   tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg" ,The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1  tvg-logo="https://hugetv.org/wp-content/uploads/2016/05/The-Word-Network.png" ,The Word Network
+https://wwitv.com/tv_channels/b6244.htm|webdig
 #EXTINF:-1 group-title="Entertainment"  tvg-id="5005"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC [Option-1]
 https://ustvgo.tv/tlc-live-free/|webproalldig
 #EXTINF:-1 group-title="Entertainment" tvg-id="5005"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC [Option-2]
@@ -1404,4 +1406,3 @@ httphost://$http-raw=http://123tvnow.com/watch/wwe-network/$http-refferer=http:/
 http://crichd.ws/update/wwe.php|webdeskdig
 #EXTINF:-1 group-title="Sports"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK [Option-3]
 https://ustvgo.tv/wwe-network/|webproalldig
-
