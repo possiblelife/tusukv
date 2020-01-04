@@ -145,7 +145,7 @@ https://www.dailymotion.com/embed/video/xqjey2?logo=0&hideInfos=1&related=0&auto
 #EXTINF:-1 tvg-id="START TV" tvg-logo="https://goo.gl/fFjaAp" ,START
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="SUPER B" tvg-logo="https://www.digea.gr/images/channel-icons/SUPER-B-TV.png" ,SUPER B
-https://live.streams.ovh/Superb/Superb/playlist.m3u8
+http://superb.gr/streaming/play.html|webepg zoom=100 scroll=0,0
 #EXTINF:-1 tvg-id="SYROS TV1 " tvg-logo="https://goo.gl/aVVUtg" ,ΣΥΡΟΣ TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 tvg-id="THRAKINET" tvg-logo="https://goo.gl/oJ9YrY" ,ΘΡΑΚΗNET
@@ -220,6 +220,9 @@ http://bit.ly/2Dn2Yty
 http://bit.ly/2p6JqSo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrXkKRp.png" ,WORLD Z
 https://web.onair-radio.eu/Worldz/Worldz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/54fbf860-1d0d-46e7-a22a-74edb3053c67/d6fxd03-8390a3a9-2b68-4564-ba05-01edbefddf13.png" ,Classic Mr Bean Live
+https://www.youtube.com/watch?v=dQprOmR-AJQ
+
 
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
@@ -252,6 +255,7 @@ https://www.youtube.com/watch?v=-HXyc9TP7Oo
 https://web.onair-radio.eu/video/video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kQA63XBBiyU/hqdefault.jpg" ,Cannali - Web Music Channel
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΠΑΙΔΙΚΑ   ============
