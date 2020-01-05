@@ -9,19 +9,19 @@ http://.....
 https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 tvg-id="ert1" tvg-logo="https://goo.gl/hD0NSD" ,ΕΡΤ1 WebTV (Youtube)
 https://webtv.ert.gr/ert1-live/|youtubedig
-#EXTINF:-1 tvg-id="ert1" tvg-logo="https://goo.gl/hD0NSD" ,ΕΡΤ1
+#EXTINF:-1 tvg-id="ert1" tvg-logo="https://goo.gl/hD0NSD" ,ΕΡΤ1 (Click Play Icon between ads)
 http://www.anacon.org/app/chans/gr/ert1s2.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 tvg-id="ert2" tvg-logo="https://goo.gl/quc9Qp" ,ΕΡΤ2 WebTV
 https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8
 #EXTINF:-1 tvg-id="ert2" tvg-logo="https://goo.gl/quc9Qp" ,ΕΡΤ2 WebTV (Youtube)
 https://webtv.ert.gr/ert2-live/|youtubedig
-#EXTINF:-1 tvg-id="ert2" tvg-logo="https://goo.gl/quc9Qp" ,ΕΡΤ2
+#EXTINF:-1 tvg-id="ert2" tvg-logo="https://goo.gl/quc9Qp" ,ΕΡΤ2 (Click Play Icon between ads)
 http://www.anacon.org/app/chans/gr/ert2s2.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 WebTV 
 https://ert-live.siliconweb.com/media/ert_3/ert_3.m3u8
 #EXTINF:-1 tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 WebTV (Youtube)
 https://webtv.ert.gr/ert3-live/|youtubedig
-#EXTINF:-1 tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3
+#EXTINF:-1 tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 (Click Play Icon between ads)
 http://www.anacon.org/app/chans/gr/ert3s2.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 tvg-id="ert1" tvg-logo="https://goo.gl/DLhMC3" ,ΕΡΤ WORLD WebTV (Youtube)
 https://webtv.ert.gr/ertworld-live/|youtubedig
@@ -40,18 +40,19 @@ http://www.megatv.com/webtv/default.asp?catid=33880&pubid=33005683|agentnodown$$
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (Youtube)
 http://www.skaitv.gr/live|agentnodown$$start=https:\/\/www.youtube.com$$end=",$$replace=\$$replacewith=$$add=
-#EXTINF:-1 tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI
+#EXTINF:-1 tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (Click Play Icon between ads)
 http://www.anacon.org/app/chans/gr/skai.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 https://cdnapisec.kaltura.com/p/713821/sp/0/playManifest/entryId/1_fp7fyi3j/format/applehttp/protocol/https/flavorParamId/0/manifest.m3u8
-#EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR
+#EXTINF:-1 tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR (Click Play Icon between ads)
 http://www.anacon.org/app/chans/gr/star.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ALPHA (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
-#EXTINF:-1 tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ALPHA 
+#EXTINF:-1 tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ALPHA  (Click Play Icon between ads)
 http://www.anacon.org/app/chans/gr/alpha.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
 https://liveopen.siliconweb.com/openTvLive/stream2a/chunklist.m3u8
+#EXTINF:-1 tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV (Click Play Icon between ads)
 http://www.anacon.org/app/chans/gr/open.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 tvg-id="vouli" tvg-logo="https://goo.gl/m1ZYJB" ,ΒΟΥΛΗ
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
