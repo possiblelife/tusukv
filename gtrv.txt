@@ -232,6 +232,8 @@ https://web.onair-radio.eu/Worldz/Worldz/playlist.m3u8
 https://www.youtube.com/watch?v=dQprOmR-AJQ
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/1677/7285/files/reboot_shopify_b15c4bc2-6b0a-47a0-b27e-1c6e5c83df6f_400x400.png?v=1530142558" ,REBOOT
 http://web.onair-radio.eu:1935/reboot/reboot/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv-150x150.jpg" ,Play
+https://web.onair-radio.eu/video/video/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
@@ -275,7 +277,8 @@ http://wpso.com:1936/hls/kidshd.m3u8
 http://www.anacon.org/app/chans/cy/smilecy.html|refererdown$$referer=http://www.anacon.org/app/chans/cy/smilecy.php$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,Smile (ΕΝΑΛΛΑΚΤΙΚΟ)
 http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
-
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/cGsubWVlbXNvbC5QaW5rUGFudGhlckNhcnRvb25zX2ljb25fMTU0MjI4MDM5Nl8wOTg/icon.png?w=170&fakeurl=1" ,Cartoons GR
+https://web.onair-radio.eu/cartoon/cartoon/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ============
