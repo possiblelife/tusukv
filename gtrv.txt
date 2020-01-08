@@ -241,9 +241,11 @@ https://web.onair-radio.eu/video/video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
 http://.....
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-eQzBt9fEXzqfZMSLjr0106VZm8aiwmjjlPw=s288-c-k-c0xffffffff-no-rj-mo" ,Heaven TV
-https://www.youtube.com/watch?v=f64l0rh301I
-#EXTINF:-1  tvg-logo="https://i.imgur.com/l8dDtCp.png" ,Baraza TV
-https://video1.getstreamhosting.com:1936/8452/8452/playlist.m3u8
+https://www.youtube.com/watch?v=GoZmb8qY5D4
+#EXTINF:-1  tvg-logo="https://i.imgur.com/l8dDtCp.png" ,Baraza Music TV
+https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.businessnews.com.lb/cms/Portals/2/Business/2013/nrj-hits.jpg" ,NRJ Hits
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RISE TV" tvg-logo="https://www.digea.gr/images/channel-icons/RISE%20EPG%20WHITE%203.png" ,Rise (Εξωτερικό Player αν δέν δουλέυει ο Εσωτερικός)
 https://www.rise.gr/el/live-tv/|webdig
 #EXTINF:-1 tvg-logo="https://goo.gl/7tKqOl" ,ΤΗΛΕ ΜΟΥΣΙΚΗ
