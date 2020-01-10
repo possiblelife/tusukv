@@ -9,13 +9,13 @@ https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
 https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , CONSIDER UPDATE TO LATEST VERSION.
 https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Info"   tvg-logo="http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg" , USE BELOW TO UPDATE TO V2.22.
+#EXTINF:-1 group-title="Info"   tvg-logo="http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg" , USE BELOW TO UPDATE TO V2.23.
 http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg|webepg zoom=100 scroll=0,200
  
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , VERSION V2.22. Click here to AUTO-UPDATE.
-http://www.mediafire.com/file/eigu4t1ybmonxs1/UK_TV_%2526_Radio_V2.22.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , VERSION V2.22. Click here to Download From Browser(simple mode only).
-http://www.mediafire.com/file/eigu4t1ybmonxs1/UK_TV_%2526_Radio_V2.22.apk/file|newexternalapp
+#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , VERSION V2.23. Click here to AUTO-UPDATE.
+http://www.mediafire.com/file/cm4depmq843ddr1/UK_TV_%2526_Radio_V2.23.apk/file|externalupdate
+#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , VERSION V2.23. Click here to Download From Browser.
+http://www.mediafire.com/file/cm4depmq843ddr1/UK_TV_%2526_Radio_V2.23.apk/file|newexternalapp
 
 #EXTINF:-1 tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" , EPG All channels
 https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
