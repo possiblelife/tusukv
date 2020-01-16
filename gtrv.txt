@@ -34,7 +34,7 @@ https://webtv.ert.gr/ert-sports-live/|youtubedig
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-#EXTINF:-1 tvg-id="Mega" tvg-logo="http://greektv.pbworks.com/f/MEGA.png" ,MEGA (Youtube)
+#EXTINF:-1 tvg-id="Mega" tvg-logo="http://greektv.pbworks.com/f/MEGA.png" ,MEGA (Youtube) [OFFLINE ΜΕΧΡΙ ΑΡΧΕΣ ΦΕΒΡΟΥΑΡΙΟΥ]
 http://www.megatv.com/webtv/default.asp?catid=33880&pubid=33005683|agentnodown$$start=https://www.youtube.com$$end="$$replace=embed/$$replacewith=watch?v=$$add=
 #EXTINF:-1 tvg-logo="http://i.imgur.com/w37uJo1.png" ,MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
