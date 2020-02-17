@@ -34,12 +34,12 @@ https://webtv.ert.gr/ert-sports-live/|youtubedig
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="http://greektv.pbworks.com/f/MEGA.png" ,MEGA (Youtube) [OFFLINE ΜΕΧΡΙ ΑΡΧΕΣ ΦΕΒΡΟΥΑΡΙΟΥ]
-http://www.megatv.com/webtv/default.asp?catid=33880&pubid=33005683|agentnodown$$start=https://www.youtube.com$$end="$$replace=embed/$$replacewith=watch?v=$$add=
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="http://greektv.pbworks.com/f/MEGA.png" ,MEGA
+https://streamcdnb4-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="http://i.imgur.com/w37uJo1.png" ,MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (Youtube)
-http://www.skaitv.gr/live|youtubedig
+http://www.skaitv.gr/live|webnoagent$$start=https:\\/\\/www.youtube.com$$end=\",$$replace=\$$replacewith=$$add=
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/skai.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
@@ -244,7 +244,7 @@ http://.....
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l7-eQzBt9fEXzqfZMSLjr0106VZm8aiwmjjlPw=s288-c-k-c0xffffffff-no-rj-mo" ,Heaven TV
 https://www.youtube.com/watch?v=GoZmb8qY5D4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.imgur.com/l8dDtCp.png" ,Baraza Music TV Greek Hits
-https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
+https://greekyoutube.eu:444/live/5e300ade5dadc/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.imgur.com/l8dDtCp.png" ,Baraza Music TV Classic hits
 https://5cc309e93b721.streamlock.net:443/8452/8452/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="http://www.businessnews.com.lb/cms/Portals/2/Business/2013/nrj-hits.jpg" ,NRJ Hits
