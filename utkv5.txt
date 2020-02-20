@@ -26,7 +26,7 @@ https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
 #EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-1] 
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=14|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-2] 
-https://easyview.eu/watch.php?stream=bbc-1|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-1$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-london|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-london$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-3](V2.21/advance mode only)
 https://ustreamix.live/embed.php?id=bbc1|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-4] [USE INTERNAL Player for better stability]
