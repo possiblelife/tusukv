@@ -84,7 +84,7 @@ http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ART TV" tvg-logo="http://www.arttv.gr/wp-content/uploads/2017/02/logo_mobile_retina.png" ,Art tv (Άρτα tv) (Εξωτερικό Player αν δέν δουλέυει ο Εσωτερικός)
 https://server.tvdj.info:8222/arttv/arttv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ASTRA TV" tvg-logo="https://goo.gl/nYsDIa" ,ASTRA
-https://live.gointernet.gr:7342/hls/astratv/astratv.m3u8
+https://www.astratv.gr/live-streaming/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ATTICA TV" tvg-logo="https://www.digea.gr/images/channel-icons/ATTICATV.png" ,ATTICA TV
 http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="AXELWOS TV" tvg-logo="https://goo.gl/mNqHoo" ,ΑΧΕΛΩΟΣ
@@ -243,6 +243,8 @@ https://web.onair-radio.eu/video/video/playlist.m3u8
 http://.....
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l7-eQzBt9fEXzqfZMSLjr0106VZm8aiwmjjlPw=s288-c-k-c0xffffffff-no-rj-mo" ,Heaven TV
 https://www.youtube.com/watch?v=GoZmb8qY5D4
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l78kbaX5jx9wum6chbW2RAGQZidVBf1zNPCWMA=s48-c-k-c0xffffffff-no-rj-mo" ,MAD TV
+https://www.youtube.com/watch?v=nhSwlWhdips
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.imgur.com/l8dDtCp.png" ,Baraza Music TV Greek Hits
 https://greekyoutube.eu:444/live/5e300ade5dadc/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.imgur.com/l8dDtCp.png" ,Baraza Music TV Classic hits
@@ -286,6 +288,12 @@ http://www.anacon.org/app/chans/cy/smilecy.html|refererdown$$referer=http://www.
 http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://image.winudf.com/v2/image1/cGsubWVlbXNvbC5QaW5rUGFudGhlckNhcnRvb25zX2ljb25fMTU0MjI4MDM5Nl8wOTg/icon.png?w=170&fakeurl=1" ,Cartoons GR
 https://web.onair-radio.eu/cartoon/cartoon/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l78qQUPvYzN23BeKFgBD13iO0FCkh5VwOjsYZA=s48-c-k-c0xffffffff-no-rj-mo" ,Τομ και τζερυ 
+https://www.youtube.com/watch?v=933-mhry0Bc
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l7-iItZoGe0QTRAFueuJpkhsAMBv6EZ3nB8xJA=s48-c-k-c0xffffffff-no-rj-mo" ,Booba 
+https://www.youtube.com/watch?v=QougB4t6TWU
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l7-YzeaazMqrGL0a4Hxp6I2L8GZdFgaCy4Sfvw=s48-c-k-c0xffffffff-no-rj-mo" ,Mr bean cartoon 
+https://www.youtube.com/watch?v=gXARGZF1Wp4
 
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ============
