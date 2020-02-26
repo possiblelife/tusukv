@@ -282,7 +282,7 @@ https://www.youtube.com/watch?v=-HXyc9TP7Oo
 https://web.onair-radio.eu/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ytimg.com/vi/kQA63XBBiyU/hqdefault.jpg" ,Cannali - Web Music Channel
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo=http://moviez.space/images/videothumbs/iptv/radio-tv-pringipesa.png" ,Radio-TV prigipesa
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="http://moviez.space/images/videothumbs/iptv/radio-tv-pringipesa.png" ,Radio-TV prigipesa
 https://itv.streams.ovh/priggipesa/priggipesa/chunk.m3u8
 
 
