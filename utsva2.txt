@@ -739,17 +739,17 @@ http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
 #EXTINF:-1 group-title="Local" ,GREENSBORO TV NETWORK
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="193"   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/835_300.png" ,Golf Channel [Option-1] 
-https://ustv247.tv/golf-channel/|webproalldig
+https://ustv247.tv/golf-channel/|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="193"   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/835_300.png" ,Golf Channel [Option-2] 
 https://ustvgo.tv/golf-channel-live-free/|webproalldig
 #EXTINF:-1 group-title="Movies" tvg-id="1052" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg" ,Hallmark Channel [Option-1] 
 https://ustvgo.tv/hallmark-channel-live-streaming-free/|webproalldig
 #EXTINF:-1 group-title="Movies" tvg-id="1052" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg" ,Hallmark Channel [Option-2] 
-https://ustv247.tv/hallmark-channel-live-stream/|webproalldig
+https://ustv247.tv/hallmark-channel-live-stream/|weballdig
 #EXTINF:-1 group-title="Movies" tvg-id="4453" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/01/HMM_logo_black-700x245.jpg" ,Hallmark Movies & Mysteries 
 https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/|webproalldig
 #EXTINF:-1 group-title="Movies" tvg-id="4453" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/01/HMM_logo_black-700x245.jpg" ,Hallmark Movies & Mysteries [Option-2] 
-https://ustv247.tv/hallmark-movies-mysteries/|webproalldig
+https://ustv247.tv/hallmark-movies-mysteries/|weballdig
 
 #EXTINF:-1 group-title="Movies"  tvg-id="614" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/hbo-269x151.png" ,HBO [Option-1]
 http://docs-8.gogleusercontent.host/live/hbo/chunks.m3u8|Referer=http://123tvnow.com/watch/hbo/
@@ -758,7 +758,7 @@ http://123tvnow.com/watch/hbo/|weballdig
 #EXTINF:-1 group-title="Movies"  tvg-id="614" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/hbo-269x151.png" ,HBO [Option-1] [Alternate2]
 httphost://$http-raw=http://123tvnow.com/watch/hbo/$http-refferer=http://123tvnow.com/watch/hbo/
 #EXTINF:-1 group-title="Movies"  tvg-id="614" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/hbo-269x151.png" ,HBO [Option-2] 
-https://ustv247.tv/hbo/|webproalldig
+https://ustv247.tv/hbo/|weballdig
 #EXTINF:-1 group-title="Movies"  tvg-id="614" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/hbo-269x151.png" ,HBO [Option-3]
 https://www.streamlive.to/view/69021/HBO-(SD)|webdeskalldig
 #EXTINF:-1 group-title="Movies"  tvg-id="626" tvg-logo="https://www.pickcinema.com/images/tv/logos/hbo2.png" ,HBO 2
@@ -768,7 +768,7 @@ https://www.streamlive.to/view/38214/HBOComedy-(SD)|webdeskalldig
 #EXTINF:-1 group-title="Entertainment"  tvg-id="6837" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5887ba337b8e94223eb121bd/featuredImage.jpg" ,Her 
 http://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="Documentary"  tvg-id="623" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/HGTV-269x151.png" ,HGTV [Option-1] 
-https://ustv247.tv/hgtv-live-stream/|webproalldig
+https://ustv247.tv/hgtv-live-stream/|weballdig
 #EXTINF:-1 group-title="Documentary"  tvg-id="623" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/HGTV-269x151.png" ,HGTV [Option-2] 
 https://ustvgo.tv/hgtv-live-streaming-free/|webproalldig
 #EXTINF:-1 group-title="Documentary"   tvg-id="623" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/HGTV-269x151.png" ,HGTV [Option-3]
@@ -780,7 +780,7 @@ httphost://$http-raw=http://123tvnow.com/watch/hgtv/$http-refferer=http://123tvn
 #EXTINF:-1 group-title="Live cam" ,High Line
 https://videos3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary"  tvg-id="621" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-1] 
-https://ustv247.tv/history-channel-live-stream/|webproalldig
+https://ustv247.tv/history-channel-live-stream/|weballdig
 #EXTINF:-1 group-title="Documentary"  tvg-id="621" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-2] 
 https://ustvgo.tv/history-channel-live/|webproalldig
 #EXTINF:-1 group-title="Documentary"  tvg-id="621" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-3] 
@@ -815,7 +815,7 @@ https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/index_800_av-p.m3u
 #EXTINF:-1 group-title="Documentary" tvg-id="2090"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery  [Option-1] 
 https://ustvgo.tv/investigation-discovery-live-streaming-free/|webproalldig
 #EXTINF:-1 group-title="Documentary" tvg-id="2090"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery  [Option-1] [Alternate]
-https://ustv247.tv/investigation-discovery/|webproalldig
+https://ustv247.tv/investigation-discovery/|weballdig
 #EXTINF:-1 group-title="Documentary" tvg-id="2090"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery [Option-2]
 http://docs-4.gogleusercontent.host/live/id/chunks.m3u8|Referer=http://123tvnow.com/watch/investigation-discovery/
 #EXTINF:-1 group-title="Documentary" tvg-id="2090"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery [Option-2] [Alternate]
@@ -872,7 +872,7 @@ http://app.viloud.tv/player/embed/channel/b161a8e5c4558959895d8e9cd9ccb56d?autop
 #EXTINF:-1 group-title="Movies"  tvg-id="654"   tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Lifetime-269x151.png" ,Lifetime Channel [Option-1] 
 https://ustvgo.tv/lifetime-channel-live/|webproalldig
 #EXTINF:-1 group-title="Movies"  tvg-id="654"   tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Lifetime-269x151.png" ,Lifetime Channel [Option-2] 
-https://ustv247.tv/lifetime/|webproalldig
+https://ustv247.tv/lifetime/|weballdig
 #EXTINF:-1 group-title="Movies"  tvg-id="654"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Lifetime-269x151.png" ,Lifetime [Option-3] 
 http://docs-8.gogleusercontent.host/live/lifetime/chunks.m3u8|Referer=http://123tvnow.com/watch/lifetime-tv/
 #EXTINF:-1 group-title="Movies"  tvg-id="654"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Lifetime-269x151.png" ,Lifetime [Option-3] [Alternate]
@@ -920,7 +920,7 @@ https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="655" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MSNBC_2015_logo.svg/2000px-MSNBC_2015_logo.svg.png" ,MSNBC [Option-1]
 https://www.livenewswatch.com/msnbc-news.html|refererdown$$referer=https://www.livenewswatch.com/msnbc-news.html$$start=file: "https$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="News"  tvg-id="655" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" ,MSNBC [Option-2] 
-https://ustv247.tv/msnbclive/|webproalldig
+https://ustv247.tv/msnbclive/|weballdig
 #EXTINF:-1 group-title="News"  tvg-id="655" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" ,MSNBC [Option-3] 
 https://ustvgo.tv/msnbc-live-streaming-free/|webproalldig
 #EXTINF:-1 group-title="News" tvg-id="655" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" ,MSNBC [Option-4] 
@@ -948,7 +948,7 @@ https://ustvgo.tv/nat-geo-wild-live/|webproalldig
 #EXTINF:-1 group-title="Documentary" tvg-id="657" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic [Option-1] 
 https://ustvgo.tv/national-geographic-live/|webproalldig
 #EXTINF:-1 group-title="Documentary" tvg-id="657" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic [Option-1] [Alternate]
-https://ustv247.tv/national-geographic-live-stream/|webproalldig
+https://ustv247.tv/national-geographic-live-stream/|weballdig
 #EXTINF:-1 group-title="Documentary" tvg-id="657" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic [Option-2]
 http://docs-4.gogleusercontent.host/live/natgeo/chunks.m3u8|Referer=http://123tvnow.com/watch/national-geographic/
 #EXTINF:-1 group-title="Documentary" tvg-id="657" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic [Option-2] [Alternate]
@@ -964,7 +964,7 @@ httphost://$http-raw=http://123tvnow.com/watch/nba-tv/$http-refferer=http://123t
 #EXTINF:-1 group-title="USA" tvg-id="2839"  tvg-logo="https://s31242.pcdn.co/wp-content/uploads/2019/06/NBC2.png" ,NBC [Option-1] 
 https://ustvgo.tv/nbc/|webproalldig
 #EXTINF:-1 group-title="USA" tvg-id="2839"  tvg-logo="https://s31242.pcdn.co/wp-content/uploads/2019/06/NBC2.png" ,NBC [Option-1] [Alternate]
-https://ustv247.tv/watch-nbc-live-stream/|webproalldig
+https://ustv247.tv/watch-nbc-live-stream/|weballdig
 #EXTINF:-1 group-title="USA"  tvg-id="2839"  tvg-logo="https://s31242.pcdn.co/wp-content/uploads/2019/06/NBC2.png" ,NBC [Option-2]
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 group-title="USA"  tvg-id="2839"  tvg-logo="https://s31242.pcdn.co/wp-content/uploads/2019/06/NBC2.png" ,NBC HD [Option-3]
@@ -1066,7 +1066,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 group-title="News" tvg-id="5999" tvg-logo="https://pbs.twimg.com/profile_images/875453422425829377/32cnrEL7_400x400.jpg" ,Newsy
 https://tklist.us/vid/newsyclappr.php|agentnodown$$start=source: "$$end=",$$replace=source: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="Sports"   tvg-id="3349"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nfl-269x151.png" ,NFL Network [Option-1] 
-https://ustv247.tv/nfl-network/|webproalldig
+https://ustv247.tv/nfl-network/|weballdig
 #EXTINF:-1 group-title="Sports"   tvg-id="3349"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nfl-269x151.png" ,NFL Network [Option-2] 
 https://ustvgo.tv/nfl-network-live-free/|webproalldig
 #EXTINF:-1 group-title="Sports"  tvg-id="3349"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nfl-269x151.png" ,NFL Network [Option-3] 
@@ -1092,7 +1092,7 @@ httphost://$http-raw=http://123tvnow.com/watch/nickelodeon/$http-refferer=http:/
 #EXTINF:-1 group-title="Kids"  tvg-id="658" tvg-logo="http://www.kidvertisers.com/images/biglogo_nickelodeon.gif" ,Nickelodeon [Option-2] 
 https://ustvgo.tv/nickelodeon-live-streaming-free/|webproalldig
 #EXTINF:-1 group-title="Kids"  tvg-id="658" tvg-logo="http://www.kidvertisers.com/images/biglogo_nickelodeon.gif" ,Nickelodeon [Option-3] 
-https://ustv247.tv/nickelodeon/|webproalldig
+https://ustv247.tv/nickelodeon/|weballdig
 #EXTINF:-1 group-title="Kids" tvg-id="2010" tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/nicktoons-logo-1501.jpg" ,Nicktoons 
 https://ustvgo.tv/nicktoons/|webproalldig
 #EXTINF:-1 group-title="USA"   tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aec96ec5126c2157123c657/featuredImage.jpg" ,Nosey 
@@ -1154,7 +1154,7 @@ https://tvpc.us/player/embed.php?cid=378|agentnodown$$start=src: "$$end=" $$repl
 #EXTINF:-1 group-title="USA"  tvg-id="470"  tvg-logo="https://tcaptx.com/wp-content/uploads/2012/03/tcap13.jpg" ,PBS [Option-2] 
 https://ustvgo.tv/pbs-live/|webproalldig
 #EXTINF:-1 group-title="USA"  tvg-id="470"  tvg-logo="https://tcaptx.com/wp-content/uploads/2012/03/tcap13.jpg" ,PBS [Option-2] [Alternate]
-https://ustv247.tv/pbs-live-stream/|webproalldig
+https://ustv247.tv/pbs-live-stream/|weballdig
 #EXTINF:-1 group-title="USA"  tvg-id="470"  tvg-logo="https://tcaptx.com/wp-content/uploads/2012/03/tcap13.jpg" ,PBS [Option-3]
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="2915" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL._SY355_.png" ,PBS Kids WNED [Option-1] (USA ONLY)
@@ -1269,7 +1269,7 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 #EXTINF:-1 group-title="Music" tvg-id="583"   tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/StarZ-269x151.png" ,Starz Channel [Option-1] 
 https://ustvgo.tv/starz-channel-live/|webproalldig
 #EXTINF:-1 group-title="Music" tvg-id="583"   tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/StarZ-269x151.png" ,Starz Channel [Option-2] 
-https://ustv247.tv/starz/|webproalldig
+https://ustv247.tv/starz/|weballdig
 #EXTINF:-1 group-title="Music" tvg-id="583"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/StarZ-269x151.png" ,Starz [Option-3] 
 http://docs-4.gogleusercontent.host/live/starz/chunks.m3u8|Referer=http://123tvnow.com/watch/starz/
 #EXTINF:-1 group-title="Music" tvg-id="583"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/StarZ-269x151.png" ,Starz [Option-3] [Alternate]
@@ -1283,7 +1283,7 @@ https://tvpc.us/player/embed.php?cid=395|agentnodown$$start=src: "$$end=" $$repl
 #EXTINF:-1 group-title="USA"   tvg-id="596"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/syfy-269x151.png" ,Syfy [Option-2] 
 https://ustvgo.tv/syfy-channel-live/|webproalldig
 #EXTINF:-1 group-title="USA"   tvg-id="596"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/syfy-269x151.png" ,Syfy [Option-2] [Alternate]
-https://ustv247.tv/syfy/|webproalldig
+https://ustv247.tv/syfy/|weballdig
 #EXTINF:-1 group-title="USA"  tvg-id="596"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/syfy-269x151.png" ,Syfy [Option-3] 
 http://docs-6.gogleusercontent.host/live/syfy/chunks.m3u8|Referer=http://123tvnow.com/watch/syfy/
 #EXTINF:-1 group-title="USA"  tvg-id="596"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/syfy-269x151.png" ,Syfy [Option-3] [Alternate]
@@ -1293,7 +1293,7 @@ httphost://$http-raw=http://123tvnow.com/watch/syfy/$http-refferer=http://123tvn
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Fbzbq1y.png" ,TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 group-title="USA"   tvg-id="61"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tbs-269x151.png" ,TBS Channel [Option-1] 
-https://ustv247.tv/tbs/|webproalldig
+https://ustv247.tv/tbs/|weballdig
 #EXTINF:-1 group-title="USA"   tvg-id="61"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tbs-269x151.png" ,TBS Channel [Option-2] 
 https://ustvgo.tv/tbs-channel-live-free/|webproalldig
 #EXTINF:-1 group-title="USA" tvg-id="61" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tbs-269x151.png" ,TBS [Option-3] 
@@ -1305,8 +1305,7 @@ httphost://$http-raw=http://123tvnow.com/watch/tbs/$http-refferer=http://123tvno
 #EXTINF:-1 group-title="Movies" tvg-id="176" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png" ,TCM [Option-1] 
 https://ustvgo.tv/tcm/|webproalldig
 #EXTINF:-1 group-title="Movies" tvg-id="176" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png" ,TCM [Option-2] 
-https://ustv247.tv/turner-classic-movies/|webproalldig
-https://ustv247.tv/travel-channel/
+https://ustv247.tv/turner-classic-movies/|weballdig
 #EXTINF:-1 group-title="USA" ,TeleBoston TV
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 #EXTINF:-1 group-title="USA" ,TELEKARIBE
@@ -1316,7 +1315,7 @@ http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://templetv.net/files/2012/06/TUTV_new_fb_logo.jpg" ,Temple University TV
 http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"  tvg-id="2269" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" ,Tennis Channel  [Option-1]
-https://ustv247.tv/tennis-channel/|webproalldig
+https://ustv247.tv/tennis-channel/|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-id="2269" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" ,Tennis Channel  [Option-2]
 https://ustreamix.live/embed.php?id=tennis-channel|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Tstv2006.png/220px-Tstv2006.png" ,Texas Student TV
@@ -1342,7 +1341,7 @@ https://wwitv.com/tv_channels/b6244.htm|webdig
 #EXTINF:-1 group-title="Entertainment"  tvg-id="5005"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC [Option-1] 
 https://ustvgo.tv/tlc-live-free/|webproalldig
 #EXTINF:-1 group-title="Entertainment"  tvg-id="5005"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC [Option-1] [Alternate]
-https://ustv247.tv/tlc/|webproalldig
+https://ustv247.tv/tlc/|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="5005"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC [Option-2]
 https://tvpc.us/player/embed.php?cid=396|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="5005" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC [Option-3]
@@ -1356,13 +1355,13 @@ httphost://$http-raw=http://123tvnow.com/watch/tnt/$http-refferer=http://123tvno
 #EXTINF:-1 group-title="Movies"  tvg-id="347" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT [Option-2] 
 https://ustvgo.tv/tnt/|webproalldig
 #EXTINF:-1 group-title="Movies"  tvg-id="347" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT [Option-3] 
-https://ustv247.tv/tnt/|webproalldig
+https://ustv247.tv/tnt/|weballdig
 #EXTINF:-1 group-title="Local" ,Town of Vienna Community Network
 https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="662"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Travel-269x151.png" ,Travel Channel [Option-1] 
 https://ustvgo.tv/travel-channel-live-free/|webproalldig
 #EXTINF:-1 group-title="Entertainment" tvg-id="662"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Travel-269x151.png" ,Travel Channel [Option-2] 
-https://ustv247.tv/travel-channel/|webproalldig
+https://ustv247.tv/travel-channel/|weballdig
 #EXTINF:-1 group-title="Entertainment"  tvg-id="662" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Travel-269x151.png" ,Travel Channel [Option-3] 
 http://docs-6.gogleusercontent.host/live/travel/chunks.m3u8|Referer=http://123tvnow.com/watch/travel-channel/
 #EXTINF:-1 group-title="Entertainment"  tvg-id="662" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Travel-269x151.png" ,Travel Channel [Option-3] [Alternate]
@@ -1408,7 +1407,7 @@ http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="1252"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/TVLand-269x151.png" ,TV Land [Option-1] 
 https://ustvgo.tv/tv-land-live-free/|webproalldig
 #EXTINF:-1 group-title="Movies" tvg-id="1252"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/TVLand-269x151.png" ,TV Land [Option-2] 
-https://ustv247.tv/tv-land/|webproalldig
+https://ustv247.tv/tv-land/|weballdig
 #EXTINF:-1 group-title="Movies"   tvg-id="1252" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/TVLand-269x151.png" ,TV Land [Option-3]
 http://123tvnow.com/watch/tvland/|weballdig
 #EXTINF:-1 group-title="Movies"   tvg-id="1252" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/TVLand-269x151.png" ,TV Land [Option-3][Alternate]
@@ -1424,7 +1423,7 @@ https://tvpc.us/player/embed.php?cid=397|agentnodown$$start=src: "$$end=" $$repl
 #EXTINF:-1 group-title="USA"  tvg-id="640"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/USA-Network-269x151.png" ,USA Network [Option-2] 
 https://ustvgo.tv/usa-network-live/|webproalldig
 #EXTINF:-1 group-title="USA"  tvg-id="640"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/USA-Network-269x151.png" ,USA Network [Option-2] [Alternate]
-https://ustv247.tv/usa-network-live-stream/|webproalldig
+https://ustv247.tv/usa-network-live-stream/|weballdig
 #EXTINF:-1 group-title="USA" tvg-id="640"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/USA-Network-269x151.png" ,USA Network [Option-3] 
 http://docs-4.gogleusercontent.host/live/usa/chunks.m3u8|Referer=http://123tvnow.com/watch/usa-network/
 #EXTINF:-1 group-title="USA" tvg-id="640"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/USA-Network-269x151.png" ,USA Network [Option-3] [Alternate]
@@ -1461,7 +1460,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
 #EXTINF:-1 group-title="News"  tvg-id="1526"  tvg-logo="http://i.imgur.com/H00wiqw.jpg" ,Weather Channel [Option-1]
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 group-title="News"  tvg-id="1526"  tvg-logo="http://i.imgur.com/H00wiqw.jpg" ,Weather Channel [Option-2]
-https://ustv247.tv/watch-weather-channel-live-stream/|webproalldig
+https://ustv247.tv/watch-weather-channel-live-stream/|weballdig
 #EXTINF:-1 group-title="News"  tvg-id="1526"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" ,Weather Channel [Option-3] 
 https://ustvgo.tv/the-weather-channel-live-streaming-free/|webproalldig
 #EXTINF:-1 group-title="News" tvg-id="1526"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" ,WEATHER CHANNEL [Option-4]
