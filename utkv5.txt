@@ -78,7 +78,7 @@ https://easyview.eu/watch.php?stream=bbc-news|refererdown$$referer=https://easyv
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-4] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3227?protocol=hls 
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/512_300.png" ,BBC World News
-https://1636691764.rsc.cdn77.org/UefJm_RMRJins6Sn-whn2w==,1578740415/LS-ATL-54548-11/index.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC Alba" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC alba [Option-1] 
 https://easyview.eu/watch.php?stream=bbc-alba|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-alba$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-2]
@@ -222,8 +222,6 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.
 #EXTINF:-1 group-title="News" tvg-id="RT" tvg-logo="https://yt3.ggpht.com/-rYFeIFqsCxg/AAAAAAAAAAI/AAAAAAAAAAA/lSsBZ4jxgsg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"  ,Russia Today UK
 https://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
 #EXTINF:-1 group-title="News" tvg-id="Sky News" tvg-logo="https://www.dejero.com/assets/files/news/373/skynews-2__medium.jpg"  ,Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 group-title="News" tvg-id="Sky News" tvg-logo="https://www.dejero.com/assets/files/news/373/skynews-2__medium.jpg"  ,Sky News (HD)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+https://www.youtube.com/watch?v=9Auq9mYxFEE
 #EXTINF:-1 group-title="Entertainment"  tvg-logo="http://tvnews.by/uploads/posts/2014-10/1413546329_World_Fashion.png"  ,World Fashion
 https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
