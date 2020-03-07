@@ -286,7 +286,8 @@ https://web.onair-radio.eu/video/video/playlist.m3u8
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="http://moviez.space/images/videothumbs/iptv/radio-tv-pringipesa.png" ,Radio-TV prigipesa
 https://itv.streams.ovh/priggipesa/priggipesa/chunk.m3u8
-
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://www.mn-gr.com/templates/emusica/images/s5_logo.png" ,Minnesota Greek radio 
+https://www.mn-gr.com/live-tv.html|webdig
 
 
 
@@ -303,11 +304,11 @@ https://web.onair-radio.eu/cartoon/cartoon/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://image.winudf.com/v2/image1/cGsubWVlbXNvbC5QaW5rUGFudGhlckNhcnRvb25zX2ljb25fMTU0MjI4MDM5Nl8wOTg/icon.png?w=170&fakeurl=1" ,Cartoons GR 2
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l78qQUPvYzN23BeKFgBD13iO0FCkh5VwOjsYZA=s48-c-k-c0xffffffff-no-rj-mo" ,Τομ και τζερυ (YouTube)
-https://www.youtube.com/watch?v=933-mhry0Bc
+https://www.youtube.com/watch?v=BRkQ-ZGiNbc
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l7-iItZoGe0QTRAFueuJpkhsAMBv6EZ3nB8xJA=s48-c-k-c0xffffffff-no-rj-mo" ,Booba (YouTube)
 https://www.youtube.com/watch?v=QougB4t6TWU
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l7-YzeaazMqrGL0a4Hxp6I2L8GZdFgaCy4Sfvw=s48-c-k-c0xffffffff-no-rj-mo" ,Mr bean cartoon (YouTube)
-https://www.youtube.com/watch?v=gXARGZF1Wp4
+https://www.youtube.com/watch?v=IP3pYoc2SBc
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://moviez.space/images/videothumbs/iptv/live-larva.png" ,Live Larva (YouTube)
 https://www.youtube.com/watch?v=ZY5oov1_jbo
 
