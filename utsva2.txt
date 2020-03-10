@@ -56,6 +56,8 @@ httphost://$http-raw=http://123tvnow.com/watch/abc/$http-refferer=http://123tvno
 https://tklist.us/vid/abclaclappr.php|agentnodown$$start=source: "$$end=",$$replace=source: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="USA"  tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wabc_icon.png" ,ABC 7 WABC NY
 https://abc7ny.com/watch/live/|weballdig
+#EXTINF:-1 group-title="USA"  tvg-logo="https://wtnh.com/wp-content/uploads/sites/100/2019/05/wtnh_digitalbrand-min.png" ,ABC WTNH News 8
+https://www.wtnh.com/news-8-newscasts/|weballdig
 #EXTINF:-1 group-title="News" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/5a32b46/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F06%2F20%2Fd7cb93764c9d917b5084759009fa%2Fktnv-geographic-locator-600x200.png" ,ABC13 (ktnv) Las Vegas
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/WSBTV.png" ,ABC Atlanta (WSB-TV)
@@ -245,6 +247,8 @@ https://ustv247.tv/watch-cbs-live-stream/|weballdig
 https://tklist.us/vid/cbsVS.php|agentdown$$start=source: "$$end=",$$replace=source: "$$replacewith=$$add=
 #EXTINF:-1 group-title="USA"   tvg-logo="https://pbs.twimg.com/profile_images/953033237210656768/Ek4OiCPd_400x400.jpg" ,CBS 3 Philly (KYW) 
 https://ctslive-i.akamaihd.net/hls/live/676500/KYWTV/master.m3u8
+#EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/WFSB_Channel_3_%28logo%29.png/200px-WFSB_Channel_3_%28logo%29.png" ,CBS WFSB 3
+https://live.field59.com/wfsb/ngrp:wfsb1_all/playlist.m3u8
 #EXTINF:-1 group-title="News" ,CBS 4 News 
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://pictures.grabien.com/profiles/large/0006/6721.jpg" ,CBS 12 West Palm Beach (WPEC)
@@ -997,6 +1001,8 @@ http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_toke
 https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8
 #EXTINF:-1 group-title="News"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/WVIR.png" ,NBC 29 (WVIR)
 http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8?forceCacheClearSM=530806100000
+#EXTINF:-1 group-title="News"  tvg-logo="https://media.nbcconnecticut.com/2019/09/CT_On_Dark@3x-3.png" ,NBC WVIT 30
+https://nbclim-f.akamaihd.net/i/Prod/NBCU_LM_VMS_-_WVIT/320/994/Hamden_Heronettes_Artistic_Swimming_Team__,845120,952868,715656,152641,989835,113913,.mp4.csmil/index_1_av.m3u8
 #EXTINF:-1 group-title="News"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/WLTZ_2007.png" ,NBC 38 Columbus (WLTZ)
 https://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/d4QN3fB.png" ,NBC Charlotte NC (WCNC-TV)
