@@ -314,8 +314,8 @@ https://www.youtube.com/watch?v=QougB4t6TWU
 https://www.youtube.com/watch?v=IP3pYoc2SBc
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://moviez.space/images/videothumbs/iptv/live-larva.png" ,Live Larva (YouTube)
 https://www.youtube.com/watch?v=ZY5oov1_jbo
-
-
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AATXAJz6Ft8ZZavdp1dUuwiUdhCYW4CwC-HxldKG9w=s48-c-k-c0xffffffff-no-rj-mo" ,Talking Tom Shorts (YouTube)
+https://www.youtube.com/watch?v=QzsfLSP6hkI
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ============
 http://.....
