@@ -720,6 +720,8 @@ http://docs-6.gogleusercontent.host/live/fx/chunks.m3u8|Referer=http://123tvnow.
 http://123tvnow.com/watch/fx-live/|weballdig
 #EXTINF:-1 group-title="Movies" tvg-id="652"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fx-269x151.png" ,FX [Option-3] [Alternate2]
 httphost://$http-raw=http://123tvnow.com/watch/fx-live/$http-refferer=http://123tvnow.com/watch/fx-live/
+#EXTINF:-1 group-title="Movies"   tvg-logo="https://www.logolynx.com/images/logolynx/df/df03b7d1ab9b13ece6188e3508b10751.jpeg" ,FXM (MOVIES) 
+https://ustvgo.tv/fxm/|webproalldig
 #EXTINF:-1 group-title="USA"  tvg-id="1952"  tvg-logo="https://www.rbr.com/wp-content/uploads/FXX.jpg" ,FXX 
 https://ustvgo.tv/fxx/|webproalldig
 #EXTINF:-1 group-title="USA"   tvg-logo="https://i.imgur.com/KfsVNlB.png" ,Garland TV
