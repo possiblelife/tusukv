@@ -325,7 +325,7 @@ http://docs-4.gogleusercontent.host/live/uhwve6o4/playlist.m3u8|Referer=http://1
 #EXTINF:-1 group-title="News" tvg-id="70" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN [Option-6] [Alternate]
 http://123tvnow.com/watch/cnn-2/|weballdig
 #EXTINF:-1 group-title="News" tvg-id="70" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN [Option-6] [Alternate2]
-httphost://$http-raw=http://123tvnow.com/watch/cnn-2/$http-refferer=http://123tvnow.com/watch/cnn/
+httphost://$http-raw=http://123tvnow.com/watch/cnn-2/$http-refferer=http://123tvnow.com/watch/cnn-2/
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN International
 https://dogs.cdn.livenewschat.eu/hls/cnni_live/index.m3u8|referer=https://livenewschat.eu/intl/
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN International [Option-2]
@@ -1022,7 +1022,7 @@ http://docs-4.gogleusercontent.host/live/wjjda20u/playlist.m3u8|Referer=http://1
 #EXTINF:-1 group-title="Sports"  tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN) [Option-1] [Alternate]
 http://123tvnow.com/watch/nbc-sports-network-nbcsn/|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN) [Option-1] [Alternate2]
-httphost://$http-raw=http://123tvnow.com/watch/nbc-sports-network-nbcsn/$http-refferer=http://123tvnow.com/watch/nbc-sport-network-2/
+httphost://$http-raw=http://123tvnow.com/watch/nbc-sports-network-nbcsn/$http-refferer=http://123tvnow.com/watch/nbc-sports-network-nbcsn/
 #EXTINF:-1 group-title="Sports"  tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN) [Option-4] 
 https://www.streamlive.to/view/71137/NBCSports-(SD)|webdeskalldig
 #EXTINF:-1 group-title="News" tvg-id="8965"  tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2016/11/ndtv001.jpg" ,NDTV
