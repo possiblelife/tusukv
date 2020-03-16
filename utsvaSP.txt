@@ -87,7 +87,7 @@ https://ustvgo.tv/cnn-live-streaming-free/|webproalldig
 #EXTINF:-1 group-title="News"  tvg-id="70" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN [Option-2] [Alternate]
 https://ustv247.tv/cnn1/|weballdig
 #EXTINF:-1 group-title="News" tvg-id="70" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN [Option-3] 
-http://123tvnow.com/watch/cnn/|weballdig
+http://123tvnow.com/watch/cnn-2/|weballdig
 #EXTINF:-1 group-title="Movies" tvg-id="647"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/comedy-central-269x151.png" ,Comedy Central [Option-1] 
 https://ustvgo.tv/comedy-central-live-free/|webproalldig
 #EXTINF:-1 group-title="Movies" tvg-id="647"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/comedy-central-269x151.png" ,Comedy Central [Option-] [Alternate]
@@ -253,7 +253,7 @@ https://12news-lh.akamaihd.net/i/KPNXLive_1@854336/master.m3u88
 #EXTINF:-1 group-title="News"  tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2018/09/NBC-NEWS-LOGO-Stacked-White-background.jpg" ,NBC News 
 http://123tvnow.com/watch/nbc-2/|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN) [Option-1] 
-http://123tvnow.com/watch/nbc-sport-network-2/|weballdig
+http://123tvnow.com/watch/nbc-sport-network-nbcsn/|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN) [Option-2] 
 https://www.streamlive.to/view/71137/NBCSports-(SD)|webdeskalldig
 #EXTINF:-1 group-title="News" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" ,News 12 (Brooklyn)
