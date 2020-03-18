@@ -251,6 +251,8 @@ https://ctslive-i.akamaihd.net/hls/live/676500/KYWTV/master.m3u8
 https://live.field59.com/wfsb/ngrp:wfsb1_all/playlist.m3u8
 #EXTINF:-1 group-title="News" ,CBS 4 News 
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/master.m3u8
+#EXTINF:-1 group-title="News" ,CBS 4 Miami
+https://miami.cbslocal.com/live/|webdeskdig
 #EXTINF:-1 group-title="USA" tvg-logo="https://pictures.grabien.com/profiles/large/0006/6721.jpg" ,CBS 12 West Palm Beach (WPEC)
 http://170.250.96.20:8110/cbs.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://media.glassdoor.com/sqll/242937/wjz-tv-squarelogo-1462360533038.png" ,CBS 13 baltimore (WJZ)
@@ -265,6 +267,20 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="3115"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/dc/c4/8f/dcc48f79-3697-1935-9cb9-bdeba30d3575/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" ,CBS Sports (USA VPN REQUIRE) 
 https://sportshq-mediapackage-fastly.cbsaavideo.com/out/v1/9bce4c1bfbde4f8bbba602a090ec77e3/master.m3u8
+#EXTINF:-1 group-title="USA" ,CBSN DENVER
+https://cbsn-den-cedexis.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1 group-title="USA" ,CBSN BAY AREA
+https://cbsn-sf-cedexis.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
+#EXTINF:-1 group-title="USA" ,CBSN BOSTON
+https://cbsn-bos-cedexis.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+#EXTINF:-1 group-title="USA" ,CBSN LOS ANGELES
+https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 group-title="USA" ,CBSN MINNESOTA
+https://cbsn-min-cedexis.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
+#EXTINF:-1 group-title="USA" ,CBSN  NEW YORK
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 group-title="USA" ,CBSN PHILLY
+https://cbsn-phi-cedexis.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
 #EXTINF:-1 group-title="Live cam" ,Central Memorial Park, Calgary, Alberta
 https://www.youtube.com/watch?v=xsRDTfuksyI
 #EXTINF:-1 group-title="USA" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg" ,Cerritos TV3
