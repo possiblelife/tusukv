@@ -251,8 +251,6 @@ https://ctslive-i.akamaihd.net/hls/live/676500/KYWTV/master.m3u8
 https://live.field59.com/wfsb/ngrp:wfsb1_all/playlist.m3u8
 #EXTINF:-1 group-title="News" ,CBS 4 News 
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/master.m3u8
-#EXTINF:-1 group-title="News" ,CBS 4 Miami
-https://miami.cbslocal.com/live/|webdeskdig
 #EXTINF:-1 group-title="USA" tvg-logo="https://pictures.grabien.com/profiles/large/0006/6721.jpg" ,CBS 12 West Palm Beach (WPEC)
 http://170.250.96.20:8110/cbs.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://media.glassdoor.com/sqll/242937/wjz-tv-squarelogo-1462360533038.png" ,CBS 13 baltimore (WJZ)
