@@ -243,7 +243,8 @@ http://web.onair-radio.eu:1935/reboot/reboot/playlist.m3u8
 https://web.onair-radio.eu/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://moviez.space/images/videothumbs/iptv/cinemania.png" ,Cinemania 
 http://web.onair-radio.eu:1935/cinemania/cinemania/chunk.m3u8
-
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://moviez.space/images/videothumbs/iptv/galaxy-gr.png" ,Galaxy GR
+https://usb1.ninacdn.com/ssh101/Galaxygrtv/Galaxygrtv/master.m3u8
 
 
 
