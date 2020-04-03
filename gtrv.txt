@@ -247,7 +247,8 @@ https://web.onair-radio.eu/video/video/playlist.m3u8
 http://web.onair-radio.eu:1935/cinemania/cinemania/chunk.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://moviez.space/images/videothumbs/iptv/galaxy-gr.png" ,Galaxy GR
 https://usb1.ninacdn.com/ssh101/Galaxygrtv/Galaxygrtv/master.m3u8
-
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://gamostv.eu/_files/200000001-d6fd4d7744/uc_logo.png" ,ΛΑΜΨΗ TV
+https://live.streams.ovh/lampsitv/lampsitv/playlist.m3u8
 
 
 
