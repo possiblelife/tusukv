@@ -244,7 +244,7 @@ http://bit.ly/2p6JqSo
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.imgur.com/DrXkKRp.png" ,WORLD Z
 https://web.onair-radio.eu/Worldz/Worldz/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/54fbf860-1d0d-46e7-a22a-74edb3053c67/d6fxd03-8390a3a9-2b68-4564-ba05-01edbefddf13.png" ,Classic Mr Bean Live  (YouTube)
-https://www.youtube.com/watch?v=dQprOmR-AJQ
+https://www.youtube.com/watch?v=l9z3hVIHnxk
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://cdn.shopify.com/s/files/1/1677/7285/files/reboot_shopify_b15c4bc2-6b0a-47a0-b27e-1c6e5c83df6f_400x400.png?v=1530142558" ,REBOOT
 http://web.onair-radio.eu:1935/reboot/reboot/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv-150x150.jpg" ,Play
@@ -322,7 +322,7 @@ https://www.youtube.com/watch?v=BRkQ-ZGiNbc
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l7-iItZoGe0QTRAFueuJpkhsAMBv6EZ3nB8xJA=s48-c-k-c0xffffffff-no-rj-mo" ,Booba (YouTube)
 https://www.youtube.com/watch?v=QougB4t6TWU
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l7-YzeaazMqrGL0a4Hxp6I2L8GZdFgaCy4Sfvw=s48-c-k-c0xffffffff-no-rj-mo" ,Mr bean cartoon (YouTube)
-https://www.youtube.com/watch?v=IP3pYoc2SBc
+https://www.youtube.com/watch?v=GA3sP-BxxuI
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://moviez.space/images/videothumbs/iptv/live-larva.png" ,Live Larva (YouTube)
 https://www.youtube.com/watch?v=ZY5oov1_jbo
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AATXAJz6Ft8ZZavdp1dUuwiUdhCYW4CwC-HxldKG9w=s48-c-k-c0xffffffff-no-rj-mo" ,Talking Tom Shorts (YouTube)
