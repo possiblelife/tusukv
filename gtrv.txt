@@ -228,7 +228,8 @@ https://opentv-livehybrid.siliconweb.com/openTvLive/opennews/chunklist.m3u8
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AATXAJxPN14nkBPdNoQAb5MQ_JJryWUhsyIXLJEOqg=s48-c-k-c0xffffffff-no-rj-mo" ,ecclesiaTV.gr (YOUTUBE)
 https://www.youtube.com/watch?v=TVYsFy9_XjE
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/VYL4FP6/34100tv.jpg" ,34100 TV
+https://usb.bozztv.com/ssh101/TV34100/TV34100/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΤΑΙΝΙΕΣ   ============
