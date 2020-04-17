@@ -277,3 +277,5 @@ http://eco.onestreaming.com:8452/;listen.pls
 http://eco.onestreaming.com:8012/;
 #EXTINF:-1 tvg-logo="http://www.24htv.eu/DesktopModules/PropertyAgent/ImageHandler.ashx?width=75&height=75&HomeDirectory=%2fPortals%2f45%2f%2fPropertyAgent%2f4801%2fImages&fileName=458.jpg&portalid=45&i=458&Q=True" ,SKY FM OPESTIADAS 100.7
 http://213.239.206.179:8107/;listen.pls
+#EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/06/music-factory-radio-1.jpg" ,Music Factory Radio
+https://i4.streams.ovh:2200/ssl/musicfactory?mp=/stream
