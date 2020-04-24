@@ -13,9 +13,9 @@ http://www.mediafire.com/file/cm4depmq843ddr1/UK_TV_%2526_Radio_V2.23.apk/file|e
 #EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , VERSION V2.23. Click here to Download From Browser.
 http://www.mediafire.com/file/cm4depmq843ddr1/UK_TV_%2526_Radio_V2.23.apk/file|newexternalapp
  
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , New Plugin V3.33. Click here to AUTO-UPDATE.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , New Plugin V3.35. Click here to AUTO-UPDATE.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , New Plugin V3.33. Click here to Download From Browser.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , New Plugin V3.35. Click here to Download From Browser.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
 
 
@@ -139,8 +139,10 @@ https://streamonion.com/manager/uk/fo/pyplayer.php?cid=2|agentnodown$$start=load
 https://easyview.eu/watch.php?stream=channel4|refererdown$$referer=https://easyview.eu/watch.php?stream=channel4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 [Option-4] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="http://picon.webhop.net/logo/uk/channel_5_uk.png" ,5 [Option-1]
+#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="http://picon.webhop.net/logo/uk/channel_5_uk.png" ,Channel 5  [Option-1]
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=22|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
+#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="http://picon.webhop.net/logo/uk/channel_5_uk.png" ,Channel 5 [Option-2]
+https://ihavevirus.com/index.php/channel5/|refererdown$$referer=https://ihavevirus.com/index.php/channel5/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Movies" tvg-id="Film4" tvg-logo="https://www.digitaltveurope.com/files/2011/09/FilmFour.jpg" ,Film 4 [Option-1]
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=13|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="Movies" tvg-id="Film4" tvg-logo="https://i.imgur.com/LClp2vem.png" ,Film4 [Option-3] [USE INTERNAL Player for better stability]
@@ -169,6 +171,25 @@ http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/371?
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1036?protocol=hls
 #EXTINF:-1 group-title="Entertainment" tvg-id="S4C" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/03/channel-logo-s4c.png" ,S4C
 https://easyview.eu/watch.php?stream=s4c|refererdown$$referer=https://easyview.eu/watch.php?stream=dave$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="alibi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alibi.svg/150px-Alibi.svg.png" ,Alibi
+https://ihavevirus.com/index.php/alibi/|refererdown$$referer=https://ihavevirus.com/index.php/alibi/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+#EXTINF:-1 group-title="Entertainment" tvg-id="4seven" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/4Seven_2018.svg/revision/latest/scale-to-width-down/340?cb=20180927102458" ,4seven
+https://ihavevirus.com/index.php/4seven/|refererdown$$referer=https://ihavevirus.com/index.php/4seven/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+#EXTINF:-1 group-title="Entertainment" tvg-id="5STAR" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star [Option-1]
+https://ihavevirus.com/index.php/5star/|refererdown$$referer=https://ihavevirus.com/index.php/5star/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+#EXTINF:-1 group-title="Entertainment" tvg-id="5STAR" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star [Option-2]
+https://ihavevirus.com/index.php/5star-2/|refererdown$$referer=https://ihavevirus.com/index.php/5star-2/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+#EXTINF:-1 group-title="Entertainment" tvg-id="gold" tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_gold.jpg" ,Gold
+https://ihavevirus.com/index.php/gold/|refererdown$$referer=https://ihavevirus.com/index.php/gold/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+#EXTINF:-1 group-title="Entertainment" tvg-id="e!"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" ,E!  
+https://ihavevirus.com/index.php/e/|refererdown$$referer=https://ihavevirus.com/index.php/e/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+#EXTINF:-1 group-title="Entertainment" tvg-id="true-movies"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/True_Movies.png" ,True Movies 
+https://ihavevirus.com/index.php/true-movies/|refererdown$$referer=https://ihavevirus.com/index.php/true-movies/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+
+
+
 #EXTINF:-1 group-title="News" tvg-id="Al Jazeera English" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera [Option-1]
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=4|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="News" tvg-id="Al Jazeera English" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera English [Option-2]
