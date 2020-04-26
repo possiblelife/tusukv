@@ -357,13 +357,19 @@ http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" ,CT-N Streaming Media
 http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
 #EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/1113463193144262657/Rq4YTRpY_400x400.png" ,CTV News Live Events 1
-http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+https://pe-ak-lp02a-9c9media.akamaized.net/live/News1Digi/p/dash/00000001/8e377c581da8df4e/manifest.mpd
 #EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/1113463193144262657/Rq4YTRpY_400x400.png" ,CTV News Live Events 2
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News2Digi/p/dash/00000001/7989457f94a2b42c/manifest.mpd
 #EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/1113463193144262657/Rq4YTRpY_400x400.png" ,CTV News Live Events 3
-http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+https://pe-ak-lp02a-9c9media.akamaized.net/live/News3Digi/p/dash/00000001/531849b5c6d55eff/manifest.mpd
 #EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/1113463193144262657/Rq4YTRpY_400x400.png" ,CTV News Live Events 4
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+https://pe-ak-lp02a-9c9media.akamaized.net/live/News4Digi/p/dash/00000001/4b36d011b438df10/manifest.mpd
+#EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/1113463193144262657/Rq4YTRpY_400x400.png" ,CTV News Live Events 5
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News5Digi/p/dash/00000001/bdef497dd266de2d/manifest.mpd
+#EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/1113463193144262657/Rq4YTRpY_400x400.png" ,CTV News Live Events 6
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News6Digi/p/dash/00000001/dcbf2cb5b9217dcd/manifest.mpd
+#EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/1113463193144262657/Rq4YTRpY_400x400.png" ,CTV News Live Events 7
+https://pe-ak-lp01a-9c9media.akamaized.net/live/DMCDigi10/p/dash/00000001/97e8aec38092a6e9/manifest.mpd
 #EXTINF:-1 group-title="News" tvg-id="3120"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" ,CW 50[Option-1] 
 https://tvpc.us/player/embed.php?cid=375|weballdig
 #EXTINF:-1 group-title="News" tvg-id="3120"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" ,CW 50[Option-2]
@@ -1015,7 +1021,7 @@ http://123tvnow.com/watch/nfl-network/|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-id="3349"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nfl-269x151.png" ,NFL Network [Option-3] [Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/nfl-network/$http-refferer=http://123tvnow.com/watch/nfl-network/
 #EXTINF:-1 group-title="Sports"   tvg-id="7443"  tvg-logo="https://img7.androidappsapk.co/300/7/3/7/jp.or.nhk.nhkworld.tv.png" ,NHK WORLD HD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 group-title="Sports"  tvg-id="14156" tvg-logo="https://pbs.twimg.com/profile_images/1069587614985056256/d4Kl2nIv_400x400.jpg" ,NHL Network 
 http://123tvnow.com/watch/nhl-network/|weballdig
 #EXTINF:-1 group-title="Sports"   tvg-id="14156" tvg-logo="https://pbs.twimg.com/profile_images/1069587614985056256/d4Kl2nIv_400x400.jpg" ,NHL Network [Alternate]
@@ -1250,9 +1256,7 @@ http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 group-title="Music"   tvg-logo="https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg" ,The Blaze Radio
 http://16143.live.streamtheworld.com/BLZE_1AAC.aac
 #EXTINF:-1 group-title="USA"   tvg-logo="https://a2.allaccess.com/assets/img/content/socialmediology-101/2011/sm-08-16-pic1.jpg" ,The Country Network [Option-1]
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:-1 group-title="USA"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Country-Network-269x151.png" ,The Country Network [Option-2]
-http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
+https://v-la.mybtv.net/event/8.2/640x480?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2026&env=prd&uid=24610
 #EXTINF:-1 group-title="Religious" ,THE HOUSE OF YAHWEH
 http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
 #EXTINF:-1 group-title="Shop"   tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg" ,The Shopping Channel
