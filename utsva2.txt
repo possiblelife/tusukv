@@ -341,7 +341,7 @@ http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328
 #EXTINF:-1 group-title="USA" tvg-logo="http://www.counterthink.com/Assets/Uploads/640/CounterThink-with-Mike-Adams.jpg" ,CounterThink
 https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
 #EXTINF:-1 group-title="News"  tvg-logo="https://www.cp24.com/polopoly_fs/1.133595.1337371306!/httpImage/image._gen/derivatives/landscape_225/image." ,CP24
-https://capi.9c9media.com/destinations/cp24_web/platforms/desktop/contents/1786494/contentpackages/3047143/manifest.m3u8
+https://pe-ak-lp02a-9c9media.akamaized.net/live/CP24/p/dash/20000001/a0da30888996c775/manifest.mpd
 #EXTINF:-1 group-title="USA"   tvg-logo="https://panpages.blob.core.windows.net/pp-kh/kh/logo_images/original/1369901249/1401172?1369901249" ,CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://www.csudh.edu/Assets/templates/header/CSUDH-RGB-Logo-Burgundy-Background.png" ,CSU Dominguez Hills
