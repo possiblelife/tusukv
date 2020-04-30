@@ -23,7 +23,7 @@ http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|ne
 https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
  
  
-#EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-1] 
+#EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-1] [OFFLINE]
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=14|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-2] 
 https://easyview.eu/watch.php?stream=bbc-london|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-london$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -31,7 +31,7 @@ https://easyview.eu/watch.php?stream=bbc-london|refererdown$$referer=https://eas
 https://ustreamix.live/embed.php?id=bbc1|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-4] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-1]
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-1][OFFLINE]
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=25|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-2] 
 https://easyview.eu/watch.php?stream=bbc-two|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-two$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -43,7 +43,7 @@ http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/25?p
 https://easyview.eu/watch.php?stream=bbc-four|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-four$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_four_uk.png" ,BBC 4 [Option-2] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/103?protocol=hls
-#EXTINF:-1 group-title="Kids" tvg-id="CBBC" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [Option-1]
+#EXTINF:-1 group-title="Kids" tvg-id="CBBC" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [Option-1][OFFLINE]
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=29|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="Kids" tvg-id="CBBC" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [Option-2] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/29?protocol=hls
@@ -53,6 +53,8 @@ https://easyview.eu/watch.php?stream=cbbc|refererdown$$referer=https://easyview.
 https://easyview.eu/watch.php?stream=cbeebies|refererdown$$referer=https://easyview.eu/watch.php?stream=cbeebies$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Kids" tvg-id="CBeebies" tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [Option-2] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3191?protocol=hls
+#EXTINF:-1 group-title="Kids" tvg-id="CBeebies" tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [Option-3] 
+http://51.52.156.22:8888/http/003
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC 1 HD Wales" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg" ,BBC 1 Wales [Option-1] 
 https://easyview.eu/watch.php?stream=bbc-one-wales|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-wales$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC 1 HD Wales" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg" ,BBC 1 Wales [Option-2] [USE INTERNAL Player for better stability]
@@ -61,6 +63,8 @@ http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/27?p
 https://easyview.eu/watch.php?stream=bbc-one-scotland|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-scotland$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland [Option-2] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3166?protocol=hls
+#EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland [Option-3]  
+http://51.52.156.22:8888/http/001
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 N Ireland" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg" ,BBC 1 Northern Ireland [Option-1] 
 https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-northern-ireland$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 N Ireland" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg" ,BBC 1 Northern Ireland [Option-2] [USE INTERNAL Player for better stability]
@@ -71,6 +75,9 @@ https://easyview.eu/watch.php?stream=bbc-parliament|refererdown$$referer=https:/
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1666?protocol=hls
 #EXTINF:-1 group-title="News" tvg-id="BBC Parliament" tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament [Option-3]
 http://86.15.69.208:9981/stream/channelid/123613265
+
+#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-1]
+http://51.52.156.22:8888/http/004
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-2]
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=27|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-3] 
@@ -79,9 +86,16 @@ https://easyview.eu/watch.php?stream=bbc-news|refererdown$$referer=https://easyv
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3227?protocol=hls 
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/512_300.png" ,BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/512_300.png" ,BBC World News [Option-2]
+http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" ,BBC Lifestyle
+https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC Alba" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC alba [Option-1] 
 https://easyview.eu/watch.php?stream=bbc-alba|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-alba$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-2]
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-1] 
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-2][OFFLINE]
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=11|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-3] 
 https://easyview.eu/watch.php?stream=itv|refererdown$$referer=https://easyview.eu/watch.php?stream=itv$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -89,28 +103,34 @@ https://easyview.eu/watch.php?stream=itv|refererdown$$referer=https://easyview.e
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?protocol=hls
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia +1" tvg-logo="https://static.filmon.com/assets/channels/1817/extra_big_logo.png" ,ITV 1+1 [Option-2] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1817?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-1]
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-1][OFFLINE]
 https://tvpc.us/player/embed.php?cid=7|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-2]
+http://51.52.156.22:8888/http/005
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-3] 
 https://easyview.eu/watch.php?stream=itv2|refererdown$$referer=https://easyview.eu/watch.php?stream=itv2$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-5] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2 +1" tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2 +1" tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1 [OFFLINE]
 https://tvpc.us/player/embed.php?cid=222|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2 +1" tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1 [Option-2] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1820?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-1]
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-1][OFFLINE]
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=26|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add= 
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-2]
+http://51.52.156.22:8888/http/006
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-3] 
 https://easyview.eu/watch.php?stream=itv3|refererdown$$referer=https://easyview.eu/watch.php?stream=itv3$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-5] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/26?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3+1" tvg-logo="https://static.filmon.com/assets/channels/1823/extra_big_logo.png" ,ITV 3+1
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3+1" tvg-logo="https://static.filmon.com/assets/channels/1823/extra_big_logo.png" ,ITV 3+1 [OFFLINE]
 https://tvpc.us/player/embed.php?cid=224|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3+1" tvg-logo="https://static.filmon.com/assets/channels/1823/extra_big_logo.png" ,ITV 3+1 [Option-2] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1823?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-1] 
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-1] [OFFLINE]
 https://tvpc.us/player/embed.php?cid=9|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-2] 
+http://51.52.156.22:8888/http/007
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-3] 
 https://easyview.eu/watch.php?stream=itv4|refererdown$$referer=https://easyview.eu/watch.php?stream=itv4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-5] [USE INTERNAL Player for better stability]
@@ -133,21 +153,21 @@ http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1811
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1805?protocol=hls
 #EXTINF:-1 group-title="Entertainment" tvg-id="CBS Action" tvg-logo="http://hytham.net/logo/CBS%20action.png" ,CBS Action [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 [Option-1]
+#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 [Option-1][OFFLINE]
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=2|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 [Option-2] 
 https://easyview.eu/watch.php?stream=channel4|refererdown$$referer=https://easyview.eu/watch.php?stream=channel4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 [Option-4] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="http://picon.webhop.net/logo/uk/channel_5_uk.png" ,Channel 5  [Option-1]
+#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="http://picon.webhop.net/logo/uk/channel_5_uk.png" ,Channel 5  [Option-1][OFFLINE]
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=22|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="http://picon.webhop.net/logo/uk/channel_5_uk.png" ,Channel 5 [Option-2]
 https://ihavevirus.com/index.php/channel5/|refererdown$$referer=https://ihavevirus.com/index.php/channel5/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="Movies" tvg-id="Film4" tvg-logo="https://www.digitaltveurope.com/files/2011/09/FilmFour.jpg" ,Film 4 [Option-1]
+#EXTINF:-1 group-title="Movies" tvg-id="Film4" tvg-logo="https://www.digitaltveurope.com/files/2011/09/FilmFour.jpg" ,Film 4 [Option-1][OFFLINE]
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=13|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="Movies" tvg-id="Film4" tvg-logo="https://i.imgur.com/LClp2vem.png" ,Film4 [Option-3] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/13?protocol=hls
-#EXTINF:-1 group-title="Entertainment" tvg-id="E4" tvg-logo="http://picon.webhop.net/logo/uk/e4_uk.png" ,E4 [Option-1]
+#EXTINF:-1 group-title="Entertainment" tvg-id="E4" tvg-logo="http://picon.webhop.net/logo/uk/e4_uk.png" ,E4 [Option-1][OFFLINE]
 https://tvpc.us/player/embed.php?cid=13|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="E4" tvg-logo="http://picon.webhop.net/logo/uk/e4_uk.png" ,E4 [Option-3] [USE INTERNAL Player for better stability]
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/65?protocol=hls
