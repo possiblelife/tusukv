@@ -226,6 +226,14 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 https://www.youtube.com/watch?v=TVYsFy9_XjE
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/VYL4FP6/34100tv.jpg" ,34100 TV
 https://usb.bozztv.com/ssh101/TV34100/TV34100/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://marontv.gr/wp-content/uploads/2019/12/marontv.png" ,Marontv
+
+https://video.connect4.gr/live/marontv/marontv/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΤΑΙΝΙΕΣ   ============
 http://.....
@@ -298,6 +306,11 @@ http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 https://itv.streams.ovh/priggipesa/priggipesa/chunk.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://www.mn-gr.com/templates/emusica/images/s5_logo.png" ,Minnesota Greek radio 
 https://www.mn-gr.com/live-tv.html|webdig
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://avena.gr/wp-content/uploads/2018/06/avenafm.png" ,AVENA 97.7 
+https://eco.streams.ovh/AVENAFM977/AVENAFM977/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://exelen.gr/wp-content/uploads/2020/03/logoheader.png" ,Exelen
+https://eco.streams.ovh/exelen/exelen/playlist.m3u8
+
 
 
 
