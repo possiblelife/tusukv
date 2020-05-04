@@ -36,11 +36,11 @@ https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="http://greektv.pbworks.com/f/MEGA.png" ,MEGA (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b2628000.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (YOUTUBE)
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,SKAI (YOUTUBE)
 https://www.youtube.com/watch?v=CmqbY_Gzsdo&feature=emb_title
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (YouTube-ΕΝΑΛΛΑΚΤΙΚΟ)
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,SKAI (YouTube-ΕΝΑΛΛΑΚΤΙΚΟ)
 https://www.skaitv.gr/live|agentnodown$$start=https:\/\/www.youtube.com$$end=",$$replace=\$$replacewith=$$add=
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,SKAI (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/skai.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 https://cdnapisec.siliconweb.com/p/713821/sp/0/playManifest/entryId/1_fp7fyi3j/format/applehttp/protocol/https/flavorParamId/0/manifest.m3u8
@@ -93,7 +93,7 @@ https://best-tv.gr/HLS/hls/best/index.m3u8
 https://www.verginatv.gr/web-tv-2/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BLUE SKY" tvg-logo="https://www.digea.gr/images/channel-icons/BLUESKY.png" ,BLUE SKY  (Youtube)
 http://blueskytv.gr/live-tv/|agentnodown$$start=https://www.youtube.com/embed$$end=?feature$$replace=embed/$$replacewith=watch?v=$$add=
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="CHANNEL 9" tvg-logo="https://www.channel9.gr/images/logo_channel9_header.png" ,ΚΑΝΑΛΙ 9 
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="CHANNEL 9" tvg-logo="https://channel9.gr/images/logo_channel9_header.png" ,ΚΑΝΑΛΙ 9 
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="CORFU TV" tvg-logo="https://www.digea.gr/images/channel-icons/CORFU%20TV%20EPG.jpg" ,CORFU TV
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
@@ -363,7 +363,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/800px-CNBC_World.svg.png" ,CNBC World
 https://1674331492.rsc.cdn77.org/fl4qu31eoQBv7TgiAIx0Rg==,1587720612/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-id="Sky News" tvg-logo="https://www.dejero.com/assets/files/news/373/skynews-2__medium.jpg"  ,Sky News
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-id="Sky News" tvg-logo="https://www.survation.com/wp-content/uploads/2014/02/large-square-sky-news-logo.png"  ,Sky News
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="http://tvnews.by/uploads/posts/2014-10/1413546329_World_Fashion.png"  ,World Fashion
 https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
