@@ -225,8 +225,9 @@ https://www.youtube.com/watch?v=TVYsFy9_XjE
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/VYL4FP6/34100tv.jpg" ,34100 TV
 https://usb.bozztv.com/ssh101/TV34100/TV34100/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://marontv.gr/wp-content/uploads/2019/12/marontv.png" ,Marontv
-
 https://video.connect4.gr/live/marontv/marontv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://media.pamestoixima.gr/file/logo_horses.png" ,Ιπποδρομίες
+https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie.m3u8
 
 
 
@@ -259,8 +260,8 @@ http://web.onair-radio.eu:1935/cinemania/cinemania/chunk.m3u8
 https://usb1.ninacdn.com/ssh101/Galaxygrtv/Galaxygrtv/master.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://gamostv.eu/_files/200000001-d6fd4d7744/uc_logo.png" ,ΛΑΜΨΗ TV
 https://live.streams.ovh/lampsitv/lampsitv/playlist.m3u8
-
-
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://netmaxtv.com/wp-content/uploads/2019/09/netmax-6.png" ,NETMAX
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
 http://.....
@@ -367,3 +368,5 @@ https://1674331492.rsc.cdn77.org/fl4qu31eoQBv7TgiAIx0Rg==,1587720612/LS-ATL-5454
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="http://tvnews.by/uploads/posts/2014-10/1413546329_World_Fashion.png"  ,World Fashion
 https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://yt3.ggpht.com/a/AATXAJwaWmLHZ72EHEUsEezcoP8chEPYRggZ9cIGgQ=s48-c-k-c0xffffffff-no-rj-mo"  ,Earth Views: Earth From Space Seen From The ISS
+https://www.youtube.com/watch?v=XBPjVzSoepo
