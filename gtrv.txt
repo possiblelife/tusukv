@@ -260,7 +260,7 @@ http://web.onair-radio.eu:1935/cinemania/cinemania/chunk.m3u8
 https://usb1.ninacdn.com/ssh101/Galaxygrtv/Galaxygrtv/master.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://gamostv.eu/_files/200000001-d6fd4d7744/uc_logo.png" ,ΛΑΜΨΗ TV
 https://live.streams.ovh/lampsitv/lampsitv/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://netmaxtv.com/wp-content/uploads/2019/09/netmax-6.png" ,NETMAX
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/RvTSG0m/netmax-6.png" ,NETMAX
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
