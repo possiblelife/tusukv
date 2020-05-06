@@ -29,6 +29,8 @@ https://easyview.eu/watch.php?stream=bbc-london|refererdown$$referer=https://eas
 https://uk.easyview.eu/hls/bbc-london.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-london
 #EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-3]
 https://ustreamix.live/embed.php?id=bbc1|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-4] [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?protocol=hls
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-1]
 https://easyview.eu/watch.php?stream=bbc-two|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-two$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -36,17 +38,22 @@ https://easyview.eu/watch.php?stream=bbc-two|refererdown$$referer=https://easyvi
 https://uk.easyview.eu/hls/bbc-two.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-two
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-3]
 https://ustreamix.net/embed.php?id=bbc-two|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-4] [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/25?protocol=hls
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_four_uk.png" ,BBC 4 [Option-1] 
 https://easyview.eu/watch.php?stream=bbc-four|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-four$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_four_uk.png" ,BBC 4 [Option-2]
 https://waw.easyview.eu/hls/bbc-four.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-four
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_four_uk.png" ,BBC 4 [Option-3][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/103?protocol=hls
 
 #EXTINF:-1 group-title="Kids" tvg-id="CBBC" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [Option-1]
 https://easyview.eu/watch.php?stream=cbbc|refererdown$$referer=https://easyview.eu/watch.php?stream=cbbc$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Kids" tvg-id="CBBC" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [Option-2]
 https://uk.easyview.eu/hls/cbbc.m3u8|Referer=https://easyview.eu/watch.php?stream=cbbc
-
+#EXTINF:-1 group-title="Kids" tvg-id="CBBC" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [Option-3][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/29?protocol=hls
 
 #EXTINF:-1 group-title="Kids" tvg-id="CBeebies" tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [Option-1] 
 https://easyview.eu/watch.php?stream=cbeebies|refererdown$$referer=https://easyview.eu/watch.php?stream=cbeebies$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -54,11 +61,15 @@ https://easyview.eu/watch.php?stream=cbeebies|refererdown$$referer=https://easyv
 https://uk.easyview.eu/hls/cbeebies.m3u8|Referer=https://easyview.eu/watch.php?stream=cbeebies
 #EXTINF:-1 group-title="Kids" tvg-id="CBeebies" tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [Option-3] 
 http://51.52.156.22:8888/http/003
+#EXTINF:-1 group-title="Kids" tvg-id="CBeebies" tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [Option-4][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3191?protocol=hls
 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC 1 HD Wales" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg" ,BBC 1 Wales [Option-1] 
 https://easyview.eu/watch.php?stream=bbc-one-wales|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-wales$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC 1 HD Wales" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg" ,BBC 1 Wales [Option-2]
 https://uk.easyview.eu/hls/bbc-one-wales.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-one-wales
+#EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC 1 HD Wales" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg" ,BBC 1 Wales [Option-3][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/27?protocol=hls
 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland [Option-1]  
 https://easyview.eu/watch.php?stream=bbc-one-scotland|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-scotland$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -66,18 +77,22 @@ https://easyview.eu/watch.php?stream=bbc-one-scotland|refererdown$$referer=https
 https://uk.easyview.eu/hls/bbc-one-scotland.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-one-scotland
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland [Option-3]  
 http://51.52.156.22:8888/http/001
-
+#EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland [Option-4][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3166?protocol=hls
 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 N Ireland" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg" ,BBC 1 Northern Ireland [Option-1] 
 https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-northern-ireland$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 N Ireland" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg" ,BBC 1 Northern Ireland [Option-2]
 https://uk.easyview.eu/hls/bbc-one-northern-ireland.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-one-northern-ireland
+#EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 N Ireland" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg" ,BBC 1 Northern Ireland [Option-3][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/361?protocol=hls
 
 #EXTINF:-1 group-title="News" tvg-id="BBC Parliament" tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament [Option-1] 
 https://easyview.eu/watch.php?stream=bbc-parliament|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-parliament$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="News" tvg-id="BBC Parliament" tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament [Option-2]
 https://waw.easyview.eu/hls/bbc-parliament.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-parliament
-
+#EXTINF:-1 group-title="News" tvg-id="BBC Parliament" tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament [Option-3][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1666?protocol=hls
 
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-1]
 http://51.52.156.22:8888/http/004
@@ -85,6 +100,8 @@ http://51.52.156.22:8888/http/004
 https://easyview.eu/watch.php?stream=nbcb|refererdown$$referer=https://easyview.eu/watch.php?stream=nbcb$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-3]
 https://waw.easyview.eu/hls/nbcb.m3u8|Referer=https://easyview.eu/watch.php?stream=nbcb
+#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-4][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3227?protocol=hls 
 
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/512_300.png" ,BBC World News [Option-1]
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
@@ -105,6 +122,12 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 https://easyview.eu/watch.php?stream=itv|refererdown$$referer=https://easyview.eu/watch.php?stream=itv$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-3]
 https://uk.easyview.eu/hls/itv.m3u8|Referer=https://easyview.eu/watch.php?stream=itv
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-4]
+https://tvpc.us/player/embed.php?cid=62|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-5][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia +1" tvg-logo="https://static.filmon.com/assets/channels/1817/extra_big_logo.png" ,ITV 1+1 [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1817?protocol=hls
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-1]
 http://51.52.156.22:8888/http/005
@@ -112,6 +135,10 @@ http://51.52.156.22:8888/http/005
 https://easyview.eu/watch.php?stream=itv2|refererdown$$referer=https://easyview.eu/watch.php?stream=itv2$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-3] 
 https://uk.easyview.eu/hls/itv2.m3u8|Referer=https://easyview.eu/watch.php?stream=itv2
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-4][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2 +1" tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1 [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1820?protocol=hls
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-1]
 http://51.52.156.22:8888/http/006
@@ -119,6 +146,10 @@ http://51.52.156.22:8888/http/006
 https://easyview.eu/watch.php?stream=itv3|refererdown$$referer=https://easyview.eu/watch.php?stream=itv3$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-3]
 https://uk.easyview.eu/hls/itv3.m3u8|Referer=https://easyview.eu/watch.php?stream=itv3
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-4][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/26?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3+1" tvg-logo="https://static.filmon.com/assets/channels/1823/extra_big_logo.png" ,ITV 3+1 [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1823?protocol=hls
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-1] 
 http://51.52.156.22:8888/http/007
@@ -126,11 +157,22 @@ http://51.52.156.22:8888/http/007
 https://easyview.eu/watch.php?stream=itv4|refererdown$$referer=https://easyview.eu/watch.php?stream=itv4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-3]
 https://uk.easyview.eu/hls/itv4.m3u8|Referer=https://easyview.eu/watch.php?stream=itv4
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-4][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/101?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV4 + 1" tvg-logo="https://static.filmon.com/assets/channels/1826/extra_big_logo.png" ,ITV 4+1 [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1826?protocol=hls
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITVBe" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_be.png" ,ITV Be. [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3211?protocol=hls
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 [Option-1] 
 https://easyview.eu/watch.php?stream=channel4|refererdown$$referer=https://easyview.eu/watch.php?stream=channel4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 [Option-2] 
 https://uk.easyview.eu/hls/channel4.m3u8|Referer=https://easyview.eu/watch.php?stream=channel4
+#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 [Option-3]
+https://tvpc.us/player/embed.php?cid=3|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
+#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4  [Option-4][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2?protocol=hls
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="http://picon.webhop.net/logo/uk/channel_5_uk.png" ,Channel 5 [Option-1]
 https://easyview.eu/watch.php?stream=channel5|refererdown$$referer=https://easyview.eu/watch.php?stream=channel5$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -142,6 +184,25 @@ https://easyview.eu/watch.php?stream=s4c|refererdown$$referer=https://easyview.e
 #EXTINF:-1 group-title="Entertainment" tvg-id="S4C" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/03/channel-logo-s4c.png" ,S4C [Option-2]
 https://uk.easyview.eu/hls/s4c.m3u8|Referer=https://easyview.eu/watch.php?stream=s4c
 
+#EXTINF:-1 group-title="Entertainment" tvg-id="Film4" tvg-logo="https://i.imgur.com/LClp2vem.png" ,Film4 [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/13?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="E4" tvg-logo="http://picon.webhop.net/logo/uk/e4_uk.png" ,E4 [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/65?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="Drama" tvg-logo="https://www.youview.com/wp-content/uploads/2016/06/12111755/drama-400x390.png" ,Drama [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5944?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="CBS Reality" tvg-logo="https://pbs.twimg.com/profile_images/854674078254411776/P_yzfBIn_400x400.jpg" ,CBS Reality [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1808?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="CBS Reality +1" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo191.png" ,CBS Reality +1 [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1811?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="CBS Drama" tvg-logo="http://www.cbsdrama.tv/uk/content/wp-content/uploads/2016/05/CBS-Drama-Logo.jpg" ,CBS Drama [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1805?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="CBS Action" tvg-logo="http://hytham.net/logo/CBS%20action.png" ,CBS Action [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="More4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_more4_uk.png" ,More 4 [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/97?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="YESTERDAY" tvg-logo="http://picon.webhop.net/logo/uk/yesterday_uktv.png" ,Yesterday [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1039?protocol=hls
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="alibi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alibi.svg/150px-Alibi.svg.png" ,Alibi [Option-1]
 https://easyview.eu/watch.php?stream=alibi|refererdown$$referer=https://easyview.eu/watch.php?stream=alibi$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="alibi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alibi.svg/150px-Alibi.svg.png" ,Alibi [Option-2]
@@ -152,8 +213,10 @@ https://easyview.eu/watch.php?stream=4seven|refererdown$$referer=https://easyvie
 #EXTINF:-1 group-title="Entertainment" tvg-id="4seven" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/4Seven_2018.svg/revision/latest/scale-to-width-down/340?cb=20180927102458" ,4seven [Option-2]
 https://waw.easyview.eu/hls/4seven.m3u8|Referer=https://easyview.eu/watch.php?stream=4seven
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="5STAR" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star
+#EXTINF:-1 group-title="Entertainment" tvg-id="5STAR" tvg-logo="https://pbs.twimg.com/profile_images/1237684704993783808/rOF07X1e_400x400.jpg" ,5Star [Option-1]
 https://easyview.eu/watch.php?stream=5star|refererdown$$referer=https://easyview.eu/watch.php?stream=5star$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+#EXTINF:-1 group-title="Entertainment" tvg-id="5STAR" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star  [Option-2][USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/851?protocol=hls
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="gold" tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_gold.jpg" ,Gold [Option-1]
 https://easyview.eu/watch.php?stream=gold|refererdown$$referer=https://easyview.eu/watch.php?stream=gold$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -170,8 +233,20 @@ https://easyview.eu/watch.php?stream=truemovies|refererdown$$referer=https://eas
 #EXTINF:-1 group-title="Entertainment" tvg-id="true-movies"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/True_Movies.png" ,True Movies [Option-2]
 https://uk.easyview.eu/hls/truemovies.m3u8|Referer=https://easyview.eu/watch.php?stream=truemovies
 
+#EXTINF:-1 group-title="Entertainment"  tvg-id="5USA" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo178.png" ,5usa [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/845?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="Really" tvg-logo="http://picon.webhop.net/logo/uk/really_uktv.png" ,Really [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/372?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="Pick" tvg-logo="http://picon.webhop.net/logo/uk/pick_tv_uk.png" ,Pick [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/371?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="Challenge" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Challenge_logo_2016.png" ,Challenge [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1036?protocol=hls
+
 #EXTINF:-1 group-title="News" tvg-id="Al Jazeera English" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="Al Jazeera English" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera [USE INTERNAL Player]
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4?protocol=hls
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://picon.webhop.net/logo/usa/amazing_facts.png" ,Amazing Facts TV
 https://www.youtube.com/embed/live_stream?channel=UC6VJE6cD8ZPpe6ZOtVtlBTA&rel=0&autoplay=1|agentnodown$$start=https://www.youtube.com$$end="$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="Music" tvg-id="Capital TV" tvg-logo="http://media-assets-03.thedrum.com/cache/images/thedrum-prod/public-drum_basic_article-120126-main_images-Capital_FM_Network_logo_0--default--300.png"  ,Capital TV Radio
