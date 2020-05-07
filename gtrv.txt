@@ -230,8 +230,8 @@ https://video.connect4.gr/live/marontv/marontv/playlist.m3u8
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.pellatv.gr/wp-content/themes/pellatv/images/pellatv.jpg" ,pella tv
 https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
-
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.egnatia.tv/sites/default/files/logo_h40_2.png" ,ΕΓΝΑΤΙΑ
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
 
 
 
