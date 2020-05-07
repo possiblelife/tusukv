@@ -228,7 +228,8 @@ https://usb.bozztv.com/ssh101/TV34100/TV34100/playlist.m3u8
 https://video.connect4.gr/live/marontv/marontv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://media.pamestoixima.gr/file/logo_horses.png" ,Ιπποδρομίες
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie.m3u8
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.pellatv.gr/wp-content/themes/pellatv/images/pellatv.jpg" ,pella tv
+https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
 
 
 
@@ -262,6 +263,11 @@ https://usb1.ninacdn.com/ssh101/Galaxygrtv/Galaxygrtv/master.m3u8
 https://live.streams.ovh/lampsitv/lampsitv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/RvTSG0m/netmax-6.png" ,NETMAX
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
 http://.....
@@ -335,6 +341,11 @@ https://www.youtube.com/watch?v=suH97b2RssU
 https://www.youtube.com/watch?v=ZY5oov1_jbo
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AATXAJz6Ft8ZZavdp1dUuwiUdhCYW4CwC-HxldKG9w=s48-c-k-c0xffffffff-no-rj-mo" ,Talking Tom Shorts (YouTube)
 https://www.youtube.com/watch?v=QzsfLSP6hkI
+
+
+
+
+
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ============
 http://.....
