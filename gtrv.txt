@@ -232,6 +232,9 @@ https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie.m3u8
 https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.egnatia.tv/sites/default/files/logo_h40_2.png" ,ΕΓΝΑΤΙΑ
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://citybook.b-cdn.net/wp-content/uploads/2019/05/logo4.png" ,Pylos City
+https://usb.bozztv.com/ssh101/pyloscity/pyloscity/chunklist.m3u8
+
 
 
 
@@ -282,7 +285,7 @@ https://video1.getstreamhosting.com:1936/8452/8452/playlist.m3u8m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="http://www.businessnews.com.lb/cms/Portals/2/Business/2013/nrj-hits.jpg" ,NRJ Hits
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-id="RISE TV" tvg-logo="https://www.digea.gr/images/channel-icons/RISE%20EPG%20WHITE%203.png" ,Rise
-https://player.vimeo.com/video/407492789?autoplay=1&title=0&byline=0&portrait=0|webepg zoom=100 scroll=0,0
+https://www.rise.gr/el/live-tv/|webdig
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://goo.gl/7tKqOl" ,ΤΗΛΕ ΜΟΥΣΙΚΗ
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.imgur.com/1Zl1OJ5.png" ,NRG TV
@@ -302,7 +305,7 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://cdn-profiles.tunein.com/s156926/images/logoq.jpg?t=154771" ,NGRadio
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l79lYY5NHlDNGiKYsQYaYbuOIdkCxW8pLbOmEg=s288-c-k-c0xffffffff-no-rj-mo" ,Avanti TV
-https://www.youtube.com/watch?v=-HXyc9TP7Oo
+https://www.youtube.com/watch?v=dbIAgJULLwk
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv-150x150.jpg" ,Load play
 https://web.onair-radio.eu/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ytimg.com/vi/kQA63XBBiyU/hqdefault.jpg" ,Cannali - Web Music Channel
@@ -315,6 +318,8 @@ https://www.mn-gr.com/live-tv.html|webdig
 https://eco.streams.ovh/AVENAFM977/AVENAFM977/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://exelen.gr/wp-content/uploads/2020/03/logoheader.png" ,Exelen
 https://eco.streams.ovh/exelen/exelen/playlist.m3u8
+
+
 
 
 
