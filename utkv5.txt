@@ -5,7 +5,7 @@ https://clipart.wpblink.com/sites/default/files/wallpaper/slang-clipart/143532/s
 #EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , Message From Developer
 https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="Info"   tvg-logo="http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg" , USE BELOW TO UPDATE TO V2.22.
+#EXTINF:-1 group-title="Info"   tvg-logo="http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg" , USE BELOW TO UPDATE TO V2.23.
 http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , VERSION V2.23. Click here to AUTO-UPDATE.
@@ -29,8 +29,8 @@ https://easyview.eu/watch.php?stream=bbc-london|refererdown$$referer=https://eas
 https://uk.easyview.eu/hls/bbc-london.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-london
 #EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-3]
 https://ustreamix.live/embed.php?id=bbc1|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-4] [USE INTERNAL Player]
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-4]
+https://www.filmon.com/tv/bbc-one|webdig
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-1]
 https://easyview.eu/watch.php?stream=bbc-two|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-two$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -38,22 +38,25 @@ https://easyview.eu/watch.php?stream=bbc-two|refererdown$$referer=https://easyvi
 https://uk.easyview.eu/hls/bbc-two.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-two
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-3]
 https://ustreamix.net/embed.php?id=bbc-two|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-4] [USE INTERNAL Player]
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/25?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-4]
+https://onvision.info/channels/bbc2.html|weballdig
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://nowontv.info/img/bbc3.png" ,BBC 3
+https://onvision.info/channels/bbc3.html|weballdig
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_four_uk.png" ,BBC 4 [Option-1] 
 https://easyview.eu/watch.php?stream=bbc-four|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-four$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_four_uk.png" ,BBC 4 [Option-2]
 https://waw.easyview.eu/hls/bbc-four.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-four
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_four_uk.png" ,BBC 4 [Option-3][USE INTERNAL Player]
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/103?protocol=hls
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_four_uk.png" ,BBC 4 [Option-3]
+https://onvision.info/channels/bbc4.html|weballdig
 
 #EXTINF:-1 group-title="Kids" tvg-id="CBBC" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [Option-1]
 https://easyview.eu/watch.php?stream=cbbc|refererdown$$referer=https://easyview.eu/watch.php?stream=cbbc$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Kids" tvg-id="CBBC" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [Option-2]
 https://uk.easyview.eu/hls/cbbc.m3u8|Referer=https://easyview.eu/watch.php?stream=cbbc
-#EXTINF:-1 group-title="Kids" tvg-id="CBBC" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [Option-3][USE INTERNAL Player]
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/29?protocol=hls
+#EXTINF:-1 group-title="Kids" tvg-id="CBBC" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc [Option-3]
+https://onvision.info/channels/cbbc.html|weballdig
 
 #EXTINF:-1 group-title="Kids" tvg-id="CBeebies" tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [Option-1] 
 https://easyview.eu/watch.php?stream=cbeebies|refererdown$$referer=https://easyview.eu/watch.php?stream=cbeebies$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -61,15 +64,13 @@ https://easyview.eu/watch.php?stream=cbeebies|refererdown$$referer=https://easyv
 https://uk.easyview.eu/hls/cbeebies.m3u8|Referer=https://easyview.eu/watch.php?stream=cbeebies
 #EXTINF:-1 group-title="Kids" tvg-id="CBeebies" tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [Option-3] 
 http://51.52.156.22:8888/http/003
-#EXTINF:-1 group-title="Kids" tvg-id="CBeebies" tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies [Option-4][USE INTERNAL Player]
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3191?protocol=hls
+
 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC 1 HD Wales" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg" ,BBC 1 Wales [Option-1] 
 https://easyview.eu/watch.php?stream=bbc-one-wales|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-wales$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC 1 HD Wales" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg" ,BBC 1 Wales [Option-2]
 https://uk.easyview.eu/hls/bbc-one-wales.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-one-wales
-#EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC 1 HD Wales" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg" ,BBC 1 Wales [Option-3][USE INTERNAL Player]
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/27?protocol=hls
+
 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland [Option-1]  
 https://easyview.eu/watch.php?stream=bbc-one-scotland|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-scotland$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
@@ -77,22 +78,19 @@ https://easyview.eu/watch.php?stream=bbc-one-scotland|refererdown$$referer=https
 https://uk.easyview.eu/hls/bbc-one-scotland.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-one-scotland
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland [Option-3]  
 http://51.52.156.22:8888/http/001
-#EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland [Option-4][USE INTERNAL Player]
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3166?protocol=hls
+
 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 N Ireland" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg" ,BBC 1 Northern Ireland [Option-1] 
 https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-northern-ireland$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 N Ireland" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg" ,BBC 1 Northern Ireland [Option-2]
 https://uk.easyview.eu/hls/bbc-one-northern-ireland.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-one-northern-ireland
-#EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 N Ireland" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg" ,BBC 1 Northern Ireland [Option-3][USE INTERNAL Player]
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/361?protocol=hls
+
 
 #EXTINF:-1 group-title="News" tvg-id="BBC Parliament" tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament [Option-1] 
 https://easyview.eu/watch.php?stream=bbc-parliament|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-parliament$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="News" tvg-id="BBC Parliament" tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament [Option-2]
 https://waw.easyview.eu/hls/bbc-parliament.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-parliament
-#EXTINF:-1 group-title="News" tvg-id="BBC Parliament" tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament [Option-3][USE INTERNAL Player]
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1666?protocol=hls
+
 
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-1]
 http://51.52.156.22:8888/http/004
@@ -100,8 +98,7 @@ http://51.52.156.22:8888/http/004
 https://easyview.eu/watch.php?stream=nbcb|refererdown$$referer=https://easyview.eu/watch.php?stream=nbcb$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-3]
 https://waw.easyview.eu/hls/nbcb.m3u8|Referer=https://easyview.eu/watch.php?stream=nbcb
-#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-4][USE INTERNAL Player]
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3227?protocol=hls 
+
 
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/512_300.png" ,BBC World News [Option-1]
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
