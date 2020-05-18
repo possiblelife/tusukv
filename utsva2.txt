@@ -5,17 +5,17 @@ https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2b/a4/62/2ba4620b-8049-4ea
 #EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , Message From Developer
 https://pastebin.com/raw/SP6QZEAD|webepg zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="Info"   tvg-logo="http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg" , USE BELOW TO UPDATE TO V2.20.
+#EXTINF:-1 group-title="Info"   tvg-logo="http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg" , USE BELOW TO UPDATE TO V2.21.
 http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg|webepg zoom=100 scroll=0,200
 
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , NEW VERSION V2.20. Click here to AUTO-UPDATE.
-http://www.mediafire.com/file/myisq5hwch8dgmm/USA_TV_%2526_Radio_V2.20.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , VERSION V2.20. Click here to Download From Browser.
-http://www.mediafire.com/file/myisq5hwch8dgmm/USA_TV_%2526_Radio_V2.20.apk/file|newexternalapp
+#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , NEW VERSION V2.21. Click here to AUTO-UPDATE.
+http://www.mediafire.com/file/t4txn0sa648vs4j/USA_TV_%2526_Radio_V2.21.apk/file|externalupdate
+#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , VERSION V2.21. Click here to Download From Browser.
+http://www.mediafire.com/file/t4txn0sa648vs4j/USA_TV_%2526_Radio_V2.21.apk/file|newexternalapp
 
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , New Plugin V3.36. Click here to AUTO-UPDATE.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , New Plugin V3.39. Click here to AUTO-UPDATE.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , New Plugin V3.36. Click here to Download From Browser.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , New Plugin V3.39. Click here to Download From Browser.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
 
 #EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , VIDEO FOR ANDROID 5&6 CHANNELS FIX
