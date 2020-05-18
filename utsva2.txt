@@ -44,7 +44,7 @@ https://ustv247.tv/ae-live-stream/|webdeskalldig
 #EXTINF:-1 group-title="Documentary" tvg-id="2" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E [Option-2]
 https://ustvgo.tv/ae-networks-live-streaming-free/|webproalldig
 #EXTINF:-1 group-title="Documentary" tvg-id="2" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E [Option-3] 
-https://ok.ru/videoembed/1363991928419?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
+http://123tvnow.com/watch/ae/|weballdig
 #EXTINF:-1 group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML._SY355_.png" ,ABC NEWS [Option-1]
 https://abcnews.go.com/Live|webdeskdig
 #EXTINF:-1 group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML._SY355_.png" ,ABC News [Option-2]
@@ -1277,7 +1277,7 @@ https://ustv247.tv/tlc/|webdeskalldig
 #EXTINF:-1 group-title="Entertainment" tvg-id="5005"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC [Option-2]
 https://tvpc.us/player/embed.php?cid=396|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="5005" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC [Option-3]
-https://ok.ru/videoembed/1218455936611?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
+https://ok.ru/videoembed/1381529624163?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
 #EXTINF:-1 group-title="Movies" tvg-id="347" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT [Option-1] 
 http://123tvnow.com/watch/tnt/|weballdig
 #EXTINF:-1 group-title="Movies" tvg-id="347" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT [Option-1] [Alternate]
