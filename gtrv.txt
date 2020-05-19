@@ -318,8 +318,8 @@ https://www.mn-gr.com/live-tv.html|webdig
 https://eco.streams.ovh/AVENAFM977/AVENAFM977/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://exelen.gr/wp-content/uploads/2020/03/logoheader.png" ,Exelen
 https://eco.streams.ovh/exelen/exelen/playlist.m3u8
-
-
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://moviez.space/images/videothumbs/iptv/analog-tv.png" ,Analog TV
+https://usb.bozztv.com/ssh101/analog/analog/playlist.m3u8
 
 
 
