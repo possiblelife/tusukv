@@ -46,6 +46,8 @@ http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_nan_gaidheal/bbc_radio
 http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio=320000.norewind.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/BBC_Radio_Cymru_logo.svg/1280px-BBC_Radio_Cymru_logo.svg.png" ,BBC Radio Cymru
 http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio=320000.norewind.m3u8
+#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kAhJHmcnwd.png" ,BBC Radio Merseyside
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmersey_mf_q
 
 #EXTINF:-1 tvg-logo="https://f4.bcbits.com/img/a0840066429_2.jpg" ,88.2 Rude
 http://78.129.228.187:8034/listen.pls
