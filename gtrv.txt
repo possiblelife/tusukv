@@ -234,7 +234,8 @@ https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://citybook.b-cdn.net/wp-content/uploads/2019/05/logo4.png" ,Pylos City
 https://usb.bozztv.com/ssh101/pyloscity/pyloscity/chunklist.m3u8
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.nstv.gr/site/assets/files/2626/nstvlive.100x0.jpg" ,NStv.gr
+https://server.tvdj.info:8222/nstv1/stream/chunklist.m3u8
 
 
 
