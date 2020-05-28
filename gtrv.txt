@@ -276,7 +276,7 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
 http://.....
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="Mad TV" tvg-logo="https://yt3.ggpht.com/a/AGF-l78kbaX5jx9wum6chbW2RAGQZidVBf1zNPCWMA=s48-c-k-c0xffffffff-no-rj-mo" ,MAD TV
-https://www.youtube.com/watch?v=nhSwlWhdips
+https://www.youtube.com/watch?v=dC3-ISvqnJI
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" ,Baraza Music TV Greek Hits
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" ,Baraza Music TV Classic hits 80s-90s
