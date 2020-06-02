@@ -314,6 +314,8 @@ https://eco.streams.ovh/AVENAFM977/AVENAFM977/playlist.m3u8
 https://eco.streams.ovh/exelen/exelen/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://moviez.space/images/videothumbs/iptv/analog-tv.png" ,Analog TV
 https://usb.bozztv.com/ssh101/analog/analog/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://www.vibee.tv/wp-content/uploads/2019/10/logo_v2beat_page_small.jpg" ,V2Beat Live
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 
 
 
