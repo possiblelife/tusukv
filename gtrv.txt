@@ -164,8 +164,7 @@ https://server.tvdj.info:8222/santorini/santorini/playlist.m3u8
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============= WEBTV ============
 http://.....
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-name="COSMOTE HISTORY" tvg-logo="https://yt3.ggpht.com/a/AATXAJwGeo_HOwJDPhXqjZx2xfRXVbeXeQsSfHEbmw=s48-c-k-c0xffffffff-no-rj-mo" ,COSMOTE HISTORY (Youtube)
-https://www.youtube.com/watch?v=9FC3OUc_G74
+
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/4pvyyYb/1.jpg" ,ΕΡΤ Play 1
 https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/y6M72Gk/2.jpg" ,ΕΡΤ Play 2
