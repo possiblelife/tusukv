@@ -127,8 +127,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://static.iptv-epg.com/pl/BabyFirstTV.pl.png" ,BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 group-title="Live cam" ,Banff Live Cam, Alberta, Canada
-https://www.youtube.com/watch?v=9HwSNgcdQ7k 
+#EXTINF:-1 group-title="Live cam" ,Banff Live Cam Alberta Canada
+https://www.youtube.com/watch?v=Tpchwvyv6yU
 #EXTINF:-1 group-title="News"  tvg-id="615" tvg-logo="https://pmcdeadline2.files.wordpress.com/2013/12/bbc-america-logo__130325101911-275x144.jpg" ,BBC America [Option-1]
 https://tvpc.us/player/embed.php?cid=381|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="News"  tvg-id="615"  tvg-logo="https://pmcdeadline2.files.wordpress.com/2013/12/bbc-america-logo__130325101911-275x144.jpg" ,BBC America [Option-2]
@@ -181,13 +181,6 @@ https://ustvgo.tv/bravo-channel-live-free/|webproalldig
 https://ustv247.tv/bravo/|webdeskalldig
 #EXTINF:-1  group-title="USA" tvg-logo="https://bkat.viebit.com/custom/live_poster/BKATlogo16x9-720.jpg" ,Bremerton Kitsap Access TV
 https://na-us-se13.secdn.net/pegstream3-live/play/5f28e301-8ef0-4650-a176-c3c6a5575b44/chunklist_w708136738.m3u8
-#EXTINF:-1 group-title="Live cam" ,Broadway NY
-https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
-#EXTINF:-1 group-title="Live cam" ,Broadway NY  Street Cam
-https://videos3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8
-#EXTINF:-1 group-title="Live cam" ,Broadway South View NY
-https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/HasBahCa.m3u8
-#EXTINF:-1 group-title="Live cam" ,Brooks Falls - Katmai National Park, Alaska
 https://www.youtube.com/watch?v=c4C1c4z8hTQ
 #EXTINF:-1 group-title="Local" tvg-logo="http://phonebookoftheworld.com/usa/newyork/city/seal-of-buffalo.jpg" ,Buffalo Gov't TV
 http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
@@ -201,12 +194,6 @@ https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 #EXTINF:-1 group-title="News" tvg-id="3423" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cspan3-269x147.png" ,C-Span 3 [Option-1]
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
-#EXTINF:-1 group-title="Live cam" ,California
-https://videos3.earthcam.com/fecnetwork/lacitytours1.flv/HasBahCa.m3u8
-#EXTINF:-1 group-title="Live cam" ,California
-https://videos3.earthcam.com/fecnetwork/6603.flv/HasBahCa.m3u8
-#EXTINF:-1 group-title="Live cam" ,California
-https://videos3.earthcam.com/fecnetwork/6253.flv/HasBahCa.m3u8
 #EXTINF:-1 group-title="Music"   tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/CMC-269x151.jpg" ,California Music Channel [Option-1]
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1 group-title="Music"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/CMC-269x151.jpg" ,California Music Channel - CMC [Option-2]
@@ -271,8 +258,6 @@ https://cbsn-min-cedexis.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 group-title="USA" ,CBSN PHILLY
 https://cbsn-phi-cedexis.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
-#EXTINF:-1 group-title="Live cam" ,Central Memorial Park, Calgary, Alberta
-https://www.youtube.com/watch?v=xsRDTfuksyI
 #EXTINF:-1 group-title="USA" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg" ,Cerritos TV3
 http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
 #EXTINF:-1 group-title="News"  tvg-id="4216" tvg-logo="http://cgtv.la/wp-content/uploads/2015/01/cgtv-logo-300x137.png" ,CGTN [Option-1]
@@ -288,14 +273,10 @@ http://radio.7chan.org:8000/CH7
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" ,Charge! (USA ONLY)
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 group-title="Live cam" ,Charging Bull
-https://videos3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
 #EXTINF:-1 group-title="News"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Cheddar_logo.png/220px-Cheddar_logo.png" ,Cheddar News
 https://live.chdrstatic.com/cheddar/index.m3u8
 #EXTINF:-1 group-title="News"  tvg-logo="https://talkingbiznews.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-17-at-5.38.40-PM-300x272.png" ,Cheddar BIG NEWS
 https://live.chdrstatic.com/cbn/index.m3u8
-#EXTINF:-1 group-title="Live cam" ,Chicago
-https://videos3.earthcam.com/fecnetwork/13661.flv/playlist.m3u8
 #EXTINF:-1 group-title="Kids"  ,Classic Cartoons
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/793?protocol=hls
 #EXTINF:-1 group-title="Kids"  ,Classic Cartoons 2
@@ -328,8 +309,6 @@ httphost://$http-raw=http://123tvnow.com/watch/cnn-2/$http-refferer=http://123tv
 https://dogs.cdn.livenewschat.eu/hls/cnni_live/index.m3u8|referer=https://livenewschat.eu/intl/
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN International [Option-2]
 https://1861340594.rsc.cdn77.org/cdibCiWHbGZ89eCY1XqQwg==,1587895202/ls-54548-1/tracks-v1a1/mono.m3u8|referer=https://www.livenewsmag.com/cnn-live-streaming/
-#EXTINF:-1 group-title="Live cam" ,Columbus Circle
-https://videos3.earthcam.com/fecnetwork/6427.flv/HasBahCa.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/11/CC_Refresh__Logo_WordMark-890-2018.png" ,Comedy Central
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 group-title="Movies" tvg-logo="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F54817135%2F279208278849%2F1%2Foriginal.20190108-203552?h=230&w=460&auto=compress&rect=0%2C75%2C2400%2C1200&s=a89b0031835b02fe2238c1c0d5980982" ,Comedy Central Stand-Up
@@ -488,12 +467,6 @@ http://123tvnow.com/watch/e-network/|weballdig
 httphost://$http-raw=http://123tvnow.com/watch/e-network/$http-refferer=http://123tvnow.com/watch/e-network/
 #EXTINF:-1 group-title="Entertainment" tvg-id="617"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" ,E! [Option-2] 
 https://ustvgo.tv/e/|webproalldig
-#EXTINF:-1 group-title="Live cam" ,EartCam Street
-https://videos3.earthcam.com/fecnetwork/9974.flv/.m3u8
-#EXTINF:-1 group-title="Live cam" ,EarthCam SouthView
-https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
-#EXTINF:-1 group-title="Live cam" ,Eiffel cam HD
-https://videos3.earthcam.com/fecnetwork/eiffelcamHD.flv/playlist.m3u8
 #EXTINF:-1  group-title="USA" tvg-logo="https://myescambia.com/favicon.png" ,Escambia County TV
 http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-1]
@@ -748,8 +721,6 @@ https://ustvgo.tv/hgtv-live-streaming-free/|webproalldig
 http://123tvnow.com/watch/hgtv/|weballdig
 #EXTINF:-1 group-title="Documentary"   tvg-id="623" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/HGTV-269x151.png" ,HGTV [Option-3] [Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/hgtv/$http-refferer=http://123tvnow.com/watch/hgtv/
-#EXTINF:-1 group-title="Live cam" ,High Line
-https://videos3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary"  tvg-id="621" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-1] (USA VPN REQUIRED)
 https://ustv247.tv/history-channel-live-stream/|webdeskalldig
 #EXTINF:-1 group-title="Documentary"  tvg-id="621" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-2](USA VPN REQUIRED)
@@ -811,8 +782,6 @@ http://granicusliveus6-a.akamaihd.net/la36/G0019_002/chunklist_w1442089063.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://www.lhcaz.gov/images/default-source/topics/cvb.png" ,Lake Havasu City 4
 https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
-#EXTINF:-1 group-title="Live cam" ,Lauderdale Beach
-https://videos3.earthcam.com/fecnetwork/windjammerHD2.flv/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" ,Leominster TV Educational
 http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="Local" ,LEOMINSTER TV EDUCATIONAL [720p]
@@ -839,8 +808,6 @@ http://123tvnow.com/watch/lifetime-tv/|weballdig
 httphost://$http-raw=http://123tvnow.com/watch/lifetime-tv/$http-refferer=http://123tvnow.com/watch/lifetime-tv/
 #EXTINF:-1 group-title="Movies" tvg-id="1333" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/08/lifetimeM.jpeg" ,Lifetime Movies (LMN)
 https://ustvgo.tv/lifetime-movies/|webproalldig
-#EXTINF:-1 group-title="Live cam" ,Live Train 24/7 Train Driver's View, Cab Ride, Winter Train Live View Front Window View
-https://www.youtube.com/watch?v=XWY1gJKCoD0
 #EXTINF:-1 group-title="USA"   tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" ,Live Stream
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
 #EXTINF:-1 group-title="USA" ,LIFEVISION TV
@@ -853,16 +820,6 @@ httphost://$http-raw=http://123tvnow.com/watch/logo-tv/$http-refferer=http://123
 http://123tvnow.com/watch/longhorn-network-espnlhn/|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="11516" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnlhn-269x151.png" ,Longhorn Network (ESPNLHN)[Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/longhorn-network-espnlhn/$http-refferer=http://123tvnow.com/watch/longhorn-network-espnlhn/
-#EXTINF:-1 group-title="Live cam" ,Louisiana
-https://videos3.earthcam.com/fecnetwork/4281.flv/HasBahCa.m3u8
-#EXTINF:-1 group-title="Live cam" ,Lousiana
-https://videos3.earthcam.com/fecnetwork/4282.flv/HasBahCa.m3u8
-#EXTINF:-1 group-title="Live cam" ,Manatee Cam US
-https://videos3.earthcam.com/fecnetwork/14014.flv/playlist.m3u8
-#EXTINF:-1 group-title="Music" ,Melody Channel TV
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 group-title="Live cam" ,Miami Cafe US
-https://videos3.earthcam.com/fecnetwork/15061.flv/playlist.m3u8
 #EXTINF:-1 group-title="Sports"  tvg-logo="https://metv.org/wp-content/uploads/2017/08/metv-3d-logo2.png" ,Middle East Television (METV)
 http://cdg3.edge.tmed.pw/metv/abr_live/metv/live_1024p/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="6178"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB NETWORK [Option-1]
@@ -900,8 +857,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68a4737b88b2694
 #EXTINF:-1 group-title="Music" tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/180820194833-the-hills-large-169.jpg" ,MTV The Hills
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68b45d0bd6c2689c96537/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #E
-#EXTINF:-1 group-title="Live cam" ,Mulberry France Street
-https://videos3.earthcam.com/fecnetwork/5775.flv/playlist.m3u8
 #EXTINF:-1 group-title="Music"  tvg-id="20168" tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" ,Music Choice (MC Play)
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://img.new.livestream.com/events/0000000000278eea/f6faaf88-4543-4f49-b8ee-763a5ed5ecf8_170x255.png" ,MY9 TV (WWOR)[Option-1]
@@ -982,12 +937,6 @@ https://ustvgo.tv/nbcsn/|webproalldig
 https://www.streamlive.to/view/71137/NBCSports-(SD)|webdeskalldig
 #EXTINF:-1 group-title="News" tvg-id="8965"  tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2016/11/ndtv001.jpg" ,NDTV
 https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
-#EXTINF:-1 group-title="Live cam" ,Nevada
-https://videos3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
-#EXTINF:-1 group-title="Live cam" ,Nevada Las Vegas
-https://videos3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8
-#EXTINF:-1 group-title="Live cam" ,New Mexico
-https://videos3.earthcam.com/fecnetwork/4831.flv/HasBahCa.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.cityof.com/uploads/media/local/0001/87/thumb_86641_local_normal.jpeg" ,News 3 (ksnv) Las Vegas
 https://news3lv.com/watch|webdig
 #EXTINF:-1 group-title="News" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" ,News 12 (Brooklyn)
@@ -1063,18 +1012,6 @@ https://stream1.nra.tv/nratv/ngrp:nratvall/chunklist_b1144576.m3u8
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/SC5nyyL.png" ,NWCT 12 (Minnesota)
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Live cam"  tvg-logo="http://www.crainsnewyork.com/apps/pbcsi.dll/storyimage/CN/20131113/RETAIL_APPAREL/131119946/AR/0/Columbus-Circle.jpg" ,NYC - Columbus Circle
-https://videos3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8
-#EXTINF:-1 group-title="Live cam" tvg-logo="https://windagainstcurrent.files.wordpress.com/2011/12/libertycam_20111207141712.jpg" ,NYC - Statue of Liberty
-https://videos3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
-#EXTINF:-1 group-title="Live cam" tvg-logo="http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg" ,NYC - Times Square
-https://videos3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
-#EXTINF:-1 group-title="Live cam" tvg-logo="https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg" ,NYC - Times Square (47th & Broadway)
-https://videos3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
-#EXTINF:-1 group-title="Live cam" tvg-logo="http://www.secretsinplainsight.com/wp-content/uploads/Times_Square_Evening.jpg" ,NYC - Times Square (South View)
-https://videos3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
-#EXTINF:-1 group-title="Live cam" tvg-logo="http://experiential-advertising.com/news/wp-content/uploads/2012/02/IMG_1967.jpg" ,NYC - Times Square (Street Cam)
-https://videos3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" ,Olelo Community Media 49
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
 #EXTINF:-1 group-title="Local" ,OLELO COMMUNITY MEDIA 53
@@ -1193,8 +1130,6 @@ httphost://$http-raw=http://123tvnow.com/watch/showtime/$http-refferer=http://12
 http://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="http://www2.southeastern.edu/NewsEvents/PublicInfoOffice/bl-transparant_bug_crop.jpg" ,Southeastern Channel
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1 group-title="Live cam" ,South Carolina
-https://videos3.earthcam.com/fecnetwork/3635.flv/HasBahCa.m3u8
 #EXTINF:-1 group-title="USA"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/spike-269x151.png" ,Spike Paramount Network
 http://123tvnow.com/watch/paramount-network-spike/|weballdig
 #EXTINF:-1 group-title="USA"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/spike-269x151.png" ,Spike Paramount Network[Alternate]
@@ -1377,8 +1312,6 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://pbs.twimg.com/profile_images/648868667615133696/kPvB4ye4.png" ,VTV Channel 6 Colorado
 http://hls.ksl.com/t/strata/playlist.m3u8
-#EXTINF:-1 group-title="Live cam" ,Waikiki Beach Meditation
-https://www.youtube.com/watch?v=L2Qln30b2nE
 #EXTINF:-1 group-title="News"   tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" ,WBZ 4 News (Boston)
 https://ctslive-i.akamaihd.net/hls/live/676495/WBZTV/master.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" ,WBZ TV LIVE 2
@@ -1418,8 +1351,6 @@ https://content.uplynk.com/channel/7a8b777a12f646f7b38d917ec0301595.m3u8
 https://api.new.livestream.com/accounts/11595500/events/3707011/live.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/WPTV.png" ,WPTV 5
 https://www.wptv.com/live|agentdesktopnodown$$start=data-m3u8="$$end=">$$replace=data-m3u8="$$replacewith=$$add=
-#EXTINF:-1 group-title="Live cam" ,Wrasse and Anthias Fish Cam
-https://www.youtube.com/watch?v=HYknTgcw2BM
 #EXTINF:-1 group-title="USA"   tvg-logo="https://s.wsj.net/media/wsj-live-blog-icon.jpg" ,WSJ Live
 http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 #EXTINF:-1 group-title="News"   tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png" ,WVIT 30 News (Hartford)
@@ -1434,3 +1365,36 @@ httphost://$http-raw=http://123tvnow.com/watch/wwe-network/$http-refferer=http:/
 http://crichd.ws/update/wwe.php|webdeskdig
 #EXTINF:-1 group-title="Sports"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK [Option-3]
 https://ustvgo.tv/wwe-network/|webproalldig
+
+#EXTINF:-1 group-title="Live cam",USA Arizona – Sedona
+https://www.earthcam.com/usa/arizona/sedona/?cam=sedona_gateway
+#EXTINF:-1 group-title="Live cam",USA California – Belvedere Cove Cam
+https://www.earthcam.com/usa/california/belvedere/?cam=belvederecove
+#EXTINF:-1 group-title="Live cam",USA California – Hollywood Boulevard
+https://www.earthcam.com/usa/california/losangeles/hollywoodblvd/?cam=hollywoodblvd
+#EXTINF:-1 group-title="Live cam",USA NY  – High Line
+https://www.earthcam.com/usa/newyork/highline/?cam=highline
+#EXTINF:-1 group-title="Live cam",USA NY  – Hudson River
+https://www.earthcam.com/usa/newyork/skyline/?cam=skyline_pano
+#EXTINF:-1 group-title="Live cam",USA NY  – Midtown Skyline
+https://www.earthcam.com/usa/newyork/midtown/skyline/?cam=midtown4k
+#EXTINF:-1 group-title="Live cam",USA NY  – Times Square 4K
+https://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1 group-title="Live cam",USA NY  Times Square - Broadway South
+https://www.earthcam.com/usa/newyork/timessquare/?cam=gts2_broadway
+#EXTINF:-1 group-title="Live cam",USA NY  Times Square – Crossroads
+https://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo3
+#EXTINF:-1 group-title="Live cam",USA NY  Times Square – South view
+https://www.earthcam.com/usa/newyork/timessquare/?cam=tstwo_hd
+#EXTINF:-1 group-title="Live cam",USA NY  Times Square – Street Cam
+https://www.earthcam.com/usa/newyork/timessquare/?cam=tsstreet
+#EXTINF:-1 group-title="Live cam",USA NY : Times Square – Pedestrian Plaza
+https://www.earthcam.com/usa/newyork/timessquare/?cam=gts1
+#EXTINF:-1 group-title="Live cam",USA Washington Downtown Seattle Cam
+https://www.earthcam.com/usa/washington/seattle/?cam=seattledowntown
+#EXTINF:-1 group-title="Live cam",USA Washington Seattle Skyline Cam
+https://www.earthcam.com/usa/washington/seattle/?cam=seattleskyline
+#EXTINF:-1 group-title="Live cam",Paterson Falls Cam -New Jersey
+https://www.earthcam.com/usa/newjersey/paterson/?cam=patersonfalls
+#EXTINF:-1 group-title="Live cam",City of Southlake Cam -Texas
+https://www.earthcam.com/usa/texas/southlake/?cam=southlake
