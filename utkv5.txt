@@ -27,8 +27,6 @@ https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
 https://easyview.eu/watch.php?stream=bbc-london|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-london$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-2]
 https://uk.easyview.eu/hls/bbc-london.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-london
-#EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-3]
-https://ustreamix.live/embed.php?id=bbc1|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-4]
 https://www.filmon.com/tv/bbc-one|exodig
 
@@ -36,8 +34,6 @@ https://www.filmon.com/tv/bbc-one|exodig
 https://easyview.eu/watch.php?stream=bbc-two|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-two$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-2] 
 https://uk.easyview.eu/hls/bbc-two.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-two
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-3]
-https://ustreamix.net/embed.php?id=bbc-two|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2  [Option-4]
 https://www.filmon.com/tv/bbc-two|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2 [Option-5]
