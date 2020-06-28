@@ -141,6 +141,8 @@ https://easyview.eu/watch.php?stream=itv2|refererdown$$referer=https://easyview.
 https://uk.easyview.eu/hls/itv2.m3u8|Referer=https://easyview.eu/watch.php?stream=itv2
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-4]
 https://www.filmon.com/tv/itv2|exodig
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-5]
+https://tvpc.us/player/embed.php?cid=7|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2 +1" tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1
 https://www.filmon.com/tv/itv2-plus-1|exodig
 
