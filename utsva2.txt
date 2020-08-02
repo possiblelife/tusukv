@@ -66,6 +66,8 @@ https://www.streamlive.to/view/76553/ABC-Family|webdeskalldig
 
 #EXTINF:-1 group-title="USA"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" ,ABC 2 Baton Rouge LA (WBRZ-HD)
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://abc3340.com/resources/assets/wbma/images/logos/wbma_logo_w.svg" ,abc 3340 News
+https://abc3340.com/watch|webdig
 #EXTINF:-1 group-title="USA"  tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wabc_icon.png" ,ABC 7 WABC NY
 https://abc7ny.com/watch/live/|weballdig
 #EXTINF:-1 group-title="USA"  tvg-logo="https://wtnh.com/wp-content/uploads/sites/100/2019/05/wtnh_digitalbrand-min.png" ,ABC WTNH News 8
@@ -130,6 +132,8 @@ https://ustv247.tv/animal-planet/|webdeskalldig
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/nZiP75iF.png" ,Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://play.champds.com/atlantaga/img/AtlantaGALIVE.png" ,Atlanta GA LIVE
+https://securestream3.champds.com/hlssstc/AtlantaGALIVE/AtlantaGALIVE_SQ.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://static.iptv-epg.com/pl/BabyFirstTV.pl.png" ,BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 group-title="Live cam" ,Banff Live Cam Alberta Canada
@@ -246,7 +250,9 @@ https://www.streamlive.to/view/77285/CBS-4-Miami|webdeskalldig
 #EXTINF:-1 group-title="USA" tvg-logo="https://pictures.grabien.com/profiles/large/0006/6721.jpg" ,CBS 12 West Palm Beach (WPEC)
 http://170.250.96.20:8110/cbs.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://media.glassdoor.com/sqll/242937/wjz-tv-squarelogo-1462360533038.png" ,CBS 13 baltimore (WJZ)
-https://w3.cdn.anvato.net/player/prod/v3/anvload.html?key=eyJtIjoiY2JzIiwidiI6ImFkc3Q3SzFBOTRiZ08za1YiLCJhbnZhY2siOiJEVnpsOVFSem94M1pac1A5Yk51NUxpM1g3b2JRT25xUCIsInNoYXJlTGluayI6Imh0dHBzOi8vY2JzbG9jLmFsLzJHUmFZRHYiLCJwbHVnaW5zIjp7ImNvbXNjb3JlIjp7ImNsaWVudElkIjoiMzAwMDAyMyIsImMzIjoiQmFsdGltb3JlLmNic2xvY2FsLmNvbSJ9LCJkZnAiOnsiY2xpZW50U2lkZSI6eyJhZFRhZ1VybCI6Imh0dHA6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2Fkcz9zej0yeDImaXU9LzQxMjgvQ0JTLkJBTFRJTU9SRSZjaXVfc3pzJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZvdXRwdXQ9eG1sX3Zhc3QyJnVudmlld2VkX3Bvc2l0aW9uX3N0YXJ0PTEmdXJsPVtyZWZlcnJlcl91cmxdJmRlc2NyaXB0aW9uX3VybD1bZGVzY3JpcHRpb25fdXJsXSZjb3JyZWxhdG9yPVt0aW1lc3RhbXBdIiwia2V5VmFsdWVzIjp7ImNhdGVnb3JpZXMiOiJbW0NBVEVHT1JJRVNdXSIsInByb2dyYW0iOiJbW1BST0dSQU1fTkFNRV1dIiwic2l0ZVNlY3Rpb24iOiJ2aWRlby1leHBlcmllbmNlIiwiY2hhbm5lbElkIjoiY2g0NTYifX0sImxpYnJhcnlSZXF1ZXN0ZWQiOnRydWV9LCJoZWFydGJlYXRCZXRhIjp7ImFjY291bnQiOiJjYnNsb2NhbC1nbG9iYWwtdW5pZmllZCIsInB1Ymxpc2hlcklkIjoiY2JzbG9jYWwiLCJqb2JJZCI6InNjX3ZhIiwibWFya2V0aW5nQ2xvdWRJZCI6IjgyM0JBMDMzNTU2NzQ5N0Y3RjAwMDEwMUBBZG9iZU9yZyIsInRyYWNraW5nU2VydmVyIjoiY2JzZGlnaXRhbG1lZGlhLmhiLm9tdHJkYy5uZXQiLCJjdXN0b21UcmFja2luZ1NlcnZlciI6ImNic2RpZ2l0YWxtZWRpYS5kMS5zYy5vbXRyZGMubmV0IiwiY2hhcHRlclRyYWNraW5nIjpmYWxzZSwidmVyc2lvbiI6IjEuNSIsInBhcmVudFBhZ2VVUkwiOiJodHRwczovL2JhbHRpbW9yZS5jYnNsb2NhbC5jb20vbGl2ZS9jaGFubmVsL2Nicy1iYWx0aW1vcmUtbGl2ZS12aWRlby8iLCJwYXJlbnRUaXRsZSI6IkNCUyBCYWx0aW1vcmUgTGl2ZSBWaWRlbyDigJMgQ0JTIEJhbHRpbW9yZSIsInBJbnN0YW5jZSI6InAwIiwicHJvZmlsZSI6ImNicyIsImN1c3RvbVRyYWNraW5nU2VydmVyU2VjdXJlIjoiY2JzZGlnaXRhbG1lZGlhLmQxLnNjLm9tdHJkYy5uZXQifSwiaGVhbHRoQW5hbHl0aWNzIjp7fX0sImh0bWw1Ijp0cnVlLCJ0b2tlbiI6ImRlZmF1bHQifQ%3D%3D|webdeskalldig
+https://baltimore.cbslocal.com/live/channel/cbs-baltimore-live-video/|webdeskalldig
+#EXTINF:-1 group-title="News" tvg-logo="https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/custom/image/e6dca4ea-9f0a-11e8-82c7-1365ea89ea58.png" ,CBS 46 Atlanta
+https://vod.field59.com/vod/_definst_/smil:bimvid-storage/WGCL/76ccc8a17b4581751bb75c2c654ceedf492e719f.smil/playlist.m3u8
 #EXTINF:-1  group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1920px-WJAX-TV_logo.png" ,CBS 47 Jacksonville (WJAX)
 http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 #EXTINF:-1 group-title="News"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png" ,CBS NEWS HD [Option-1]
@@ -556,8 +562,10 @@ http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 https://www.fox5ny.com/live|webdig
 #EXTINF:-1 group-title="News" tvg-logo="http://www.glitteringlightslasvegas.com/wp-content/uploads/fox2.png" ,Fox 5 (kvvu-tv) Las Vegas
 https://livestream.com/accounts/6910894/events/2707630|webdeskdig
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/WBRC_logo_2015.png/300px-WBRC_logo_2015.png" ,Fox 6 Birmingham (WBRC)
-http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://static.foxtv.com/static/orion/img/core/s/logos/fts-atlanta-a.svg" ,FOX 5 News Atlanta
+https://www.fox5atlanta.com/live|webdig
+#EXTINF:-1 group-title="News" tvg-logo="https://www.wbrc.com/pb/resources/images/footer_icons/wbrc-logo.svg?v=97" ,FOX 6 News (WBRC)
+https://www.wbrc.com/live/|webdig
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/WJW_%28TV%29_logo.png" ,Fox 8 Cleveland (WJW)
 http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTkxNjYxMjAwNzIw/fox8-logojpg.jpg" ,Fox 8 New Orleans (WVUE-DT)
@@ -1406,10 +1414,14 @@ https://content.uplynk.com/channel/7a8b777a12f646f7b38d917ec0301595.m3u8
 https://api.new.livestream.com/accounts/11595500/events/3707011/live.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/WPTV.png" ,WPTV 5
 https://www.wptv.com/live|agentdesktopnodown$$start=data-m3u8="$$end=">$$replace=data-m3u8="$$replacewith=$$add=
+#EXTINF:-1 group-title="News" tvg-logo="https://www.wsbtv.com/pb/resources/images/cmg_icons/wsbtv-logo.png?v=95" ,WSB-TV 2 Atlanta
+https://dkctmhl08vl03.cloudfront.net/in/cmg-wsbtvb2-hls-v3/live_high.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://s.wsj.net/media/wsj-live-blog-icon.jpg" ,WSJ Live
 http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 #EXTINF:-1 group-title="News"   tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png" ,WVIT 30 News (Hartford)
 http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wvtm/logo.png" ,WVTM 13 Birmingham News and Weather
+https://www.wvtm13.com/nowcast|webdig
 #EXTINF:-1 group-title="News"   tvg-logo="http://img.new.livestream.com/events/000000000068bfe1/9052fb7b-99ee-4dcd-87fd-c1102bc5592e_30000.jpg" ,WXXV News 25 (Mississippi)
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK 
