@@ -231,7 +231,8 @@ https://server.tvdj.info:8222/nstv1/stream/chunklist.m3u8
 http://youtube.com/watch?v=TNTtWVGIFRs
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://moviez.space/images/videothumbs/iptv/exploring-greece.png" ,EXPLORING GREECE 
 https://live.streams.ovh/YourStreaming/YourStreaming/master.m3u8
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://centertv.gr/wp-content/uploads/2020/03/center-logo-2.png" ,Center TV 
+https://video.streams.ovh:1936/CENTER_TELEVISION/CENTER_TELEVISION/chunklist.m3u8
 
 
 
