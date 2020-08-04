@@ -985,13 +985,13 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 http://123tvnow.com/watch/nhl-network/|weballdig
 #EXTINF:-1 group-title="Sports"   tvg-id="14156" tvg-logo="https://pbs.twimg.com/profile_images/1069587614985056256/d4Kl2nIv_400x400.jpg" ,NHL Network [Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/nhl-network/$http-refferer=http://123tvnow.com/watch/nhl-network/
-#EXTINF:-1 group-title="Kids" tvg-id="658" tvg-logo="http://www.kidvertisers.com/images/biglogo_nickelodeon.gif" ,Nickelodeon [Option-1] 
+#EXTINF:-1 group-title="Kids" tvg-id="658" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/nick8.ai-converted.png?itok=P0_vIgOd" ,Nickelodeon [Option-1] 
 http://123tvnow.com/watch/nickelodeon/|weballdig
-#EXTINF:-1 group-title="Kids" tvg-id="658" tvg-logo="http://www.kidvertisers.com/images/biglogo_nickelodeon.gif" ,Nickelodeon [Option-1] [Alternate]
+#EXTINF:-1 group-title="Kids" tvg-id="658" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/nick8.ai-converted.png?itok=P0_vIgOd" ,Nickelodeon [Option-1] [Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/nickelodeon/$http-refferer=http://123tvnow.com/watch/nickelodeon/
-#EXTINF:-1 group-title="Kids"  tvg-id="658" tvg-logo="http://www.kidvertisers.com/images/biglogo_nickelodeon.gif" ,Nickelodeon [Option-2]
+#EXTINF:-1 group-title="Kids"  tvg-id="658" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/nick8.ai-converted.png?itok=P0_vIgOd" ,Nickelodeon [Option-2]
 https://ustvgo.tv/nickelodeon-live-streaming-free/|webproalldig
-#EXTINF:-1 group-title="Kids"  tvg-id="658" tvg-logo="http://www.kidvertisers.com/images/biglogo_nickelodeon.gif" ,Nickelodeon [Option-3]
+#EXTINF:-1 group-title="Kids"  tvg-id="658" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/nick8.ai-converted.png?itok=P0_vIgOd" ,Nickelodeon [Option-3]
 https://ustv247.tv/nickelodeon/|webdeskalldig
 #EXTINF:-1 group-title="Kids" tvg-id="2010" tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/nicktoons-logo-1501.jpg" ,Nicktoons
 https://ustvgo.tv/nicktoons/|webproalldig
