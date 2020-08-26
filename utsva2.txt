@@ -13,9 +13,9 @@ http://www.mediafire.com/file/t4txn0sa648vs4j/USA_TV_%2526_Radio_V2.21.apk/file|
 #EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , VERSION V2.21. Click here to Download From Browser.
 http://www.mediafire.com/file/t4txn0sa648vs4j/USA_TV_%2526_Radio_V2.21.apk/file|newexternalapp
 
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , New Plugin V3.44. Click here to AUTO-UPDATE.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , Newest Plugin V3.47. Click here to AUTO-UPDATE.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , New Plugin V3.44. Click here to Download From Browser.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , Newest Plugin V3.47. Click here to Download From Browser.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
 
 #EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , VIDEO FOR ANDROID 5&6 CHANNELS FIX
