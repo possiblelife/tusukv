@@ -306,14 +306,20 @@ https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Main Events" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" ,Sky Sports Main Event [Advance MODE]
 https://ustreamix.to/stream.php?id=sky-sports-main-event|webdeskalldig
+#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Main Events" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" ,Sky Sports Main Event [Server 2][Advance MODE]
+https://tvpc.us/player/embed.php?cid=511|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" ,Sky Sports F1 [Advance MODE]
 https://ustreamix.to/stream.php?id=sky-sports-f1|webdeskalldig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Cricket" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3458751_sky-sports-cricket-hd-live-online-sky-sports.png" ,Sky Sports Cricket [Advance MODE]
 https://ustreamix.to/stream.php?id=sky-sports-cricket|webdeskalldig
+#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Cricket" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3458751_sky-sports-cricket-hd-live-online-sky-sports.png" ,Sky Sports Cricket [Server 2][Advance MODE]
+https://tvpc.us/player/embed.php?cid=510|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports News" tvg-logo="https://www.laps.careers/wp-content/uploads/2018/05/sky-sports-news-ipad-app-logo1.jpg" ,Sky Sports News [Advance MODE]
 https://ustreamix.to/stream.php?id=sky-sports-news|webdeskalldig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Premier League" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" ,Sky Sports Premier League [Advance MODE]
 https://ustreamix.to/stream.php?id=sky-sports-premier-league|webdeskalldig
+#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Premier League" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" ,Sky Sports Premier League [Server 2][Advance MODE]
+https://tvpc.us/player/embed.php?cid=509|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Football" tvg-logo="https://lh3.googleusercontent.com/nwUWJoSto_JpXbFt5IBZ_1O0_E5do6Wt48VTZI588oKDypv25YHtd0Vx4udnHimtvTs" ,Sky Sports Football [Advance MODE]
 https://ustreamix.to/stream.php?id=sky-sports-football|webdeskalldig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSGOLF.png" ,Sky Sports Golf [Advance MODE]
@@ -324,7 +330,13 @@ https://ustreamix.to/stream.php?id=sky-sports-arena|webdeskalldig
 https://ustreamix.to/stream.php?id=sky-sports-racing|webdeskalldig
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 1" tvg-logo="https://icdb.tv/images/f712337727fd8922f45402fa933ad664.jpg" ,BT Sport 1 [Advance MODE]
 https://ustreamix.to/stream.php?id=bt-sport-1|webdeskalldig
+#EXTINF:-1 group-title="Sports" tvg-id="BT Sport 1" tvg-logo="https://icdb.tv/images/f712337727fd8922f45402fa933ad664.jpg" ,BT Sport 1 [Server 2][Advance MODE]
+https://tvpc.us/player/embed.php?cid=761|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 2" tvg-logo="https://mytv.afrik.live/uploads/fa0f60da30f133c1692cc4ea0adb6e12.png" ,BT Sport 2 [Advance MODE]
 https://ustreamix.to/stream.php?id=bt-sport-2|webdeskalldig
+#EXTINF:-1 group-title="Sports" tvg-id="BT Sport 2" tvg-logo="https://mytv.afrik.live/uploads/fa0f60da30f133c1692cc4ea0adb6e12.png" ,BT Sport 2 [Server 2][Advance MODE]
+https://tvpc.us/player/embed.php?cid=762|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 3" tvg-logo="https://www.ballsoi8.com/wp-content/themes/colormag/logo/btsport3.png" ,BT Sport 3 [Advance MODE]
 https://ustreamix.to/stream.php?id=bt-sport-3-b|webdeskalldig
+#EXTINF:-1 group-title="Sports" tvg-id="BT Sport 3" tvg-logo="https://www.ballsoi8.com/wp-content/themes/colormag/logo/btsport3.png" ,BT Sport 3 [Server 2][Advance MODE]
+https://tvpc.us/player/embed.php?cid=763|weballdig
