@@ -765,7 +765,7 @@ http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo
 #EXTINF:-1 group-title="USA"   tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/970x545/public/live_keytv_0_0.jpg" ,Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://m.media-amazon.com/images/G/01/DeveloperBlogs/AmazonDeveloperBlogs/legacy/KIRO7_NEWS_blu_text._CB520201523_.png" ,KIRO 7 News (Seattle)
-http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
+https://www.kiro7.com/video/live-stream/|webdelaydig
 #EXTINF:-1 group-title="News"  ,KOMO 4 NEWS SEATTLE
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 
