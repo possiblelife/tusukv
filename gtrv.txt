@@ -6,26 +6,28 @@ http://www.allaboutandroid.gr/wp-content/uploads/2015/02/10362372_31926458828042
 http://.....
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://goo.gl/hD0NSD" ,ΕΡΤ1 WebTV
-https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://goo.gl/hD0NSD" ,ΕΡΤ1 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/ert1s2.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="https://goo.gl/quc9Qp" ,ΕΡΤ2 WebTV
-https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="https://goo.gl/quc9Qp" ,ΕΡΤ2 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/ert2s2.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 WebTV 
-https://ert-live.siliconweb.com/media/ert_3/ert_3.m3u8
+https://www.youtube.com/watch?v=F_jfMlJiDcc
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 WebTV  WORLDWIDE
+https://www.youtube.com/watch?v=TNVdb0tT0PM
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/ert3s2.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://goo.gl/DLhMC3" ,ΕΡΤ WORLD WebTV
-https://ert-live.siliconweb.com/media/ert_world/ert_world.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ertsports" tvg-logo="https://webtv.ert.gr/wp-content/uploads/2019/02/ERTSports-logoPage1.png" ,ΕΡΤ SPORTS
-https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" ,ONE TV
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="http://greektv.pbworks.com/f/MEGA.png" ,MEGA (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="http://greektv.pbworks.com/f/MEGA.png" ,MEGA
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b2628000.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,SKAI
 https://skai-live.siliconweb.com/media/cambria2/index_bitrate2750K.m3u8
@@ -153,7 +155,7 @@ https://itv.streams.ovh/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TRT" tvg-logo="https://www.digea.gr/images/channel-icons/TRT%20EPG.jpg" ,TRT TV
 https://www.hellasnet.tv/rest.live.hn/ws.trt/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TV 100" tvg-logo="https://goo.gl/skTCR6" ,TV100
-http://178.62.176.153/hls/tv100/index.m3u8
+https://live.fm100.gr/hls/tv100/1_2/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="KOSMOS" tvg-logo="https://www.digea.gr/images/channel-icons/TV%20KOSMOS%20EPG.jpg" ,TV KOSMOS
 https://5e8dfce185af1.streamlock.net/TvKosmosLive/TvKosmosLive/master.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="VOLCANO" tvg-logo="https://www.digea.gr/images/channel-icons/VOLCANO%20TV%20EPG.jpg" ,Volcano TV
@@ -167,12 +169,13 @@ http://.....
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/4pvyyYb/1.jpg" ,ΕΡΤ Play 1
 https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_play_1/ert_play_1.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/y6M72Gk/2.jpg" ,ΕΡΤ Play 2
-https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_play_2/ert_play_2.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/QNw1CSN/3.jpg" ,ΕΡΤ Play 3
-https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_play_3/ert_play_3.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/f8PGJpQ/4.jpg" ,ΕΡΤ Play 4
-https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_play_4/ert_play_4.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://i.imgur.com/0Ovqq2f.png" ,TILESPORT
 http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://i.imgur.com/GdgekUL.png" ,TV FILOPOLI
@@ -191,8 +194,6 @@ http://wpso.com:1936/hls/wzra.m3u8
 http://orasi.tv:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://ellastv.com/wp-content/uploads/2018/07/retina-logo-ellastv-2018.png" ,Ellas TV
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://diasporatv.com/uploads/dtv-logo-retina.png" ,DIASPORA TV
-https://itv.streams.ovh:443/diasporatv/diasporatv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.chanialivetv.gr/wp-content/uploads/2019/01/logo_smaller.png" ,XANIA TV
 https://www.twitch.tv/chanialivetv|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/Cool-2.png" ,XPLORE Channel
@@ -214,7 +215,7 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AATXAJxPN14nkBPdNoQAb5MQ_JJryWUhsyIXLJEOqg=s48-c-k-c0xffffffff-no-rj-mo" ,ecclesiaTV.gr (YOUTUBE)
 https://www.youtube.com/watch?v=TVYsFy9_XjE
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/VYL4FP6/34100tv.jpg" ,34100 TV
-https://usb.bozztv.com/ssh101/TV34100/index.m3u8
+https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://marontv.gr/wp-content/uploads/2019/12/marontv.png" ,Marontv
 https://video.connect4.gr/live/marontv/marontv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://media.pamestoixima.gr/file/logo_horses.png" ,Ιπποδρομίες
@@ -232,7 +233,7 @@ http://youtube.com/watch?v=TNTtWVGIFRs
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://moviez.space/images/videothumbs/iptv/exploring-greece.png" ,EXPLORING GREECE 
 https://live.streams.ovh/YourStreaming/YourStreaming/master.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://centertv.gr/wp-content/uploads/2020/03/center-logo-2.png" ,Center TV 
-https://video.streams.ovh:1936/CENTER_TELEVISION/CENTER_TELEVISION/chunklist.m3u8
+https://centertv.gr/live-tv|weballdig
 
 
 
@@ -248,23 +249,10 @@ https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
 http://web.onair-radio.eu:1935/cinefil/cinefil/master.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/Groovy-3-150x48.png" ,Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.imgur.com/DrXkKRp.png" ,WORLD Z
-https://web.onair-radio.eu/Worldz/Worldz/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/54fbf860-1d0d-46e7-a22a-74edb3053c67/d6fxd03-8390a3a9-2b68-4564-ba05-01edbefddf13.png" ,Classic Mr Bean Live  (YouTube)
-https://www.youtube.com/watch?v=l9z3hVIHnxk
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://cdn.shopify.com/s/files/1/1677/7285/files/reboot_shopify_b15c4bc2-6b0a-47a0-b27e-1c6e5c83df6f_400x400.png?v=1530142558" ,REBOOT
-http://web.onair-radio.eu:1935/reboot/reboot/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv-150x150.jpg" ,Play
 https://web.onair-radio.eu/video/video/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://moviez.space/images/videothumbs/iptv/cinemania.png" ,Cinemania 
-http://web.onair-radio.eu:1935/cinemania/cinemania/chunk.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://moviez.space/images/videothumbs/iptv/galaxy-gr.png" ,Galaxy GR
-https://usb1.ninacdn.com/ssh101/Galaxygrtv/Galaxygrtv/master.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://gamostv.eu/_files/200000001-d6fd4d7744/uc_logo.png" ,ΛΑΜΨΗ TV
 https://live.streams.ovh/lampsitv/lampsitv/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/RvTSG0m/netmax-6.png" ,NETMAX
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-
 
 
 
@@ -278,8 +266,8 @@ https://www.youtube.com/watch?v=dC3-ISvqnJI
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" ,Baraza Music TV Classic hits 80s-90s
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" ,Baraza Music TV Dance hits
-https://video1.getstreamhosting.com:1936/8452/8452/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" ,Baraza Music TV Pop hits
+http://deep.flashmediacast.com:1935/deep/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.imgur.com/mW6c2QR.png" ,Baraza Music TV Nostalgie
 https://tna5.bozztv.com/deep/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="http://www.businessnews.com.lb/cms/Portals/2/Business/2013/nrj-hits.jpg" ,NRJ Hits
@@ -295,7 +283,7 @@ https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="http://www.anacon.org/app/img/ellinikos.jpg" ,Ellinikos FM
 https://itv.streams.ovh/ellinikosfm/ellinikosfm/chunklist_w620343428.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://goo.gl/kkjOp4" ,ΖΟΥΓΚΛΑ
-https://zouglacam-mdc-secure.akamaized.net/zouglastream/radio_backup10/chunks.m3u8
+https://vermmd.mmdlive.lldns.net/vermmd/eaf457c2f751497ea510298cb1685b8f/manifest.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://goo.gl/kkjOp4" ,ΖΟΥΓΚΛΑ (ΕΝΑΛΛΑΚΤΙΚΟ)
 https://www.zougla.gr/live|webdig
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://4.bp.blogspot.com/-BjVgNNmExgo/WhMYN1dmDHI/AAAAAAAAXTY/TmPb086-0acq-FzrTVn7eNqLDF9BU7VvwCLcBGAs/s1600/xalastra%2Btv.jpg" ,Xalastra TV
@@ -305,7 +293,7 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://cdn-profiles.tunein.com/s156926/images/logoq.jpg?t=154771" ,NGRadio
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l79lYY5NHlDNGiKYsQYaYbuOIdkCxW8pLbOmEg=s288-c-k-c0xffffffff-no-rj-mo" ,Avanti TV
-https://www.youtube.com/watch?v=yNnToPRVI9E
+https://www.youtube.com/watch?v=sdP6bbOKTco
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv-150x150.jpg" ,Load play
 https://web.onair-radio.eu/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ytimg.com/vi/kQA63XBBiyU/hqdefault.jpg" ,Cannali - Web Music Channel
@@ -313,7 +301,7 @@ http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="http://moviez.space/images/videothumbs/iptv/radio-tv-pringipesa.png" ,Radio-TV prigipesa
 https://itv.streams.ovh/priggipesa/priggipesa/chunk.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://www.mn-gr.com/templates/emusica/images/s5_logo.png" ,Minnesota Greek radio 
-https://www.mn-gr.com/live-tv.html|webdig
+https://tna5.bozztv.com/mngr/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://avena.gr/wp-content/uploads/2018/06/avenafm.png" ,AVENA 97.7 
 https://eco.streams.ovh/AVENAFM977/AVENAFM977/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://exelen.gr/wp-content/uploads/2020/03/logoheader.png" ,Exelen
@@ -335,21 +323,16 @@ http://wpso.com:1936/hls/kidshd.m3u8
 http://www.anacon.org/app/chans/cy/smilecy.html|refererdown$$referer=http://www.anacon.org/app/chans/cy/smilecy.php$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,Smile (ΕΝΑΛΛΑΚΤΙΚΟ)
 http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://image.winudf.com/v2/image1/cGsubWVlbXNvbC5QaW5rUGFudGhlckNhcnRvb25zX2ljb25fMTU0MjI4MDM5Nl8wOTg/icon.png?w=170&fakeurl=1" ,Cartoons GR
-https://web.onair-radio.eu/cartoon/cartoon/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://image.winudf.com/v2/image1/cGsubWVlbXNvbC5QaW5rUGFudGhlckNhcnRvb25zX2ljb25fMTU0MjI4MDM5Nl8wOTg/icon.png?w=170&fakeurl=1" ,Cartoons GR 2
-https://edge1.dashmedia.tv/onestudio/cartoons_4u/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l78qQUPvYzN23BeKFgBD13iO0FCkh5VwOjsYZA=s48-c-k-c0xffffffff-no-rj-mo" ,Τομ και τζερυ (YouTube)
-https://www.youtube.com/watch?v=BRkQ-ZGiNbc
+https://www.youtube.com/watch?v=HRzVQQ25zJw
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l7-iItZoGe0QTRAFueuJpkhsAMBv6EZ3nB8xJA=s48-c-k-c0xffffffff-no-rj-mo" ,Booba (YouTube)
 https://www.youtube.com/watch?v=7tuAFeTkBAU
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l7-YzeaazMqrGL0a4Hxp6I2L8GZdFgaCy4Sfvw=s48-c-k-c0xffffffff-no-rj-mo" ,Mr bean cartoon (YouTube)
-https://www.youtube.com/watch?v=suH97b2RssU
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://moviez.space/images/videothumbs/iptv/live-larva.png" ,Live Larva (YouTube)
-https://www.youtube.com/watch?v=ZY5oov1_jbo
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AATXAJz6Ft8ZZavdp1dUuwiUdhCYW4CwC-HxldKG9w=s48-c-k-c0xffffffff-no-rj-mo" ,Talking Tom Shorts (YouTube)
 https://www.youtube.com/watch?v=QzsfLSP6hkI
-
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/slKtjnl.jpg" ,LOONEY TUNES TV 1
+https://www.youtube.com/watch?v=G79mMw7oeYo
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/slKtjnl.jpg" ,LOONEY TUNES TV 2
+https://www.youtube.com/watch?v=fjdxU-hD5FU
 
 
 
