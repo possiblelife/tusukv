@@ -233,6 +233,9 @@ http://youtube.com/watch?v=TNTtWVGIFRs
 https://live.streams.ovh/YourStreaming/YourStreaming/master.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://centertv.gr/wp-content/uploads/2020/03/center-logo-2.png" ,Center TV 
 https://centertv.gr/live-tv|weballdig
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://diavatatv.gr/wp-content/uploads/2020/10/DIAVATA-TV-SOLO-NEW-2-BOLD.png" ,DiavataTV 
+https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
+
 
 
 
