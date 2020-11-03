@@ -163,7 +163,7 @@ https://granicusliveus6-a.akamaihd.net/benicia/G1750_002/chunklist.m3u8
 http://123tvnow.com/watch/bet/|weballdig
 #EXTINF:-1 group-title="USA" tvg-id="323" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bet-269x151.png" ,Bet [Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/bet/$http-refferer=http://123tvnow.com/watch/bet/
-#EXTINF:-1 group-title="USA" tvg-id="323" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bet-269x151.png" ,Bet [Option-2]
+#EXTINF:-1 group-title="USA" tvg-id="323" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bet-269x151.png" ,Bet [Option-2] (NORD VPN REQUIRED)
 https://ustvgo.tv/bet/|webproalldig
 #EXTINF:-1 group-title="Religious" ,BETTER HEALTH
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
@@ -407,7 +407,7 @@ https://ustreamix.to/stream.php?id=discovery-channel-usa|webdeskalldig
 http://123tvnow.com/watch/science-channel/|weballdig
 #EXTINF:-1 group-title="Documentary" tvg-id="1960" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" ,DISCOVERY SCIENCE [Option-1] [Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/science-channel/$http-refferer=http://123tvnow.com/watch/disney-channel/
-#EXTINF:-1 group-title="Documentary" tvg-id="1960" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" ,DISCOVERY SCIENCE [Option-3] (NORD VPN REQUIRED)
+#EXTINF:-1 group-title="Documentary" tvg-id="1960" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" ,DISCOVERY SCIENCE [Option-3]
 https://ustvgo.tv/science/|webproalldig
 #EXTINF:-1 group-title="Kids" tvg-id="595" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/disney-269x151.png" ,Disney Channel [Option-1] 
 https://ustvgo.tv/disney-channel-live-streaming-free/|webproalldig
@@ -495,10 +495,14 @@ httphost://$http-raw=http://123tvnow.com/watch/espn-2/$http-refferer=http://123t
 http://123tvnow.com/watch/espn-news/|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="1527" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News [Option-1][Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/espn-news/$http-refferer=http://123tvnow.com/watch/espn-news/
+#EXTINF:-1 group-title="Sports" tvg-id="1527" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News [Option-2]
+https://ustvgo.tv/espnews/|webproalldig
 #EXTINF:-1 group-title="Sports" tvg-id="3331" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnu-269x151.png" ,ESPN U [Option-1]
 http://123tvnow.com/watch/espn-u-espnu/|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="3331" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnu-269x151.png" ,ESPN U [Option-1][Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/espn-u-espnu/$http-refferer=http://123tvnow.com/watch/espn-u-espnu/
+#EXTINF:-1 group-title="Sports" tvg-id="3331" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnu-269x151.png" ,ESPN U [Option-2]
+https://ustvgo.tv/espnu/|webproalldig
 #EXTINF:-1 group-title="Sports"  tvg-id="650" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-1] [Advance MODE]
 https://ustreamix.to/stream.php?id=espn2|webdeskalldig
 #EXTINF:-1 group-title="Sports"  tvg-id="650" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2 [Option-2](NORD VPN REQUIRED)
@@ -637,7 +641,7 @@ http://123tvnow.com/watch/fox-sports-1/|weballdig
 httphost://$http-raw=http://123tvnow.com/watch/fox-sports-1-fs1/$http-refferer=http://123tvnow.com/watch/fox-sports-1-fs1/
 #EXTINF:-1 group-title="Sports" tvg-id="668" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs1-269x151.png" ,FOX Sports 1 [Option-2]
 https://hindimean.com/tk/fs1.php|webdeskdig
-#EXTINF:-1 group-title="Sports" tvg-id="668" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs1-269x151.png" ,FOX Sports 1 [Option-3]
+#EXTINF:-1 group-title="Sports" tvg-id="668" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs1-269x151.png" ,FOX Sports 1 [Option-3](NORD VPN REQUIRED)
 https://ustvgo.tv/fox-sports-1/|webproalldig
 #EXTINF:-1 group-title="Sports" tvg-id="2114" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs2-269x151.png" ,FOX Sports 2 
 http://123tvnow.com/watch/fox-sports-2/|weballdig
@@ -695,9 +699,9 @@ http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist
 http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
 #EXTINF:-1 group-title="Local" ,GREENSBORO TV NETWORK
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="193"   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/835_300.png" ,Golf Channel [Option-1] 
+#EXTINF:-1 group-title="Sports" tvg-id="193"   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/835_300.png" ,Golf Channel [Option-1](NORD VPN REQUIRED)
 https://ustv247.tv/golf-channel/|webdeskalldig
-#EXTINF:-1 group-title="Sports" tvg-id="193"   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/835_300.png" ,Golf Channel [Option-2]
+#EXTINF:-1 group-title="Sports" tvg-id="193"   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/835_300.png" ,Golf Channel [Option-2](NORD VPN REQUIRED)
 https://ustvgo.tv/golf-channel-live-free/|webproalldig
 #EXTINF:-1 group-title="Movies" tvg-id="1052" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg" ,Hallmark Channel [Option-1]
 https://ustvgo.tv/hallmark-channel-live-streaming-free/|webproalldig
@@ -751,9 +755,9 @@ https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
 http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
 #EXTINF:-1 group-title="USA"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/InfoWars-269x151.png" ,InfoWars [Option-2]
 https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/index_800_av-p.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="2090"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery  [Option-1]
+#EXTINF:-1 group-title="Documentary" tvg-id="2090"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery  [Option-1](NORD VPN REQUIRED)
 https://ustvgo.tv/investigation-discovery-live-streaming-free/|webproalldig
-#EXTINF:-1 group-title="Documentary" tvg-id="2090"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery  [Option-1] [Alternate]
+#EXTINF:-1 group-title="Documentary" tvg-id="2090"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery  [Option-1] [Alternate](NORD VPN REQUIRED)
 https://ustv247.tv/investigation-discovery/|webdeskalldig
 #EXTINF:-1 group-title="Documentary" tvg-id="2090"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery [Option-2]
 http://123tvnow.com/watch/investigation-discovery/|weballdig
@@ -873,9 +877,9 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 https://ustvgo.tv/nat-geo-wild-live/|webproalldig
 #EXTINF:-1 group-title="Documentary" tvg-id="7537" tvg-logo="http://carolebeves.com/wp-content/uploads/2014/10/nat-geo-wild-canada-logo-partner-page-WHITE-BG.jpg" ,Nat Geo Wild [Option-2][Advance MODE]
 https://ustreamix.to/stream.php?id=nat-geo-wild|webdeskalldig
-#EXTINF:-1 group-title="Documentary" tvg-id="657" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic [Option-1]
+#EXTINF:-1 group-title="Documentary" tvg-id="657" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic [Option-1](NORD VPN REQUIRED)
 https://ustvgo.tv/national-geographic-live/|webproalldig
-#EXTINF:-1 group-title="Documentary" tvg-id="657" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic [Option-1] [Alternate]
+#EXTINF:-1 group-title="Documentary" tvg-id="657" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic [Option-1] [Alternate](NORD VPN REQUIRED)
 https://ustv247.tv/national-geographic-live-stream/|webdeskalldig
 #EXTINF:-1 group-title="Documentary" tvg-id="657" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic [Option-2]
 http://123tvnow.com/watch/national-geographic/|weballdig
@@ -1167,9 +1171,9 @@ https://ustvgo.tv/tbs-channel-live-free/|webproalldig
 http://123tvnow.com/watch/tbs/|weballdig
 #EXTINF:-1 group-title="USA" tvg-id="61" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tbs-269x151.png" ,TBS [Option-3] [Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/tbs/$http-refferer=http://123tvnow.com/watch/tbs/
-#EXTINF:-1 group-title="Movies" tvg-id="176" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png" ,TCM [Option-1]
+#EXTINF:-1 group-title="Movies" tvg-id="176" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png" ,TCM [Option-1](NORD VPN REQUIRED)
 https://ustvgo.tv/tcm/|webproalldig
-#EXTINF:-1 group-title="Movies" tvg-id="176" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png" ,TCM [Option-2] 
+#EXTINF:-1 group-title="Movies" tvg-id="176" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png" ,TCM [Option-2](NORD VPN REQUIRED)
 https://ustv247.tv/turner-classic-movies/|webdeskalldig
 #EXTINF:-1 group-title="USA" ,TeleBoston TV
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
@@ -1183,7 +1187,7 @@ http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
 https://ustv247.tv/tennis-channel/|webdeskalldig
 #EXTINF:-1 group-title="Sports"  tvg-id="2269" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" ,Tennis Channel  [Option-2] [Advance MODE]
 https://ustreamix.to/stream.php?id=tennis-channel|webdeskalldig
-#EXTINF:-1 group-title="Sports"  tvg-id="2269" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" ,Tennis Channel  [Option-3]
+#EXTINF:-1 group-title="Sports"  tvg-id="2269" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" ,Tennis Channel  [Option-3](NORD VPN REQUIRED)
 https://ustvgo.tv/tennis-channel-live-free/|webproalldig
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Tstv2006.png/220px-Tstv2006.png" ,Texas Student TV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
@@ -1289,7 +1293,7 @@ http://37.192.100.141:81/udp/239.1.8.7:1234
 http://123tvnow.com/watch/vh1/|weballdig
 #EXTINF:-1 group-title="Music" tvg-id="663" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/vh1-269x151.png" ,VH1 [Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/vh1/$http-refferer=http://123tvnow.com/watch/vh1/
-#EXTINF:-1 group-title="Music" tvg-id="663" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/vh1-269x151.png" ,VH1 [Option-2]
+#EXTINF:-1 group-title="Music" tvg-id="663" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/vh1-269x151.png" ,VH1 [Option-2](NORD VPN REQUIRED)
 https://ustvgo.tv/vh1/|webproalldig
 #EXTINF:-1 group-title="Music"   tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/VOA-269x151.png" ,VoA [Option-1]
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
@@ -1358,6 +1362,8 @@ httphost://$http-raw=http://123tvnow.com/watch/wwe-network/$http-refferer=http:/
 http://crichd.ws/update/wwe.php|webdeskdig
 #EXTINF:-1 group-title="Sports"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK [Option-3]
 https://ustvgo.tv/wwe-network/|webproalldig
+#EXTINF:-1 group-title="Sports"  tvg-logo="https://westfaironline.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-01-at-10.49.41-AM.png" ,YES NETWORK
+https://ustvgo.tv/yes-network/|webproalldig
 
 #EXTINF:-1 group-title="Live cam",USA Arizona – Sedona
 https://www.earthcam.com/usa/arizona/sedona/?cam=sedona_gateway
