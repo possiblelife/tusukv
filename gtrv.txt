@@ -241,8 +241,8 @@ https://live.streams.ovh/YourStreaming/YourStreaming/master.m3u8
 https://centertv.gr/live-tv|weballdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/88bGzz5/DIAVATA.jpg" ,DiavataTV 
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
-
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://ypervasitv.gr/wp-content/uploads/2020/07/LOGO-%CE%A5%CE%A0%CE%95%CE%A1%CE%92%CE%91%CE%A3%CE%97-TV.png" ,ypervasiTV
+https://kinima.cast-control.eu:1936/kinima/kinima/chunklist_w810927776.m3u8
 
 
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΤΑΙΝΙΕΣ   ============
@@ -263,6 +263,9 @@ https://web.onair-radio.eu/video/video/playlist.m3u8
 https://live.streams.ovh/lampsitv/lampsitv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://www.macuser.gr/portal-img/list_img/2/imported-logo.jpg" ,Banana Channel
 https://web.onair-radio.eu/bananachannel/bananachannel/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
@@ -319,6 +322,10 @@ https://usb.bozztv.com/ssh101/analog/analog/playlist.m3u8
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/Xk0tTzg/alithia-logo.jpg" ,Ράδιο TV Αλήθεια 
 https://54627d4fc5996.streamlock.net/AlphaServer/AlphaServer/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4f0f7f5c-b2a6-4b85-b2b4-37bb02400357-profile_image-300x300.png" ,Greece Radio Dj & Tv
+https://www.twitch.tv/greeceradio|weballdig
+
+
 
 
 
