@@ -243,6 +243,11 @@ https://centertv.gr/live-tv|weballdig
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://ypervasitv.gr/wp-content/uploads/2020/07/LOGO-%CE%A5%CE%A0%CE%95%CE%A1%CE%92%CE%91%CE%A3%CE%97-TV.png" ,ypervasiTV
 https://kinima.cast-control.eu:1936/kinima/kinima/chunklist_w810927776.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://ertalex.gr/logo2.png" ,Erta Lex Tv
+https://vdo.alphaserver.gr:3203/stream/play.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΤΑΙΝΙΕΣ   ============
