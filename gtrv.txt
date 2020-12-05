@@ -245,8 +245,8 @@ https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 https://kinima.cast-control.eu:1936/kinima/kinima/chunklist_w810927776.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://ertalex.gr/logo2.png" ,Erta Lex Tv
 https://vdo.alphaserver.gr:3203/stream/play.m3u8
-
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://grdiscovery.com/wp-content/uploads/2020/10/grd-orange-black-logo.png" ,GR Discovery
+https://live.cast-control.eu/organismos/organismos/chunklist_w149328790.m3u8
 
 
 
