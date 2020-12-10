@@ -88,7 +88,7 @@ http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
 http://www.smiletvcyprus.com/gr/index.php/program/monday|webview zoom=100 scroll=0,100
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
-https://ert-live.siliconweb.com/media/ert_world/ert_world.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG -  ERT WORLD
 https://webtv.ert.gr/programma-ertworld/|webview zoom=0 scroll=0,300
  
