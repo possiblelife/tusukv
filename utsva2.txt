@@ -487,7 +487,7 @@ https://ustreamix.to/stream.php?id=espn|webdeskalldig
 https://ustv247.tv/espn/|webdeskalldig
 #EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-3](NORD VPN REQUIRED)
 https://ustvgo.tv/espn-live/|webproalldig
-#EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN[Option-5]
+#EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-5]
 http://123tvnow.com/watch/espn-20201106/|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN [Option-5][Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/espn-2/$http-refferer=http://123tvnow.com/watch/espn-2/
