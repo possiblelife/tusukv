@@ -2,7 +2,7 @@
 #EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81D4bhLep5L._SY355_.png" ,===ΡΑΔΙΟΦΩΝΟ===
 https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/db/ac/4a/dbac4afa-8e38-3ae6-910c-2d695049873b/mzl.inrolmnl.png/1200x630wa.png|webview zoom=100 scroll=0,0
  
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/rik4.png" ,ΡΙΚ4 88.2
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK-RADIO4.png" ,ΡΙΚ4 88.2
 http://r1.cloudskep.com/cybcr/cybc4/icecast.audio
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/high/kiss.png" ,Kiss 89.0
 http://r1.phileradio.com:8193/89FM
@@ -18,7 +18,7 @@ http://eradio.networksolutions.com.cy:1935/DeeJay/DeeJay.stream/playlist.m3u8
 http://live.iteam4media.com:1818/.mp3/;stream.mp3
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/big/starfmcy.png" ,ΣΤΑΡ FM 93.7
 http://eco.onestreaming.com:8538/;stream.nsv
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/riktrito.png" ,ΡΙΚ3 (ΤΡΙΤΟ) 94.8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK-RADIO3.png" ,ΡΙΚ3 (ΤΡΙΤΟ) 94.8
 http://r1.cloudskep.com/cybcr/cybc3/icecast.audio
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/high/capital961cy.png" ,ΚΑΠΙΤΑΛ 96.1
 http://81.4.144.146:8000/live
@@ -26,7 +26,7 @@ http://81.4.144.146:8000/live
 http://eco.onestreaming.com:8023/;
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/big/sfera.png" ,ΣΦΑΙΡΑ 96.8
 http://phileradio.com:8193/sfera
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/rikproto.png" ,ΡΙΚ1 97.2
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK-RADIO1.png" ,ΡΙΚ1 97.2
 http://r1.cloudskep.com/cybcr/cybc1/icecast.audio
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/sports1.png" ,Sports1 97.3
 http://eco.onestreaming.com:8486/;

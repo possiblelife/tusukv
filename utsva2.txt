@@ -1009,6 +1009,10 @@ http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"  tvg-id="2086" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052018/untitled-1_198.png" ,Olympic Channel
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_1_4064000.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://media.glassdoor.com/sqll/859149/one-america-news-network-squarelogo-1431691062076.png" ,One America News Network (OANN) [Option-1]
+https://ustv247.tv/one-america-news-network/|webdeskalldig
+#EXTINF:-1 group-title="News" tvg-logo="https://media.glassdoor.com/sqll/859149/one-america-news-network-squarelogo-1431691062076.png" ,One America News Network (OANN) [Option-2]
+https://ustvgo.tv/one-america-news-network/|webdeskalldig
 #EXTINF:-1 group-title="Local" tvg-logo="https://pbs.twimg.com/profile_images/974220583012454400/sJnqx5cK_400x400.jpg" ,Orange TV
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
 #EXTINF:-1 group-title="USA"  tvg-id="659"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Oxygen-269x151.png" ,Oxygen 
