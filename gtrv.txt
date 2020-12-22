@@ -268,9 +268,8 @@ https://web.onair-radio.eu/video/video/playlist.m3u8
 https://live.streams.ovh/lampsitv/lampsitv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://www.macuser.gr/portal-img/list_img/2/imported-logo.jpg" ,Banana Channel
 https://web.onair-radio.eu/bananachannel/bananachannel/playlist.m3u8
-
-
-
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://netmaxtv.com/wp-content/uploads/2020/07/forweb.png" ,Netmax TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
