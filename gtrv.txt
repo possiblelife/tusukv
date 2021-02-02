@@ -137,7 +137,7 @@ https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="KONTRA" tvg-logo="https://goo.gl/S96RUr" ,KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="KONTRA" tvg-logo="https://goo.gl/S96RUr" ,KONTRA (youtube)
-https://www.youtube.com/user/kontrachannelhellas|webepg zoom=100 scroll=0,0
+https://www.youtube.com/c/KontraChannelHellas/videos|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="KPHTH TV" tvg-logo="https://goo.gl/BnX9DJ" ,ΚΡΗΤΗ TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="LYCHNOS" tvg-logo="https://goo.gl/pgniZC" ,ΛΥΧΝΟC
