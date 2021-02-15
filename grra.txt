@@ -286,3 +286,5 @@ https://ample-06.radiojar.com/red-source
 https://i4.streams.ovh:2200/ssl/musicfactory?mp=/stream
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://1.bp.blogspot.com/-mFFyjlfPuPE/XtVWX-F-2JI/AAAAAAAAfZA/BtKsh9qhPmYjmx6dOcfjSYstuJRTx4nsQCLcBGAsYHQ/s1600/pothos%2Bspesial%2B200.png" ,Pothos FM
 https://pothos.web-radio.co.uk/radio/8000/radio.mp3
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/9H8XFtn/ak.png" ,akritas Radio
+https://s44.radiolize.com/radio/8110/radio.mp3?1613396028
