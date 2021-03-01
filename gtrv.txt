@@ -260,6 +260,9 @@ https://vdo.alphaserver.gr:3203/stream/play.m3u8
 https://live.cast-control.eu/organismos/organismos/chunklist_w149328790.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/2qjgdgn/gr-london.jpg" ,Greek TV London
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.messatidatv.gr/wp-content/uploads/2018/04/cropped-cropped-messatida_tv.png" ,Messatida WEBTV
+https://vod.streams.ovh:3037/stream/play.m3u8
+
 
 
 
