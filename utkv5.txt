@@ -34,7 +34,7 @@ https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
  
  
 #EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-1]
-https://easycatchup.eu/watch.php?stream=bbc-london|refererdown$$referer=https://easycatchup.eu/watch.php?stream=bbc-london$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easycatchup.eu/watch.php?stream=bbc-london|refererdown$$referer=https://easycatchup.eu$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-2]
 https://easycatchup.eu/watch.php?stream=bbc-london|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 [Option-4]
