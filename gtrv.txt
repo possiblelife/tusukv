@@ -102,10 +102,8 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 https://best-tv.gr/HLS/hls/best/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BERGINA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" ,ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ
 https://www.verginanews.gr/web-tv-2/|webdig
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BLUE SKY" tvg-logo="https://www.digea.gr/images/channel-icons/BLUESKY.png" ,BLUE SKY  (Youtube)
-https://www.youtube.com/embed/live_stream?channel=UCySLs2VIgLrqtsdr6mK1S4g
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BLUE SKY" tvg-logo="https://www.digea.gr/images/channel-icons/BLUESKY.png" ,BLUE SKY  (Youtube) (Backup)
-http://blueskytv.gr/live-tv/|youtubedig
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BLUE SKY" tvg-logo="https://www.digea.gr/images/channel-icons/BLUESKY.png" ,BLUE SKY
+https://blueskytv.gr/live-tv/|weballdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="CHANNEL 9" tvg-logo="https://channel9.gr/images/logo_channel9_header.png" ,ΚΑΝΑΛΙ 9 
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="CORFU TV" tvg-logo="https://www.digea.gr/images/channel-icons/CORFU%20TV%20EPG.jpg" ,CORFU TV
