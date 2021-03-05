@@ -91,13 +91,16 @@ http://www.smiletvcyprus.com/gr/index.php/program/monday|webview zoom=0 scroll=0
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα Eρτ WORLD
 https://webtv.ert.gr/programma-ertworld/|webview zoom=0 scroll=0,300
- 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
-https://www.youtube-nocookie.com/embed/live_stream?channel=UC8HJZNfDPoySgW9DN3YGNaA&modestbranding=1|youtubedig
- 
+
  
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="TV Mall" tvg-logo="https://www.cyta.com.cy/mp/informational/images/channels/cbctvmall.gif" ,TV Mall
 http://www.anacon.org/app/chans/cy/mall.html|webview zoom=100 scroll=0,400
+
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)-1
+https://www.youtube-nocookie.com/embed/live_stream?channel=UC8HJZNfDPoySgW9DN3YGNaA&modestbranding=1|agentnodown$$start=https://www.youtube.com$$end="$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)-2
+https://www.youtube-nocookie.com/embed/live_stream?channel=UC8HJZNfDPoySgW9DN3YGNaA&modestbranding=1
+
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.imgur.com/w9Je47D.png" ,CYSPORTS
 https://istoikona.com/CYSPORTS|weballdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbhYRXFWRaL9gEZHaeJJ_mWMjvGP0BYe5ubA3Kp5vzyeoqiwQtJA" ,Alpha Sports
@@ -111,7 +114,7 @@ https://s1.cystream.net/live/faros2/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/hunter-1654367-1398848.png" ,ΚΥΝΗΓΙ TV
 http://www.anacon.org/app/chans/cy/kinigi.php|webview zoom=100 scroll=0,400
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="http://citychannel.live/wp-content/uploads/2019/08/cropped-53146093_327305117905839_3890747505498914816_n.png" ,City Channel
-http://citychannel.live/watch-live/|webdig
+https://vouli.tv/|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://www.seen.cy/wp-content/uploads/2020/12/seentranswhite-opa.png" ,Vouli.tv
 https://l8.cloudskep.com/voulitv/vtv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="http://vouli.tv/wp-content/uploads/2019/09/cropped-voulilogo-e1517760078658.png" ,SEEN seen.cy
