@@ -284,6 +284,12 @@ https://eco.streams.ovh/lampsitv/lampsitv/playlist.m3u8
 https://web.onair-radio.eu/bananachannel/bananachannel/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://netmaxtv.com/wp-content/uploads/2020/07/forweb.png" ,Netmax TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://tv.10dailythings.com/images/channels/GR/super-channel/normal.png" ,Super Channel
+https://vdo.alphaserver.gr:3587/stream/play.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ytimg.com/vi/n3EzME5oS5U/hqdefault.jpg" ,LiveTV 24
+https://vod.streams.ovh:3829/stream/play.m3u8
+
+
 
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
