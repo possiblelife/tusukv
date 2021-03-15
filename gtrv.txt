@@ -260,6 +260,10 @@ https://live.cast-control.eu/organismos/organismos/chunklist_w149328790.m3u8
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.messatidatv.gr/wp-content/uploads/2018/04/cropped-cropped-messatida_tv.png" ,Messatida WEBTV
 https://vod.streams.ovh:3037/stream/play.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" ,MGR TV
+https://vod.streams.ovh:3876/stream/play.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://maroussiotika.gr/wp-content/uploads/2020/02/logo-trans.png" ,Maroussiotika
+http://greekviptv.dynu.net:8000/live/maroussiotika/webtv/359142.m3u8
 
 
 
