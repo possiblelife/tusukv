@@ -3,23 +3,23 @@
 https://images-eu.ssl-images-amazon.com/images/I/51ogcPy92TL.png|webepg zoom=100 scroll=0,200
 
 #EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" ,BBC - Radio 1 [Option-1]
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_one.mpd
 #EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" ,BBC - Radio 1 [Option-2]
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
 #EXTINF:-1  tvg-logo="https://madnews.files.wordpress.com/2010/11/1xtra.jpg" ,BBC - Radio 1Xtra
 http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/702082001755631616/XfiurJDX.jpg" ,BBC - Radio 2 [Option-1]
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_two.mpd
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/702082001755631616/XfiurJDX.jpg" ,BBC - Radio 2 [Option-2]
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/702082001755631616/XfiurJDX.jpg" ,BBC - Radio 2 [Option-3]
 http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
 #EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" ,BBC - Radio 3 [Option-1]
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_three.mpd
 #EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" ,BBC - Radio 3 [Option-2]
 http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
 #EXTINF:-1  tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" ,BBC - Radio 4 [Option-1]
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_fourfm.mpd
 #EXTINF:-1  tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" ,BBC - Radio 4 [Option-2]
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
 #EXTINF:-1  tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" ,BBC - Radio 4 [Option-3]
@@ -27,11 +27,12 @@ http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_fourfm/bbc_radio_fourf
 #EXTINF:-1  tvg-logo="http://www.bbc.co.uk/staticarchive/44a9d03f481254b8be3b4ed19ed9ddaf36e442cc.jpg" ,BBC - Radio 4Xtra
 http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8
 #EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" ,BBC - Radio 5 live [Option-1]
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_five_live.mpd
+
 #EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" ,BBC - Radio 5 live [Option-2]
 http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.norewind.m3u8
 #EXTINF:-1  tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" ,BBC - Radio 6 Music [Option-1]
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_6music.mpd
 #EXTINF:-1  tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" ,BBC - Radio 6 Music [Option-2]
 http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8
 #EXTINF:-1  tvg-logo="http://static.radio.net/images/broadcasts/dd/cb/3476/c175.png" ,BBC World Service
@@ -47,7 +48,7 @@ http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_ulster/bbc_radio_ulste
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/BBC_Radio_Cymru_logo.svg/1280px-BBC_Radio_Cymru_logo.svg.png" ,BBC Radio Cymru
 http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio=320000.norewind.m3u8
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kAhJHmcnwd.png" ,BBC Radio Merseyside
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmersey_mf_q
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_merseyside.mpd
 
 #EXTINF:-1 tvg-logo="https://f4.bcbits.com/img/a0840066429_2.jpg" ,88.2 Rude
 http://78.129.228.187:8034/listen.pls
