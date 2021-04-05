@@ -265,6 +265,8 @@ https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://maroussiotika.gr/wp-content/uploads/2020/02/logo-trans.png" ,Maroussiotika
 http://greekviptv.dynu.net:8000/live/maroussiotika/webtv/359142.m3u8
 
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.patrisnews.com/wp-content/uploads/images/footer-ort.jpg" ,ΟΡΤ Live
+https://vdo.streamhost.gr:3077/live/orttvlive.m3u8
 
 
 
@@ -354,7 +356,8 @@ https://www.twitch.tv/greeceradio|weballdig
 https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://www.choicewebtv.com/wp-content/uploads/2019/09/71299365_427385794427509_9043789451230183424_n-1.png" ,Choice Web Radio
 https://vod.streams.ovh:3528/stream/play.m3u8
-
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="http://www.xalazi.gr/assets/images/banner_webtv.png" ,XALAZI
+http://176.9.123.140:1935/XALAZI/XALAZI/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΠΑΙΔΙΚΑ   ============
 http://.....
