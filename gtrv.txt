@@ -264,9 +264,12 @@ https://vod.streams.ovh:3037/stream/play.m3u8
 https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://maroussiotika.gr/wp-content/uploads/2020/02/logo-trans.png" ,Maroussiotika
 http://greekviptv.dynu.net:8000/live/maroussiotika/webtv/359142.m3u8
-
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.patrisnews.com/wp-content/uploads/images/footer-ort.jpg" ,ΟΡΤ Live
 https://vdo.streamhost.gr:3077/live/orttvlive.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/kGR0Chz/naxos.png" ,NAXOS TV
+https://til.pp.ua:3713/live/naxostv2live.m3u8
+
+
 
 
 
@@ -294,7 +297,6 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 https://vdo.alphaserver.gr:3587/stream/play.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ytimg.com/vi/n3EzME5oS5U/hqdefault.jpg" ,LiveTV 24
 https://vod.streams.ovh:3829/stream/play.m3u8
-
 
 
 
