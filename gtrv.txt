@@ -2,7 +2,7 @@
 http://www.allaboutandroid.gr/wp-content/uploads/2015/02/10362372_319264588280423_4566848749308524368_n.jpg|webview zoom=100 scroll=0,0
 
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============ ΠΑΝΕΛΛΑΔΙΚΑ ============
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ΠΑΝΕΛΛΑΔΙΚΑ ====
 http://.....
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://goo.gl/hD0NSD" ,ΕΡΤ1 WebTV
@@ -73,7 +73,7 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
 
 
 
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============= ΠΕΡΙΦΕΡΕΙΑΚΑ ============
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,===== ΠΕΡΙΦΕΡΕΙΑΚΑ ====
 http://.....
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-logo="https://i.ibb.co/VYL4FP6/34100tv.jpg" ,34100 TV (Χαλκίδα)
@@ -186,7 +186,7 @@ https://5e8dfce185af1.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8
 https://e-e.cyou:8222/santorini/santorini/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============= ΠΑΓΚΥΠΡΙΑ ============
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,===== ΠΑΓΚΥΠΡΙΑ ====
 http://.....
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="riksat" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIKS.png" ,ΡΙΚ SAT
@@ -241,7 +241,7 @@ http://www.anacon.org/app/chans/cy/mall.html|webepg zoom=100 scroll=0,300
 
 
 
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============= ΔΙΑΔΙΚΤΥΑΚΑ ============
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjH5DpDo9GHfOg3mMInn8oIk1qtxhP4qtRlE5Nq=s48-c-k-c0xffffffff-no-rj-mo" ,COSMOTE HISTORY Live Streaming
@@ -326,7 +326,7 @@ https://til.pp.ua:3713/live/naxostv2live.m3u8
 
 
 
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============= ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ============
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
 http://.....
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.imgur.com/w9Je47D.png" ,CYSPORTS
@@ -353,7 +353,7 @@ https://digitaltv.com.cy/|weballdig
 
 
 
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΤΑΙΝΙΕΣ   ============
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=====   ΤΑΙΝΙΕΣ   ====
 http://.....
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://goo.gl/ofVjvQ" ,NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
@@ -380,7 +380,7 @@ https://vod.streams.ovh:3829/stream/play.m3u8
 
 
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΜΟΥΣΙΚΗ   ============
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="Mad TV" tvg-logo="https://yt3.ggpht.com/a/AGF-l78kbaX5jx9wum6chbW2RAGQZidVBf1zNPCWMA=s48-c-k-c0xffffffff-no-rj-mo" ,MAD TV
 https://www.youtube.com/watch?v=dC3-ISvqnJI
@@ -441,7 +441,7 @@ https://vod.streams.ovh:3528/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="http://www.xalazi.gr/assets/images/banner_webtv.png" ,XALAZI
 http://176.9.123.140:1935/XALAZI/XALAZI/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΠΑΙΔΙΚΑ   ============
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
 http://.....
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://goo.gl/ablVkW" ,WZRA KID'S GR 
 http://wpso.com:1936/hls/kidshd.m3u8
@@ -459,7 +459,7 @@ https://www.youtube.com/watch?v=XK8METRgK_U
 
 
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ============
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=====   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ====
 http://.....
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)-1
 https://www.youtube-nocookie.com/embed/live_stream?channel=UC8HJZNfDPoySgW9DN3YGNaA&modestbranding=1|agentnodown$$start=https://www.youtube.com$$end="$$replace=$$replacewith=$$add=
