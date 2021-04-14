@@ -1,259 +1,259 @@
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ANT1 ====
 http://.....
 
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ
-https://www.antenna.gr/kaioipantremenoiexoynpsihi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΑΓΓΙΓΜΑ ΨΥΧΗΣ
-https://www.antenna.gr/aggigmapsixis/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΑΓΡΙΕΣ ΜΕΛΙΣΣΕΣ
-https://www.antenna.gr/agriesmelisses/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ
-https://www.antenna.gr/akrosoikogeneiakon/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΑΝ ΗΜΟΥΝ ΠΛΟΥΣΙΟΣ
-https://www.antenna.gr/anhmounplousios/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΑΡΑΧΤΟI ΚΑI ΛΑΪΤ
-https://www.antenna.gr/araxtoikailight/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΒΑΡΒΑΡΟΤΗΤΕΣ
-https://www.antenna.gr/varvarotites/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΒΙΝΥΛΙΟ
-https://www.antenna.gr/vinylio/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΒΟΤΚΑ ΠΟΡΤΟΚΑΛΙ
-https://www.antenna.gr/vodkaportokali/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΓΑΜΟΣ ΜΕ ΤΑ ΟΛΑ ΤΟΥ
-https://www.antenna.gr/gamosmetaolatou/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΓΕΙΤΟΝΙΕΣ ΣΤΟ ΠΙΑΤΟ
-https://www.antenna.gr/geitoniesstopiato/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΓΙΑ ΤΗΝ ΑΝΝΑ
-https://www.antenna.gr/giatinanna/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Γιάννης ο όμορφος
-https://www.antenna.gr/webtv/4169|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
-https://www.antenna.gr/gynaikaxwrisonoma/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΔΕΚΑ ΜΙΚΡΟΙ ΜΗΤΣΟΙ
-https://www.antenna.gr/dekamikroimitsoi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΔΕΛΗΓΙΑΝΝΕΙΟ ΠΑΡΘΕΝΑΓΩΓΕΙΟ
-https://www.antenna.gr/deligianneio/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΔΕΣΠΟΙΝΙΣ ΜΑΡΓΑΡΙΤΑ
-https://www.antenna.gr/despinismargarita/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΔΙΔΥΜΑ ΦΕΓΓΑΡΙΑ
-https://www.antenna.gr/didymafeggaria/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΔΙΛΗΜΜΑΤΑ
-https://www.antenna.gr/dilhmmata/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Δούρειος Ίππος
-https://www.antenna.gr/doureiosippos/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΕΓΚΛΗΜΑ ΚΑΙ ΠΑΘΟΣ
-https://www.antenna.gr/egklimakaipathos/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΕΓΚΛΗΜΑΤΑ
-https://www.antenna.gr/eglimata/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΕΙΝΑΙ ΣΤΙΓΜΕΣ
-https://www.antenna.gr/einaistigmes/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΕΚΕΙΝΕΣ ΚΙ ΕΓΩ
-https://www.antenna.gr/ekeineskaiegw/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΕΚΠΑΙΔΕΥΟΝΤΑΣ ΤΗΝ ΤΖΕΝΗ
-https://www.antenna.gr/ekpaideyontastintzeni/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΕΛΕΥΘΕΡΟΣ ΚΙ ΩΡΑΙΟΣ
-https://www.antenna.gr/eko/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ
-https://www.antenna.gr/ellastomegaliosou/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΕΛΛΗ ΚΑΙ ΑΝΝΑ
-https://www.antenna.gr/ellikaianna/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Επιθυμίες
-https://www.antenna.gr/epithymies/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ
-https://www.antenna.gr/ergazomenigynaika/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΕΡΩΤΑΣ ΚΛΕΦΤΗΣ
-https://www.antenna.gr/erotaskleftis/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΖΕΥΓΑΡΙΑ
-https://www.antenna.gr/zeugaria/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΖΟΡΙΚΑ ΕΠΑΓΓΕΛΜΑΤΑ
-https://www.antenna.gr/zorikaepaggelmata/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Η ΑΓΑΠΗ ΗΡΘΕ ΑΠΟ ΜΑΚΡΙΑ
-https://www.antenna.gr/iagapiirtheapomakria/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Η ΒΑΣΙΛΙΣΣΑ ΤΗΣ ΚΑΡΔΙΑΣ
-https://www.antenna.gr/vasilissatiskardias/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Η ΓΕΡΜΑΝΟΥ ΞΑΝΑΡΧΕΤΑΙ
-https://www.antenna.gr/igermanouksanarxetai/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Η ΕΚΔΡΟΜΗ
-https://www.antenna.gr/iekdromi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Η ΕΠΙΣΤΡΟΦΗ
-https://www.antenna.gr/hepistrofi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Η ΚΑΛΗ... ΠΕΘΕΡΑ
-https://www.antenna.gr/ikalipethera/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Η Πρόβα του νυφικού
-https://www.antenna.gr/webtv/3318|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Η ΦΑΜΙΛΙΑ
-https://www.antenna.gr/hfamilia/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Η ΦΑΡΜΑ
-https://www.antenna.gr/farma/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Η ΦΩΤΟΓΡΑΦΙΑ ΤΗΣ ΖΩΗΣ ΜΟΥ
-https://www.antenna.gr/hfotografiatiszoismou/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΗΛΙΟΣ
-https://www.antenna.gr/hlios/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΘΑ ΒΡΕΙΣ ΤΟ ΔΑΣΚΑΛΟ ΣΟΥ
-https://www.antenna.gr/thavreistodaskalosou/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΘΑ ΜΙΛΗΣΕΙΣ ΜΕ ΤΟ ΔΙΚΗΓΟΡΟ ΜΟΥ
-https://www.antenna.gr/thamiliseismetondikigoromou/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Ιατρικό Απόρρητο
-https://www.antenna.gr/webtv/3127|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΙΔΙΑΙΤΕΡΑ ΓΙΑ ΚΛΑΜΑΤΑ
-https://www.antenna.gr/idiaiteragiaklamata/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΙΣΤΟΡΙΕΣ ΑΠΟ ΤΗΝ ΑΠΕΝΑΝΤΙ ΟΧΘΗ
-https://www.antenna.gr/istoriesapotinapenantioxthi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΙΩΑΝΝΑ ΤΗΣ ΚΑΡΔΙΑΣ
-https://www.antenna.gr/iwannatiskardias/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΑΘΕ ΜΕΡΑ ΑΞΙΖΕΙ
-https://www.antenna.gr/kathemeraaxizei/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΑΘΡΕΦΤΗ ΚΑΘΡΕΦΤΑΚΙ ΜΟΥ
-https://www.antenna.gr/kathreftikathrefrakimoy/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ
-https://www.antenna.gr/kaioipantremenoiexoynpsihi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΑΙ... SERA SERA
-https://www.antenna.gr/kaiserasera/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Καλά ξεμπερδέματα
-https://www.antenna.gr/webtv/4053|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΑΛΕΣ ΔΟΥΛΕΙΕΣ
-https://www.antenna.gr/kalesdouleies/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ
-https://www.antenna.gr/kalimeraellada/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΑΛΟΚΑΙΡΙ ΜΑΖΙ
-https://www.antenna.gr/kalokairimazi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΑΛΟΚΑΙΡΙ ΜΑΖΙ ΣΤΙΣ 10
-https://www.antenna.gr/kalokairimazi10/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΑΝΕ ΓΟΝΕΙΣ ΝΑ ΔΕΙΣ ΚΑΛΟ
-https://www.antenna.gr/kanegoneis/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΑΝΤΟ ΠΙΟ OREO
-https://www.antenna.gr/kantopiooreo/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΑΡΜΑ
-https://www.antenna.gr/karma/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΑΤΙ ΨΗΝΕΤΑΙ
-https://www.antenna.gr/katipsinetai/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΛΕΜΜΕΝΗ ΖΩΗ
-https://www.antenna.gr/klemmenizwi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΟΙΝΗ ΛΟΓΙΚΗ
-https://www.antenna.gr/KoiniLogiki/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Κος ΚΑΙ κα ΠΕΛΣ
-https://www.antenna.gr/koskaikapels/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΡΥΦΑ ΜΟΝΟΠΑΤΙΑ
-https://www.antenna.gr/krifamonopatia/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ
-https://www.antenna.gr/konstantinoukaielenis/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΛΕΥΚΟΣ ΟΙΚΟΣ
-https://www.antenna.gr/leukosoikos/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΛΙΤΣΑ.COM
-https://www.antenna.gr/litsacom/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΛΟΛΑ
-https://www.antenna.gr/lola/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΜΑΥΡΟΣ ΩΚΕΑΝΟΣ
-https://www.antenna.gr/mavrosokeanos/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΜΕ ΤΟ ΔΕΞΙ
-https://www.antenna.gr/metodexi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ
-https://www.antenna.gr/mimoulesantio/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΜΗΝ ΨΑΡΩΝΕΙΣ
-https://www.antenna.gr/minpsarwneis/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΜΙΑ ΖΩΗ
-https://www.antenna.gr/miazwi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΜΙΑ ΖΩΗ ΓΙΑ ΤΗΝ ΕΛΣΑ
-https://www.antenna.gr/miazwigiatinelsa/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΜΙΚΡΑ ΕΓΚΛΗΜΑΤΑ
-https://www.antenna.gr/mikraegklimata/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΜΠΡΟΥΣΚΟ
-https://www.antenna.gr/brusko/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΜΩΒ - ΡΟΖ
-https://www.antenna.gr/mwvroz/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΝΤΑΝΤΑ ΓΙΑ ΟΛΕΣ ΤΙΣ ΔΟΥΛΕΙΕΣ
-https://www.antenna.gr/ntantagiaolestisdoyleies/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Ο ΓΗΤΕΥΤΗΣ
-https://www.antenna.gr/oghteytis/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Ο ΚΑΛΟΣ ΓΙΑΤΡΟΣ
-https://www.antenna.gr/okalosgiatros/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Ο ΠΟΛΕΜΟΣ ΤΩΝ ΑΣΤΡΩΝ
-https://www.antenna.gr/starwars/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΟΙ ΑΓΝΟΗΜΕΝΟΙ
-https://www.antenna.gr/oiagnoimenoi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΟΙ ΒΑΡΒΑΤΟΙ
-https://www.antenna.gr/oivarvatoi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΟΙ ΔΡΟΜΟΙ ΤΗΣ ΠΟΛΗΣ
-https://www.antenna.gr/oidromoitispolis/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ
-https://www.antenna.gr/menkaiden/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ
-https://www.antenna.gr/oistavloitiserietas/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΟΙ ΣΥΜΜΑΘΗΤΕΣ
-https://www.antenna.gr/symmathites/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΟΙΚΟΓΕΝΕΙΑ ΜΟΥΣΑΜΑ
-https://www.antenna.gr/oikogeniamousama/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΟΝΕΙΡΟΠΑΓΙΔΑ
-https://www.antenna.gr/oneiropagida/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΟΡΓΗ
-https://www.antenna.gr/Orgi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΠΑΡΟΥΣΙΑΣΤΕ!
-https://www.antenna.gr/parousiaste/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΠΑΤΕΡ ΗΜΩΝ
-https://www.antenna.gr/paterymwn/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ
-https://www.antenna.gr/petatifriteza/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΠΛΑΚΑ ΜΟΥ ΚΑΝΕΙΣ
-https://www.antenna.gr/plakamoukaneis/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΡΑΔΙΟ ΑΡΒΥΛΑ
-https://www.antenna.gr/radioarvyla/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΣΑΝ ΤΟ ΣΚΥΛΟ ΜΕ ΤΗ ΓΑΤΑ
-https://www.antenna.gr/santoskylometigata/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΣΑΡΑΝΤΑ ΚΥΜΑΤΑ
-https://www.antenna.gr/sarantakymata/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Σκερτσάκια
-https://www.antenna.gr/skertsakia/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΣΟΦΙΑ ΟΡΘΗ
-https://www.antenna.gr/sofiaorthi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΣΥΝΟΡΑ ΑΓΑΠΗΣ
-https://www.antenna.gr/synoraagapis/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΑ ΚΑΡΝΤΑΣΙΑΝΣ
-https://www.antenna.gr/takardasians/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΑ ΚΟΡΙΤΣΙΑ ΤΟΥ ΜΠΑΜΠΑ
-https://www.antenna.gr/takoritsiatoumpampa/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΑ ΦΙΛΑΡΑΚΙΑ
-https://www.antenna.gr/tafilarakia/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΑΜΑΜ
-https://www.antenna.gr/tamam/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΑΞΙ
-https://www.antenna.gr/taxi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΑΞΙΔΕΥΟΝΤΑΣ ΣΤΟΝ ΜΥΛΟ ΤΩΝ ΞΩΤΙΚΩΝ
-https://www.antenna.gr/taxideuontasstonmilotonxotikon/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΑΥΡΟΣ ΜΕ ΤΟΞΟΤΗ
-https://www.antenna.gr/taurosmetoxoti/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΗΣ A ΤΑ ΖΥΜΩΜΑΤΑ
-https://www.antenna.gr/tisatazimwmata/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ
-https://www.antenna.gr/tisagapismaxairia/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΗΣ ΕΛΛΑΔΟΣ ΤΑ ΠΑΙΔΙΑ
-https://www.antenna.gr/tiselladostapaidia/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΟ ΚΑΦΕ ΤΗΣ ΧΑΡΑΣ
-https://www.antenna.gr/tokafetisxaras/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΟ ΚΛΕΙΔΙ ΤΟΥ ΠΑΡΑΔΕΙΣΟΥ
-https://www.antenna.gr/tokleiditouparadeisou/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΟ ΠΑΙΧΝΙΔΙ ΤΗΣ ΣΥΓΝΩΜΗΣ
-https://www.antenna.gr/topaixniditissygnwmis/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ
-https://www.antenna.gr/topioglykomoupsema/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΟ ΤΑΙΡΙ ΞΕΡΕΙ
-https://www.antenna.gr/tairi/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΟ ΧΡΩΜΑ ΤΟΥ ΦΕΓΓΑΡΙΟΥ
-https://www.antenna.gr/toxrwmatoufeggariou/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Τολμηρές ιστορίες
-https://www.antenna.gr/webtv/3444|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΡΙΚΥΜΙΑ
-https://www.antenna.gr/trikymia/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΡΙΧΕΣ
-https://www.antenna.gr/trixes/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΤΥΧΗ ΒΟΥΝΟ
-https://www.antenna.gr/tyxivouno/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΥΓΕΙΑ ΠΑΝΩ ΑΠ’ ΟΛΑ
-https://www.antenna.gr/ygeia/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ
-https://www.antenna.gr/filatovatraxosou/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,Το φιλί της ζωής
-https://www.antenna.gr/webtv/3404|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΧΙΟΥΣΤΟΝ ΤΟ ΛΥΣΑΜΕ
-https://www.antenna.gr/houstontolisame/videos|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://www.antenna.gr/images/logo.svg" ,ΧΩΡΙΣ ΟΡΙΑ
-https://www.antenna.gr/xorisoria/videos|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ
+https://www.antenna.gr/kaioipantremenoiexoynpsihi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΓΓΙΓΜΑ ΨΥΧΗΣ
+https://www.antenna.gr/aggigmapsixis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΓΡΙΕΣ ΜΕΛΙΣΣΕΣ
+https://www.antenna.gr/agriesmelisses/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ
+https://www.antenna.gr/akrosoikogeneiakon/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΝ ΗΜΟΥΝ ΠΛΟΥΣΙΟΣ
+https://www.antenna.gr/anhmounplousios/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΡΑΧΤΟI ΚΑI ΛΑΪΤ
+https://www.antenna.gr/araxtoikailight/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΒΑΡΒΑΡΟΤΗΤΕΣ
+https://www.antenna.gr/varvarotites/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΒΙΝΥΛΙΟ
+https://www.antenna.gr/vinylio/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΒΟΤΚΑ ΠΟΡΤΟΚΑΛΙ
+https://www.antenna.gr/vodkaportokali/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΓΑΜΟΣ ΜΕ ΤΑ ΟΛΑ ΤΟΥ
+https://www.antenna.gr/gamosmetaolatou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΓΕΙΤΟΝΙΕΣ ΣΤΟ ΠΙΑΤΟ
+https://www.antenna.gr/geitoniesstopiato/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΓΙΑ ΤΗΝ ΑΝΝΑ
+https://www.antenna.gr/giatinanna/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Γιάννης ο όμορφος
+https://www.antenna.gr/webtv/4169|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
+https://www.antenna.gr/gynaikaxwrisonoma/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΕΚΑ ΜΙΚΡΟΙ ΜΗΤΣΟΙ
+https://www.antenna.gr/dekamikroimitsoi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΕΛΗΓΙΑΝΝΕΙΟ ΠΑΡΘΕΝΑΓΩΓΕΙΟ
+https://www.antenna.gr/deligianneio/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΕΣΠΟΙΝΙΣ ΜΑΡΓΑΡΙΤΑ
+https://www.antenna.gr/despinismargarita/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΙΔΥΜΑ ΦΕΓΓΑΡΙΑ
+https://www.antenna.gr/didymafeggaria/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΙΛΗΜΜΑΤΑ
+https://www.antenna.gr/dilhmmata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Δούρειος Ίππος
+https://www.antenna.gr/doureiosippos/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΓΚΛΗΜΑ ΚΑΙ ΠΑΘΟΣ
+https://www.antenna.gr/egklimakaipathos/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΓΚΛΗΜΑΤΑ
+https://www.antenna.gr/eglimata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΙΝΑΙ ΣΤΙΓΜΕΣ
+https://www.antenna.gr/einaistigmes/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΚΕΙΝΕΣ ΚΙ ΕΓΩ
+https://www.antenna.gr/ekeineskaiegw/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΚΠΑΙΔΕΥΟΝΤΑΣ ΤΗΝ ΤΖΕΝΗ
+https://www.antenna.gr/ekpaideyontastintzeni/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΛΕΥΘΕΡΟΣ ΚΙ ΩΡΑΙΟΣ
+https://www.antenna.gr/eko/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ
+https://www.antenna.gr/ellastomegaliosou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΛΛΗ ΚΑΙ ΑΝΝΑ
+https://www.antenna.gr/ellikaianna/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Επιθυμίες
+https://www.antenna.gr/epithymies/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ
+https://www.antenna.gr/ergazomenigynaika/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΡΩΤΑΣ ΚΛΕΦΤΗΣ
+https://www.antenna.gr/erotaskleftis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΖΕΥΓΑΡΙΑ
+https://www.antenna.gr/zeugaria/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΖΟΡΙΚΑ ΕΠΑΓΓΕΛΜΑΤΑ
+https://www.antenna.gr/zorikaepaggelmata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΑΓΑΠΗ ΗΡΘΕ ΑΠΟ ΜΑΚΡΙΑ
+https://www.antenna.gr/iagapiirtheapomakria/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΒΑΣΙΛΙΣΣΑ ΤΗΣ ΚΑΡΔΙΑΣ
+https://www.antenna.gr/vasilissatiskardias/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΓΕΡΜΑΝΟΥ ΞΑΝΑΡΧΕΤΑΙ
+https://www.antenna.gr/igermanouksanarxetai/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΕΚΔΡΟΜΗ
+https://www.antenna.gr/iekdromi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΕΠΙΣΤΡΟΦΗ
+https://www.antenna.gr/hepistrofi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΚΑΛΗ... ΠΕΘΕΡΑ
+https://www.antenna.gr/ikalipethera/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η Πρόβα του νυφικού
+https://www.antenna.gr/webtv/3318|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΦΑΜΙΛΙΑ
+https://www.antenna.gr/hfamilia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΦΑΡΜΑ
+https://www.antenna.gr/farma/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΦΩΤΟΓΡΑΦΙΑ ΤΗΣ ΖΩΗΣ ΜΟΥ
+https://www.antenna.gr/hfotografiatiszoismou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΗΛΙΟΣ
+https://www.antenna.gr/hlios/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΘΑ ΒΡΕΙΣ ΤΟ ΔΑΣΚΑΛΟ ΣΟΥ
+https://www.antenna.gr/thavreistodaskalosou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΘΑ ΜΙΛΗΣΕΙΣ ΜΕ ΤΟ ΔΙΚΗΓΟΡΟ ΜΟΥ
+https://www.antenna.gr/thamiliseismetondikigoromou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ιατρικό Απόρρητο
+https://www.antenna.gr/webtv/3127|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΙΔΙΑΙΤΕΡΑ ΓΙΑ ΚΛΑΜΑΤΑ
+https://www.antenna.gr/idiaiteragiaklamata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΙΣΤΟΡΙΕΣ ΑΠΟ ΤΗΝ ΑΠΕΝΑΝΤΙ ΟΧΘΗ
+https://www.antenna.gr/istoriesapotinapenantioxthi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΙΩΑΝΝΑ ΤΗΣ ΚΑΡΔΙΑΣ
+https://www.antenna.gr/iwannatiskardias/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΘΕ ΜΕΡΑ ΑΞΙΖΕΙ
+https://www.antenna.gr/kathemeraaxizei/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΘΡΕΦΤΗ ΚΑΘΡΕΦΤΑΚΙ ΜΟΥ
+https://www.antenna.gr/kathreftikathrefrakimoy/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ
+https://www.antenna.gr/kaioipantremenoiexoynpsihi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΙ... SERA SERA
+https://www.antenna.gr/kaiserasera/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Καλά ξεμπερδέματα
+https://www.antenna.gr/webtv/4053|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΛΕΣ ΔΟΥΛΕΙΕΣ
+https://www.antenna.gr/kalesdouleies/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ
+https://www.antenna.gr/kalimeraellada/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΛΟΚΑΙΡΙ ΜΑΖΙ
+https://www.antenna.gr/kalokairimazi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΛΟΚΑΙΡΙ ΜΑΖΙ ΣΤΙΣ 10
+https://www.antenna.gr/kalokairimazi10/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΝΕ ΓΟΝΕΙΣ ΝΑ ΔΕΙΣ ΚΑΛΟ
+https://www.antenna.gr/kanegoneis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΝΤΟ ΠΙΟ OREO
+https://www.antenna.gr/kantopiooreo/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΡΜΑ
+https://www.antenna.gr/karma/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΤΙ ΨΗΝΕΤΑΙ
+https://www.antenna.gr/katipsinetai/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΛΕΜΜΕΝΗ ΖΩΗ
+https://www.antenna.gr/klemmenizwi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΟΙΝΗ ΛΟΓΙΚΗ
+https://www.antenna.gr/KoiniLogiki/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Κος ΚΑΙ κα ΠΕΛΣ
+https://www.antenna.gr/koskaikapels/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΡΥΦΑ ΜΟΝΟΠΑΤΙΑ
+https://www.antenna.gr/krifamonopatia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ
+https://www.antenna.gr/konstantinoukaielenis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΛΕΥΚΟΣ ΟΙΚΟΣ
+https://www.antenna.gr/leukosoikos/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΛΙΤΣΑ.COM
+https://www.antenna.gr/litsacom/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΛΟΛΑ
+https://www.antenna.gr/lola/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΑΥΡΟΣ ΩΚΕΑΝΟΣ
+https://www.antenna.gr/mavrosokeanos/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΕ ΤΟ ΔΕΞΙ
+https://www.antenna.gr/metodexi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ
+https://www.antenna.gr/mimoulesantio/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΗΝ ΨΑΡΩΝΕΙΣ
+https://www.antenna.gr/minpsarwneis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΙΑ ΖΩΗ
+https://www.antenna.gr/miazwi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΙΑ ΖΩΗ ΓΙΑ ΤΗΝ ΕΛΣΑ
+https://www.antenna.gr/miazwigiatinelsa/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΙΚΡΑ ΕΓΚΛΗΜΑΤΑ
+https://www.antenna.gr/mikraegklimata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΠΡΟΥΣΚΟ
+https://www.antenna.gr/brusko/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΩΒ - ΡΟΖ
+https://www.antenna.gr/mwvroz/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΝΤΑΝΤΑ ΓΙΑ ΟΛΕΣ ΤΙΣ ΔΟΥΛΕΙΕΣ
+https://www.antenna.gr/ntantagiaolestisdoyleies/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ο ΓΗΤΕΥΤΗΣ
+https://www.antenna.gr/oghteytis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ο ΚΑΛΟΣ ΓΙΑΤΡΟΣ
+https://www.antenna.gr/okalosgiatros/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ο ΠΟΛΕΜΟΣ ΤΩΝ ΑΣΤΡΩΝ
+https://www.antenna.gr/starwars/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΑΓΝΟΗΜΕΝΟΙ
+https://www.antenna.gr/oiagnoimenoi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΒΑΡΒΑΤΟΙ
+https://www.antenna.gr/oivarvatoi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΔΡΟΜΟΙ ΤΗΣ ΠΟΛΗΣ
+https://www.antenna.gr/oidromoitispolis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ
+https://www.antenna.gr/menkaiden/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ
+https://www.antenna.gr/oistavloitiserietas/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΣΥΜΜΑΘΗΤΕΣ
+https://www.antenna.gr/symmathites/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙΚΟΓΕΝΕΙΑ ΜΟΥΣΑΜΑ
+https://www.antenna.gr/oikogeniamousama/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΝΕΙΡΟΠΑΓΙΔΑ
+https://www.antenna.gr/oneiropagida/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΡΓΗ
+https://www.antenna.gr/Orgi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΠΑΡΟΥΣΙΑΣΤΕ!
+https://www.antenna.gr/parousiaste/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΠΑΤΕΡ ΗΜΩΝ
+https://www.antenna.gr/paterymwn/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ
+https://www.antenna.gr/petatifriteza/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΠΛΑΚΑ ΜΟΥ ΚΑΝΕΙΣ
+https://www.antenna.gr/plakamoukaneis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΡΑΔΙΟ ΑΡΒΥΛΑ
+https://www.antenna.gr/radioarvyla/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΣΑΝ ΤΟ ΣΚΥΛΟ ΜΕ ΤΗ ΓΑΤΑ
+https://www.antenna.gr/santoskylometigata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΣΑΡΑΝΤΑ ΚΥΜΑΤΑ
+https://www.antenna.gr/sarantakymata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Σκερτσάκια
+https://www.antenna.gr/skertsakia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΣΟΦΙΑ ΟΡΘΗ
+https://www.antenna.gr/sofiaorthi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΣΥΝΟΡΑ ΑΓΑΠΗΣ
+https://www.antenna.gr/synoraagapis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑ ΚΑΡΝΤΑΣΙΑΝΣ
+https://www.antenna.gr/takardasians/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑ ΚΟΡΙΤΣΙΑ ΤΟΥ ΜΠΑΜΠΑ
+https://www.antenna.gr/takoritsiatoumpampa/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑ ΦΙΛΑΡΑΚΙΑ
+https://www.antenna.gr/tafilarakia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑΜΑΜ
+https://www.antenna.gr/tamam/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑΞΙ
+https://www.antenna.gr/taxi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑΞΙΔΕΥΟΝΤΑΣ ΣΤΟΝ ΜΥΛΟ ΤΩΝ ΞΩΤΙΚΩΝ
+https://www.antenna.gr/taxideuontasstonmilotonxotikon/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑΥΡΟΣ ΜΕ ΤΟΞΟΤΗ
+https://www.antenna.gr/taurosmetoxoti/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ A ΤΑ ΖΥΜΩΜΑΤΑ
+https://www.antenna.gr/tisatazimwmata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ
+https://www.antenna.gr/tisagapismaxairia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ ΕΛΛΑΔΟΣ ΤΑ ΠΑΙΔΙΑ
+https://www.antenna.gr/tiselladostapaidia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΚΑΦΕ ΤΗΣ ΧΑΡΑΣ
+https://www.antenna.gr/tokafetisxaras/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΚΛΕΙΔΙ ΤΟΥ ΠΑΡΑΔΕΙΣΟΥ
+https://www.antenna.gr/tokleiditouparadeisou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΠΑΙΧΝΙΔΙ ΤΗΣ ΣΥΓΝΩΜΗΣ
+https://www.antenna.gr/topaixniditissygnwmis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ
+https://www.antenna.gr/topioglykomoupsema/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΤΑΙΡΙ ΞΕΡΕΙ
+https://www.antenna.gr/tairi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΧΡΩΜΑ ΤΟΥ ΦΕΓΓΑΡΙΟΥ
+https://www.antenna.gr/toxrwmatoufeggariou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Τολμηρές ιστορίες
+https://www.antenna.gr/webtv/3444|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΡΙΚΥΜΙΑ
+https://www.antenna.gr/trikymia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΡΙΧΕΣ
+https://www.antenna.gr/trixes/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΥΧΗ ΒΟΥΝΟ
+https://www.antenna.gr/tyxivouno/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΥΓΕΙΑ ΠΑΝΩ ΑΠ’ ΟΛΑ
+https://www.antenna.gr/ygeia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ
+https://www.antenna.gr/filatovatraxosou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Το φιλί της ζωής
+https://www.antenna.gr/webtv/3404|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΧΙΟΥΣΤΟΝ ΤΟ ΛΥΣΑΜΕ
+https://www.antenna.gr/houstontolisame/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΧΩΡΙΣ ΟΡΙΑ
+https://www.antenna.gr/xorisoria/videos|webvod zoom=100 scroll=0,0
