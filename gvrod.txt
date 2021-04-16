@@ -336,7 +336,7 @@ https://www.alphatv.gr/show/mesanuhta/?vtype=player&showId=923|webvod zoom=100 s
 https://www.alphatv.gr/show/pame-paketo/?vtype=player&showId=834|webvod zoom=100 scroll=0,0
 
 
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,==== SKAI ====
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,==== SKAI ====
 http://.....
 
 #EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,8 Λέξεις (2020-2021)
@@ -409,7 +409,7 @@ https://www.skaitv.gr/show/psuchagogia/glukes-alchimeies-taxideuoun/sezon-2018-2
 https://www.skaitv.gr/show/psuchagogia/eurogames/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
 
 
-#EXTINF:-1 group-title="MEGA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,==== MEGA ====
+#EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,==== MEGA ====
 http://.....
 
 #EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΣΤΟ ΠΑΡΑ ΠΕΝΤΕ
@@ -429,7 +429,7 @@ https://www.megatv.com/tvshows/224781/epeisodio-1-38/|webvod zoom=100 scroll=0,0
 
 
 
-#EXTINF:-1 group-title="OPEN" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,==== OPEN ====
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQC" ,==== OPEN ====
 http://.....
 
 #EXTINF:-1 group-title="OPEN" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQC" ,Το κόκκινο ποτάμι
