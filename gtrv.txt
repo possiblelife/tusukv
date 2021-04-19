@@ -383,7 +383,7 @@ https://vod.streams.ovh:3829/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="Mad TV" tvg-logo="https://yt3.ggpht.com/a/AGF-l78kbaX5jx9wum6chbW2RAGQZidVBf1zNPCWMA=s48-c-k-c0xffffffff-no-rj-mo" ,MAD TV
-https://www.youtube.com/watch?v=dC3-ISvqnJI
+https://www.youtube.com/watch?v=8jnQ57uHN2o
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" ,Baraza Music TV Greek Hits
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" ,Baraza Music TV Classic hits 80s-90s
@@ -413,7 +413,7 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://cdn-profiles.tunein.com/s156926/images/logoq.jpg?t=154771" ,NGRadio
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://yt3.ggpht.com/a/AGF-l79lYY5NHlDNGiKYsQYaYbuOIdkCxW8pLbOmEg=s288-c-k-c0xffffffff-no-rj-mo" ,Avanti TV
-https://www.youtube.com/watch?v=sdP6bbOKTco
+https://www.youtube.com/watch?v=_-l-1HWoDrE
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv-150x150.jpg" ,Load play
 https://web.onair-radio.eu/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ytimg.com/vi/kQA63XBBiyU/hqdefault.jpg" ,Cannali - Web Music Channel
