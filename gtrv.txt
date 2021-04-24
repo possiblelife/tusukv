@@ -25,20 +25,6 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_3_ww/ert_3_ww.m3u8
 http://www.anacon.org/app/chans/gr/ert3s2.php|webepg zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://goo.gl/DLhMC3" ,ΕΡΤ WORLD WebTV
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ertsports" tvg-logo="https://i.ibb.co/MP9Nv3r/sports.jpg" ,ΕΡΤ SPORTS
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ertsports" tvg-logo="https://i.ibb.co/MP9Nv3r/sports.jpg" ,ΕΡΤ SPORTS WORLDWIDE
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_wwhigh.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ertsports1" tvg-logo="https://i.ibb.co/mhBPc1n/sports.jpg" ,ΕΡΤ SPORTS 1
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_1.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ertsports1" tvg-logo="https://i.ibb.co/mhGshmN/sports.jpg" ,ΕΡΤ SPORTS 2
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ertsports1" tvg-logo="https://i.ibb.co/8XJRX8z/sports3.jpg" ,ΕΡΤ SPORTS 3
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ertsports1" tvg-logo="https://i.ibb.co/Db4SnJp/sports4.jpg" ,ΕΡΤ SPORTS 4
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ertsports1" tvg-logo="https://i.ibb.co/pK39Fzw/sports5.jpg" ,ΕΡΤ SPORTS 5
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" ,ONE TV
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
@@ -81,6 +67,30 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://goo.gl/m1ZYJB" ,ΒΟΥΛΗ3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
+
+
+
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,===== ΑΘΛΗΤΙΚΑ ====
+http://.....
+
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports" tvg-logo="https://i.ibb.co/MP9Nv3r/sports.jpg" ,ΕΡΤ SPORTS
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports" tvg-logo="https://i.ibb.co/MP9Nv3r/sports.jpg" ,ΕΡΤ SPORTS WORLDWIDE
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_wwhigh.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports1" tvg-logo="https://i.ibb.co/mhBPc1n/sports.jpg" ,ΕΡΤ SPORTS 1
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_1medium.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports2" tvg-logo="https://i.ibb.co/mhGshmN/sports.jpg" ,ΕΡΤ SPORTS 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports3" tvg-logo="https://i.ibb.co/8XJRX8z/sports3.jpg" ,ΕΡΤ SPORTS 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports4" tvg-logo="https://i.ibb.co/Db4SnJp/sports4.jpg" ,ΕΡΤ SPORTS 4
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports5" tvg-logo="https://i.ibb.co/pK39Fzw/sports5.jpg" ,ΕΡΤ SPORTS 5
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://media.pamestoixima.gr/file/logo_horses.png" ,Ιπποδρομίες
+https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="http://i.imgur.com/0Ovqq2f.png" ,TILESPORT
+http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
 
 
 
@@ -264,8 +274,6 @@ http://.....
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjH5DpDo9GHfOg3mMInn8oIk1qtxhP4qtRlE5Nq=s48-c-k-c0xffffffff-no-rj-mo" ,COSMOTE HISTORY Live Streaming
 https://www.youtube.com/watch?v=xPsjjil4p6c
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://i.imgur.com/0Ovqq2f.png" ,TILESPORT
-http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://i.imgur.com/GdgekUL.png" ,TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.tvgold.gr/images/tvlogo_new_small.png" ,TV GOLD
@@ -304,8 +312,6 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 https://www.youtube.com/watch?v=TVYsFy9_XjE
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://marontv.gr/wp-content/uploads/2019/12/marontv.png" ,Marontv
 https://video.connect4.gr/live/marontv/marontv/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://media.pamestoixima.gr/file/logo_horses.png" ,Ιπποδρομίες
-https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.pellatv.gr/wp-content/themes/pellatv/images/pellatv.jpg" ,pella tv
 https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.egnatia.tv/sites/default/files/logo_h40_2.png" ,ΕΓΝΑΤΙΑ
@@ -400,8 +406,10 @@ https://vod.streams.ovh:3829/stream/play.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="Mad TV" tvg-logo="https://yt3.ggpht.com/a/AGF-l78kbaX5jx9wum6chbW2RAGQZidVBf1zNPCWMA=s48-c-k-c0xffffffff-no-rj-mo" ,MAD TV
-https://www.youtube.com/watch?v=8jnQ57uHN2o
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="Mad TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni3KN8eHI-jEMN5SSXPHouIaBHh-moOf0Lj5JgvBw=s48-c-k-c0x00ffffff-no-rj" ,MAD TV
+https://www.youtube.com/watch?v=Y23zPkvlrJ4
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="Mad TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniRWeQydH4pamOZcqfgB94e7Zm_IMDxKOssr_oNBw=s48-c-k-c0x00ffffff-no-rj" ,Mad Radio 106.2
+https://www.youtube.com/watch?v=WEsJ0un-AME
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" ,Baraza Music TV Greek Hits
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" ,Baraza Music TV Classic hits 80s-90s
@@ -458,6 +466,9 @@ https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
 https://vod.streams.ovh:3528/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="http://www.xalazi.gr/assets/images/banner_webtv.png" ,XALAZI
 http://176.9.123.140:1935/XALAZI/XALAZI/playlist.m3u8
+
+
+
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
 http://.....
