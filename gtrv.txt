@@ -90,7 +90,7 @@ http://.....
 https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="4Ε" tvg-logo="https://goo.gl/2eMR7A" ,4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png" ,Action 24
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="https://action24.gr/wp-content/uploads/2019/12/ACTION-24-LOGO-TRANSPARENT-NEW.png" ,Action 24
 https://www.dailymotion.com/embed/video/x61fbhs?logo=0&hideInfos=1&related=0&autoplay=1|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="AIGAIOTV" tvg-logo="https://goo.gl/3EsuCz" ,AIΓΑΙΟ
 https://tna5.bozztv.com/aigaiotv1/index.m3u8|Referer=https://ssh101.com/
@@ -326,8 +326,6 @@ https://live.cast-control.eu/organismos/organismos/chunklist_w149328790.m3u8
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.messatidatv.gr/wp-content/uploads/2018/04/cropped-cropped-messatida_tv.png" ,Messatida WEBTV
 https://vod.streams.ovh:3037/stream/play.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" ,MGR TV
-https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://maroussiotika.gr/wp-content/uploads/2020/02/logo-trans.png" ,Maroussiotika
 http://greekviptv.dynu.net:8000/live/maroussiotika/webtv/359142.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.patrisnews.com/wp-content/uploads/images/footer-ort.jpg" ,ΟΡΤ Live
@@ -438,7 +436,7 @@ https://itv.streams.ovh/priggipesa/priggipesa/chunk.m3u8
 https://tna5.bozztv.com/mngr/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://avena.gr/wp-content/uploads/2018/06/avenafm.png" ,AVENA 97.7 
 https://eco.streams.ovh/AVENAFM977/AVENAFM977/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://exelen.gr/wp-content/uploads/2020/03/logoheader.png" ,Exelen
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://exelen.gr/wp-content/uploads/2020/06/PR-LOGO-NEG-1-1.png" ,Exelen
 https://eco.streams.ovh/exelen/exelen/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://moviez.space/images/videothumbs/iptv/analog-tv.png" ,Analog TV
 https://usb.bozztv.com/ssh101/analog/analog/playlist.m3u8
@@ -454,7 +452,8 @@ https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
 https://vod.streams.ovh:3528/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="http://www.xalazi.gr/assets/images/banner_webtv.png" ,XALAZI
 http://176.9.123.140:1935/XALAZI/XALAZI/playlist.m3u8
-
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.ibb.co/WzGswsM/mgr.jpg" ,MGR TV
+https://vod.streams.ovh:3876/stream/play.m3u8
 
 
 
