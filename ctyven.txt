@@ -16,7 +16,7 @@ http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|agentnodown$$start=file: "http:
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,RIK1 (OPTION 1) -ALTERNATE[ONLY FOR CYPRUS]
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdeskdig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,RIK1 (OPTION 2) (Click "PLAY VIDEO" between ads)
-http://www.anacon.org/app/chans/cy/rik1.php|webview zoom=100 scroll=0,300
+http://www.anacon.org/app/chans/cy/rik1cyprus.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - RIK1 
 http://cybc.com.cy/schedule/|webview zoom=100 scroll=0,1900
  
@@ -58,12 +58,12 @@ http://www.alphacyprus.com.cy/program|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png" ,ANT1 (OPTION 1)
 https://www.ant1.com.cy/web-tv-live/|webdig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png" ,ANT1 (OPTION 2) (Click "PLAY VIDEO" between ads)
-http://www.anacon.org/app/chans/cy/ant1cy.php|webview zoom=100 scroll=0,300
+http://www.anacon.org/app/chans/cy/ant1cyprus.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - ANT1
 https://www.antenna.gr/tvguide|webview zoom=100 scroll=0,300
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Capital" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital (Click "PLAY VIDEO" between ads)
-http://www.anacon.org/app/chans/cy/capitalcy.php|webview zoom=100 scroll=0,300
+http://www.anacon.org/app/chans/cy/capitalcyprus.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - Capital
 http://primetel.com.cy/tvg/#|webview zoom=100 scroll=0,300
  

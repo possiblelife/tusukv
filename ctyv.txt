@@ -14,7 +14,7 @@ http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|agentnodown$$start=file: "http:
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,ΡΙΚ1 (ΕΠΙΛΟΓΗ 1)-ΕΝΑΛΛΑΚΤΙΚΟ[ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdeskdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,ΡΙΚ1 (ΕΠΙΛΟΓΗ 2) (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
-http://www.anacon.org/app/chans/cy/rik1.php|webview zoom=100 scroll=0,300
+http://www.anacon.org/app/chans/cy/rik1cyprus.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα ΡΙΚ1 
 http://cybc.com.cy/schedule/|webview zoom=100 scroll=0,1900
  
@@ -57,12 +57,12 @@ http://www.alphacyprus.com.cy/program|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png" ,ΑΝΤΕΝΝΑ (ΕΠΙΛΟΓΗ 1)
 https://www.ant1.com.cy/web-tv-live/|webdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="ANT1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png" ,ΑΝΤΕΝΝΑ (ΕΠΙΛΟΓΗ 2) (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
-http://www.anacon.org/app/chans/cy/ant1cy.php|webview zoom=100 scroll=0,300
+http://www.anacon.org/app/chans/cy/ant1cyprus.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα ΑΝΤΕΝΝΑ
 https://www.antenna.gr/tvguide|webview zoom=100 scroll=0,300
  
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Capital" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,ΚΑΠΙΤΑΛ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
-http://www.anacon.org/app/chans/cy/capitalcy.php|webview zoom=100 scroll=0,300
+http://www.anacon.org/app/chans/cy/capitalcyprus.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα ΚΑΠΙΤΑΛ
 http://primetel.com.cy/tvg/#|webview zoom=100 scroll=0,300
  

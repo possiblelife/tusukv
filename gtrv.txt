@@ -214,7 +214,7 @@ http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|agentnodown$$start=file: "http:
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,ΡΙΚ1 (ΕΝΑΛΛΑΚΤΙΚΟ) [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdeskdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,ΡΙΚ1 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
-http://www.anacon.org/app/chans/cy/rik1.php|webepg zoom=100 scroll=0,300
+http://www.anacon.org/app/chans/cy/rik1cyprus.php|webepg zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" ,ΡΙΚ2 [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" ,ΡΙΚ2 (ΕΝΑΛΛΑΚΤΙΚΟ) [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
@@ -240,9 +240,9 @@ http://www.anacon.org/app/chans/cy/alphacy.php|webepg zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1CY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png" ,ΑΝΤΕΝΝΑ
 https://www.ant1.com.cy/web-tv-live/|webdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="ANT1CY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png" ,ΑΝΤΕΝΝΑ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
-http://www.anacon.org/app/chans/cy/ant1cy.php|webepg zoom=100 scroll=0,300
+http://www.anacon.org/app/chans/cy/ant1cyprus.php|webepg zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Capital" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,ΚΑΠΙΤΑΛ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
-http://www.anacon.org/app/chans/cy/capitalcy.php|webepg zoom=100 scroll=0,300
+http://www.anacon.org/app/chans/cy/capitalcyprus.php|webepg zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Extra TV" tvg-logo="http://www.lakatamiatv.xyz/media/images/articles/extracy.jpg" ,ΕΞΤΡΑ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/extracy.php|webepg zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Plus TV" tvg-logo="http://www.anacon.org/app/img/plus.jpg" ,ΠΛΑΣ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
