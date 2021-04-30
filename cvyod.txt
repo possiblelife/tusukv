@@ -1,0 +1,569 @@
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ANT1 ====
+http://.....
+
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ
+https://www.antenna.gr/kaioipantremenoiexoynpsihi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΓΓΙΓΜΑ ΨΥΧΗΣ
+https://www.antenna.gr/aggigmapsixis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΓΡΙΕΣ ΜΕΛΙΣΣΕΣ
+https://www.antenna.gr/agriesmelisses/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ
+https://www.antenna.gr/akrosoikogeneiakon/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΝ ΗΜΟΥΝ ΠΛΟΥΣΙΟΣ
+https://www.antenna.gr/anhmounplousios/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΡΑΧΤΟI ΚΑI ΛΑΪΤ
+https://www.antenna.gr/araxtoikailight/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΒΑΡΒΑΡΟΤΗΤΕΣ
+https://www.antenna.gr/varvarotites/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΒΙΝΥΛΙΟ
+https://www.antenna.gr/vinylio/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΒΟΤΚΑ ΠΟΡΤΟΚΑΛΙ
+https://www.antenna.gr/vodkaportokali/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΓΑΜΟΣ ΜΕ ΤΑ ΟΛΑ ΤΟΥ
+https://www.antenna.gr/gamosmetaolatou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΓΕΙΤΟΝΙΕΣ ΣΤΟ ΠΙΑΤΟ
+https://www.antenna.gr/geitoniesstopiato/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΓΙΑ ΤΗΝ ΑΝΝΑ
+https://www.antenna.gr/giatinanna/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Γιάννης ο όμορφος
+https://www.antenna.gr/webtv/4169|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
+https://www.antenna.gr/gynaikaxwrisonoma/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΕΚΑ ΜΙΚΡΟΙ ΜΗΤΣΟΙ
+https://www.antenna.gr/dekamikroimitsoi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΕΛΗΓΙΑΝΝΕΙΟ ΠΑΡΘΕΝΑΓΩΓΕΙΟ
+https://www.antenna.gr/deligianneio/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΕΣΠΟΙΝΙΣ ΜΑΡΓΑΡΙΤΑ
+https://www.antenna.gr/despinismargarita/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΙΔΥΜΑ ΦΕΓΓΑΡΙΑ
+https://www.antenna.gr/didymafeggaria/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΙΛΗΜΜΑΤΑ
+https://www.antenna.gr/dilhmmata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Δούρειος Ίππος
+https://www.antenna.gr/doureiosippos/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΓΚΛΗΜΑ ΚΑΙ ΠΑΘΟΣ
+https://www.antenna.gr/egklimakaipathos/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΓΚΛΗΜΑΤΑ
+https://www.antenna.gr/eglimata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΙΝΑΙ ΣΤΙΓΜΕΣ
+https://www.antenna.gr/einaistigmes/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΚΕΙΝΕΣ ΚΙ ΕΓΩ
+https://www.antenna.gr/ekeineskaiegw/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΚΠΑΙΔΕΥΟΝΤΑΣ ΤΗΝ ΤΖΕΝΗ
+https://www.antenna.gr/ekpaideyontastintzeni/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΛΕΥΘΕΡΟΣ ΚΙ ΩΡΑΙΟΣ
+https://www.antenna.gr/eko/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ
+https://www.antenna.gr/ellastomegaliosou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΛΛΗ ΚΑΙ ΑΝΝΑ
+https://www.antenna.gr/ellikaianna/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Επιθυμίες
+https://www.antenna.gr/epithymies/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ
+https://www.antenna.gr/ergazomenigynaika/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΡΩΤΑΣ ΚΛΕΦΤΗΣ
+https://www.antenna.gr/erotaskleftis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΖΕΥΓΑΡΙΑ
+https://www.antenna.gr/zeugaria/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΖΟΡΙΚΑ ΕΠΑΓΓΕΛΜΑΤΑ
+https://www.antenna.gr/zorikaepaggelmata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΑΓΑΠΗ ΗΡΘΕ ΑΠΟ ΜΑΚΡΙΑ
+https://www.antenna.gr/iagapiirtheapomakria/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΒΑΣΙΛΙΣΣΑ ΤΗΣ ΚΑΡΔΙΑΣ
+https://www.antenna.gr/vasilissatiskardias/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΓΕΡΜΑΝΟΥ ΞΑΝΑΡΧΕΤΑΙ
+https://www.antenna.gr/igermanouksanarxetai/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΕΚΔΡΟΜΗ
+https://www.antenna.gr/iekdromi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΕΠΙΣΤΡΟΦΗ
+https://www.antenna.gr/hepistrofi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΚΑΛΗ... ΠΕΘΕΡΑ
+https://www.antenna.gr/ikalipethera/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η Πρόβα του νυφικού
+https://www.antenna.gr/webtv/3318|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΦΑΜΙΛΙΑ
+https://www.antenna.gr/hfamilia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΦΑΡΜΑ
+https://www.antenna.gr/farma/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΦΩΤΟΓΡΑΦΙΑ ΤΗΣ ΖΩΗΣ ΜΟΥ
+https://www.antenna.gr/hfotografiatiszoismou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΗΛΙΟΣ
+https://www.antenna.gr/hlios/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΘΑ ΒΡΕΙΣ ΤΟ ΔΑΣΚΑΛΟ ΣΟΥ
+https://www.antenna.gr/thavreistodaskalosou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΘΑ ΜΙΛΗΣΕΙΣ ΜΕ ΤΟ ΔΙΚΗΓΟΡΟ ΜΟΥ
+https://www.antenna.gr/thamiliseismetondikigoromou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ιατρικό Απόρρητο
+https://www.antenna.gr/webtv/3127|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΙΔΙΑΙΤΕΡΑ ΓΙΑ ΚΛΑΜΑΤΑ
+https://www.antenna.gr/idiaiteragiaklamata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΙΣΤΟΡΙΕΣ ΑΠΟ ΤΗΝ ΑΠΕΝΑΝΤΙ ΟΧΘΗ
+https://www.antenna.gr/istoriesapotinapenantioxthi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΙΩΑΝΝΑ ΤΗΣ ΚΑΡΔΙΑΣ
+https://www.antenna.gr/iwannatiskardias/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΘΕ ΜΕΡΑ ΑΞΙΖΕΙ
+https://www.antenna.gr/kathemeraaxizei/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΘΡΕΦΤΗ ΚΑΘΡΕΦΤΑΚΙ ΜΟΥ
+https://www.antenna.gr/kathreftikathrefrakimoy/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ
+https://www.antenna.gr/kaioipantremenoiexoynpsihi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΙ... SERA SERA
+https://www.antenna.gr/kaiserasera/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Καλά ξεμπερδέματα
+https://www.antenna.gr/webtv/4053|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΛΕΣ ΔΟΥΛΕΙΕΣ
+https://www.antenna.gr/kalesdouleies/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ
+https://www.antenna.gr/kalimeraellada/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΛΟΚΑΙΡΙ ΜΑΖΙ
+https://www.antenna.gr/kalokairimazi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΛΟΚΑΙΡΙ ΜΑΖΙ ΣΤΙΣ 10
+https://www.antenna.gr/kalokairimazi10/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΝΕ ΓΟΝΕΙΣ ΝΑ ΔΕΙΣ ΚΑΛΟ
+https://www.antenna.gr/kanegoneis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΝΤΟ ΠΙΟ OREO
+https://www.antenna.gr/kantopiooreo/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΡΜΑ
+https://www.antenna.gr/karma/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΤΙ ΨΗΝΕΤΑΙ
+https://www.antenna.gr/katipsinetai/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΛΕΜΜΕΝΗ ΖΩΗ
+https://www.antenna.gr/klemmenizwi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΟΙΝΗ ΛΟΓΙΚΗ
+https://www.antenna.gr/KoiniLogiki/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Κος ΚΑΙ κα ΠΕΛΣ
+https://www.antenna.gr/koskaikapels/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΡΥΦΑ ΜΟΝΟΠΑΤΙΑ
+https://www.antenna.gr/krifamonopatia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ
+https://www.antenna.gr/konstantinoukaielenis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΛΕΥΚΟΣ ΟΙΚΟΣ
+https://www.antenna.gr/leukosoikos/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΛΙΤΣΑ.COM
+https://www.antenna.gr/litsacom/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΛΟΛΑ
+https://www.antenna.gr/lola/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΑΥΡΟΣ ΩΚΕΑΝΟΣ
+https://www.antenna.gr/mavrosokeanos/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΕ ΤΟ ΔΕΞΙ
+https://www.antenna.gr/metodexi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ
+https://www.antenna.gr/mimoulesantio/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΗΝ ΨΑΡΩΝΕΙΣ
+https://www.antenna.gr/minpsarwneis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΙΑ ΖΩΗ
+https://www.antenna.gr/miazwi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΙΑ ΖΩΗ ΓΙΑ ΤΗΝ ΕΛΣΑ
+https://www.antenna.gr/miazwigiatinelsa/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΙΚΡΑ ΕΓΚΛΗΜΑΤΑ
+https://www.antenna.gr/mikraegklimata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΠΡΟΥΣΚΟ
+https://www.antenna.gr/brusko/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΩΒ - ΡΟΖ
+https://www.antenna.gr/mwvroz/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΝΤΑΝΤΑ ΓΙΑ ΟΛΕΣ ΤΙΣ ΔΟΥΛΕΙΕΣ
+https://www.antenna.gr/ntantagiaolestisdoyleies/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ο ΓΗΤΕΥΤΗΣ
+https://www.antenna.gr/oghteytis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ο ΚΑΛΟΣ ΓΙΑΤΡΟΣ
+https://www.antenna.gr/okalosgiatros/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ο ΠΟΛΕΜΟΣ ΤΩΝ ΑΣΤΡΩΝ
+https://www.antenna.gr/starwars/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΑΓΝΟΗΜΕΝΟΙ
+https://www.antenna.gr/oiagnoimenoi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΒΑΡΒΑΤΟΙ
+https://www.antenna.gr/oivarvatoi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΔΡΟΜΟΙ ΤΗΣ ΠΟΛΗΣ
+https://www.antenna.gr/oidromoitispolis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ
+https://www.antenna.gr/menkaiden/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ
+https://www.antenna.gr/oistavloitiserietas/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΣΥΜΜΑΘΗΤΕΣ
+https://www.antenna.gr/symmathites/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙΚΟΓΕΝΕΙΑ ΜΟΥΣΑΜΑ
+https://www.antenna.gr/oikogeniamousama/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΝΕΙΡΟΠΑΓΙΔΑ
+https://www.antenna.gr/oneiropagida/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΡΓΗ
+https://www.antenna.gr/Orgi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΠΑΡΟΥΣΙΑΣΤΕ!
+https://www.antenna.gr/parousiaste/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΠΑΤΕΡ ΗΜΩΝ
+https://www.antenna.gr/paterymwn/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ
+https://www.antenna.gr/petatifriteza/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΠΛΑΚΑ ΜΟΥ ΚΑΝΕΙΣ
+https://www.antenna.gr/plakamoukaneis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΡΑΔΙΟ ΑΡΒΥΛΑ
+https://www.antenna.gr/radioarvyla/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΣΑΝ ΤΟ ΣΚΥΛΟ ΜΕ ΤΗ ΓΑΤΑ
+https://www.antenna.gr/santoskylometigata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΣΑΡΑΝΤΑ ΚΥΜΑΤΑ
+https://www.antenna.gr/sarantakymata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Σκερτσάκια
+https://www.antenna.gr/skertsakia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΣΟΦΙΑ ΟΡΘΗ
+https://www.antenna.gr/sofiaorthi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΣΥΝΟΡΑ ΑΓΑΠΗΣ
+https://www.antenna.gr/synoraagapis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑ ΚΑΡΝΤΑΣΙΑΝΣ
+https://www.antenna.gr/takardasians/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑ ΚΟΡΙΤΣΙΑ ΤΟΥ ΜΠΑΜΠΑ
+https://www.antenna.gr/takoritsiatoumpampa/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑ ΦΙΛΑΡΑΚΙΑ
+https://www.antenna.gr/tafilarakia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑΜΑΜ
+https://www.antenna.gr/tamam/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑΞΙ
+https://www.antenna.gr/taxi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑΞΙΔΕΥΟΝΤΑΣ ΣΤΟΝ ΜΥΛΟ ΤΩΝ ΞΩΤΙΚΩΝ
+https://www.antenna.gr/taxideuontasstonmilotonxotikon/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑΥΡΟΣ ΜΕ ΤΟΞΟΤΗ
+https://www.antenna.gr/taurosmetoxoti/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ A ΤΑ ΖΥΜΩΜΑΤΑ
+https://www.antenna.gr/tisatazimwmata/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ
+https://www.antenna.gr/tisagapismaxairia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ ΕΛΛΑΔΟΣ ΤΑ ΠΑΙΔΙΑ
+https://www.antenna.gr/tiselladostapaidia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΚΑΦΕ ΤΗΣ ΧΑΡΑΣ
+https://www.antenna.gr/tokafetisxaras/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΚΛΕΙΔΙ ΤΟΥ ΠΑΡΑΔΕΙΣΟΥ
+https://www.antenna.gr/tokleiditouparadeisou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΠΑΙΧΝΙΔΙ ΤΗΣ ΣΥΓΝΩΜΗΣ
+https://www.antenna.gr/topaixniditissygnwmis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ
+https://www.antenna.gr/topioglykomoupsema/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΤΑΙΡΙ ΞΕΡΕΙ
+https://www.antenna.gr/tairi/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΧΡΩΜΑ ΤΟΥ ΦΕΓΓΑΡΙΟΥ
+https://www.antenna.gr/toxrwmatoufeggariou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Τολμηρές ιστορίες
+https://www.antenna.gr/webtv/3444|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΡΙΚΥΜΙΑ
+https://www.antenna.gr/trikymia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΡΙΧΕΣ
+https://www.antenna.gr/trixes/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΥΧΗ ΒΟΥΝΟ
+https://www.antenna.gr/tyxivouno/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΥΓΕΙΑ ΠΑΝΩ ΑΠ’ ΟΛΑ
+https://www.antenna.gr/ygeia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ
+https://www.antenna.gr/filatovatraxosou/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Το φιλί της ζωής
+https://www.antenna.gr/webtv/3404|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΧΙΟΥΣΤΟΝ ΤΟ ΛΥΣΑΜΕ
+https://www.antenna.gr/houstontolisame/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΧΩΡΙΣ ΟΡΙΑ
+https://www.antenna.gr/xorisoria/videos|webvod zoom=100 scroll=0,0
+
+
+
+
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ALPHA ====
+http://.....
+
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,10Η ΕΝΤΟΛΗ
+https://www.alphatv.gr/show/10i-entoli/?vtype=player&showId=865|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΑΓΓΕΛΙΚΗ
+https://www.alphatv.gr/show/aggeliki/?vtype=player&showId=1166|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΑΛΗΘΙΝΟΙ ΕΡΩΤΕΣ
+https://www.alphatv.gr/show/alithinoi-erotes/?vtype=player&showId=577|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΑΣΤΕΡΙΑ ΣΤΗΝ ΑΜΜΟ
+https://www.alphatv.gr/show/asteria-stin-ammo/?vtype=player&showId=1039|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΓΙΑ ΤΗΝ ΚΑΡΔΙΑ ΕΝΟΣ ΑΓΓΕΛΟΥ
+https://www.alphatv.gr/show/gia-tin-kardia-enos-aggeloy/?vtype=player&showId=532|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΕΡΩΤΑΣ ΜΕΤΑ
+https://www.alphatv.gr/show/erotas-meta/?vtype=player&showId=1038|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΕΧΩ ΕΝΑ ΜΥΣΤΙΚΟ
+https://www.alphatv.gr/show/exo-ena-mystiko/?vtype=player&showId=535|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,Η ΛΕΞΗ ΠΟΥ ΔΕ ΛΕΣ
+https://www.alphatv.gr/show/i-lexi-poy-de-les/?vtype=player&showId=216|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,Η ΤΕΛΕΥΤΑΙΑ ΠΑΡΑΣΤΑΣΗ
+https://www.alphatv.gr/show/i-teleytaia-parastasi/?vtype=player&showId=628|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ
+https://www.alphatv.gr/show/kokkinos-kyklos/?vtype=player&showId=804|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΟΙ ΙΣΤΟΡΙΕΣ ΤΟΥ ΑΣΤΥΝΟΜΟΥ ΜΠΕΚΑ
+https://www.alphatv.gr/show/oi-istories-toy-astynomoy-mpeka/?vtype=player&showId=867|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&showId=869|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΣΑΝ ΟΙΚΟΓΕΝΕΙΑ
+https://www.alphatv.gr/show/san-oikogeneia/?vtype=player&showId=111|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΣΕ ΕΙΔΑ
+https://www.alphatv.gr/show/se-eida/?vtype=player&showId=575|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΤΟ ΤΑΤΟΥΑΖ
+https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&showId=104|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΧΟΡΕΥΟΝΤΑΣ ΣΤΗ ΣΙΩΠΗ
+https://www.alphatv.gr/show/xoreyontas-sti-siopi/?vtype=player&showId=827|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ
+https://www.alphatv.gr/show/ela-sti-thesi-moy/?vtype=player&showId=208|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΕΝΤΙΜΟΤΑΤΟΙ ΚΕΡΑΤΑΔΕΣ
+https://www.alphatv.gr/show/entimotatoi-keratades/?vtype=player&showId=784|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΘΑ ΣΕ ΔΩ ΣΤΟ ΠΛΟΙΟ
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&showId=718|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΚΑΛΑ ΝΑ ΠΑΘΕΙΣ
+https://www.alphatv.gr/show/kala-na-patheis/?vtype=player&showId=706|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΚΟΚΚΙΝΟ ΝΥΦΙΚΟ
+https://www.alphatv.gr/show/kokkino-nyfiko/?vtype=player&showId=97|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ;
+https://www.alphatv.gr/show/kratas-mustiko/?vtype=player&showId=1041|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ
+https://www.alphatv.gr/show/min-arxizeis-ti-moyrmoyra/?vtype=player&showId=833|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΜΟΥ ΤΟ ΚΡΑΤΑΣ ΜΑΝΙΑΤΙΚΟ
+https://www.alphatv.gr/show/moy-to-kratas-maniatiko/?vtype=player&showId=765|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΣΠΙΤΙ ΕΙΝΑΙ...
+https://www.alphatv.gr/show/spiti-einai/?vtype=player&showId=1048|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΤΟ ΣΟΪ ΣΟΥ
+https://www.alphatv.gr/show/to-soi-soy/?vtype=player&showId=500|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΥΠΕΡΟΧΑ ΠΛΑΣΜΑΤΑ
+https://www.alphatv.gr/show/yperoxa-plasmata/?vtype=player&showId=571|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,BATTLE OF THE COUPLES
+https://www.alphatv.gr/show/battle-of-the-couples/?vtype=player&showId=1216|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,DEAL
+https://www.alphatv.gr/show/deal/?vtype=player&showId=254|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,HAPPY DAY ΣΤΟΝ ALPHA
+https://www.alphatv.gr/show/happy-day-ston-alpha/?vtype=player&showId=648|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,KITCHEN LAB
+https://www.alphatv.gr/show/kitchen-lab/?vtype=player&showId=928|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,POP UP
+https://www.alphatv.gr/show/pop-up/?vtype=player&showId=1167|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΚΑΛΥΤΕΡΑ ΔΕ ΓΙΝΕΤΑΙ!
+https://www.alphatv.gr/show/kalutera-de-ginetai/?vtype=player&showId=913|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΜΕΣΑΝΥΧΤΑ
+https://www.alphatv.gr/show/mesanuhta/?vtype=player&showId=923|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΠΑΜΕ ΠΑΚΕΤΟ
+https://www.alphatv.gr/show/pame-paketo/?vtype=player&showId=834|webvod zoom=100 scroll=0,0
+
+
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== SKAI ====
+http://.....
+
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,8 Λέξεις (2020-2021)
+https://www.skaitv.gr/show/seires/8-lexeis/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,8 Λέξεις (2019-2020)
+https://www.skaitv.gr/show/seires/8-lexeis/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Θα Γίνει Της Πολυκατοικίας(2019-2020)
+https://www.skaitv.gr/show/seires/tha-ginei-tis-polukatoikias/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Survivor(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/survivor/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,House Of Fame(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/house-of-fame/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Καλό Μεσημεράκι(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/kalo-mesimeraki/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Καλό Μεσημεράκι(2019-2020)
+https://www.skaitv.gr/show/psuchagogia/kalo-mesimeraki/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Love It(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/love-it/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Super Makeover(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/super-makeover/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Ώρα Για Φαγητό με την Αργυρώ(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/ora-gia-fagito/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Ο Πιο Αδύναμος Κρίκος(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/o-pio-adunamos-krikos/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Ο Πιο Αδύναμος Κρίκος(2019-2020)
+https://www.skaitv.gr/show/psuchagogia/o-pio-adunamos-krikos/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Happy Traveller(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/happy-traveller/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Happy Traveller(2019-2020)
+https://www.skaitv.gr/show/psuchagogia/happy-traveller/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Happy Traveller(2018-2019)
+https://www.skaitv.gr/show/psuchagogia/happy-traveller/sezon-2018-2019#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Happy Traveller(2017-2018)
+https://www.skaitv.gr/show/psuchagogia/happy-traveller/sezon-2017-2018|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Happy Traveller(2016-2017)
+https://www.skaitv.gr/show/psuchagogia/happy-traveller/sezon-2016-2017#tab1#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Στην Υγειά μας ρε Παιδιά(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/stin-ugeia-mas-re-paidia/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Στην Υγειά μας ρε Παιδιά(2019-2020)
+https://www.skaitv.gr/show/psuchagogia/stin-ugeia-mas-re-paidia/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Big Brother(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/big-brother/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,The Voice of Greece(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/The-Voice-of-Greece/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,The Voice of Greece(2019-2020)
+https://www.skaitv.gr/show/psuchagogia/The-Voice-of-Greece/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,My Style Rocks(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/my-style-rocks/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Dot.(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/dot/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Dot.(2019-2020)
+https://www.skaitv.gr/show/psuchagogia/dot/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,After Dark(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/after-dark/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,After Dark(2019-2020)
+https://www.skaitv.gr/show/psuchagogia/after-dark/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Θαλασσόλυκοι(2020-2021)
+https://www.skaitv.gr/show/psuchagogia/thalassolukoi/sezon-2020-2021|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Chef στον Aέρα
+https://www.skaitv.gr/show/psuchagogia/chef-ston-aera/archeio#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Γλυκές Αλχημείες(2019-2020)
+https://www.skaitv.gr/show/psuchagogia/glukes-alchimeies-2/sezon-2019-2020|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Γλυκές Αλχημείες(2017-2018)
+https://www.skaitv.gr/show/psuchagogia/glukes-alchimeies-2/sezon-2017-2018#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Γλυκές Αλχημείες
+https://www.skaitv.gr/show/psuchagogia/glukes-alchimeies-2/archeio#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Οι Γλυκές Αλχημείες Ταξιδεύουν
+https://www.skaitv.gr/show/psuchagogia/glukes-alchimeies-taxideuoun/sezon-2018-2019#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Eurogames
+https://www.skaitv.gr/show/psuchagogia/eurogames/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
+
+
+#EXTINF:-1 group-title="MEGA" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== MEGA ====
+http://.....
+
+#EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΣΤΟ ΠΑΡΑ ΠΕΝΤΕ
+https://www.megatv.com/tvshows/49389/epeisodio-1-25/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΔΥΟ ΞΕΝΟΙ
+https://www.megatv.com/tvshows/45588/epeisodio-1-5/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΕΞΑΨΗ
+https://www.megatv.com/tvshows/224520/epeisodio-1-37/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΚΛΕΜΜΕΝΑ ΟΝΕΙΡΑ
+https://www.megatv.com/tvshows/51893/episode-081-2/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΝΤΟΛΤΣΕ ΒΙΤΑ
+https://www.megatv.com/tvshows/45167/epeisodio-1-3/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΣΙΩΠΗΛΟΣ ΔΡΟΜΟΣ
+https://www.megatv.com/tvshows/321113/epeisodio-1-41/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΣΧΕΔΟΝ ΕΝΗΛΙΚΕΣ
+https://www.megatv.com/tvshows/224781/epeisodio-1-38/|webvod zoom=100 scroll=0,0
+
+
+
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== OPEN ====
+http://.....
+
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Το κόκκινο ποτάμι
+https://www.tvopen.gr/tokokkinopotami/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Ου φονεύσεις
+https://www.tvopen.gr/oyfoneyseis/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Για πάντα παιδιά
+https://www.tvopen.gr/giapantapaidia/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Ο πρίγκιπας της φωτιάς
+https://www.tvopen.gr/oprigkipasthsfotias/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Ράδιο αρβύλα
+https://www.tvopen.gr/radioarbyla/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Ευτυχείτε!
+https://www.tvopen.gr/eytyxeite/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Έλα, χαμογέλα
+https://www.tvopen.gr/elaxamogela/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Style me up
+https://www.tvopen.gr/stylemeup/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Γλυκές αλχημείες
+https://www.tvopen.gr/glykesalxhmeies/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Κάθε μέρα chef με τον Βαγγέλη Δρίσκα
+https://www.tvopen.gr/kathemerachefmetonbaggelhdriska/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Εικόνες με τον Τάσο Δούση
+https://www.tvopen.gr/eikonesmetontasodoysh/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Αννίτα Κοίτα
+https://www.tvopen.gr/annitakoita/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,The booth+
+https://www.tvopen.gr/thebooth/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Γράμμα για σένα
+https://www.tvopen.gr/grammagiasena/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,J2US
+https://www.tvopen.gr/j2us/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Joker
+https://www.tvopen.gr/joker/j2us/videos|webvod zoom=100 scroll=0,0
+
+
+
+
+#EXTINF:-1 group-title="STAR" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== STAR ====
+http://.....
+
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,MasterChef
+https://www.star.gr/tv/psychagogia/masterchef|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,MasterChef 2019-20
+https://www.star.gr/tv/psychagogia/masterchef-2019-20/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΣΤΗ ΦΩΛΙΑ ΤΩΝ ΚΟΥ ΚΟΥ
+https://www.star.gr/tv/psychagogia/sti-folia-ton-kou-kou/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΣΤΗ ΦΩΛΙΑ ΤΩΝ ΚΟΥ ΚΟΥ 2019-20
+https://www.star.gr/tv/psychagogia/sti-folia-ton-kou-kou-2019-20/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,SHOPPING STAR
+https://www.star.gr/tv/psychagogia/shopping-star/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,SHOPPING STAR 2019-20
+https://www.star.gr/tv/psychagogia/shopping-star-2019-20/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ
+https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ 2019-20
+https://www.star.gr/tv/psychagogia/trohos-tis-tuhis-2019-20/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STARS SYSTEM
+https://www.star.gr/tv/psychagogia/stars-system/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,COOK BEEF
+https://www.star.gr/tv/psychagogia/cook-beef/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,TRACTION
+https://www.star.gr/tv/psychagogia/traction/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,GREECE'S NEXT TOP MODEL 3
+https://www.star.gr/tv/psychagogia/greeces-next-top-model-3/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,GREECE'S NEXT TOP MODEL 2019-20
+https://www.star.gr/tv/psychagogia/greeces-next-top-model-2019-20/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,LIFE IS A BEACH
+https://www.star.gr/tv/psychagogia/life-is-a-beach/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,GLOBETROTTERS
+https://www.star.gr/tv/psychagogia/globetrotters/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,MONEY DROP
+https://www.star.gr/tv/psychagogia/moneydrop/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΣΤΟΝ ΚΟΣΜΟ ΤΟΥ
+https://www.star.gr/tv/psychagogia/ston-kosmo-tou/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΕΡΩΤΑΣ ΜΕ ΔΙΑΦΟΡΑ
+https://www.star.gr/tv/seires/erotas-me-diafora/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ELIF
+https://www.star.gr/tv/seires/elif/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,Ο ΑΝΤΡΑΣ ΤΩΝ ΟΝΕΙΡΩΝ ΜΟΥ
+https://www.star.gr/tv/seires/o-adras-ton-oneiron-mou/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΤΡΕΛΗ ΟΙΚΟΓΕΝΕΙΑ
+https://www.star.gr/tv/seires/treli-oikogeneia/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΖΩΗ ΜΟΥ...
+https://www.star.gr/tv/seires/zoi-mou/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
+https://www.star.gr/tv/seires/i-mama-leipei-taksidi-gia-douleies/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,AR3NA
+https://www.star.gr/tv/seires/arena/|webvod zoom=100 scroll=0,0
+
+
+
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ΕΡΤ ====
+http://.....
+
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΖΑΚΕΤΑ ΝΑ ΠΑΡΕΙΣ
+https://www.ertflix.gr/category/ellinikes-sires/zaketa-na-pareis/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Η τούρτα της μαμάς
+https://www.ertflix.gr/category/ellinikes-sires/i-toyrta-tis-mamas/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΧΑΙΡΕΤΑ ΜΟΥ ΤΟΝ ΠΛΑΤΑΝΟ
+https://www.ertflix.gr/category/ellinikes-sires/chaireta-moy-ton-platano/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Τα καλύτερά μας χρόνια
+https://www.ertflix.gr/category/ellinikes-sires/ta-kalytera-mas-chronia/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΞΕΝΕΣ ΣΕΙΡΕΣ ΠΛΗΡΕΙΣ
+https://www.ertflix.gr/category/ksenes-seires/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Ο ΔΡΟΜΟΣ ΓΙΑ ΤΟ ΤΟΚΙΟ
+https://www.ertflix.gr/category/psychagogia/o-dromos-gia-to-tokio/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Μουσικό κουτί
+https://www.ertflix.gr/psichagogia/moysiko-koyti/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΚΥΡΙΑΚΗ ΣΤΟ ΧΩΡΙΟ
+https://www.ertflix.gr/category/psychagogia/kyriaki-sto-chorio/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΣΥΓΧΡΟΝΗ ΠΑΡΑΔΟΣΙΑΚΗ ΜΟΥΣΙΚΗ
+https://www.ertflix.gr/category/psychagogia/sygchroni-paradosiaki-moysiki/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΚΑΘΕ ΤΟΠΟΣ ΚΑΙ ΤΡΑΓΟΥΔΙ
+https://www.ertflix.gr/category/psychagogia/kathe-topos-kai-tragoudi/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΤΟ ΜΕΓΑΛΟ ΠΑΙΧΝΙΔΙ
+https://www.ertflix.gr/category/psichagogia/to-megalo-paichnidi/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΦΛΕΡΤ
+https://www.ertflix.gr/category/psychagogia/flert/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΠΟΠ ΜΑΓΕΙΡΙΚΗ
+https://www.ertflix.gr/category/psychagogia/pop-mageiriki/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΔΕΣ & ΒΡΕΣ
+https://www.ertflix.gr/category/psychagogia/des-kai-vres/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΑΥΤΟΣ ΚΑΙ Ο ΑΛΛΟΣ
+https://www.ertflix.gr/category/psychagogia/aytos-kai-o-allos/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΣΤΑ ΤΡΑΓΟΥΔΙΑ ΛΕΜΕ ΝΑΙ
+https://www.ertflix.gr/category/psychagogia/sta-tragoydia-leme-nai/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Η ΑΥΛΗ ΤΩΝ ΧΡΩΜΑΤΩΝ
+https://www.ertflix.gr/category/psychagogia/i-ayli-ton-xromaton/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΤΟ ΑΛΑΤΙ ΤΗΣ ΓΗΣ
+https://www.ertflix.gr/category/psychagogia/to-alati-tis-gis/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,SELFIE
+https://www.ertflix.gr/category/psychagogia/selfie/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ
+https://www.ertflix.gr/category/mathainoumestospiti/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΕΛΛΗΝΙΚΑ ΝΤΟΚΙΜΑΝΤΕΡ
+https://www.ertflix.gr/category/ellhnika-docs/|webvod zoom=100 scroll=0,0
