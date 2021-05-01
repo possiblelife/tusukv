@@ -567,3 +567,244 @@ https://www.ertflix.gr/category/psychagogia/selfie/|webvod zoom=100 scroll=0,0
 https://www.ertflix.gr/category/mathainoumestospiti/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΕΛΛΗΝΙΚΑ ΝΤΟΚΙΜΑΝΤΕΡ
 https://www.ertflix.gr/category/ellhnika-docs/|webvod zoom=100 scroll=0,0
+
+
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ANT1 ΚΥΠΡΟΥ ====
+http://.....
+
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Εσύ... στον κόσμο σου (Οι ταινίες)
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99818|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Εσύ... στον κόσμο σου
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99808|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,ΗΛΙΟΣ
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99831|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,La Pasta Pomilώri
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99789|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Οργή
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99809|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,MAMMA MIA
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99774|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Δίδυμα Φεγγάρια
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99755|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Τα πέντε κλειδιά
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99773|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Χωρίς Εσένα
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99736|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Πρώτη Σταγόνα
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=91383|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Πανσέληνος
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=5406|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Για την αγάπη σου
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=8422|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Οι Χωραϊτες
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=6478|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Santa Γιολάντα
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=16155|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Αίγια Φούξια
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=5352|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Βαλς με 12 Θεούς
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=35300|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Δείξε μου το φίλο σου
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=14184|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Εκείνο το καλοκαίρι...
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=35242|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,ΕΛΕΝΗ Η ΠΟΡΝΗ - ΕΝΑΣ ΑΓΓΕΛΟΣ ΣΤΗΝ ΚΟΛΑΣΗ
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=9045|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Λύκε, λύκε, είσαι εδώ;
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=16152|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Νιώσε με
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=33637|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Ο κόσμος να χαλάσει
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99790|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Όμικρον Θετικό
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=89718|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Ότι αγάπησα
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=16153|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,ΡΟΥΑ ΜΑΤ
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=89723|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Την Πάτησα
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=7537|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Το έβδομο κλειδί
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=16035|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Casa de Mikel
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99821|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Talk 2 Mika
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99832|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Μένω σπίτι - Μαθαίνω σπίτι
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99829|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,Αλφα Chef
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=91360|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://goo.gl/q5aDRg" ,1η Απριλίου - Η έναρξη του αγώνα της ΕΟΚΑ
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99782|webvod zoom=100 scroll=0,0
+
+
+
+
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ALPHA  ΚΥΠΡΟΥ ====
+http://.....
+
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΑΓΓΕΛΙΚΗ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/aggeliki/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΚΑΜΠΙΝΓΚ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/camping/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,8 ΛΕΞΕΙΣ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/8lexeis/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/elastithesimou/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΑΣΤΕΡΙΑ ΣΤΗΝ ΑΜΜΟ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/asteriastinammo/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/mourmoura/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΚΑΡΜΑ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/karma/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΕΡΩΤΑΣ ΜΕΤΑ
+https://www.alphacyprus.com.cy/index.php/shows/ellinikes-seires/erwtasmeta/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Η ΦΑΜΙΛΙΑ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/familia/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/gynaikaxwrisonoma/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΤΟ ΣΟΪ ΣΟΥ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΣΠΙΤΙ ΕΙΝΑΙ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/spitieinai/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΜΠΛΕ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/mple|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ;
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/kratasmystiko/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΤΑ 16 ΓΡΑΜΜΑΤΑ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/16grammata/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΚΟΚΚΙΝΟ ΝΥΦΙΚΟ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/kokkinonyfiko/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΤΟ ΤΑΤΟΥΑΖ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/totatouaz/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΠΑΡΑΜΥΘΙ... ΑΛΛΙΩΣ
+https://www.alphacyprus.com.cy/index.php/shows/ellinikes-seires/paramythiallios/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Η ΛΕΞΗ ΠΟΥ ΔΕ ΛΕΣ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/ileksipoudenles/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ
+https://www.alphacyprus.com.cy/index.php/shows/entertainment/meagapichristiana/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,THE CHASE
+https://www.alphacyprus.com.cy/shows/entertainment/thechase/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΛΟΥΗΣ NIGHT SHOW
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv|webvod zoom=100 scroll=0,0
+
+
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== SIGMA  ΚΥΠΡΟΣ ====
+http://.....
+
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Η Πεθερά (2020-2021)
+https://www.sigmatv.com/shows/pethera/episodes/season/179|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Άλλα λόγια θκειε παπά (2019)
+https://www.sigmatv.com/shows/alla-logia-thkie-papa/episodes/season/166|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Αλλού ξημερωμένοι (2010-11)
+https://www.sigmatv.com/shows/allou-ximeromenoi/episodes/season/18|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Άσπρα Μπαλόνια (2011-13)
+https://www.sigmatv.com/shows/aspra-mpalonia/episodes/season/32|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Βασίλης Μιχαηλίδης (2005-2006)
+https://www.sigmatv.com/shows/spetseris/episodes/season/71|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Βασιλική (2005-06)
+https://www.sigmatv.com/shows/vasiliki/episodes/season/23|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Βουράτε Γειτόνοι (2001-10)
+https://www.sigmatv.com/shows/vourate/episodes/season/24|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Βρέχει έρωτα (2015)
+https://www.sigmatv.com/shows/vrexei-erwta/episodes/season/100|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Γαλάτεια (2016-20)
+https://www.sigmatv.com/shows/galatia/episodes/season/165|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Έλα πάρε με (2010-11)
+https://www.sigmatv.com/shows/elapareme/episodes/season/16|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Επιστροφή (2008-09)
+https://www.sigmatv.com/shows/epistrofi/episodes/season/15|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Εφτά ουρανοί (2012-15)
+https://www.sigmatv.com/shows/eftaouranoi/episodes/season/72|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Θα γυρίσει ο τροχός (2016)
+https://www.sigmatv.com/shows/tha-girisi-o-troxos/episodes/season/101|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Κατά Λάθος (2015)
+https://www.sigmatv.com/shows/katalathos/episodes/season/91|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Καταιγίδα (2015)
+https://www.sigmatv.com/shows/kataigida/episodes/season/93|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Κρυφός Καιάδας (2015)
+https://www.sigmatv.com/shows/kaiadas/episodes/season/83|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Λόγια του αέρα (2015)
+https://www.sigmatv.com/shows/logia/episodes/season/94|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Μίλα μου (2007-09)
+https://www.sigmatv.com/shows/milamou/episodes/season/136|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Μόνο μια φορά (2009-10)
+https://www.sigmatv.com/shows/monomiafora/episodes/season/26|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Όρκος σιωπής (2014-15)
+https://www.sigmatv.com/shows/orkos/episodes/season/79|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Παντρεμένοι κι οι δυο (2018-19)
+https://www.sigmatv.com/shows/pantremenoi-ki-oi-dio/episodes/season/151|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Σε Φόντο Κόκκινο (2008-12)
+https://www.sigmatv.com/shows/fontokokkino/episodes/season/37|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,SHOW & Αβλαβές (2015-16)
+https://www.sigmatv.com/shows/show/episodes/season/92|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Πόπη και η Άντζιελα RELOADED
+https://www.sigmatv.com/shows/popikaiantzela/episodes/season/128|webvod zoom=100 scroll=0,0
+
+
+
+
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== OMEGA  ΚΥΠΡΟΣ ====
+http://.....
+
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΣΤΟ ΑΛΑΛΟΥΜ
+http://www.omegatv.com.cy/cgibin/hweb?-A=140126&-V=megatvshows|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
+http://www.omegatv.com.cy/cgibin/hweb?-A=122975&-V=megatvshows|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΖΩΗ ΜΟΥ
+http://www.omegatv.com.cy/cgibin/hweb?-A=122976&-V=megatvshows|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΑR3NA
+http://www.omegatv.com.cy/cgibin/hweb?-A=128592&-V=megatvshows|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΜΠΡΑΒΟ ΓΙΑΤΡΕ ΜΟΥ
+http://www.omegatv.com.cy/cgibin/hweb?-A=148057&-V=megatvvodvideos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΥ ΨΕΥΔΟΜΑΡΤΥΡΗΣΕΙΣ
+http://www.omegatv.com.cy/cgibin/hweb?-A=148053&-V=megatvvodvideos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΔΕΥΤΕΡΗ ΖΩΗ ΔΕΝ ΕΧΕΙ Σεζόν
+http://www.omegatv.com.cy/cgibin/hweb?-A=148055&-V=megatvvodvideos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΥ ΜΟΙΧΕΥΣΕΙΣ
+http://www.omegatv.com.cy/cgibin/hweb?-A=147830&-V=megatvvodvideos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΥΤΕ ΓΑΤΑ ΟΥΤΕ ΖΗΜΙΑ
+http://www.omegatv.com.cy/cgibin/hweb?-A=147829&-V=megatvvodvideos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΠΕΡΑΣΜΕΝΕΣ ΜΟΥ ΑΓΑΠΕΣ
+http://www.omegatv.com.cy/cgibin/hweb?-A=147820&-V=megatvvodvideos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΡΝΙΘΟΣΚΑΛΙΣΜΑΤΑ
+http://www.omegatv.com.cy/cgibin/hweb?-A=147818&-V=megatvvodvideos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+http://www.omegatv.com.cy/cgibin/hweb?-A=165385&-V=megatvshows|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΧΑΡΟΥΜΕΝΟΣ ΤΑΞΙΔΙΩΤΗΣ
+http://www.omegatv.com.cy/cgibin/hweb?-A=146108&-V=megatvshows|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,FAKATE ΤΟΥΣ
+http://www.omegatv.com.cy/cgibin/hweb?-A=97690&-V=megatvshows|webvod zoom=100 scroll=0,0
+
+
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== RIK1  ΚΥΠΡΟΣ ====
+http://.....
+
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Όμορφη μέρα κάθε μέρα
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%ba%ce%b1%ce%bb%ce%ae-%cf%83%ce%b1%cf%82-%ce%bc%ce%ad%cf%81%ce%b1-live/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Εμείς και ο κόσμος μας
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%b5%ce%bc%ce%b5%ce%af%cf%82-%ce%ba%ce%b1%ce%b9-%ce%bf-%ce%ba%cf%8c%cf%83%ce%bc%ce%bf%cf%82-%ce%bc%ce%b1%cf%82/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Χρυσές Συνταγές
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%87%cf%81%cf%85%cf%83%ce%ad%cf%82-%cf%83%cf%85%ce%bd%cf%84%ce%b1%ce%b3%ce%ad%cf%82/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Γυναίκα
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%b3%cf%85%ce%bd%ce%b1%ce%af%ce%ba%ce%b1/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Happy Hour
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/happy-hour/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Καμώματα τζι αρώματα
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%ba%ce%b1%ce%bc%cf%8e%ce%bc%ce%b1%cf%84%ce%b1-%cf%84%ce%b6%ce%b9-%ce%b1%cf%81%cf%8e%ce%bc%ce%b1%cf%84%ce%b1/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Το Μυστικό της Πεταλούδας
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%84%ce%bf-%ce%bc%cf%85%cf%83%cf%84%ce%b9%ce%ba%cf%8c-%cf%84%ce%b7%cf%82-%cf%80%ce%b5%cf%84%ce%b1%ce%bb%ce%bf%cf%8d%ce%b4%ce%b1%cf%82/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Χάλκινα Χρόνια
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%87%ce%ac%ce%bb%ce%ba%ce%b9%ce%bd%ce%b1-%cf%87%cf%81%cf%8c%ce%bd%ce%b9%ce%b1/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Ο πιο αδύναμος κρίκος
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%bf-%cf%80%ce%b9%ce%bf-%ce%b1%ce%b4%cf%8d%ce%bd%ce%b1%ce%bc%ce%bf%cf%82-%ce%ba%cf%81%ce%af%ce%ba%ce%bf%cf%82/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Παραδοσιακή Βραδιά
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%80%ce%b1%cf%81%ce%b1%ce%b4%ce%bf%cf%83%ce%b9%ce%b1%ce%ba%ce%ae-%ce%b2%cf%81%ce%b1%ce%b4%ce%b9%ce%ac-%cf%83%cf%84%ce%bf-%cf%81%ce%b9%ce%ba/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Μένω σπίτι και μαθαίνω
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-online/%ce%bc%ce%ad%ce%bd%cf%89-%cf%83%cf%80%ce%af%cf%84%ce%b9-%ce%ba%ce%b1%ce%b9-%ce%bc%ce%b1%ce%b8%ce%b1%ce%af%ce%bd%cf%89-%ce%b1%cf%80%cf%8c-%cf%84%ce%b7%ce%bd-%cf%84%ce%b7%ce%bb%ce%b5%cf%8c%cf%81%ce%b1/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Στη Χώρα του Γιατί
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-2/%cf%83%cf%84%ce%b7-%cf%87%cf%8e%cf%81%ce%b1-%cf%84%ce%bf%cf%85-%ce%b3%ce%b9%ce%b1%cf%84%ce%af/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Ποπ-Κορν
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-2/%cf%80%ce%bf%cf%80-%ce%ba%ce%bf%cf%81%ce%bd/|webvod zoom=100 scroll=0,0
