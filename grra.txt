@@ -206,7 +206,7 @@ http://eu9.fastcast4u.com:5282/;
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/kosmoradio.png" ,Κοσμοράδιο 95.1
 http://eco.onestreaming.com:8689/;
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/metropolisradio.png" ,Metropolis 95.5
-http://metromedia.live24.gr/metropolis955thess
+https://metromedia.live24.gr/metropolis955thess
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/958-thessaloniki.png" ,ΕΡΤ3 958fm 95.8
 http://radiostreaming.ert.gr/ert-958fm
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/freshsalad961.jpg" ,Fresh Salad 96.1

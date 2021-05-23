@@ -119,4 +119,4 @@ https://vouli.tv/|webdig
 #EXTINF:-1 group-title="WEBTV" tvg-logo="http://vouli.tv/wp-content/uploads/2019/09/cropped-voulilogo-e1517760078658.png" ,SEEN seen.cy
 https://stream.seen.cy/hls/test.m3u8
 #EXTINF:-1 group-title="WEBTV" tvg-logo="https://digitaltv.com.cy/images/logo.png" ,Digital tv
-https://digitaltv.com.cy/|weballdig
+https://l8.cloudskep.com/digital/dtv/playlist.m3u8
