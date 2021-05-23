@@ -56,7 +56,7 @@ http://www.anacon.org/app/chans/cy/alphacyprus.php|webview zoom=100 scroll=0,300
 http://www.alphacyprus.com.cy/program|webview zoom=100 scroll=0,300
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png" ,ANT1 (OPTION 1)
-https://www.ant1.com.cy/web-tv-live/|webdig
+https://www.ant1.com.cy/web-tv-live/|webdelayalldig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png" ,ANT1 (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/ant1cyprus.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - ANT1
