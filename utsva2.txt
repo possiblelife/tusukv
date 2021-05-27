@@ -17,9 +17,9 @@ https://www.mediafire.com/file/shln9mi7zct5095/USA_TV_%2526_Radio_V2.24.apk/file
 #EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , VERSION V2.24. Click here to Download From Browser.
 https://www.mediafire.com/file/shln9mi7zct5095/USA_TV_%2526_Radio_V2.24.apk/file|newexternalapp
 
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , Newest Plugin V3.53. Click here to AUTO-UPDATE.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , Newest Plugin V3.54. Click here to AUTO-UPDATE.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , Newest Plugin V3.53. Click here to Download From Browser.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , Newest Plugin V3.54. Click here to Download From Browser.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
 
 
