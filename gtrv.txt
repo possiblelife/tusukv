@@ -63,8 +63,20 @@ http://.....
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports" tvg-logo="https://i.ibb.co/MP9Nv3r/sports.jpg" ,ΕΡΤ SPORTS
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports" tvg-logo="https://i.ibb.co/MP9Nv3r/sports.jpg" ,ΕΡΤ SPORTS
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports" tvg-logo="https://i.ibb.co/MP9Nv3r/sports.jpg" ,ΕΡΤ SPORTS WORLDWIDE
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports" tvg-logo="https://i.ibb.co/MP9Nv3r/sports.jpg" ,ΕΡΤ SPORTS WORLDWIDE
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports2" tvg-logo="https://i.ibb.co/mhGshmN/sports.jpg" ,ΕΡΤ SPORTS 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports2" tvg-logo="https://i.ibb.co/mhGshmN/sports.jpg" ,ΕΡΤ SPORTS 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports3" tvg-logo="https://i.ibb.co/8XJRX8z/sports3.jpg" ,ΕΡΤ SPORTS 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports3" tvg-logo="https://i.ibb.co/8XJRX8z/sports3.jpg" ,ΕΡΤ SPORTS 3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://media.pamestoixima.gr/file/logo_horses.png" ,Ιπποδρομίες
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="http://i.imgur.com/0Ovqq2f.png" ,TILESPORT
