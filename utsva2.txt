@@ -933,7 +933,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b2694
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 group-title="Music" tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/180820194833-the-hills-large-169.jpg" ,MTV The Hills
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68b45d0bd6c2689c96537/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#E
 #EXTINF:-1 group-title="Music"  tvg-id="20168" tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" ,Music Choice (MC Play)
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://img.new.livestream.com/events/0000000000278eea/f6faaf88-4543-4f49-b8ee-763a5ed5ecf8_170x255.png" ,MY9 TV (WWOR)[Option-1]
@@ -962,6 +961,8 @@ http://123tvnow.com/watch/nba-tv/|weballdig
 httphost://$http-raw=http://123tvnow.com/watch/nba-tv/$http-refferer=http://123tvnow.com/watch/nba-tv/
 #EXTINF:-1 group-title="Sports" tvg-id="3116" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA TV [Option-2](NORD VPN REQUIRED)
 https://ustvgo.tv/nba-tv/|webproalldig
+#EXTINF:-1 group-title="Sports" tvg-id="3116" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA TV [Option-3] [Advance MODE]
+https://ustream.to/live?id=nba-tv|webdeskalldig
 #EXTINF:-1 group-title="USA" tvg-id="2839"  tvg-logo="https://s31242.pcdn.co/wp-content/uploads/2019/06/NBC2.png" ,NBC [Option-1](NORD VPN REQUIRED)
 https://ustvgo.tv/nbc/|webproalldig
 #EXTINF:-1 group-title="USA" tvg-id="2839"  tvg-logo="https://s31242.pcdn.co/wp-content/uploads/2019/06/NBC2.png" ,NBC [Option-1](NORD VPN REQUIRED)[Alternate]
@@ -1044,6 +1045,8 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 http://123tvnow.com/watch/nhl-network/|weballdig
 #EXTINF:-1 group-title="Sports"   tvg-id="14156" tvg-logo="https://pbs.twimg.com/profile_images/1069587614985056256/d4Kl2nIv_400x400.jpg" ,NHL Network [Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/nhl-network/$http-refferer=http://123tvnow.com/watch/nhl-network/
+#EXTINF:-1 group-title="Sports"  tvg-id="14156" tvg-logo="https://pbs.twimg.com/profile_images/1069587614985056256/d4Kl2nIv_400x400.jpg" ,NHL Network [Option-2] [Advance MODE]
+https://ustream.to/live?id=nhl-network|webdeskalldig
 #EXTINF:-1 group-title="Kids" tvg-id="658" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/nick8.ai-converted.png?itok=P0_vIgOd" ,Nickelodeon [Option-1] 
 http://123tvnow.com/watch/nickelodeon/|weballdig
 #EXTINF:-1 group-title="Kids" tvg-id="658" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/nick8.ai-converted.png?itok=P0_vIgOd" ,Nickelodeon [Option-1] [Alternate]
