@@ -1,70 +1,3 @@
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ANT1 ====
-http://.....
-
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ
-https://vod.antenna.gr/#/shows/kai_oi_pantremenoi_echoun_psychi|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΓΓΙΓΜΑ ΨΥΧΗΣ
-https://vod.antenna.gr/#/shows/aggigma_psychis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΓΡΙΕΣ ΜΕΛΙΣΣΕΣ
-https://vod.antenna.gr/#/shows/agries_melisses|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΝ ΗΜΟΥΝ ΠΛΟΥΣΙΟΣ
-https://vod.antenna.gr/#/shows/an_imoun_plousios|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
-https://vod.antenna.gr/#/shows/gynaika_choris_onoma|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΕΚΑ ΜΙΚΡΟΙ ΜΗΤΣΟΙ
-https://vod.antenna.gr/#/shows/deka_mikroi_mitsoi|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΙΔΥΜΑ ΦΕΓΓΑΡΙΑ
-https://vod.antenna.gr/#/shows/didyma_feggaria|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΓΚΛΗΜΑΤΑ
-https://vod.antenna.gr/#/shows/egklimata|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΚΕΙΝΕΣ ΚΙ ΕΓΩ
-https://vod.antenna.gr/#/shows/ekeines_ki_ego|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ
-https://vod.antenna.gr/#/shows/ergazomeni_gynaika/videos|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΡΩΤΑΣ ΚΛΕΦΤΗΣ
-https://vod.antenna.gr/#/shows/erotas_kleftis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΑΓΑΠΗ ΗΡΘΕ ΑΠΟ ΜΑΚΡΙΑ
-https://vod.antenna.gr/#/shows/i_agapi_irthe_apo_makria|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΕΠΙΣΤΡΟΦΗ
-https://vod.antenna.gr/#/shows/i_epistrofi|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η Πρόβα του νυφικού
-https://vod.antenna.gr/#/shows/i_prova_tou_nyfikou|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΦΑΜΙΛΙΑ
-https://vod.antenna.gr/#/shows/i_familia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΗΛΙΟΣ
-https://vod.antenna.gr/#/shows/ilios|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΘΑ ΒΡΕΙΣ ΤΟ ΔΑΣΚΑΛΟ ΣΟΥ
-https://vod.antenna.gr/#/shows/tha_vreis_to_daskalo_sou|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΙΩΑΝΝΑ ΤΗΣ ΚΑΡΔΙΑΣ
-https://vod.antenna.gr/#/shows/ioanna_tis_kardias|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ
-https://vod.antenna.gr/#/shows/konstantinou_kai_elenis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ
-https://vod.antenna.gr/#/shows/mi_mou_les_antio|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΗΝ ΨΑΡΩΝΕΙΣ
-https://vod.antenna.gr/#/shows/min_psaroneis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΠΡΟΥΣΚΟ
-https://vod.antenna.gr/#/shows/mprousko|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ
-https://vod.antenna.gr/#/shows/oi_men_kai_oi_den|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ
-https://vod.antenna.gr/#/shows/oi_stavloi_tis_erietas_zaimi|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ
-https://vod.antenna.gr/#/shows/peta_ti_friteza|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΣΥΝΟΡΑ ΑΓΑΠΗΣ
-https://vod.antenna.gr/#/shows/synora_agapis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑΜΑΜ
-https://vod.antenna.gr/#/shows/tamam|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ
-https://vod.antenna.gr/#/shows/tis_agapis_machairia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ ΕΛΛΑΔΟΣ ΤΑ ΠΑΙΔΙΑ
-https://vod.antenna.gr/#/shows/tis_ellados_ta_paidia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΚΑΦΕ ΤΗΣ ΧΑΡΑΣ
-https://vod.antenna.gr/#/shows/to_kafe_tis_charas|webvod zoom=100 scroll=0,0
-
-
-
-
 
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ALPHA ====
 http://.....
@@ -231,6 +164,74 @@ https://www.megatv.com/tvshows/45167/epeisodio-1-3/|webvod zoom=100 scroll=0,0
 https://www.megatv.com/tvshows/321113/epeisodio-1-41/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΣΧΕΔΟΝ ΕΝΗΛΙΚΕΣ
 https://www.megatv.com/tvshows/224781/epeisodio-1-38/|webvod zoom=100 scroll=0,0
+
+
+
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ANT1 ====
+http://.....
+
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ
+https://vod.antenna.gr/#/shows/kai_oi_pantremenoi_echoun_psychi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΓΓΙΓΜΑ ΨΥΧΗΣ
+https://vod.antenna.gr/#/shows/aggigma_psychis|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΓΡΙΕΣ ΜΕΛΙΣΣΕΣ
+https://vod.antenna.gr/#/shows/agries_melisses|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΝ ΗΜΟΥΝ ΠΛΟΥΣΙΟΣ
+https://vod.antenna.gr/#/shows/an_imoun_plousios|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
+https://vod.antenna.gr/#/shows/gynaika_choris_onoma|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΕΚΑ ΜΙΚΡΟΙ ΜΗΤΣΟΙ
+https://vod.antenna.gr/#/shows/deka_mikroi_mitsoi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΙΔΥΜΑ ΦΕΓΓΑΡΙΑ
+https://vod.antenna.gr/#/shows/didyma_feggaria|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΓΚΛΗΜΑΤΑ
+https://vod.antenna.gr/#/shows/egklimata|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΚΕΙΝΕΣ ΚΙ ΕΓΩ
+https://vod.antenna.gr/#/shows/ekeines_ki_ego|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ
+https://vod.antenna.gr/#/shows/ergazomeni_gynaika/videos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΡΩΤΑΣ ΚΛΕΦΤΗΣ
+https://vod.antenna.gr/#/shows/erotas_kleftis|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΑΓΑΠΗ ΗΡΘΕ ΑΠΟ ΜΑΚΡΙΑ
+https://vod.antenna.gr/#/shows/i_agapi_irthe_apo_makria|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΕΠΙΣΤΡΟΦΗ
+https://vod.antenna.gr/#/shows/i_epistrofi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η Πρόβα του νυφικού
+https://vod.antenna.gr/#/shows/i_prova_tou_nyfikou|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΦΑΜΙΛΙΑ
+https://vod.antenna.gr/#/shows/i_familia|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΗΛΙΟΣ
+https://vod.antenna.gr/#/shows/ilios|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΘΑ ΒΡΕΙΣ ΤΟ ΔΑΣΚΑΛΟ ΣΟΥ
+https://vod.antenna.gr/#/shows/tha_vreis_to_daskalo_sou|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΙΩΑΝΝΑ ΤΗΣ ΚΑΡΔΙΑΣ
+https://vod.antenna.gr/#/shows/ioanna_tis_kardias|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ
+https://vod.antenna.gr/#/shows/konstantinou_kai_elenis|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ
+https://vod.antenna.gr/#/shows/mi_mou_les_antio|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΗΝ ΨΑΡΩΝΕΙΣ
+https://vod.antenna.gr/#/shows/min_psaroneis|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΠΡΟΥΣΚΟ
+https://vod.antenna.gr/#/shows/mprousko|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ
+https://vod.antenna.gr/#/shows/oi_men_kai_oi_den|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ
+https://vod.antenna.gr/#/shows/oi_stavloi_tis_erietas_zaimi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ
+https://vod.antenna.gr/#/shows/peta_ti_friteza|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΣΥΝΟΡΑ ΑΓΑΠΗΣ
+https://vod.antenna.gr/#/shows/synora_agapis|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑΜΑΜ
+https://vod.antenna.gr/#/shows/tamam|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ
+https://vod.antenna.gr/#/shows/tis_agapis_machairia|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ ΕΛΛΑΔΟΣ ΤΑ ΠΑΙΔΙΑ
+https://vod.antenna.gr/#/shows/tis_ellados_ta_paidia|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΚΑΦΕ ΤΗΣ ΧΑΡΑΣ
+https://vod.antenna.gr/#/shows/to_kafe_tis_charas|webvod zoom=100 scroll=0,0
+
+
 
 
 
