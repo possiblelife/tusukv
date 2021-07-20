@@ -148,12 +148,12 @@ https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DELTA TV" tvg-logo="https://mindspark.gr/wp-content/uploads/2016/03/delta-tv.jpg" ,ΔΕΛΤΑ TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DION TV" tvg-logo="https://www.diontv.gr/wp-content/uploads/2019/03/logo_red.png" ,Dion TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DION TV" tvg-logo="https://www.diontv.gr/wp-content/uploads/2021/01/cropped-dionlogo.png" ,Dion TV
 https://www.diontv.gr/webtv/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DIKTYO TV" tvg-logo="https://diktyotv.gr/wp-content/themes/yootheme/cache/logo-diktyo-inv-3245e176.webp" ,ΔΥΚΤΙΟ
-https://diktyotv.gr/live/|webdig
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DIKTYO TV" tvg-logo="https://diktyotv.gr/wp-content/themes/yootheme/cache/logo-diktyo-inv-3245e176.webp" ,ΔΥΚΤΙΟ (backup)
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DIKTYO TV" tvg-logo="https://diktyotv.gr/wp-content/themes/yootheme/cache/logo-diktyo-inv-3245e176.webp" ,ΔΥΚΤΙΟ (backup)
+https://diktyotv.gr/live/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ENA CHANNEL" tvg-logo="http://enachannel.gr/uploads/logo.png" ,ENA CHANNEL
 http://176.9.123.140:1935/1c/stream/master.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="AE TV" tvg-logo="https://epsilontv.gr/wp-content/uploads/2016/10/Epsilon-logo.png" ,EPSILON TV
@@ -169,7 +169,7 @@ http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="HLEKTRA TV" tvg-logo="https://www.hlektra.gr/wp-content/uploads/2020/07/logo-site.png" ,ΗΛΕΚΤΡΑ TV
 http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="EXTRA CHANNEL" tvg-logo="https://www.digea.gr/images/channel-icons/ABCHANNEL.png" ,EXTRA CHANNEL
-https://extratv.streamings.gr/live/tv/index.m3u8
+https://edge1.mystream.gr/video434018/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="FLASH TV" tvg-logo="https://flash-tv.gr/wp-content/uploads/2016/05/flash_logo-panw-1-300x62.jpg" ,Flash tv
 https://flash-tv.gr/live/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="HIGH TV" tvg-logo="http://greektv.pbworks.com/f/HIGH.png" ,HIGH TV
@@ -213,7 +213,7 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="THRAKINET" tvg-logo="https://goo.gl/oJ9YrY" ,ΘΡΑΚΗNET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TOP CHANNEL" tvg-logo="https://topchannelkozani.webnode.gr/_files/200000015-72b7773afa/450/8okv76.jpg" ,TOP CHANNEL
-https://s1.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8
+https://s2.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TRT" tvg-logo="https://www.digea.gr/images/channel-icons/TRT%20EPG.jpg" ,TRT TV
 https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TV 100" tvg-logo="https://goo.gl/skTCR6" ,TV100
@@ -229,24 +229,16 @@ http://.....
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="riksat" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIKS.png" ,ΡΙΚ SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="riksat" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIKS.png" ,ΡΙΚ SAT (ΕΝΑΛΛΑΚΤΙΚΟ)
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,ΡΙΚ1 [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
 http://l6.cloudskep.com/rikcy/rik1/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,ΡΙΚ1 (ΕΝΑΛΛΑΚΤΙΚΟ) [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdeskdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,ΡΙΚ1 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/rik1cyprus.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" ,ΡΙΚ2 [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
 http://l6.cloudskep.com/rikcy/rik2/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" ,ΡΙΚ2 (ΕΝΑΛΛΑΚΤΙΚΟ) [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdeskdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" ,ΡΙΚ2 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/rik2image.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="RIK HD" tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" ,ΡΙΚHD [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
 http://l6.cloudskep.com/rikcy/rikhd/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="RIK HD" tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" ,ΡΙΚHD (ΕΝΑΛΛΑΚΤΙΚΟ) [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webdeskdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Omega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,OMEGA
 http://www.omegatv.com.cy/live/|agentnodown$$start="src": "$$end="}$$replace="src": "$$replacewith=$$add=
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Omega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,OMEGA (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
@@ -270,7 +262,7 @@ http://www.anacon.org/app/chans/cy/extracyimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Plus TV" tvg-logo="http://www.anacon.org/app/img/plus.jpg" ,ΠΛΑΣ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/pluscyimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,ΣΜΑΙΛ
-http://www.anacon.org/app/chans/cy/smilecy.html|refererdown$$referer=http://www.anacon.org/app/chans/cy/smilecy.php$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,ΣΜΑΙΛ -ΕΝΑΛΛΑΚΤΙΚΟ
 http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="TV Mall" tvg-logo="https://www.cyta.com.cy/mp/informational/images/channels/cbctvmall.gif" ,TV Mall
@@ -396,7 +388,7 @@ http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://i.imgur.com/cF6mgTb.png" ,ΜΠΑΧΑΛΟ TV
 https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://euroviews.eu/2015/wp-content/uploads/2015/04/clapperboard-563x353.png" ,Greek Oldies GR
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://euroviews.eu/2015/wp-content/uploads/2015/04/clapperboard-563x353.png" ,Greek Oldies
 https://vdo.alphaserver.gr:3613/stream/play.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/Groovy-3-150x48.png" ,Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
