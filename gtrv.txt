@@ -162,7 +162,7 @@ http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
 https://edge1.mystream.gr/video434018/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="FLASH TV" tvg-logo="https://flash-tv.gr/wp-content/uploads/2016/05/flash_logo-panw-1-300x62.jpg" ,Flash tv
 https://flash-tv.gr/live/|webdig
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="HIGH TV" tvg-logo="http://greektv.pbworks.com/f/HIGH.png" ,HIGH TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="HIGH TV" tvg-logo="https://www.hightv.gr/wp-content/themes/hightv.gr/assets/images/logo.svg" ,HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="IONIAN CHANNEL" tvg-logo="https://www.digea.gr/images/channel-icons/IONIAN-CHANNEL.png" ,IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
@@ -237,9 +237,9 @@ http://www.anacon.org/app/chans/cy/megacyimage.php|webepg zoom=100 scroll=0,100
 https://sl3.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,ΣΙΓΜΑ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/sigmaimage.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΑΛΦΑ
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΛΦΑ
 https://www.alphacyprus.com.cy/live|agentnodown$$start=hls: '$$end=',$$replace=hls: '$$replacewith=$$add=
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΑΛΦΑ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΛΦΑ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/alphacyprus.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1CY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png" ,ΑΝΤΕΝΝΑ
 https://www.ant1.com.cy/web-tv-live/|webdelayalldig

@@ -46,9 +46,9 @@ http://www.anacon.org/app/chans/cy/sigma.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα ΣΙΓΜΑ
 http://www.sigmatv.com/schedule|webview zoom=100 scroll=0,300
  
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΑΛΦΑ (ΕΠΙΛΟΓΗ 1)
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΛΦΑ (ΕΠΙΛΟΓΗ 1)
 https://www.alphacyprus.com.cy/live|agentnodown$$start=hls: '$$end=',$$replace=hls: '$$replacewith=$$add=
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΑΛΦΑ (ΕΠΙΛΟΓΗ 2) (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΛΦΑ (ΕΠΙΛΟΓΗ 2) (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/alphacyprus.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα ΑΛΦΑ
 http://www.alphacyprus.com.cy/program|webview zoom=100 scroll=0,300
