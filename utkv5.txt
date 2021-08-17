@@ -72,8 +72,6 @@ https://www.filmon.com/tv/cbbc|exodig
 https://easycatchup.eu/watch.php?stream=cbeebies|refererdown$$referer=https://easycatchup.eu/watch.php?stream=cbeebies$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Kids" tvg-id="CBeebies" tvg-logo="https://easycatchup.eu/img/cbeebies.jpg" ,Cbeebies [Option-2]
 https://easycatchup.eu/watch.php?stream=cbeebies|weballdig
-#EXTINF:-1 group-title="Kids" tvg-id="CBeebies" tvg-logo="https://easycatchup.eu/img/cbeebies.jpg" ,Cbeebies [Option-3] 
-http://51.52.156.22:8888/http/003
 #EXTINF:-1 group-title="Kids" tvg-id="CBeebies" tvg-logo="https://easycatchup.eu/img/cbeebies.jpg" ,Cbeebies [Option-4] 
 https://www.filmon.com/tv/cbeebies|exodig
 
@@ -88,8 +86,6 @@ https://www.filmon.com/tv/bbc-1-wales|exodig
 https://easycatchup.eu/watch.php?stream=bbc-one-scotland|refererdown$$referer=https://easycatchup.eu/watch.php?stream=bbc-one-scotland$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easycatchup.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland [Option-2]
 https://easycatchup.eu/watch.php?stream=bbc-one-scotland|weballdig
-#EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easycatchup.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland [Option-3]  
-http://51.52.156.22:8888/http/001
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easycatchup.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland [Option-4] 
 https://www.filmon.com/tv/bbc-1-scotland|exodig
 
@@ -107,8 +103,6 @@ https://easycatchup.eu/watch.php?stream=bbc-parliament|weballdig
 #EXTINF:-1 group-title="News" tvg-id="BBC Parliament" tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament [Option-3]
 https://www.filmon.com/tv/bbc-parliament|exodig
 
-#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-1]
-http://51.52.156.22:8888/http/004
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-2] 
 https://easycatchup.eu/watch.php?stream=nbcb|refererdown$$referer=https://easycatchup.eu/watch.php?stream=nbcb$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-3]
@@ -130,8 +124,6 @@ https://easycatchup.eu/watch.php?stream=bbc-alba|refererdown$$referer=https://ea
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC Alba" tvg-logo="https://easycatchup.eu/img/BBC_Alba.jpg" ,BBC alba [Option-2] 
 https://easycatchup.eu/watch.php?stream=bbc-alba|weballdig
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-1] 
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-2] 
 https://easycatchup.eu/watch.php?stream=itv|refererdown$$referer=https://easycatchup.eu/watch.php?stream=itv$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 [Option-3]
@@ -143,8 +135,6 @@ https://www.filmon.com/tv/itv1|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia +1" tvg-logo="https://static.filmon.com/assets/channels/1817/extra_big_logo.png" ,ITV 1+1
 https://www.filmon.com/tv/itv-plus-1|exodig
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-1]
-http://51.52.156.22:8888/http/005
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-2] 
 https://easycatchup.eu/watch.php?stream=itv2|refererdown$$referer=https://easycatchup.eu/watch.php?stream=itv2$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 [Option-3] 
@@ -156,8 +146,6 @@ https://tvpc.us/player/embed.php?cid=7|agentnodown$$start=src: "$$end=" $$replac
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2 +1" tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1
 https://www.filmon.com/tv/itv2-plus-1|exodig
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-1]
-http://51.52.156.22:8888/http/006
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-2] 
 https://easycatchup.eu/watch.php?stream=itv3|refererdown$$referer=https://easycatchup.eu/watch.php?stream=itv3$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 [Option-3]
@@ -167,8 +155,7 @@ https://www.filmon.com/tv/itv3|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3+1" tvg-logo="https://static.filmon.com/assets/channels/1823/extra_big_logo.png" ,ITV 3+1
 https://www.filmon.com/tv/itv3-plus-1|exodig
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-1] 
-http://51.52.156.22:8888/http/007
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-2] 
 https://easycatchup.eu/watch.php?stream=itv4|refererdown$$referer=https://easycatchup.eu/watch.php?stream=itv4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-3]
