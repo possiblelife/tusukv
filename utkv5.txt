@@ -155,7 +155,8 @@ https://www.filmon.com/tv/itv3|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3+1" tvg-logo="https://static.filmon.com/assets/channels/1823/extra_big_logo.png" ,ITV 3+1
 https://www.filmon.com/tv/itv3-plus-1|exodig
 
-
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-1] 
+https://daddylive.me/s2w/stream-12.php|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-2] 
 https://easycatchup.eu/watch.php?stream=itv4|refererdown$$referer=https://easycatchup.eu/watch.php?stream=itv4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 [Option-3]
