@@ -143,7 +143,7 @@ https://www.diontv.gr/webtv/|webdig
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DIKTYO TV" tvg-logo="https://diktyotv.gr/wp-content/themes/yootheme/cache/logo-diktyo-inv-3245e176.webp" ,ΔΥΚΤΙΟ (backup)
 https://diktyotv.gr/live/|webdig
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DIKTYO TV" tvg-logo="https://diktyo1.com/wp-content/uploads/2020/11/DIKTYO-1.png" ,DIKTYO 1
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DIKTYO" tvg-logo="https://diktyo1.com/wp-content/uploads/2020/11/DIKTYO-1.png" ,DIKTYO 1
 https://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ENA CHANNEL" tvg-logo="http://enachannel.gr/uploads/logo.png" ,ENA CHANNEL
 http://176.9.123.140:1935/1c/stream/master.m3u8
@@ -187,7 +187,7 @@ https://video1.getstreamhosting.com:1936/8234/8234/playlist.m3u8
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="NEA TV CRETE" tvg-logo="https://goo.gl/WSfOWs" ,NEA TV ΚΡΗΤΗΣ
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8 
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-logo="https://www.patrisnews.com/wp-content/uploads/images/footer-ort.jpg" ,ΟΡΤ Live
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ORT" tvg-logo="https://www.patrisnews.com/wp-content/uploads/images/footer-ort.jpg" ,ΟΡΤ Live
 https://vdo.streamhost.gr:3077/live/orttvlive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-logo="https://www.pellatv.gr/wp-content/themes/pellatv/images/pellatv.jpg" ,Pella tv
 https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
