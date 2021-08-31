@@ -113,9 +113,9 @@ https://s1.cystream.net/live/faros2/chunks.m3u8
 #EXTINF:-1 group-title="WEBTV"  tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/hunter-1654367-1398848.png" ,Hunter TV
 http://www.anacon.org/app/chans/cy/kinigi.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="WEBTV" tvg-logo="http://citychannel.live/wp-content/uploads/2019/08/cropped-53146093_327305117905839_3890747505498914816_n.png" ,City Channel
-http://citychannel.live/watch-live/|webview zoom=100 scroll=0,0
+https://dev.aftermind.xyz/city_channel.html|agentnodown$$start=source: '$$end=',$$replace=source: '$$replacewith=$$add=
 #EXTINF:-1 group-title="WEBTV" tvg-logo="http://vouli.tv/wp-content/uploads/2019/09/cropped-voulilogo-e1517760078658.png" ,Vouli.tv
-https://vouli.tv/|webview zoom=100 scroll=0,0
+https://dev.aftermind.xyz/vouli.html|agentnodown$$start=source: '$$end=',$$replace=source: '$$replacewith=$$add=
 #EXTINF:-1 group-title="WEBTV" tvg-logo="https://www.seen.cy/wp-content/uploads/2020/12/seentranswhite-opa.png" ,SEEN seen.cy
 https://stream.seen.cy/hls/test.m3u8
 #EXTINF:-1 group-title="WEBTV" tvg-logo="https://digitaltv.com.cy/images/logo.png" ,Digital tv
