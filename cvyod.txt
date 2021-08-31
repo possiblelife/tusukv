@@ -72,51 +72,51 @@ https://www.ant1.com.cy/webtv/show-page/episodes/?show=99782|webvod zoom=100 scr
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ALPHA ====
 http://.....
 
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΑΓΓΕΛΙΚΗ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΓΓΕΛΙΚΗ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/aggeliki/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΚΑΜΠΙΝΓΚ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΚΑΜΠΙΝΓΚ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/camping/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,8 ΛΕΞΕΙΣ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,8 ΛΕΞΕΙΣ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/8lexeis/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/elastithesimou/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΑΣΤΕΡΙΑ ΣΤΗΝ ΑΜΜΟ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΣΤΕΡΙΑ ΣΤΗΝ ΑΜΜΟ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/asteriastinammo/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/mourmoura/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΚΑΡΜΑ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΚΑΡΜΑ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/karma/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΕΡΩΤΑΣ ΜΕΤΑ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΕΡΩΤΑΣ ΜΕΤΑ
 https://www.alphacyprus.com.cy/index.php/shows/ellinikes-seires/erwtasmeta/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Η ΦΑΜΙΛΙΑ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,Η ΦΑΜΙΛΙΑ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/familia/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/gynaikaxwrisonoma/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΤΟ ΣΟΪ ΣΟΥ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΤΟ ΣΟΪ ΣΟΥ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΣΠΙΤΙ ΕΙΝΑΙ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΣΠΙΤΙ ΕΙΝΑΙ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/spitieinai/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΜΠΛΕ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΜΠΛΕ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/mple|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ;
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ;
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/kratasmystiko/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΤΑ 16 ΓΡΑΜΜΑΤΑ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΤΑ 16 ΓΡΑΜΜΑΤΑ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/16grammata/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΚΟΚΚΙΝΟ ΝΥΦΙΚΟ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΚΟΚΚΙΝΟ ΝΥΦΙΚΟ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/kokkinonyfiko/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΤΟ ΤΑΤΟΥΑΖ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΤΟ ΤΑΤΟΥΑΖ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/totatouaz/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΠΑΡΑΜΥΘΙ... ΑΛΛΙΩΣ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΠΑΡΑΜΥΘΙ... ΑΛΛΙΩΣ
 https://www.alphacyprus.com.cy/index.php/shows/ellinikes-seires/paramythiallios/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Η ΛΕΞΗ ΠΟΥ ΔΕ ΛΕΣ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,Η ΛΕΞΗ ΠΟΥ ΔΕ ΛΕΣ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/ileksipoudenles/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ
 https://www.alphacyprus.com.cy/index.php/shows/entertainment/meagapichristiana/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,THE CHASE
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,THE CHASE
 https://www.alphacyprus.com.cy/shows/entertainment/thechase/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,ΛΟΥΗΣ NIGHT SHOW
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΛΟΥΗΣ NIGHT SHOW
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv|webvod zoom=100 scroll=0,0
 
 
