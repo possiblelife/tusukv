@@ -36,27 +36,16 @@ https://www.ant1.com.cy/web-tv-live/|webview zoom=100 scroll=0,0
 https://www.antenna.gr/tvguide|webview zoom=100 scroll=0,300
  
  
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ART TV" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png" ,ΑΡΤ
-http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
- 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,ΣΜΑΙΛ
-https://s1.cystream.net/live/smile/playlist.m3u8
+https://www.smiletvcyprus.com/gr/index.php/live|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα ΣΜΑΙΛ
 http://www.smiletvcyprus.com/gr/index.php/program/monday|webview zoom=0 scroll=0,100
  
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3" ,Eρτ WORLD
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+https://www.ertflix.gr/ertworld-live/|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα Eρτ WORLD
 https://webtv.ert.gr/programma-ertworld/|webview zoom=0 scroll=0,300
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.imgur.com/w9Je47D.png" ,CYSPORTS
 https://istoikona.com/CYSPORTS|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" ,ΦΑΡΟΣ on Air
-https://s1.cystream.net/live/faros1/chunks.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" ,ΦΑΡΟΣ on Air 2
-https://s1.cystream.net/live/faros2/chunks.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://www.seen.cy/wp-content/uploads/2020/12/seentranswhite-opa.png" ,SEEN seen.cy
-https://stream.seen.cy/hls/test.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://digitaltv.com.cy/images/logo.png" ,Digital tv
-https://l8.cloudskep.com/digital/dtv/playlist.m3u8
