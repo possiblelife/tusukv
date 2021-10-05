@@ -342,6 +342,8 @@ http://.....
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.imgur.com/w9Je47D.png" ,CYSPORTS
 https://istoikona.com/CYSPORTS|weballdig
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png" ,Alfa Sports TV
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="http://www.lakatamiatv.xyz/app/img/cycinema.jpg" ,ΚΥΠΡΙΑΚΕΣ ΤΑΙΝΙΕΣ
 http://www.anacon.org/app/chans/cy/cycinema.php|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" ,ΦΑΡΟΣ on Air
