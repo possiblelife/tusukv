@@ -34,18 +34,18 @@ https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
  
  
 #EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" ,BBC 1 [Option-1]
-https://easycatchup.eu/watch.php?stream=bbc-london|refererdown$$referer=https://easycatchup.eu/watch.php?stream=bbc-london$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easytelly.eu/2020/03/18/bbc-one-london/|refererdown$$referer=https://easytelly.eu/2020/03/18/bbc-one-london/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" ,BBC 1 [Option-2]
-https://easycatchup.eu/watch.php?stream=bbc-london|weballdig
+https://easytelly.eu/2020/03/18/bbc-one-london/|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" ,BBC 1 [Option-3]
 https://www.filmon.com/tv/bbc-one|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" ,BBC 1 HD UK ONLY[Option-4]
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 [Option-1]
-https://easycatchup.eu/watch.php?stream=bbc-two|refererdown$$referer=https://easycatchup.eu/watch.php?stream=bbc-two$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easytelly.eu/2021/01/29/bbc-two/|refererdown$$referer=https://easytelly.eu/2021/01/29/bbc-two/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 [Option-2] 
-https://easycatchup.eu/watch.php?stream=bbc-two|weballdig
+https://easytelly.eu/2021/01/29/bbc-two/|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2  [Option-3]
 https://www.filmon.com/tv/bbc-two|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 [Option-4]
@@ -58,9 +58,9 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/
 https://onvision.info/channels/bbc3.html|weballdig
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 [Option-1] 
-https://easycatchup.eu/watch.php?stream=bbc-four|refererdown$$referer=https://easycatchup.eu/watch.php?stream=bbc-four$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easytelly.eu/2021/04/02/bbc-three/|refererdown$$referer=https://easytelly.eu/2021/04/02/bbc-three/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 [Option-2]
-https://easycatchup.eu/watch.php?stream=bbc-four|weballdig
+https://easytelly.eu/2021/04/02/bbc-three/|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 [Option-3]
 https://www.filmon.com/tv/cbeebiesbbc-four|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 UK ONLY [Option-4]
@@ -169,9 +169,9 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parlia
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-1] 
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-2] 
-https://easycatchup.eu/watch.php?stream=nbcb|refererdown$$referer=https://easycatchup.eu/watch.php?stream=nbcb$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easytelly.eu/2021/03/31/bbc-news/|refererdown$$referer=https://easytelly.eu/2021/03/31/bbc-news/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-3]
-https://easycatchup.eu/watch.php?stream=nbcb|weballdig
+https://easytelly.eu/2021/03/31/bbc-news/|weballdig
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-4]
 https://www.filmon.com/tv/bbc-news|exodig
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News UK ONLY[Option-5]
@@ -192,33 +192,26 @@ https://easycatchup.eu/watch.php?stream=bbc-alba|refererdown$$referer=https://ea
 https://easycatchup.eu/watch.php?stream=bbc-alba|weballdig
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-1] 
-http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-2] 
-https://easycatchup.eu/watch.php?stream=itv|refererdown$$referer=https://easycatchup.eu/watch.php?stream=itv$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easytelly.eu/2021/04/02/itv/|refererdown$$referer=https://easytelly.eu/2021/04/02/itv/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-2]
+https://easytelly.eu/2021/04/02/itv/|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-3]
-https://easycatchup.eu/watch.php?stream=itv|weballdig
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-4]
-https://tvpc.us/player/embed.php?cid=62|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-5]
 https://www.filmon.com/tv/itv1|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia +1" tvg-logo="https://static.filmon.com/assets/channels/1817/extra_big_logo.png" ,ITV 1+1
 https://www.filmon.com/tv/itv-plus-1|exodig
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-1] 
-http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8
+http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-2] 
 https://easycatchup.eu/watch.php?stream=itv2|refererdown$$referer=https://easycatchup.eu/watch.php?stream=itv2$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-3] 
 https://easycatchup.eu/watch.php?stream=itv2|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-4]
 https://www.filmon.com/tv/itv2|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-5]
-https://tvpc.us/player/embed.php?cid=7|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2 +1" tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1
 https://www.filmon.com/tv/itv2-plus-1|exodig
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 [Option-1] 
-http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 [Option-2] 
 https://easycatchup.eu/watch.php?stream=itv3|refererdown$$referer=https://easycatchup.eu/watch.php?stream=itv3$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 [Option-3]
@@ -229,10 +222,7 @@ https://www.filmon.com/tv/itv3|exodig
 https://www.filmon.com/tv/itv3-plus-1|exodig
 
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 [Option-1] 
-http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 [Option-1] 
-https://daddylive.me/s2w/stream-12.php|weballdig
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 [Option-2] 
 https://easycatchup.eu/watch.php?stream=itv4|refererdown$$referer=https://easycatchup.eu/watch.php?stream=itv4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 [Option-3]
