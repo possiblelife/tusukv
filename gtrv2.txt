@@ -24,7 +24,7 @@ https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="https://i.ibb.co/7Gj7KTj/star.jpg" ,STAR HD
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ALPHA (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
-https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/bpfkbp2c/2728/chunklist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="OPEN BEYOND" tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" ,OPEN Beyond TV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="maktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" ,M.TV (ΑΠΑΙΤΕΊΤΑΙ ΣΥΝΔΕΣΗ ΜΟΛΙΣ ΦΟΡΤΩΣΗ ΣΤΗΝ ΙΣΤΟΣΕΛΙΔΑ ΤΟΥ ΑΝΤ1)
