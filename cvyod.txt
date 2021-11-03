@@ -1,6 +1,11 @@
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ANT1 ====
 http://.....
 
+
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Μελίαρτος
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99839|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Το χάρτινο κουτί
+https://www.ant1.com.cy/webtv/show-page/episodes/?show=99838|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Εσύ... στον κόσμο σου (Οι ταινίες)
 https://www.ant1.com.cy/webtv/show-page/episodes/?show=99818|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Εσύ... στον κόσμο σου
@@ -72,6 +77,13 @@ https://www.ant1.com.cy/webtv/show-page/episodes/?show=99782|webvod zoom=100 scr
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ALPHA ====
 http://.....
 
+
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,Η ΓΗ ΤΗΣ ΕΛΙΑΣ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΣΑΣΜΟΣ 
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/sasmos/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΣΕ ΜΑΣ ΡΕ ΜΑΜΑ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/asemasremama/webtv|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΓΓΕΛΙΚΗ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/aggeliki/webtv|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΚΑΜΠΙΝΓΚ
@@ -123,8 +135,8 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv|webvod z
 #EXTINF:-1 group-title="SIGMA" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== SIGMA ====
 http://.....
 
-#EXTINF:-1 group-title="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Η Πεθερά (2020-2021)
-https://www.sigmatv.com/shows/pethera/episodes/season/179|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Η Πεθερά (2020-2022)
+https://www.sigmatv.com/shows/pethera/episodes|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Άλλα λόγια θκειε παπά (2019)
 https://www.sigmatv.com/shows/alla-logia-thkie-papa/episodes/season/166|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Αλλού ξημερωμένοι (2010-11)
@@ -178,6 +190,8 @@ https://www.sigmatv.com/shows/popikaiantzela/episodes/season/128|webvod zoom=100
 #EXTINF:-1 group-title="OMEGA" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== OMEGA ====
 http://.....
 
+#EXTINF:-1 group-title="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+http://www.omegatv.com.cy/cgibin/hweb?-A=172212&-V=megatvshows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΣΤΟ ΑΛΑΛΟΥΜ
 http://www.omegatv.com.cy/cgibin/hweb?-A=140126&-V=megatvshows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
@@ -206,6 +220,13 @@ http://www.omegatv.com.cy/cgibin/hweb?-A=165385&-V=megatvshows|webvod zoom=100 s
 http://www.omegatv.com.cy/cgibin/hweb?-A=146108&-V=megatvshows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,FAKATE ΤΟΥΣ
 http://www.omegatv.com.cy/cgibin/hweb?-A=97690&-V=megatvshows|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,THE OMG SHOW
+http://www.omegatv.com.cy/cgibin/hweb?-A=174983&-V=megatvshows|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΣΑΝ ΤΗΝ ΚΥΠΡΟ
+http://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=megatvshows|webvod zoom=100 scroll=0,0
+
+
+
 
 
 #EXTINF:-1 group-title="RIK1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== RIK1 ====
