@@ -360,77 +360,77 @@ https://www.star.gr/tv/seires/arena/|webvod zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ΕΡΤ ====
 http://.....
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Βαρδιάνος στα σπόρκα
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Βαρδιάνος στα σπόρκα
 https://www.ertflix.gr/series/ser.158095-bardianos-sta-sporka|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Ποίος ήτον ο φονεύς του αδελφού μου
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Ποίος ήτον ο φονεύς του αδελφού μου
 https://www.ertflix.gr/series/ser.165739-poios-eton-o-phoneus-tou-adelphou-mou|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Καρτ Ποστάλ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Καρτ Ποστάλ
 https://www.ertflix.gr/series/ser.158931-kart-postal|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Χαιρέτα μου τον Πλάτανο
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Χαιρέτα μου τον Πλάτανο
 https://www.ertflix.gr/series/ser.127618-chaireta-moy-ton-platano|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Σε ξένα χέρια
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Σε ξένα χέρια
 https://www.ertflix.gr/series/ser.159100-se-xena-kheria|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΖΑΚΕΤΑ ΝΑ ΠΑΡΕΙΣ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,ΖΑΚΕΤΑ ΝΑ ΠΑΡΕΙΣ
 https://www.ertflix.gr/series/ser.137317-zaketa-na-pareis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Η τούρτα της μαμάς
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Η τούρτα της μαμάς
 https://www.ertflix.gr/series/ser.127657-i-toyrta-tis-mamas|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Τα καλύτερά μας χρόνια
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Τα καλύτερά μας χρόνια
 https://www.ertflix.gr/series/ser.127653-ta-kalytera-mas-chronia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Λούφα και Παραλλαγή
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Λούφα και Παραλλαγή
 https://www.ertflix.gr/series/ser.130088-loyfa-kai-parallagi|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Καρυωτάκης
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Καρυωτάκης
 https://www.ertflix.gr/series/ser.154249-karuotakes-6|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Ο Χριστός ξανασταυρώνεται
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Ο Χριστός ξανασταυρώνεται
 https://www.ertflix.gr/series/ser.140750-o-khristos-xanastauronetai|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Μαντώ Μαυρογένους
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Μαντώ Μαυρογένους
 https://www.ertflix.gr/series/ser.138234-manto-maurogenous|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Στο κάμπινγκ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Στο κάμπινγκ
 https://www.ertflix.gr/series/ser.137555-sto-kampingk|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Μαντάμ Σουσού
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Μαντάμ Σουσού
 https://www.ertflix.gr/series/ser.127400-mantam-soysoy|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Το μινόρε της αυγής
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Το μινόρε της αυγής
 https://www.ertflix.gr/series/ser.126148-to-minore-tis-aygis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Ο ΔΡΟΜΟΣ ΓΙΑ ΤΟ ΤΟΚΙΟ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Ο ΔΡΟΜΟΣ ΓΙΑ ΤΟ ΤΟΚΙΟ
 https://www.ertflix.gr/vod/vod.151872-o-dromos-gia-to-tokio|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Μουσικό κουτί
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Μουσικό κουτί
 https://www.ertflix.gr/series/ser.128297-moysiko-koyti|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΚΥΡΙΑΚΗ ΣΤΟ ΧΩΡΙΟ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,ΚΥΡΙΑΚΗ ΣΤΟ ΧΩΡΙΟ
 https://www.ertflix.gr/vod/vod.161954-kuriake-sto-khorio-xana|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΣΥΓΧΡΟΝΗ ΠΑΡΑΔΟΣΙΑΚΗ ΜΟΥΣΙΚΗ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,ΣΥΓΧΡΟΝΗ ΠΑΡΑΔΟΣΙΑΚΗ ΜΟΥΣΙΚΗ
 https://www.ertflix.gr/series/ser.125032-sygchroni-paradosiaki-moysiki|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΚΑΘΕ ΤΟΠΟΣ ΚΑΙ ΤΡΑΓΟΥΔΙ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,ΚΑΘΕ ΤΟΠΟΣ ΚΑΙ ΤΡΑΓΟΥΔΙ
 https://www.ertflix.gr/vod/vod.154589-kathe-topos-kai-tragoudi|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΤΟ ΜΕΓΑΛΟ ΠΑΙΧΝΙΔΙ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,ΤΟ ΜΕΓΑΛΟ ΠΑΙΧΝΙΔΙ
 https://www.ertflix.gr/vod/vod.128086-27okt2020-to-megalo-paichnidi|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΠΟΠ ΜΑΓΕΙΡΙΚΗ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,ΠΟΠ ΜΑΓΕΙΡΙΚΗ
 https://www.ertflix.gr/series/ser.124392-pop-mageiriki|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΔΕΣ & ΒΡΕΣ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,ΔΕΣ & ΒΡΕΣ
 https://www.ertflix.gr/series/ser.124794-des-amp-amp-vres|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΤΟ ΑΛΑΤΙ ΤΗΣ ΓΗΣ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,ΤΟ ΑΛΑΤΙ ΤΗΣ ΓΗΣ
 https://www.ertflix.gr/series/ser.1778-to-alati-tis-gis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Φρουτοπία
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Φρουτοπία
 https://www.ertflix.gr/series/ser.124180-froutopia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Ο Θησαυρός της Βαγίας
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Ο Θησαυρός της Βαγίας
 https://www.ertflix.gr/series/ser.129136-o-thysayros-tis-vagias|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Το καπλάνι της βιτρίνας
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Το καπλάνι της βιτρίνας
 https://www.ertflix.gr/series/ser.126802-to-kaplani-tis-vitrinas|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Τα δελφινάκια του Αμβρακικού
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Τα δελφινάκια του Αμβρακικού
 https://www.ertflix.gr/series/ser.126680-ta-delfinakia-toy-amvrakikoy|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Ο κήπος με τ'αγάλματα
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Ο κήπος με τ'αγάλματα
 https://www.ertflix.gr/series/ser.124873-o-kipos-me-tagalmata|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Κινούμενα Σχέδια
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Κινούμενα Σχέδια
 https://www.ertflix.gr/list?imageRole=poster&title=%CE%9A%CE%B9%CE%BD%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1%20%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%B1&pageCodename=children&backUrl=/show/children&sectionCodename=kinoumena-skhedia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Παιδικές ταινίες
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Παιδικές ταινίες
 https://www.ertflix.gr/list?imageRole=photo&title=%CE%A0%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AD%CF%82%20%CF%84%CE%B1%CE%B9%CE%BD%CE%AF%CE%B5%CF%82&pageCodename=children&backUrl=/show/children&sectionCodename=paidikes-tainies|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Ξένες παιδικές εκπομπές
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Ξένες παιδικές εκπομπές
 https://www.ertflix.gr/list?imageRole=photo&title=%CE%9E%CE%AD%CE%BD%CE%B5%CF%82%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AD%CF%82%20%CE%B5%CE%BA%CF%80%CE%BF%CE%BC%CF%80%CE%AD%CF%82&pageCodename=children&backUrl=/show/children&sectionCodename=ksenes-paidikes-ekpompes|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Ελληνικές παιδικές εκπομπές
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Ελληνικές παιδικές εκπομπές
 https://www.ertflix.gr/list?imageRole=photo&title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AD%CF%82%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AD%CF%82%20%CE%B5%CE%BA%CF%80%CE%BF%CE%BC%CF%80%CE%AD%CF%82&pageCodename=children&backUrl=/show/children&sectionCodename=ekpompes-gia-paidia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΕΛΛΗΝΙΚΑ ΝΤΟΚΙΜΑΝΤΕΡ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,ΕΛΛΗΝΙΚΑ ΝΤΟΚΙΜΑΝΤΕΡ
 https://www.ertflix.gr/show/documentary|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,ΞΕΝΕΣ ΣΕΙΡΕΣ ΠΛΗΡΕΙΣ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,ΞΕΝΕΣ ΣΕΙΡΕΣ ΠΛΗΡΕΙΣ
 https://www.ertflix.gr/list?imageRole=poster&title=%CE%9E%CE%AD%CE%BD%CE%B5%CF%82%20%CE%A3%CE%B5%CE%B9%CF%81%CE%AD%CF%82%20%CE%A0%CE%BB%CE%AE%CF%81%CE%B5%CE%B9%CF%82&pageCodename=series&backUrl=/show/series&sectionCodename=ksenes-seires-plereis-1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/wp-content/uploads/2014/05/ertflix-logo_webx25.png" ,Ξένες σειρές Catch Up
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://www.ertflix.gr/images/app-logo.svg" ,Ξένες σειρές Catch Up
 https://www.ertflix.gr/list?imageRole=poster&title=%CE%9E%CE%AD%CE%BD%CE%B5%CF%82%20%CF%83%CE%B5%CE%B9%CF%81%CE%AD%CF%82%20Catch%20Up&pageCodename=series&backUrl=/show/series&sectionCodename=ksenes-seires-catch-up-1|webvod zoom=100 scroll=0,0
 
 
@@ -669,29 +669,29 @@ http://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=megatvshows|webvod zoom=100 s
 #EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== RIK1  ΚΥΠΡΟΣ ====
 http://.....
 
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Όμορφη μέρα κάθε μέρα
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Όμορφη μέρα κάθε μέρα
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%ba%ce%b1%ce%bb%ce%ae-%cf%83%ce%b1%cf%82-%ce%bc%ce%ad%cf%81%ce%b1-live/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Εμείς και ο κόσμος μας
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Εμείς και ο κόσμος μας
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%b5%ce%bc%ce%b5%ce%af%cf%82-%ce%ba%ce%b1%ce%b9-%ce%bf-%ce%ba%cf%8c%cf%83%ce%bc%ce%bf%cf%82-%ce%bc%ce%b1%cf%82/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Χρυσές Συνταγές
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Χρυσές Συνταγές
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%87%cf%81%cf%85%cf%83%ce%ad%cf%82-%cf%83%cf%85%ce%bd%cf%84%ce%b1%ce%b3%ce%ad%cf%82/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Γυναίκα
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Γυναίκα
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%b3%cf%85%ce%bd%ce%b1%ce%af%ce%ba%ce%b1/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Happy Hour
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Happy Hour
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/happy-hour/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Καμώματα τζι αρώματα
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Καμώματα τζι αρώματα
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%ba%ce%b1%ce%bc%cf%8e%ce%bc%ce%b1%cf%84%ce%b1-%cf%84%ce%b6%ce%b9-%ce%b1%cf%81%cf%8e%ce%bc%ce%b1%cf%84%ce%b1/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Το Μυστικό της Πεταλούδας
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Το Μυστικό της Πεταλούδας
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%84%ce%bf-%ce%bc%cf%85%cf%83%cf%84%ce%b9%ce%ba%cf%8c-%cf%84%ce%b7%cf%82-%cf%80%ce%b5%cf%84%ce%b1%ce%bb%ce%bf%cf%8d%ce%b4%ce%b1%cf%82/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Χάλκινα Χρόνια
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Χάλκινα Χρόνια
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%87%ce%ac%ce%bb%ce%ba%ce%b9%ce%bd%ce%b1-%cf%87%cf%81%cf%8c%ce%bd%ce%b9%ce%b1/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Ο πιο αδύναμος κρίκος
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Ο πιο αδύναμος κρίκος
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%bf-%cf%80%ce%b9%ce%bf-%ce%b1%ce%b4%cf%8d%ce%bd%ce%b1%ce%bc%ce%bf%cf%82-%ce%ba%cf%81%ce%af%ce%ba%ce%bf%cf%82/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Παραδοσιακή Βραδιά
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Παραδοσιακή Βραδιά
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%80%ce%b1%cf%81%ce%b1%ce%b4%ce%bf%cf%83%ce%b9%ce%b1%ce%ba%ce%ae-%ce%b2%cf%81%ce%b1%ce%b4%ce%b9%ce%ac-%cf%83%cf%84%ce%bf-%cf%81%ce%b9%ce%ba/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Μένω σπίτι και μαθαίνω
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Μένω σπίτι και μαθαίνω
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-online/%ce%bc%ce%ad%ce%bd%cf%89-%cf%83%cf%80%ce%af%cf%84%ce%b9-%ce%ba%ce%b1%ce%b9-%ce%bc%ce%b1%ce%b8%ce%b1%ce%af%ce%bd%cf%89-%ce%b1%cf%80%cf%8c-%cf%84%ce%b7%ce%bd-%cf%84%ce%b7%ce%bb%ce%b5%cf%8c%cf%81%ce%b1/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Στη Χώρα του Γιατί
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Στη Χώρα του Γιατί
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-2/%cf%83%cf%84%ce%b7-%cf%87%cf%8e%cf%81%ce%b1-%cf%84%ce%bf%cf%85-%ce%b3%ce%b9%ce%b1%cf%84%ce%af/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1  ΚΥΠΡΟΣ-4.png" ,Ποπ-Κορν
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Ποπ-Κορν
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-2/%cf%80%ce%bf%cf%80-%ce%ba%ce%bf%cf%81%ce%bd/|webvod zoom=100 scroll=0,0

@@ -232,29 +232,29 @@ http://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=megatvshows|webvod zoom=100 s
 #EXTINF:-1 group-title="RIK1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== RIK1 ====
 http://.....
 
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,Όμορφη μέρα κάθε μέρα
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Όμορφη μέρα κάθε μέρα
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%ba%ce%b1%ce%bb%ce%ae-%cf%83%ce%b1%cf%82-%ce%bc%ce%ad%cf%81%ce%b1-live/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,Εμείς και ο κόσμος μας
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Εμείς και ο κόσμος μας
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%b5%ce%bc%ce%b5%ce%af%cf%82-%ce%ba%ce%b1%ce%b9-%ce%bf-%ce%ba%cf%8c%cf%83%ce%bc%ce%bf%cf%82-%ce%bc%ce%b1%cf%82/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,Χρυσές Συνταγές
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Χρυσές Συνταγές
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%87%cf%81%cf%85%cf%83%ce%ad%cf%82-%cf%83%cf%85%ce%bd%cf%84%ce%b1%ce%b3%ce%ad%cf%82/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,Γυναίκα
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Γυναίκα
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%b3%cf%85%ce%bd%ce%b1%ce%af%ce%ba%ce%b1/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,Happy Hour
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Happy Hour
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/happy-hour/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,Καμώματα τζι αρώματα
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Καμώματα τζι αρώματα
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%ba%ce%b1%ce%bc%cf%8e%ce%bc%ce%b1%cf%84%ce%b1-%cf%84%ce%b6%ce%b9-%ce%b1%cf%81%cf%8e%ce%bc%ce%b1%cf%84%ce%b1/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,Το Μυστικό της Πεταλούδας
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Το Μυστικό της Πεταλούδας
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%84%ce%bf-%ce%bc%cf%85%cf%83%cf%84%ce%b9%ce%ba%cf%8c-%cf%84%ce%b7%cf%82-%cf%80%ce%b5%cf%84%ce%b1%ce%bb%ce%bf%cf%8d%ce%b4%ce%b1%cf%82/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,Χάλκινα Χρόνια
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Χάλκινα Χρόνια
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%87%ce%ac%ce%bb%ce%ba%ce%b9%ce%bd%ce%b1-%cf%87%cf%81%cf%8c%ce%bd%ce%b9%ce%b1/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,Ο πιο αδύναμος κρίκος
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Ο πιο αδύναμος κρίκος
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%bf-%cf%80%ce%b9%ce%bf-%ce%b1%ce%b4%cf%8d%ce%bd%ce%b1%ce%bc%ce%bf%cf%82-%ce%ba%cf%81%ce%af%ce%ba%ce%bf%cf%82/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,Παραδοσιακή Βραδιά
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Παραδοσιακή Βραδιά
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%80%ce%b1%cf%81%ce%b1%ce%b4%ce%bf%cf%83%ce%b9%ce%b1%ce%ba%ce%ae-%ce%b2%cf%81%ce%b1%ce%b4%ce%b9%ce%ac-%cf%83%cf%84%ce%bf-%cf%81%ce%b9%ce%ba/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,Μένω σπίτι και μαθαίνω
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Μένω σπίτι και μαθαίνω
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-online/%ce%bc%ce%ad%ce%bd%cf%89-%cf%83%cf%80%ce%af%cf%84%ce%b9-%ce%ba%ce%b1%ce%b9-%ce%bc%ce%b1%ce%b8%ce%b1%ce%af%ce%bd%cf%89-%ce%b1%cf%80%cf%8c-%cf%84%ce%b7%ce%bd-%cf%84%ce%b7%ce%bb%ce%b5%cf%8c%cf%81%ce%b1/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,Στη Χώρα του Γιατί
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Στη Χώρα του Γιατί
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-2/%cf%83%cf%84%ce%b7-%cf%87%cf%8e%cf%81%ce%b1-%cf%84%ce%bf%cf%85-%ce%b3%ce%b9%ce%b1%cf%84%ce%af/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,Ποπ-Κορν
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Ποπ-Κορν
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-2/%cf%80%ce%bf%cf%80-%ce%ba%ce%bf%cf%81%ce%bd/|webvod zoom=100 scroll=0,0
