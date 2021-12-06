@@ -4,16 +4,16 @@ https://4.bp.blogspot.com/-7JUwN0afLAI/WLsjPYSr6-I/AAAAAAAAAK4/rpoB9AuvPT4lb-Yn4
  
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="riksat"  ,ΡΙΚ SAT
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|webview zoom=100 scroll=0,400
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα ΡΙΚ SAT 
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΡΙΚ SAT 
 http://cybc.com.cy/schedule/|webview zoom=100 scroll=0,6200
  
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" ,ΡΙΚ1
 http://cybc.com.cy/live-tv/%cf%81%ce%b9%ce%ba-1/|webview zoom=100 scroll=0,400
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα ΡΙΚ1 
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΡΙΚ1 
 http://cybc.com.cy/schedule/|webview zoom=100 scroll=0,1900
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2"  ,ΡΙΚ2
 http://cybc.com.cy/live-tv/%cf%81%ce%b9%ce%ba-2/|webview zoom=100 scroll=0,400
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα ΡΙΚ2
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΡΙΚ2
 http://cybc.com.cy/schedule/|webview zoom=100 scroll=0,3000
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="RIK HD" ,ΡΙΚHD
 http://cybc.com.cy/live-tv/%cf%81%ce%b9%ce%ba-hd/|webview zoom=100 scroll=0,400
@@ -28,22 +28,22 @@ https://www.sigmatv.com/live|webview zoom=100 scroll=0,0
 http://www.sigmatv.com/schedule|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus"  ,ΑΛΦΑ
 https://www.alphacyprus.com.cy/live|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα ΑΛΦΑ
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΑΛΦΑ
 http://www.alphacyprus.com.cy/program|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1" ,ΑΝΤΕΝΝΑ
 https://www.ant1.com.cy/web-tv-live/|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα ΑΝΤΕΝΝΑ
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΑΝΤΕΝΝΑ
 https://www.antenna.gr/tvguide|webview zoom=100 scroll=0,300
  
  
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" ,ΣΜΑΙΛ
 https://www.smiletvcyprus.com/gr/index.php/live|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα ΣΜΑΙΛ
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΣΜΑΙΛ
 http://www.smiletvcyprus.com/gr/index.php/program/monday|webview zoom=0 scroll=0,100
  
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="ert" ,Eρτ WORLD
 https://www.ertflix.gr/ertworld-live/|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,Τηλεοπτικό Πρόγραμμα Eρτ WORLD
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα Eρτ WORLD
 https://webtv.ert.gr/programma-ertworld/|webview zoom=0 scroll=0,300
 
 

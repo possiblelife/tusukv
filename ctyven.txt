@@ -8,7 +8,7 @@ https://4.bp.blogspot.com/-7JUwN0afLAI/WLsjPYSr6-I/AAAAAAAAAK4/rpoB9AuvPT4lb-Yn4
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-id="riksat"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIKS.png" ,RIK SAT (OPTION 2)
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - RIK SAT 
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK SAT 
 http://cybc.com.cy/schedule/|webview zoom=100 scroll=0,6200
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,RIK1 (OPTION 1)[ONLY FOR CYPRUS]
@@ -17,7 +17,7 @@ http://l6.cloudskep.com/rikcy/rik1/playlist.m3u8
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdeskdig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,RIK1 (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/rik1cyprus.php|webview zoom=100 scroll=0,300
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - RIK1 
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK1 
 http://cybc.com.cy/schedule/|webview zoom=100 scroll=0,1900
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" ,RIK2 (OPTION 1)[ONLY FOR CYPRUS]
@@ -26,7 +26,7 @@ http://l6.cloudskep.com/rikcy/rik2/playlist.m3u8
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdeskdig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" ,RIK2 (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/rik2.php|webview zoom=100 scroll=0,300
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - RIK2
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK2
 http://cybc.com.cy/schedule/|webview zoom=100 scroll=0,3000
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" ,RIK HD[ONLY FOR CYPRUS]
@@ -38,43 +38,43 @@ http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webdeskdig
 http://www.omegatv.com.cy/live/|agentnodown$$start="src": "$$end="}$$replace="src": "$$replacewith=$$add=
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,OMEGA (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/megacy.php|webview zoom=100 scroll=0,300
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - OMEGA
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - OMEGA
 http://www.megatv.com.cy/cgibin/hweb?-V=megatvprogram&_FAA=1&-dmegatvprogramtod.html|webview zoom=260 scroll=0,300
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Sigma" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Sigma (OPTION 1)
 https://sl3.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Sigma" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Sigma (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/sigma.php|webview zoom=100 scroll=0,300
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - Sigma
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Sigma
 http://www.sigmatv.com/schedule|webview zoom=100 scroll=0,300
  
 #EXTINF:-1 group-title="CYPRUS"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,Alpha (OPTION 1)
 https://www.alphacyprus.com.cy/live|agentnodown$$start=hls: '$$end=',$$replace=hls: '$$replacewith=$$add=
 #EXTINF:-1 group-title="CYPRUS"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,Alpha (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/alphacyprus.php|webview zoom=100 scroll=0,300
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - Alpha
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Alpha
 http://www.alphacyprus.com.cy/program|webview zoom=100 scroll=0,300
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png" ,ANT1 (OPTION 1)
 https://www.ant1.com.cy/web-tv-live/|webdelayalldig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png" ,ANT1 (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/ant1cyprus.php|webview zoom=100 scroll=0,300
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - ANT1
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - ANT1
 https://www.antenna.gr/tvguide|webview zoom=100 scroll=0,300
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Capital" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/capitalcyprus.php|webview zoom=100 scroll=0,300
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - Capital
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Capital
 http://primetel.com.cy/tvg/#|webview zoom=100 scroll=0,300
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Extra TV" tvg-logo="http://www.lakatamiatv.xyz/media/images/articles/extracy.jpg" ,Extra (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/extracy.php|webview zoom=100 scroll=0,300
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - Extra
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Extra
 http://primetel.com.cy/tvg/#|webview zoom=100 scroll=0,300
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Plus TV" tvg-logo="http://www.anacon.org/app/img/plus.jpg" ,Plus (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/pluscy.php|webview zoom=100 scroll=0,300
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - Plus
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Plus
 http://primetel.com.cy/tvg/#|webview zoom=100 scroll=0,300
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ART TV" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png" ,ΑΡΤ
@@ -84,12 +84,12 @@ http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 http://www.anacon.org/app/chans/cy/smilecy.html|refererdown$$referer=http://www.anacon.org/app/chans/cy/smilecy.php$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,Smile -ALTERNATE
 http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG - Smile
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Smile
 http://www.smiletvcyprus.com/gr/index.php/program/monday|webview zoom=100 scroll=0,100
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://www.packexpoeast.com/sites/packexpoeast/files/2018-04/calendar-icon.png" ,EPG -  ERT WORLD
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG -  ERT WORLD
 https://webtv.ert.gr/programma-ertworld/|webview zoom=0 scroll=0,300
  
 
