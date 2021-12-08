@@ -106,7 +106,7 @@ http://.....
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="4Ε" tvg-logo="https://goo.gl/2eMR7A" ,4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="https://action24.gr/wp-content/uploads/2019/12/ACTION-24-LOGO-TRANSPARENT-NEW.png" ,Action 24
-https://www.dailymotion.com/embed/video/x61fbhs?logo=0&hideInfos=1&related=0&autoplay=1|agentdesktopnodown$$start=https:\/\/www.dailymotion.com\/cdn$$end="}$$replace=\$$replacewith=$$add=
+https://www.dailymotion.com/embed/video/x61fbhs?logo=0&hideInfos=1&related=0&autoplay=1|webdelaydig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="https://action24.gr/wp-content/uploads/2019/12/ACTION-24-LOGO-TRANSPARENT-NEW.png" ,Action 24 (backup)
 https://www.dailymotion.com/embed/video/x61fbhs?logo=0&hideInfos=1&related=0&autoplay=1|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TVM" tvg-logo="https://aeolos.tv/wp-content/themes/aeolos-child/img/logo/logo.svg" ,AEOLOS
@@ -134,7 +134,7 @@ https://stream.net7.gr/hls/best/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BERGINA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" ,ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ
 https://www.verginanews.gr/web-tv-2/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BLUE SKY" tvg-logo="https://www.digea.gr/images/channel-icons/BLUESKY.png" ,BLUE SKY
-https://www.dailymotion.com/embed/video/x7z731p?logo=0&hideInfos=1&related=0&autoplay=1|agentdesktopnodown$$start=https:\/\/www.dailymotion.com\/cdn$$end="}$$replace=\$$replacewith=$$add=
+https://www.dailymotion.com/embed/video/x7z731p?logo=0&hideInfos=1&related=0&autoplay=1|webdelaydig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BLUE SKY" tvg-logo="https://www.digea.gr/images/channel-icons/BLUESKY.png" ,BLUE SKY (backup)
 https://www.dailymotion.com/embed/video/x7z731p?logo=0&hideInfos=1&related=0&autoplay=1|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="CHANNEL 9" tvg-logo="https://channel9.gr/images/logo_channel9_header.png" ,ΚΑΝΑΛΙ 9 
@@ -210,7 +210,7 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="STAR B. ELLADOS" tvg-logo="http://www.anacon.org/app/img/starbe.jpg" ,Star B. ΕΛΛΑΔΟΣ
 http://www.startvfm.gr/live/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="STAR K.E." tvg-logo="https://www.digea.gr/images/channel-icons/STAR%20KENTIKHS%20ELLADAS.jpg" ,Star ΚΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ
-https://www.dailymotion.com/embed/video/xqjey2?logo=0&hideInfos=1&related=0&autoplay=1|agentdesktopnodown$$start=https:\/\/www.dailymotion.com\/cdn$$end="}$$replace=\$$replacewith=$$add=
+https://www.dailymotion.com/embed/video/xqjey2?logo=0&hideInfos=1&related=0&autoplay=1|webdelaydig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="STAR K.E." tvg-logo="https://www.digea.gr/images/channel-icons/STAR%20KENTIKHS%20ELLADAS.jpg" ,Star ΚΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ (backup)
 https://www.dailymotion.com/embed/video/xqjey2?logo=0&hideInfos=1&related=0&autoplay=1|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="START TV" tvg-logo="https://goo.gl/fFjaAp" ,START
@@ -338,7 +338,7 @@ https://www.youtube.com/user/RADIOSPACEFM1|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://ellada943.gr/wp-content/uploads/2021/03/ELLADA-TV-150.jpg" ,ELLADA TV
 https://castvideo.eu:3384/live/elladalive.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://pemptousia.tv/assets/logo.png" ,ΠΕΜΠΤΟΥΣΙΑ TV (YouTube)
-https://www.youtube.com/watch?v=AqLFTLTL7Xs
+https://www.youtube.com/watch?v=tZ-g7UJc2Yg
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.eurotv.gr/wp-content/uploads/2018/03/ima-euro-channel-190-x-400.png" ,Euro TV
 https://tna5.bozztv.com/Thessaloniki/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/KVZDYvc/argolida.png",ARGOLIDA TV
@@ -395,8 +395,6 @@ https://web.onair-radio.eu/video/video/playlist.m3u8
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://tv.10dailythings.com/images/channels/GR/super-channel/normal.png" ,Super Channel
 https://vdo.alphaserver.gr:3587/hybrid/play.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ytimg.com/vi/n3EzME5oS5U/hqdefault.jpg" ,LiveTV 24
-https://vod.streams.ovh:3829/stream/play.m3u8
 
 
 
