@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ANT1 ====
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ANT1 ====
 http://.....
 
 
@@ -74,7 +74,7 @@ https://www.ant1.com.cy/webtv/show-page/episodes/?show=99782|webvod zoom=100 scr
 
 
 
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ALPHA ====
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ALPHA ====
 http://.....
 
 
@@ -132,7 +132,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/thechase/webtv|webvod zoom=10
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv|webvod zoom=100 scroll=0,0
 
 
-#EXTINF:-1 group-title="SIGMA" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== SIGMA ====
+#EXTINF:-1 group-title="SIGMA" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== SIGMA ====
 http://.....
 
 #EXTINF:-1 group-title="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Η Πεθερά (2020-2022)
@@ -187,7 +187,7 @@ https://www.sigmatv.com/shows/popikaiantzela/episodes/season/128|webvod zoom=100
 
 
 
-#EXTINF:-1 group-title="OMEGA" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== OMEGA ====
+#EXTINF:-1 group-title="OMEGA" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== OMEGA ====
 http://.....
 
 #EXTINF:-1 group-title="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
@@ -229,7 +229,7 @@ http://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=megatvshows|webvod zoom=100 s
 
 
 
-#EXTINF:-1 group-title="RIK1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== RIK1 ====
+#EXTINF:-1 group-title="RIK1" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== RIK1 ====
 http://.....
 
 #EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Όμορφη μέρα κάθε μέρα

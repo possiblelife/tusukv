@@ -1,5 +1,5 @@
 
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ALPHA ====
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ALPHA ====
 http://.....
 
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΣΑΣΜΟΣ
@@ -78,7 +78,7 @@ https://www.alphatv.gr/show/mesanuhta/?vtype=player&showId=923|webvod zoom=100 s
 https://www.alphatv.gr/show/pame-paketo/?vtype=player&showId=834|webvod zoom=100 scroll=0,0
 
 
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== SKAI ====
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== SKAI ====
 http://.....
 
 #EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Μόλις Χθες (2021-2022)
@@ -155,7 +155,7 @@ https://www.skaitv.gr/show/psuchagogia/glukes-alchimeies-taxideuoun/sezon-2018-2
 https://www.skaitv.gr/show/psuchagogia/eurogames/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
 
 
-#EXTINF:-1 group-title="MEGA" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== MEGA ====
+#EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== MEGA ====
 http://.....
 
 #EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,Η ΓΗ ΤΗΣ ΕΛΙΑΣ
@@ -183,7 +183,7 @@ https://www.megatv.com/tvshows/224781/epeisodio-1-38/|webvod zoom=100 scroll=0,0
 
 
 
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ANT1 ====
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ANT1 ====
 http://.....
 
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ
@@ -251,7 +251,7 @@ https://vod.antenna.gr/#/shows/to_kafe_tis_charas|webvod zoom=100 scroll=0,0
 
 
 
-#EXTINF:-1 group-title="OPEN" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== OPEN ====
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== OPEN ====
 http://.....
 
 #EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Η τελευταία ώρα
@@ -294,7 +294,7 @@ https://www.tvopen.gr/joker/j2us/videos|webvod zoom=100 scroll=0,0
 
 
 
-#EXTINF:-1 group-title="STAR" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== STAR ====
+#EXTINF:-1 group-title="STAR" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== STAR ====
 http://.....
 
 #EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,COOK BEEF
@@ -358,7 +358,7 @@ https://www.star.gr/tv/seires/arena/|webvod zoom=100 scroll=0,0
 
 
 
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ΕΡΤ ====
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΕΡΤ ====
 http://.....
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Βαρδιάνος στα σπόρκα
 https://www.ertflix.gr/series/ser.158095-bardianos-sta-sporka|webvod zoom=100 scroll=0,0
@@ -435,7 +435,7 @@ https://www.ertflix.gr/list?imageRole=poster&title=%CE%9E%CE%AD%CE%BD%CE%B5%CF%8
 
 
 
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ANT1 ΚΥΠΡΟΥ ====
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ANT1 ΚΥΠΡΟΥ ====
 http://.....
 
 
@@ -511,7 +511,7 @@ https://www.ant1.com.cy/webtv/show-page/episodes/?show=99782|webvod zoom=100 scr
 
 
 
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ALPHA  ΚΥΠΡΟΥ ====
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ALPHA  ΚΥΠΡΟΥ ====
 http://.....
 
 
@@ -569,7 +569,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/thechase/webtv|webvod zoom=10
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv|webvod zoom=100 scroll=0,0
 
 
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== SIGMA  ΚΥΠΡΟΣ ====
+#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== SIGMA  ΚΥΠΡΟΣ ====
 http://.....
 
 #EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Η Πεθερά (2020-2022)
@@ -624,7 +624,7 @@ https://www.sigmatv.com/shows/popikaiantzela/episodes/season/128|webvod zoom=100
 
 
 
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== OMEGA  ΚΥΠΡΟΣ ====
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== OMEGA  ΚΥΠΡΟΣ ====
 http://.....
 
 #EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
@@ -666,7 +666,7 @@ http://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=megatvshows|webvod zoom=100 s
 
 
 
-#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== RIK1  ΚΥΠΡΟΣ ====
+#EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== RIK1  ΚΥΠΡΟΣ ====
 http://.....
 
 #EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Όμορφη μέρα κάθε μέρα

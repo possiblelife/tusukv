@@ -2,7 +2,7 @@
 #EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81D4bhLep5L._SY355_.png" ,===Cyprus RADIO===
 https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/db/ac/4a/dbac4afa-8e38-3ae6-910c-2d695049873b/mzl.inrolmnl.png/1200x630wa.png|webview zoom=100 scroll=0,0
  
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ΛΕΥΚΩΣΙΑ ====
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΕΥΚΩΣΙΑ ====
 http://.....
 
 #EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK-RADIO4.png" ,ΡΙΚ4 88.2
@@ -59,7 +59,7 @@ http://r2.phileradio.com:8193/active
 http://eco.onestreaming.com:8199/;
 
 
-#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ΛΕΜΕΣΟΣ ====
+#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΕΜΕΣΟΣ ====
 http://.....
 
 #EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/greekchoice.png" ,Greek Choice 91.4
@@ -81,7 +81,7 @@ http://eco.onestreaming.com:8802/kanali
 
 
 
-#EXTINF:-1 group-title="ΛΑΡΝΑΚΑ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ΛΑΡΝΑΚΑ ====
+#EXTINF:-1 group-title="ΛΑΡΝΑΚΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΑΡΝΑΚΑ ====
 http://.....
 
 #EXTINF:-1 group-title="ΛΑΡΝΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/lrgcyprus.png" ,LGR Cyprus 93.0
@@ -94,7 +94,7 @@ http://eco.onestreaming.com:8164/stream
 http://live3.istoikona.net:8804/stream
 
 
-#EXTINF:-1 group-title="ΠΑΦΟΣ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ΠΑΦΟΣ ====
+#EXTINF:-1 group-title="ΠΑΦΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΠΑΦΟΣ ====
 http://.....
 
 #EXTINF:-1 group-title="ΠΑΦΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/pafosfm.png" ,ΠΑΦΟΣ Fm 93.7
@@ -104,13 +104,13 @@ http://eco.onestreaming.com:8278/;
 
 
 
-#EXTINF:-1 group-title="ΑΜΜΟΧΩΣΤΟΣ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ΑΜΜΟΧΩΣΤΟΣ ====
+#EXTINF:-1 group-title="ΑΜΜΟΧΩΣΤΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΑΜΜΟΧΩΣΤΟΣ ====
 http://.....
 #EXTINF:-1 group-title="ΑΜΜΟΧΩΣΤΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/politiafamagusta.png" ,Πολιτία FM 106.7
 http://108.178.13.122:8157/stream
 
 
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ΔΙΑΔΙΚΤΥΑΚΑ ====
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/radioepistrofi.jpg" ,ΡΑΔΙΟ ΕΠΙΣΤΡΟΦΗ
 http://78.46.75.125:8100/;

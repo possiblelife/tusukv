@@ -2,7 +2,7 @@
 http://www.allaboutandroid.gr/wp-content/uploads/2015/02/10362372_319264588280423_4566848749308524368_n.jpg|webview zoom=100 scroll=0,0
 
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==== ΠΑΝΕΛΛΑΔΙΚΑ ====
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΠΑΝΕΛΛΑΔΙΚΑ ====
 http://.....
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" ,ΕΡΤ1 WebTV (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
@@ -60,7 +60,7 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
 
 
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,===== ΑΘΛΗΤΙΚΑ ====
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΑΘΛΗΤΙΚΑ ====
 http://.....
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports" tvg-logo="https://i.ibb.co/MP9Nv3r/sports.jpg" ,ΕΡΤ SPORTS (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
@@ -99,7 +99,7 @@ http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,===== ΠΕΡΙΦΕΡΕΙΑΚΑ ====
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΠΕΡΙΦΕΡΕΙΑΚΑ ====
 http://.....
 
 
@@ -235,7 +235,7 @@ https://e-e.cyou:8222/santorini/santorini/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,===== ΠΑΓΚΥΠΡΙΑ ====
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΠΑΓΚΥΠΡΙΑ ====
 http://.....
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="riksat" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIKS.png" ,ΡΙΚ SAT
@@ -280,7 +280,7 @@ http://www.anacon.org/app/chans/cy/mall.html|webepg zoom=100 scroll=0,100
 
 
 
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ ====
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjH5DpDo9GHfOg3mMInn8oIk1qtxhP4qtRlE5Nq=s48-c-k-c0xffffffff-no-rj-mo" ,COSMOTE HISTORY Live Streaming
@@ -346,7 +346,7 @@ https://livetv.streams.ovh:1936/argolidatv/argolidatv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
 http://.....
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.imgur.com/w9Je47D.png" ,CYSPORTS
@@ -375,7 +375,7 @@ https://l8.cloudskep.com/digital/dtv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=====   ΤΑΙΝΙΕΣ   ====
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΤΑΙΝΙΕΣ   ====
 http://.....
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/VYL4FP6/34100tv.jpg" ,34100 TV (Χαλκίδα)
 https://s1.cystream.net/live/34100/playlist.m3u8
@@ -393,7 +393,7 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="Mad TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS6cOwr3F29JR4o7Wgg_Aj6pyYt2b6rl4LhsdvXRg=s48-c-k-c0x00ffffff-no-rj" ,MAD TV
 https://www.youtube.com/watch?v=q0nj_pb-5iM
@@ -445,7 +445,7 @@ https://vod.streams.ovh:3876/stream/play.m3u8
 
 
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
 http://.....
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://goo.gl/ablVkW" ,WZRA KID'S GR 
 http://wpso.com:1936/hls/kidshd.m3u8
@@ -460,7 +460,7 @@ https://www.youtube.com/watch?v=Dm4SC7PM2hg
 
 
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=====   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ====
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ====
 http://.....
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)-1
 https://www.youtube-nocookie.com/embed/live_stream?channel=UC8HJZNfDPoySgW9DN3YGNaA&modestbranding=1|agentnodown$$start=https://www.youtube.com$$end="$$replace=$$replacewith=$$add=
