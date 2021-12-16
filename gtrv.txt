@@ -381,27 +381,22 @@ http://.....
 https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://goo.gl/ofVjvQ" ,NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://ertalex.gr/logo2.png" ,Erta Lex Tv
-https://vdo.alphaserver.gr:3824/hybrid/play.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://euroviews.eu/2015/wp-content/uploads/2015/04/clapperboard-563x353.png" ,Greek Oldies
+https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://s2.coinmarketcap.com/static/img/coins/200x200/3404.png" ,WIXLAR
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://euroviews.eu/2015/wp-content/uploads/2015/04/clapperboard-563x353.png" ,Greek Oldies
-https://vdo.alphaserver.gr:3613/hybrid/play.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/Groovy-3-150x48.png" ,Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv-150x150.jpg" ,Play
-https://web.onair-radio.eu/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://netmaxtv.com/wp-content/uploads/2020/07/forweb.png" ,Netmax TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://tv.10dailythings.com/images/channels/GR/super-channel/normal.png" ,Super Channel
-https://vdo.alphaserver.gr:3587/hybrid/play.m3u8
+
 
 
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="Mad TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS6cOwr3F29JR4o7Wgg_Aj6pyYt2b6rl4LhsdvXRg=s48-c-k-c0x00ffffff-no-rj" ,MAD TV
-https://www.youtube.com/watch?v=Zs5qqK6nZ7U
+https://www.youtube.com/watch?v=q0nj_pb-5iM
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniRWeQydH4pamOZcqfgB94e7Zm_IMDxKOssr_oNBw=s48-c-k-c0x00ffffff-no-rj" ,Mad Radio 106.2
 https://www.youtube.com/watch?v=WEsJ0un-AME
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" ,Baraza Music TV Greek Hits
@@ -412,8 +407,6 @@ https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" ,Baraza beautiful relaxing music
 https://panik.cast-control.eu:1936/admin_2/admin_2/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-id="RISE TV" tvg-logo="https://www.digea.gr/images/channel-icons/RISE%20EPG%20WHITE%203.png" ,Rise
-https://www.rise.gr/el/live-tv/|webdig
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://goo.gl/7tKqOl" ,ΤΗΛΕ ΜΟΥΣΙΚΗ
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.imgur.com/1Zl1OJ5.png" ,NRG TV
@@ -448,8 +441,7 @@ https://panik.cast-control.eu:1936/paniktvweb/paniktvweb/playlist.m3u8
 https://vod.streams.ovh:3528/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.ibb.co/WzGswsM/mgr.jpg" ,MGR TV
 https://vod.streams.ovh:3876/stream/play.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.ibb.co/fpX14CW/wmega.jpg",ΩMEGA TV
-https://vdo.alphaserver.gr:3043/stream/play.m3u8
+
 
 
 
