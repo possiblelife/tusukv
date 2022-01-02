@@ -130,3 +130,5 @@ http://eco.onestreaming.com:8472/;
 http://eco.onestreaming.com:8830/stream
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/kanali6laiko.png" ,Kanali6 Laiko
 http://stream.dnsgb.net:8012/;
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/DKytGtw/Full-Color-1280x1024-300dpi.png" ,Radio Pianica
+http://mpc.mediacp.eu:8744/
