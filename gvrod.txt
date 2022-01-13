@@ -360,8 +360,8 @@ https://www.star.gr/tv/seires/arena/|webvod zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΕΡΤ ====
 http://.....
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Βαρδιάνος στα σπόρκα-
-https://www.ertflix.gr/series/ser.158095-bardianos-sta-sporka|webdeskepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Βαρδιάνος στα σπόρκα+
+https://www.ertflix.gr/series/ser.158095-bardianos-sta-sporka|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ποίος ήτον ο φονεύς του αδελφού μου
 https://www.ertflix.gr/series/ser.165739-poios-eton-o-phoneus-tou-adelphou-mou|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Καρτ Ποστάλ
