@@ -360,78 +360,78 @@ https://www.star.gr/tv/seires/arena/|webvod zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΕΡΤ ====
 http://.....
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Βαρδιάνος στα σπόρκα+
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Βαρδιάνος στα σπόρκα
 https://www.ertflix.gr/series/ser.158095-bardianos-sta-sporka|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ποίος ήτον ο φονεύς του αδελφού μου
-https://www.ertflix.gr/series/ser.165739-poios-eton-o-phoneus-tou-adelphou-mou|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.165739-poios-eton-o-phoneus-tou-adelphou-mou|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Καρτ Ποστάλ
-https://www.ertflix.gr/series/ser.158931-kart-postal|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.158931-kart-postal|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Χαιρέτα μου τον Πλάτανο
-https://www.ertflix.gr/series/ser.127618-chaireta-moy-ton-platano|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.127618-chaireta-moy-ton-platano|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Σε ξένα χέρια
-https://www.ertflix.gr/series/ser.159100-se-xena-kheria|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.159100-se-xena-kheria|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΖΑΚΕΤΑ ΝΑ ΠΑΡΕΙΣ
-https://www.ertflix.gr/series/ser.137317-zaketa-na-pareis|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.137317-zaketa-na-pareis|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Η τούρτα της μαμάς
-https://www.ertflix.gr/series/ser.127657-i-toyrta-tis-mamas|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.127657-i-toyrta-tis-mamas|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Τα καλύτερά μας χρόνια
-https://www.ertflix.gr/series/ser.127653-ta-kalytera-mas-chronia|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.127653-ta-kalytera-mas-chronia|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Λούφα και Παραλλαγή
-https://www.ertflix.gr/series/ser.130088-loyfa-kai-parallagi|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.130088-loyfa-kai-parallagi|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Καρυωτάκης
-https://www.ertflix.gr/series/ser.154249-karuotakes-6|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.154249-karuotakes-6|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ο Χριστός ξανασταυρώνεται
-https://www.ertflix.gr/series/ser.140750-o-khristos-xanastauronetai|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.140750-o-khristos-xanastauronetai|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Μαντώ Μαυρογένους
-https://www.ertflix.gr/series/ser.138234-manto-maurogenous|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.138234-manto-maurogenous|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Στο κάμπινγκ
-https://www.ertflix.gr/series/ser.137555-sto-kampingk|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.137555-sto-kampingk|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Μαντάμ Σουσού
-https://www.ertflix.gr/series/ser.127400-mantam-soysoy|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.127400-mantam-soysoy|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Το μινόρε της αυγής
-https://www.ertflix.gr/series/ser.126148-to-minore-tis-aygis|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.126148-to-minore-tis-aygis|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ο ΔΡΟΜΟΣ ΓΙΑ ΤΟ ΤΟΚΙΟ
-https://www.ertflix.gr/vod/vod.151872-o-dromos-gia-to-tokio|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/vod/vod.151872-o-dromos-gia-to-tokio|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Μουσικό κουτί
-https://www.ertflix.gr/series/ser.128297-moysiko-koyti|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.128297-moysiko-koyti|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΚΥΡΙΑΚΗ ΣΤΟ ΧΩΡΙΟ
-https://www.ertflix.gr/vod/vod.161954-kuriake-sto-khorio-xana|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/vod/vod.161954-kuriake-sto-khorio-xana|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΣΥΓΧΡΟΝΗ ΠΑΡΑΔΟΣΙΑΚΗ ΜΟΥΣΙΚΗ
-https://www.ertflix.gr/series/ser.125032-sygchroni-paradosiaki-moysiki|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.125032-sygchroni-paradosiaki-moysiki|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΚΑΘΕ ΤΟΠΟΣ ΚΑΙ ΤΡΑΓΟΥΔΙ
-https://www.ertflix.gr/vod/vod.154589-kathe-topos-kai-tragoudi|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/vod/vod.154589-kathe-topos-kai-tragoudi|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΤΟ ΜΕΓΑΛΟ ΠΑΙΧΝΙΔΙ
-https://www.ertflix.gr/vod/vod.128086-27okt2020-to-megalo-paichnidi|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/vod/vod.128086-27okt2020-to-megalo-paichnidi|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΠΟΠ ΜΑΓΕΙΡΙΚΗ
-https://www.ertflix.gr/series/ser.124392-pop-mageiriki|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.124392-pop-mageiriki|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΔΕΣ & ΒΡΕΣ
-https://www.ertflix.gr/series/ser.124794-des-amp-amp-vres|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.124794-des-amp-amp-vres|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΤΟ ΑΛΑΤΙ ΤΗΣ ΓΗΣ
-https://www.ertflix.gr/series/ser.1778-to-alati-tis-gis|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.1778-to-alati-tis-gis||webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Φρουτοπία
-https://www.ertflix.gr/series/ser.124180-froutopia|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.124180-froutopia|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ο Θησαυρός της Βαγίας
-https://www.ertflix.gr/series/ser.129136-o-thysayros-tis-vagias|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.129136-o-thysayros-tis-vagias|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Το καπλάνι της βιτρίνας
-https://www.ertflix.gr/series/ser.126802-to-kaplani-tis-vitrinas|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.126802-to-kaplani-tis-vitrinas|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Τα δελφινάκια του Αμβρακικού
-https://www.ertflix.gr/series/ser.126680-ta-delfinakia-toy-amvrakikoy|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.126680-ta-delfinakia-toy-amvrakikoy|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ο κήπος με τ'αγάλματα
-https://www.ertflix.gr/series/ser.124873-o-kipos-me-tagalmata|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/series/ser.124873-o-kipos-me-tagalmata|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Κινούμενα Σχέδια
-https://www.ertflix.gr/list?imageRole=poster&title=%CE%9A%CE%B9%CE%BD%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1%20%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%B1&pageCodename=children&backUrl=/show/children&sectionCodename=kinoumena-skhedia|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/list?imageRole=poster&title=%CE%9A%CE%B9%CE%BD%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1%20%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%B1&pageCodename=children&backUrl=/show/children&sectionCodename=kinoumena-skhedia|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Παιδικές ταινίες
-https://www.ertflix.gr/list?imageRole=photo&title=%CE%A0%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AD%CF%82%20%CF%84%CE%B1%CE%B9%CE%BD%CE%AF%CE%B5%CF%82&pageCodename=children&backUrl=/show/children&sectionCodename=paidikes-tainies|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/list?imageRole=photo&title=%CE%A0%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AD%CF%82%20%CF%84%CE%B1%CE%B9%CE%BD%CE%AF%CE%B5%CF%82&pageCodename=children&backUrl=/show/children&sectionCodename=paidikes-tainies|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ξένες παιδικές εκπομπές
-https://www.ertflix.gr/list?imageRole=photo&title=%CE%9E%CE%AD%CE%BD%CE%B5%CF%82%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AD%CF%82%20%CE%B5%CE%BA%CF%80%CE%BF%CE%BC%CF%80%CE%AD%CF%82&pageCodename=children&backUrl=/show/children&sectionCodename=ksenes-paidikes-ekpompes|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/list?imageRole=photo&title=%CE%9E%CE%AD%CE%BD%CE%B5%CF%82%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AD%CF%82%20%CE%B5%CE%BA%CF%80%CE%BF%CE%BC%CF%80%CE%AD%CF%82&pageCodename=children&backUrl=/show/children&sectionCodename=ksenes-paidikes-ekpompes|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ελληνικές παιδικές εκπομπές
-https://www.ertflix.gr/list?imageRole=photo&title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AD%CF%82%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AD%CF%82%20%CE%B5%CE%BA%CF%80%CE%BF%CE%BC%CF%80%CE%AD%CF%82&pageCodename=children&backUrl=/show/children&sectionCodename=ekpompes-gia-paidia|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/list?imageRole=photo&title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AD%CF%82%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AD%CF%82%20%CE%B5%CE%BA%CF%80%CE%BF%CE%BC%CF%80%CE%AD%CF%82&pageCodename=children&backUrl=/show/children&sectionCodename=ekpompes-gia-paidia|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΕΛΛΗΝΙΚΑ ΝΤΟΚΙΜΑΝΤΕΡ
-https://www.ertflix.gr/show/documentary|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/show/documentary|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΞΕΝΕΣ ΣΕΙΡΕΣ ΠΛΗΡΕΙΣ
-https://www.ertflix.gr/list?imageRole=poster&title=%CE%9E%CE%AD%CE%BD%CE%B5%CF%82%20%CE%A3%CE%B5%CE%B9%CF%81%CE%AD%CF%82%20%CE%A0%CE%BB%CE%AE%CF%81%CE%B5%CE%B9%CF%82&pageCodename=series&backUrl=/show/series&sectionCodename=ksenes-seires-plereis-1|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/list?imageRole=poster&title=%CE%9E%CE%AD%CE%BD%CE%B5%CF%82%20%CE%A3%CE%B5%CE%B9%CF%81%CE%AD%CF%82%20%CE%A0%CE%BB%CE%AE%CF%81%CE%B5%CE%B9%CF%82&pageCodename=series&backUrl=/show/series&sectionCodename=ksenes-seires-plereis-1|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ξένες σειρές Catch Up
-https://www.ertflix.gr/list?imageRole=poster&title=%CE%9E%CE%AD%CE%BD%CE%B5%CF%82%20%CF%83%CE%B5%CE%B9%CF%81%CE%AD%CF%82%20Catch%20Up&pageCodename=series&backUrl=/show/series&sectionCodename=ksenes-seires-catch-up-1|webvod zoom=100 scroll=0,0
+https://www.ertflix.gr/list?imageRole=poster&title=%CE%9E%CE%AD%CE%BD%CE%B5%CF%82%20%CF%83%CE%B5%CE%B9%CF%81%CE%AD%CF%82%20Catch%20Up&pageCodename=series&backUrl=/show/series&sectionCodename=ksenes-seires-catch-up-1|webmulti zoom=100 scroll=0,0
 
 
 
