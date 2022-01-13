@@ -5,21 +5,18 @@ https://clipart.wpblink.com/sites/default/files/wallpaper/slang-clipart/143532/s
 #EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , Message From Developer
 https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="Info"   tvg-logo="http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg" , USE BELOW TO UPDATE TO V2.26.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , USE BELOW TO UPDATE TO V2.30.
 http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg|webepg zoom=100 scroll=0,200
 
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , VERSION V2.26. Click here to AUTO-UPDATE.
-https://www.mediafire.com/file/efarzxs16r35lr7/UK_TV_%2526_Radio_V2.26.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , VERSION V2.26. Click here to Download From Browser.
-https://www.mediafire.com/file/efarzxs16r35lr7/UK_TV_%2526_Radio_V2.26.apk/file|newexternalapp
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V2.30. Click here to AUTO-UPDATE.
+https://www.mediafire.com/file/n5rl4shbjomtb1a/UK_TV_%2526_Radio_V2.30.apk/file|externalupdate
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V2.30. Click here to Download From Browser.
+https://www.mediafire.com/file/n5rl4shbjomtb1a/UK_TV_%2526_Radio_V2.30.apk/file|newexternalapp
  
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , Newest Plugin V3.54. Click here to AUTO-UPDATE.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Newest Plugin V4.00. Click here to AUTO-UPDATE.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , Newest Plugin V3.54. Click here to Download From Browser.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Newest Plugin V4.00. Click here to Download From Browser.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
-
-#EXTINF:-1 group-title="Info"   tvg-logo="https://i.pinimg.com/474x/31/7f/32/317f32dcb6cbef011bfcfe16f17c1e4f.jpg" , Filelinked: 57872420
-https://www.kodifiretvstick.com/wp-content/uploads/2019/06/Screen-Shot-2019-06-03-at-11.29.11-AM.jpg|webepg zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , VIDEO FOR ANDROID 5&6 CHANNELS FIX
 https://www.youtube.com/watch?v=8z1MPupJAF8
@@ -33,13 +30,13 @@ https://www.youtube.com/watch?v=8z1MPupJAF8
 https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
  
  
-#EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" ,BBC 1 [Option-1]
+#EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 [Option-1]
 https://easytelly.eu/2020/03/18/bbc-one-london/|refererdown$$referer=https://easytelly.eu/2020/03/18/bbc-one-london/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" ,BBC 1 [Option-2]
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 [Option-2]
 https://easytelly.eu/2020/03/18/bbc-one-london/|weballdig
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" ,BBC 1 [Option-3]
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 [Option-3]
 https://www.filmon.com/tv/bbc-one|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" ,BBC 1 HD UK ONLY[Option-4]
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 HD UK ONLY[Option-4]
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 [Option-1]
@@ -232,33 +229,33 @@ https://www.filmon.com/tv/itv4|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4 + 1" tvg-logo="https://static.filmon.com/assets/channels/1826/extra_big_logo.png" ,ITV 4+1
 https://www.filmon.com/tv/itv4-plus-1|exodig
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITVBe" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_be.png" ,ITV Be.
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITVBe" tvg-logo="https://cdn.comedy.uk/images/channels/itvbe.jpg" ,ITV Be.
 https://www.filmon.com/tv/itvbe|exodig
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 [Option-1] 
+#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/f/f8/Channel_4_1996.svg/revision/latest/scale-to-width-down/200?cb=20210204" ,Channel 4 [Option-1] 
 https://easycatchup.eu/watch.php?stream=channel4|refererdown$$referer=https://easycatchup.eu/watch.php?stream=channel4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 [Option-2] 
+#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/f/f8/Channel_4_1996.svg/revision/latest/scale-to-width-down/200?cb=20210204" ,Channel 4 [Option-2] 
 https://easycatchup.eu/watch.php?stream=channel4|weballdig
-#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 [Option-3]
+#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/f/f8/Channel_4_1996.svg/revision/latest/scale-to-width-down/200?cb=20210204" ,Channel 4 [Option-3]
 https://tvpc.us/player/embed.php?cid=3|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
-#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4  [Option-4]
+#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/f/f8/Channel_4_1996.svg/revision/latest/scale-to-width-down/200?cb=20210204" ,Channel 4  [Option-4]
 https://www.filmon.com/tv/channel-4|exodig
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="http://picon.webhop.net/logo/uk/channel_5_uk.png" ,Channel 5 [Option-1]
+#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2020/04/Channel-5-TV-Advertising-logo.jpg" ,Channel 5 [Option-1]
 https://easycatchup.eu/watch.php?stream=channel5|refererdown$$referer=https://easycatchup.eu/watch.php?stream=channel5$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="http://picon.webhop.net/logo/uk/channel_5_uk.png" ,Channel 5 [Option-2]
+#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2020/04/Channel-5-TV-Advertising-logo.jpg" ,Channel 5 [Option-2]
 https://easycatchup.eu/watch.php?stream=channel5|weballdig
-#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="http://picon.webhop.net/logo/uk/channel_5_uk.png" ,Channel 5 [Option-3]
+#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2020/04/Channel-5-TV-Advertising-logo.jpg" ,Channel 5 [Option-3]
 https://www.filmon.com/tv/channel-5|exodig
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="S4C" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/03/channel-logo-s4c.png" ,S4C [Option-1]
+#EXTINF:-1 group-title="Entertainment" tvg-id="S4C" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/03/channel-logo-s4c.png" ,S4C [Option-1]
 https://easycatchup.eu/watch.php?stream=s4c|refererdown$$referer=https://easycatchup.eu/watch.php?stream=s4c$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="Entertainment" tvg-id="S4C" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/03/channel-logo-s4c.png" ,S4C [Option-2]
+#EXTINF:-1 group-title="Entertainment" tvg-id="S4C" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/03/channel-logo-s4c.png" ,S4C [Option-2]
 https://easycatchup.eu/watch.php?stream=s4c|weballdig
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Film4" tvg-logo="https://i.imgur.com/LClp2vem.png" ,Film4
 https://www.filmon.com/tv/film-4|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="E4" tvg-logo="http://picon.webhop.net/logo/uk/e4_uk.png" ,E4
+#EXTINF:-1 group-title="Entertainment" tvg-id="E4" tvg-logo="https://www.chillglobal.com/images/channels/e4-1432660370.jpg" ,E4
 https://www.filmon.com/tv/e4|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="Drama" tvg-logo="https://www.youview.com/wp-content/uploads/2016/06/12111755/drama-400x390.png" ,Drama
 https://www.filmon.com/tv/drama|exodig
@@ -307,11 +304,11 @@ https://easycatchup.eu/watch.php?stream=truemovies|weballdig
 
 #EXTINF:-1 group-title="Entertainment"  tvg-id="5USA" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo178.png" ,5usa
 https://www.filmon.com/tv/5usa|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="Really" tvg-logo="http://picon.webhop.net/logo/uk/really_uktv.png" ,Really
+#EXTINF:-1 group-title="Entertainment" tvg-id="Really" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/REALLY-logo-255x140.png?itok=RDqBz9mM" ,Really
 https://www.filmon.com/tv/really|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="Pick" tvg-logo="http://picon.webhop.net/logo/uk/pick_tv_uk.png" ,Pick
+#EXTINF:-1 group-title="Entertainment" tvg-id="Pick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pick%27s_new_logo.png" ,Pick
 https://www.filmon.com/tv/pick-tv|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="Challenge" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Challenge_logo_2016.png" ,Challenge
+#EXTINF:-1 group-title="Entertainment" tvg-id="Challenge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Challenge_%28mini%29.png/revision/latest/scale-to-width-down/250?cb=20160627090540" ,Challenge
 https://www.filmon.com/tv/challenge|exodig
 
 #EXTINF:-1 group-title="News" tvg-id="Al Jazeera English" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera English
@@ -415,27 +412,27 @@ https://ustreamix.to/stream.php?id=sky-sports-golf|webdeskalldig
 http://cdn.crichd.cx/embed2.php?id=skysp4&q=Sky Sports Golf|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSGOLF.png" ,Sky Sports Golf [Server 3][Advance MODE]
 https://embed-channel.stream/stream/uk_skysport_golf.php|webdelayalldig
-#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Arena" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/sky-sports.png?itok=L-pzWpXe" ,Sky Sports Arena [Advance MODE]
+#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Arena" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsarena_130x130.png" ,Sky Sports Arena [Advance MODE]
 https://ustreamix.to/stream.php?id=sky-sports-arena|webdeskalldig
-#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Arena" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/sky-sports.png?itok=L-pzWpXe" ,Sky Sports Arena [Server 2][Advance MODE]
+#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Arena" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsarena_130x130.png" ,Sky Sports Arena [Server 2][Advance MODE]
 http://cdn.crichd.cx/embed2.php?id=skyarena&q=Sky Sports Arena|weballdig
-#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Arena" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/sky-sports.png?itok=L-pzWpXe" ,Sky Sports Arena [Server 3][Advance MODE]
+#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Arena" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsarena_130x130.png" ,Sky Sports Arena [Server 3][Advance MODE]
 https://embed-channel.stream/stream/uk_skysport_arena.php|webdelayalldig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Racing UK" tvg-logo="https://static1.squarespace.com/static/5767bd2120099e297415297a/t/5cdaa9b724a694cb4996e3f2/1557834178044/Sky+Sports+Racing+Logo+Square.png?format=1500w" ,Sky Sports Racing UK [Advance MODE]
 https://ustreamix.to/stream.php?id=sky-sports-racing|webdeskalldig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Racing UK" tvg-logo="https://static1.squarespace.com/static/5767bd2120099e297415297a/t/5cdaa9b724a694cb4996e3f2/1557834178044/Sky+Sports+Racing+Logo+Square.png?format=1500w" ,Sky Sports Racing UK [Server 2][Advance MODE]
 https://daddylive.co/embed/stream-26.php|webdeskalldig
-#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Action" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1135.1507600377.png" ,Sky Sports Action [Advance MODE]
+#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Action" tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" ,Sky Sports Action [Advance MODE]
 https://ustreamix.to/stream.php?id=sky-sports-action|webdeskalldig
-#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Action" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1135.1507600377.png" ,Sky Sports Action [Server 2][Advance MODE]
+#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Action" tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" ,Sky Sports Action [Server 2][Advance MODE]
 http://cdn.crichd.cx/embed2.php?id=skysp3&q=Sky Sports Action|weballdig
-#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Action" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1135.1507600377.png" ,Sky Sports Action [Server 3][Advance MODE]
+#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Action" tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" ,Sky Sports Action [Server 3][Advance MODE]
 https://embed-channel.stream/stream/uk_skysport_action.php|webdelayalldig
-#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Mix" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1135.1507600377.png" ,Sky Sports Mix [Advance MODE]
+#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Mix" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png" ,Sky Sports Mix [Advance MODE]
 https://ustreamix.to/stream.php?id=sky-sports-mix|webdeskalldig
-#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Mix" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1135.1507600377.png" ,Sky Sports Mix [Server 2][Advance MODE]
+#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Mix" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png" ,Sky Sports Mix [Server 2][Advance MODE]
 http://cdn.crichd.cx/embed2.php?id=skymix&q=Sky Sports Mix|weballdig
-#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Mix" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1135.1507600377.png" ,Sky Sports Mix [Server 3][Advance MODE]
+#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Mix" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png" ,Sky Sports Mix [Server 3][Advance MODE]
 https://embed-channel.stream/stream/uk_skysport_mix.php|webdelayalldig
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 1" tvg-logo="https://icdb.tv/images/f712337727fd8922f45402fa933ad664.jpg" ,BT Sport 1 [Advance MODE]
 https://ustreamix.to/stream.php?id=bt-sport-1|webdeskalldig
@@ -445,7 +442,7 @@ http://cdn.crichd.cx/embed2.php?id=btsp1&q=BT Sport 1|weballdig
 https://ustreamix.to/stream.php?id=bt-sport-2|webdeskalldig
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 2" tvg-logo="https://mytv.afrik.live/uploads/fa0f60da30f133c1692cc4ea0adb6e12.png" ,BT Sport 2 [Server 3][Advance MODE]
 http://cdn.crichd.cx/embed2.php?id=btsp2&q=BT Sport 2|weballdig
-#EXTINF:-1 group-title="Sports" tvg-id="BT Sport 3" tvg-logo="https://www.ballsoi8.com/wp-content/themes/colormag/logo/btsport3.png" ,BT Sport 3 [Advance MODE]
+#EXTINF:-1 group-title="Sports" tvg-id="BT Sport 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" ,BT Sport 3 [Advance MODE]
 https://ustreamix.to/stream.php?id=bt-sport-3-b|webdeskalldig
-#EXTINF:-1 group-title="Sports" tvg-id="BT Sport 3" tvg-logo="https://www.ballsoi8.com/wp-content/themes/colormag/logo/btsport3.png" ,BT Sport 3 [Server 3][Advance MODE]
+#EXTINF:-1 group-title="Sports" tvg-id="BT Sport 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" ,BT Sport 3 [Server 3][Advance MODE]
 http://cdn.crichd.cx/embed2.php?id=btsp3&q=BT Sport 3|weballdig
