@@ -8,23 +8,20 @@ https://pastebin.com/raw/SP6QZEAD|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Info"   tvg-logo="https://cdn.xl.thumbs.canstockphoto.com/important-vector-stamp-isolated-on-white-eps-vector_csp15090186.jpg" ,NEW IMPORANT ABOUT VPN-CLICK HERE
 https://pastebin.com/raw/bxvdbL3Y|webepg zoom=100 scroll=0,0
 
-
-#EXTINF:-1 group-title="Info"   tvg-logo="http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg" , USE BELOW TO UPDATE TO V2.24.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , USE BELOW TO UPDATE TO V2.30.
 http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg|webepg zoom=100 scroll=0,200
 
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , NEW VERSION V2.24. Click here to AUTO-UPDATE.
-https://www.mediafire.com/file/shln9mi7zct5095/USA_TV_%2526_Radio_V2.24.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , VERSION V2.24. Click here to Download From Browser.
-https://www.mediafire.com/file/shln9mi7zct5095/USA_TV_%2526_Radio_V2.24.apk/file|newexternalapp
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V2.30. Click here to AUTO-UPDATE.
+https://www.mediafire.com/file/mrd3edtu6s4y7qe/USA+TV+&+Radio+V3.00.apk/file|externalupdate
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V2.30. Click here to Download From Browser.
+https://www.mediafire.com/file/mrd3edtu6s4y7qe/USA+TV+&+Radio+V3.00.apk/file|newexternalapp
 
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , Newest Plugin V3.54. Click here to AUTO-UPDATE.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Newest Plugin V4.00. Click here to AUTO-UPDATE.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://www.crystalgraphicsimages.com/photo/free-update-green-glossy-round-icon-golden-chrome_cg1p91625343c_th.jpg" , Newest Plugin V3.54. Click here to Download From Browser.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Newest Plugin V4.00. Click here to Download From Browser.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
 
 
-#EXTINF:-1 group-title="Info"   tvg-logo="https://i.pinimg.com/474x/31/7f/32/317f32dcb6cbef011bfcfe16f17c1e4f.jpg" , Filelinked: 57872420
-https://www.kodifiretvstick.com/wp-content/uploads/2019/06/Screen-Shot-2019-06-03-at-11.29.11-AM.jpg|webepg zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , VIDEO FOR ANDROID 5&6 CHANNELS FIX
 https://www.youtube.com/watch?v=8z1MPupJAF8
