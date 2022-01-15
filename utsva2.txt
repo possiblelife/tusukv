@@ -82,13 +82,11 @@ https://ustreamix.to/stream.php?id=ae-tv-usa|webdeskalldig
 #EXTINF:-1 group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML._SY355_.png" ,ABC NEWS [Option-1]
 https://abcnews.go.com/Live|webdeskdig
 #EXTINF:-1 group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML._SY355_.png" ,ABC News [Option-2]
-https://www.youtube.com/watch?v=dNCI18p9wSw
+https://www.youtube.com/watch?v=w_Ma8oQLmSM
 #EXTINF:-1 group-title="USA" tvg-id="2840" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC [Option-1](NORD VPN REQUIRED)
 https://ustvgo.tv/abc-live-streaming-free/|webproalldig
 #EXTINF:-1 group-title="USA" tvg-id="2840" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC [Option-1](NORD VPN REQUIRED) [Alternate]
 https://ustv247.tv/watch-abc-live-stream/|webdeskalldig
-#EXTINF:-1 group-title="USA" tvg-id="2840" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC [Option-2] 
-https://www.streamlive.to/view/89516/USA-ABC-East-SD|webdeskalldig
 #EXTINF:-1 group-title="USA" tvg-id="2840" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC [Option-3]
 http://123tvnow.com/watch/abc/|weballdig
 #EXTINF:-1 group-title="USA" tvg-id="2840" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC [Option-3][Alternate]
@@ -99,28 +97,46 @@ httphost://$http-raw=http://123tvnow.com/watch/abc/$http-refferer=http://123tvno
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://abc3340.com/resources/assets/wbma/images/logos/wbma_logo_w.svg" ,abc 3340 News
 https://abc3340.com/watch|webdig
-#EXTINF:-1 group-title="USA"  tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wabc_icon.png" ,ABC 7 WABC NY
-https://abc7ny.com/watch/live/|weballdig
+#EXTINF:-1 group-title="USA"  tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wabc_icon.png" ,ABC 7 WABC NY (ONLY V2.30)
+https://abc7ny.com/watch/live/|webdelayalldig$$delay=3
 #EXTINF:-1 group-title="USA"  tvg-logo="https://wtnh.com/wp-content/uploads/sites/100/2019/05/wtnh_digitalbrand-min.png" ,ABC WTNH News 8
 https://www.wtnh.com/news-8-newscasts/|weballdig
 #EXTINF:-1 group-title="USA" ,ABC 9 Chattanooga TN (WTVC)
-https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+https://newschannel9.com/watch|weballdig
 #EXTINF:-1 group-title="USA" tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-square.jpg" ,ABC 9 Orlando FL (WFTV-HD)
-https://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
+https://www.wftv.com/news/wftv-news-now/d0dcf925-b5af-4f21-a9ac-633b8a42bc90/|webdelayfulldig$$delay=1
 #EXTINF:-1 group-title="News" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/5a32b46/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F06%2F20%2Fd7cb93764c9d917b5084759009fa%2Fktnv-geographic-locator-600x200.png" ,ABC13 (ktnv) Las Vegas
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/WSBTV.png" ,ABC Atlanta (WSB-TV)
-https://w3.cdn.anvato.net/player/prod/v3/anvload.html?key=eyJtIjoiYW52IiwidiI6ImNtZy13c2J0diIsImFudmFjayI6Ilh2RWd3eUp2eDdsclZJOEpMbUhlVkNXOG1PbXk4TWJvIiwic2hhcmVMaW5rIjoiaHR0cHM6Ly93d3cud3NidHYuY29tL2xpdmUtc3RyZWFtIiwicGx1Z2lucyI6eyJjb21zY29yZSI6eyJjbGllbnRJZCI6NjAzNTk0NH0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjoiaHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2Fkcz9zej00MDB4MzAwJml1PS8xMjUyMzI5My9BdGxhbnRhX1RWL3dzYnR2X3dlYl9kZWZhdWx0L3ByZV9yb2xsJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZvdXRwdXQ9dmFzdCZ1bnZpZXdlZF9wb3NpdGlvbl9zdGFydD0xJmNvbnRlbnRfcGFnZV91cmw9W3JlZmVycmVyX3VybF0mZGVzY3JpcHRpb25fdXJsPVtyZWZlcnJlcl91cmxdJmNvcnJlbGF0b3I9W3RpbWVzdGFtcF0mdmlkPUFOVl9BTlZfd3NidHYmY21zaWQ9MTk4NTMiLCJoaWRlTm9uTGluZWFyQWRzT25DbG9zZSI6dHJ1ZSwia2V5VmFsdWVzIjp7ImNhdGVnb3J5IjoiLCIsInZpZGVvIjoiY21nLXdzYnR2Iiwib3duZXJfaWQiOiI5OTgxMTkiLCJrdyI6ImxpdmVzdHJlYW0sIiwidG9waWNzIjoibGl2ZXN0cmVhbSwiLCJ3ZWF0aGVyIjoid2VhdGhlciBjb25kaXRpb24iLCJ0ZW1wX3JhbmdlIjoidGVtcCByYW5nZSIsInNreSI6InNreSIsIm9ial90eXBlIjoic2VjdGlvbiBmcm9udCIsIm9ial9pZCI6ImFydGljbGUgaWQiLCJwbGF5ZXJfaWQiOiJwMCIsIm92ZXJsYXlzaXplIjoibGFyZ2UifSwibG9hZFZpZGVvVGltZW91dCI6MTAsIm1hY3JvcyI6eyJ2aWQiOiJBTlZfQU5WX2NtZy13c2J0diIsInJlZmVycmVyX3VybCI6Imh0dHBzOi8vd3d3LndzYnR2LmNvbS9saXZlLXN0cmVhbSJ9LCJzdGFydFRpbWVvdXQiOjIwLCJ1c2VTdHlsZWROb25MaW5lYXJBZHMiOnRydWUsInZhc3RMb2FkVGltZW91dCI6MTB9fSwiY2xvdWRWaWRlb0FuYWx5dGljcyI6eyJ0cmFja2VySWQiOiI4NjlmM2RiYyIsInBsYXllclZlcnNpb24iOiIzLjIuMTEifSwiaGVhcnRiZWF0QmV0YSI6eyJtYXJrZXRpbmdDbG91ZElkIjoiMTQ2MjM0Qjg1Mjc4MzVFMTBBNDkwRDQ0QEFkb2JlT3JnIiwiY3VzdG9tVHJhY2tpbmdTZXJ2ZXIiOiJjb3huZXQuMTEyLjJvNy5uZXQiLCJ0cmFja2luZ1NlcnZlciI6ImNveG5ldC5oYi5vbXRyZGMubmV0Iiwiam9iSWQiOiJqMiIsImFjY291bnQiOiJjb3h3c2J0dixjb3hnbG9iYWwiLCJwdWJsaXNoZXJJZCI6ImNveG5ldCIsInZlcnNpb24iOiIxLjUiLCJwYXJlbnRQYWdlVVJMIjoiaHR0cHM6Ly93d3cud3NidHYuY29tL2xpdmUtc3RyZWFtIiwicGFyZW50VGl0bGUiOiJXU0IgTm93IHwgQWx3YXlzIE9uIHwgV1NCLVRWIiwicEluc3RhbmNlIjoicDAiLCJwcm9maWxlIjoiY294IiwiY3VzdG9tVHJhY2tpbmdTZXJ2ZXJTZWN1cmUiOiJjb3huZXQuMTEyLjJvNy5uZXQifX0sImh0bWw1Ijp0cnVlLCJ0b2tlbiI6IiAiLCJsaXZlIjoidHJ1ZSJ9|webdig
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/V8eTp2V.png" ,ABC News Digital 1
-https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/V8eTp2V.png" ,ABC News Digital 2
-https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:-1 group-title="USA"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/WSBTV.png" ,ABC Atlanta (WSB-TV)
+https://www.wsbtv.com/news/wsb-now-dai/0ac8c696-3f43-4d00-bc73-56073142950a/|webdelayfulldig$$delay=1
+#EXTINF:-1 group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" ,ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" ,ABC News Live 1 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" ,ABC News Live 2 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" ,ABC News Live 3 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" ,ABC News Live 4 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" ,ABC News Live 5 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" ,ABC News Live 6 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" ,ABC News Live 7 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" ,ABC News Live 8 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" ,ABC News Live 9 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" ,ABC News Live 10 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" ,Action Movies 
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/955830377733545984/JhptxLYU_400x400.jpg" ,Action News Now
-https://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8
+https://fuel-streaming-prod01.fuelmedia.io/v1/sep/5e2300a4-4d8d-480a-a47a-1254a175de0d/600K360AWS/SM/content.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://www.nbc.gov.ng/uploads/channel/actv_logo_1427710806.png" ,ACTV
-http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
+https://wowzaprod13-i.akamaihd.net/hls/live/254999/0b67f86f/6361162879_AZ-247.stream_247/chunklist.m3u8
 #EXTINF:-1 group-title="USA"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/adultswim-269x151.png" ,Adult Swim 
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
 #EXTINF:-1 group-title="Kids"  tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" ,After School
@@ -137,10 +153,8 @@ https://akaku.vod.castus.tv/live/ch2.m3u8
 https://akaku.vod.castus.tv/live/ch3.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://image.roku.com/developer_channels/prod/ce03bcd0975942929a2cef7daced1a01474dd7f441b691ceaa2a9dba454b4cdb.png" ,AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 group-title="News"  tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera [Option-1]
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:-1 group-title="News"  tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Aljazeera [Option-2]
-https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
+#EXTINF:-1 group-title="News"  tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="177"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-1]
 https://tvpc.us/player/embed.php?cid=620|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="Movies"  tvg-id="177" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-2](NORD VPN REQUIRED)
@@ -358,7 +372,7 @@ httphost://$http-raw=http://123tvnow.com/watch/cnn-2/$http-refferer=http://123tv
 #EXTINF:-1 group-title="News" tvg-id="70" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN [Option-3][Advance MODE]
 https://ustream.to/live?id=cnn-v2|webdeskalldig
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN International
-https://rally.cdn.lncnetworks.host/hls/cnni_live/index.m3u8|referer=https://livenewschat.eu/intl/
+https://woosh.cdn.lncnetworks.host/hls/cnni_live/index.m3u8|referer=https://livenewschat.eu/intl/
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/11/CC_Refresh__Logo_WordMark-890-2018.png" ,Comedy Central
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 group-title="Movies" tvg-logo="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F54817135%2F279208278849%2F1%2Foriginal.20190108-203552?h=230&w=460&auto=compress&rect=0%2C75%2C2400%2C1200&s=a89b0031835b02fe2238c1c0d5980982" ,Comedy Central Stand-Up
