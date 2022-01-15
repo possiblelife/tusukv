@@ -194,13 +194,10 @@ https://easytelly.eu/2021/04/02/itv/|refererdown$$referer=https://easytelly.eu/2
 https://easytelly.eu/2021/04/02/itv/|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-3]
 https://www.filmon.com/tv/itv1|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-4]
-https://daddylive.click/s2w/stream-350.php|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia +1" tvg-logo="https://static.filmon.com/assets/channels/1817/extra_big_logo.png" ,ITV 1+1
 https://www.filmon.com/tv/itv-plus-1|exodig
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-1] 
-https://daddylive.click/s2w/stream-351.php|weballdig
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-2] 
 https://easycatchup.eu/watch.php?stream=itv2|refererdown$$referer=https://easycatchup.eu/watch.php?stream=itv2$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-3] 
@@ -210,8 +207,7 @@ https://www.filmon.com/tv/itv2|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2 +1" tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1
 https://www.filmon.com/tv/itv2-plus-1|exodig
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 [Option-1] 
-https://daddylive.click/s2w/stream-352.php|weballdig   https://daddylive.click/s2w/stream-352.php
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 [Option-2] 
 https://easycatchup.eu/watch.php?stream=itv3|refererdown$$referer=https://easycatchup.eu/watch.php?stream=itv3$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 [Option-3]
@@ -221,8 +217,7 @@ https://www.filmon.com/tv/itv3|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3+1" tvg-logo="https://static.filmon.com/assets/channels/1823/extra_big_logo.png" ,ITV 3+1
 https://www.filmon.com/tv/itv3-plus-1|exodig
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 [Option-1] 
-https://daddylive.click/s2w/stream-353.php|weballdig
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 [Option-2] 
 https://easycatchup.eu/watch.php?stream=itv4|refererdown$$referer=https://easycatchup.eu/watch.php?stream=itv4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 [Option-3]
@@ -374,8 +369,7 @@ https://ustreamix.to/stream.php?id=sky-sports-main-event|webdeskalldig
 https://sportsonline.to/channels/hd/hd1.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Main Events" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" ,Sky Sports Main Event [Server 3][Advance MODE]
 http://cdn.crichd.cx/embed2.php?id=skysp1&q=Sky Sports Main Events|weballdig
-#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Main Events" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" ,Sky Sports Main Event [Server 4][Advance MODE]
-https://daddylive.click/s2w/stream-38.php|weballdight
+
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" ,Sky Sports F1 [Advance MODE]
 https://ustreamix.to/stream.php?id=sky-sports-f1|webdeskalldig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" ,Sky Sports F1 [Server 2][Advance MODE]
@@ -423,8 +417,6 @@ http://cdn.crichd.cx/embed2.php?id=skyarena&q=Sky Sports Arena|weballdig
 https://embed-channel.stream/stream/uk_skysport_arena.php|webdelayalldig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Racing UK" tvg-logo="https://static1.squarespace.com/static/5767bd2120099e297415297a/t/5cdaa9b724a694cb4996e3f2/1557834178044/Sky+Sports+Racing+Logo+Square.png?format=1500w" ,Sky Sports Racing UK [Advance MODE]
 https://ustreamix.to/stream.php?id=sky-sports-racing|webdeskalldig
-#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Racing UK" tvg-logo="https://static1.squarespace.com/static/5767bd2120099e297415297a/t/5cdaa9b724a694cb4996e3f2/1557834178044/Sky+Sports+Racing+Logo+Square.png?format=1500w" ,Sky Sports Racing UK [Server 2][Advance MODE]
-https://daddylive.co/embed/stream-26.php|webdeskalldig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Action" tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" ,Sky Sports Action [Advance MODE]
 https://ustreamix.to/stream.php?id=sky-sports-action|webdeskalldig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Action" tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" ,Sky Sports Action [Server 2][Advance MODE]
