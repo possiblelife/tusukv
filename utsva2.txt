@@ -400,7 +400,7 @@ httphost://$http-raw=http://123tvnow.com/watch/cnn-2/$http-refferer=http://123tv
 #EXTINF:-1 group-title="News" tvg-id="58646" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN [Option-3][Advance MODE]
 https://ustream.to/live?id=cnn-v2|weballdig
 #EXTINF:-1 group-title="News" tvg-id="58646" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN [Option-4]
-https://planetnews.com/live/cnn.html|weballdig
+https://1942468522.rsc.cdn77.org/sG6wLa3jmpaHjuaD7s5I3w==,1642991536/1942468522/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN International
 https://woosh.cdn.lncnetworks.host/hls/cnni_live/index.m3u8|referer=https://livenewschat.eu/intl/
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/11/CC_Refresh__Logo_WordMark-890-2018.png" ,Comedy Central
@@ -917,7 +917,7 @@ https://ott.mobcrush.com/hls/0/ott.m3u8
 #EXTINF:-1 group-title="Movies"  tvg-logo="https://pbs.twimg.com/profile_images/3697213186/d8febea108bd9c4983ae14640655cf29_400x400.jpeg" ,Movies4U
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="16300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MSNBC_2015_logo.svg/2000px-MSNBC_2015_logo.svg.png" ,MSNBC [Option-1]
-https://planetnews.com/live/politics.html|weballdig
+https://1128480543.rsc.cdn77.org/NaGpaMYhxaBD0PUjSGu-zg==,1642988122/1128480543/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News"  tvg-id="16300" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" ,MSNBC [Option-2](NORD VPN REQUIRED)
 https://ustv247.tv/msnbclive/|weballdig
 #EXTINF:-1 group-title="News"  tvg-id="16300" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" ,MSNBC [Option-2](NORD VPN REQUIRED)[Alternate]
