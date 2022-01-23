@@ -803,15 +803,15 @@ http://123tvnow.com/watch/hgtv/|weballdig
 httphost://$http-raw=http://123tvnow.com/watch/hgtv/$http-refferer=http://123tvnow.com/watch/hgtv/
 #EXTINF:-1 group-title="Documentary"   tvg-id="34215" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/HGTV-269x151.png" ,HGTV [Option-3][Advance MODE]
 https://ustream.to/live?id=hgtv-usa|weballdig
-#EXTINF:-1 group-title="Documentary"  tvg-id="43362" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-1](NORD VPN REQUIRED)
+#EXTINF:-1 group-title="Documentary"  tvg-id="14771" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-1](NORD VPN REQUIRED)
 https://ustv247.tv/history-channel-live-stream/|weballdig
-#EXTINF:-1 group-title="Documentary"  tvg-id="43362" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-1](NORD VPN REQUIRED)[Alternate]
+#EXTINF:-1 group-title="Documentary"  tvg-id="14771" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-1](NORD VPN REQUIRED)[Alternate]
 https://ustvgo.tv/history-channel-live/|weballdig
-#EXTINF:-1 group-title="Documentary"  tvg-id="43362" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-2] 
+#EXTINF:-1 group-title="Documentary"  tvg-id="14771" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-2] 
 http://123tvnow.com/watch/history-channel/|weballdig
-#EXTINF:-1 group-title="Documentary"  tvg-id="43362" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-2] [Alternate]
+#EXTINF:-1 group-title="Documentary"  tvg-id="14771" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-2] [Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/history-channel/$http-refferer=http://123tvnow.com/watch/history-channel/
-#EXTINF:-1 group-title="Documentary"  tvg-id="43362" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-3][Advance MODE]
+#EXTINF:-1 group-title="Documentary"  tvg-id="14771" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel [Option-3][Advance MODE]
 https://ustream.to/live?id=history-channel|weballdig
 #EXTINF:-1 group-title="Documentary"   tvg-logo="http://fondazione.museostorico.it/var/plain_site/storage/images/progetti/principali-ambiti-tematici-di-ricerca/history-lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria/63732-1-ita-IT/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria_galleryfull.jpg" ,HISTORY LAB  ITALIA
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
