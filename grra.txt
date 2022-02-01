@@ -762,8 +762,10 @@ http://radiostreaming.ert.gr/ert-kozani
 http://hyades.shoutca.st:8770/;
 #EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/laikoskozani.png" ,Λαϊκός 106.3
 http://sp2.streams.ovh:8102/;
-#EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/radiomeli106.png" ,Ράδιο Μέλι 106
-http://freeuk23.listen2myradio.com/live.mp3?typeportmount=s1_11448_stream_64572479
+#EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://i.ibb.co/JFzXfqX/unnamed.jpg" ,Ράδιο Μέλι 106.6
+http://i3.streams.ovh:12064/live
+#EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://i.ibb.co/JFzXfqX/unnamed.jpg" ,Ράδιο Μέλι 106.6 (2)
+https://i3.streams.ovh:2199/start/radiomeli/
 #EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/rythmos1044.png" ,Ρυθμός 104.4
 https://i4.streams.ovh/ic/rythmos/stream
 #EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/stathmos995.png" ,Σταθμός 99.5
