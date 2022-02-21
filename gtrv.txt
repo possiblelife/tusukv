@@ -339,7 +339,8 @@ https://www.youtube.com/watch?v=tZ-g7UJc2Yg
 https://tna5.bozztv.com/Thessaloniki/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/KVZDYvc/argolida.png",ARGOLIDA TV
 https://livetv.streams.ovh:1936/argolidatv/argolidatv/playlist.m3u8 
-
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://www.thessaliatv.gr/include/images/logo_livex.png" ,Θεσσαλία Τηλεόραση
+https://www.thessaliatv.gr/live/|webdig
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
@@ -437,8 +438,8 @@ https://panik.cast-control.eu:1936/paniktvweb/paniktvweb/playlist.m3u8
 https://vod.streams.ovh:3528/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.ibb.co/WzGswsM/mgr.jpg" ,MGR TV
 https://vod.streams.ovh:3876/stream/play.m3u8
-
-
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.ibb.co/jVRvgqt/red-mus.jpg" ,Red Music
+https://s2.netmax-host.eu:2053/redlive/redlive/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
