@@ -76,23 +76,20 @@ http://primetel.com.cy/tvg/#|webview zoom=100 scroll=0,300
 http://www.anacon.org/app/chans/cy/pluscy.html|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΠΛΑΣ
 http://primetel.com.cy/tvg/#|webview zoom=100 scroll=0,300
- 
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="BERGINA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" ,ΒΕΡΓΙΝΑ ΤV
+http://www.anacon.org/app/chans/cy/verginacyimage.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ART TV" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png" ,ΑΡΤ
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
- 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,ΣΜΑΙΛ
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,ΣΜΑΙΛ -ΕΝΑΛΛΑΚΤΙΚΟ
 http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΣΜΑΙΛ
 http://www.smiletvcyprus.com/gr/index.php/program/monday|webview zoom=0 scroll=0,100
- 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3" ,Eρτ WORLD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα Eρτ WORLD
 https://webtv.ert.gr/programma-ertworld/|webview zoom=0 scroll=0,300
-
- 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="TV Mall" tvg-logo="https://www.cyta.com.cy/mp/informational/images/channels/cbctvmall.gif" ,TV Mall
 http://www.anacon.org/app/chans/cy/mall.html|webview zoom=100 scroll=0,300
 
@@ -100,6 +97,7 @@ http://www.anacon.org/app/chans/cy/mall.html|webview zoom=100 scroll=0,300
 https://www.youtube-nocookie.com/embed/live_stream?channel=UC8HJZNfDPoySgW9DN3YGNaA&modestbranding=1|agentnodown$$start=https://www.youtube.com$$end="$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)-2
 https://www.youtube-nocookie.com/embed/live_stream?channel=UC8HJZNfDPoySgW9DN3YGNaA&modestbranding=1
+
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.imgur.com/w9Je47D.png" ,CYSPORTS
 https://istoikona.com/CYSPORTS|weballdig
