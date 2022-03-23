@@ -229,7 +229,7 @@ http://kuco.streamguys1.com/live?listening-from-radio-garden=1556368331961
 http://16693.live.streamtheworld.com/KRXOFMAAC.aac?listening-from-radio-garden=1556368381991
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kxBe94jXvX8/hqdefault.jpg" ,KOMA-FM 92.5 (Oklahoma City)
-http://18443.live.streamtheworld.com/KOMAFMAAC.aac?listening-from-radio-garden=1556368421340
+https://13693.live.streamtheworld.com/KOMAFMAAC_SC
 
 #EXTINF:-1 tvg-logo="http://www.okcheartandsoul.com/images/about-us/KRMP-Team.jpg" ,KRMP Heart & Soul 92.1/1140 (Oklahoma City)
 http://crystalin.surfernetwork.com:8000/KRMP_MP3?listening-from-radio-garden=1556368448191
