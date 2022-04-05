@@ -495,3 +495,5 @@ https://www.youtube.com/watch?v=9Auq9mYxFEE
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://yt3.ggpht.com/a/AATXAJwaWmLHZ72EHEUsEezcoP8chEPYRggZ9cIGgQ=s48-c-k-c0xffffffff-no-rj-mo"  ,Earth Views: Earth From Space Seen From The ISS
 https://www.youtube.com/watch?v=XBPjVzSoepo
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://i.ibb.co/hsVy8M5/nexttv.jpg"  ,Next TV Live
+https://f-tx-edge-86.christianworldmedia.com/nexttv/sm_nexttv.smil/playlist.m3u8
