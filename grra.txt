@@ -259,6 +259,8 @@ http://radio.1055rock.gr:30000/1055
 http://hroma1058thess.live24.gr/hroma1058thess
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/w/big/love1065.png" ,Love 106.5 
 http://server.insms.gr:45104/;
+#EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="http://resources.live24.gr/resources/images/stations/606439ea-0f4c-433f-9df3-d4bc9b23f476.jpg" ,City of Primo 106.1
+http://radio.lancom.gr:8014/stream6
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/oparousia1068.png" ,Ορθόδοξη Παρουσία 106.8
 http://www.gwebstream.net:8008/;
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/realfmthess.png" ,Real Fm 107.1
