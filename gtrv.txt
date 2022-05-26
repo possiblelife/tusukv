@@ -383,6 +383,8 @@ https://l8.cloudskep.com/digital/dtv/playlist.m3u8
 http://.....
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/VYL4FP6/34100tv.jpg" ,34100 TV (Χαλκίδα)
 https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/tLG2mzQ/cinema-time.png" ,Cinema Time
+https://www.twitch.tv/cinematimetv?fbclid=IwAR3VxV7iSDzj1gN5pcaQZ-JukuZVYYVDgIl7601H_eAAFl8rWCO6qZnExfA|webepg zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://goo.gl/ofVjvQ" ,NETV TORONTO
 https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://euroviews.eu/2015/wp-content/uploads/2015/04/clapperboard-563x353.png" ,Greek Oldies
