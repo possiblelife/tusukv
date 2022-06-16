@@ -188,7 +188,7 @@ https://www.youtube.com/c/KontraChannelHellas/videos|webepg zoom=100 scroll=0,0
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="LYCHNOS" tvg-logo="https://goo.gl/pgniZC" ,ΛΥΧΝΟC
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="LEPANTO" tvg-logo="https://cdn.greektvlive.info/wp-content/uploads/2014/10/lepanto.png" ,Lepanto TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="LEPANTO" tvg-logo="https://digea.gr/cms/uploads/2021/11/image50-85.jpeg" ,Lepanto TV
 https://video1.getstreamhosting.com:1936/8234/8234/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="MESOGEIOS TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image55-91.jpeg" ,ΜΕΣΟΓΕΙΟΣ TV
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
@@ -220,7 +220,7 @@ https://odb.streamhost.gr:3454/live/syrostv1live.m3u8
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="THESSALIA" tvg-logo="https://www.thessaliatv.gr/include/images/logo_livex.png" ,Θεσσαλία Τηλεόραση
 https://www.thessaliatv.gr/live/|webdig
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TOP CHANNEL" tvg-logo="https://topchannelkozani.webnode.gr/_files/200000015-72b7773afa/450/8okv76.jpg" ,TOP CHANNEL
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TOP CHANNEL" tvg-logo="https://digea.gr/cms/uploads/2021/11/top.jpeg" ,TOP CHANNEL
 https://s2.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TRT" tvg-logo="https://digea.gr/cms/uploads/2021/11/image60-97.jpeg" ,TRT TV
 https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
