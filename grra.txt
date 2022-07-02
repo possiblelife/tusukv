@@ -1785,7 +1785,7 @@ http://radio.streamings.gr:8013/live
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/freegrradio.jpg" ,Freegr Radio
 http://s7.myradiostream.com:59540/;
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/DKytGtw/Full-Color-1280x1024-300dpi.png" ,Radio Pianica
-http://mpc.mediacp.eu:8744/
+http://mpc1.mediacp.eu:8024/
 
 
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ ====
