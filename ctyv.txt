@@ -87,7 +87,7 @@ http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΣΜΑΙΛ
 http://www.smiletvcyprus.com/gr/index.php/program/monday|webview zoom=0 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3" ,Eρτ WORLD
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/manifest.mpd
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα Eρτ WORLD
 https://webtv.ert.gr/programma-ertworld/|webview zoom=0 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="TV Mall" tvg-logo="https://www.cyta.com.cy/mp/informational/images/channels/cbctvmall.gif" ,TV Mall
