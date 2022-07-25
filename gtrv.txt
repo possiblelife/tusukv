@@ -107,9 +107,9 @@ http://.....
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="4Ε" tvg-logo="https://goo.gl/2eMR7A" ,4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="https://action24.gr/wp-content/uploads/2019/12/ACTION-24-LOGO-TRANSPARENT-NEW.png" ,Action 24
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="https://digea.gr/cms/uploads/2021/11/image80-124.png" ,Action 24
 https://www.dailymotion.com/embed/video/x61fbhs?logo=0&hideInfos=1&related=0&autoplay=1|webdelaydig
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="https://action24.gr/wp-content/uploads/2019/12/ACTION-24-LOGO-TRANSPARENT-NEW.png" ,Action 24 (backup)
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="https://digea.gr/cms/uploads/2021/11/image80-124.png" ,Action 24 (backup)
 https://www.dailymotion.com/embed/video/x61fbhs?logo=0&hideInfos=1&related=0&autoplay=1|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TVM" tvg-logo="https://i.ibb.co/7gQWfqM/aeolos.jpg" ,AEOLOS
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
@@ -163,7 +163,7 @@ https://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
 https://s2.netmax-host.eu:2053/tvd/tvd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ENA CHANNEL" tvg-logo="http://enachannel.gr/uploads/logo.png" ,ENA CHANNEL
 http://176.9.123.140:1935/1c/stream/master.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="AE TV" tvg-logo="https://epsilontv.gr/wp-content/uploads/2016/10/Epsilon-logo.png" ,EPSILON TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="AE TV" tvg-logo="https://digea.gr/cms/uploads/2022/01/A.EPSILON-id-3030.jpg" ,EPSILON TV
 https://edge1.mystream.gr/video427009/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TILE EPILOGES" tvg-logo="http://www.eetep.gr/wp-content/uploads/2016/10/cus-tile-epiloges.png" ,Επιλογές tv
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
@@ -364,7 +364,7 @@ https://s1.cystream.net/live/faros2/chunks.m3u8
 https://dev.aftermind.xyz/city_channel.html|agentnodown$$start=source: '$$end=',$$replace=source: '$$replacewith=$$add=
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ" tvg-logo="http://vouli.tv/wp-content/uploads/2019/09/cropped-voulilogo-e1517760078658.png" ,Vouli.tv
 https://dev.aftermind.xyz/vouli.html|agentnodown$$start=source: '$$end=',$$replace=source: '$$replacewith=$$add=
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ" tvg-logo="https://digitaltv.com.cy/images/logo.png" ,Digital tv
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/zHMSz0d/digitaltv.png" ,Digital tv
 https://livestream-player.digitaltv.com.cy/v1/01804bc1b4c709df730731f9d43d/01804bc1bd6a09df73103e2450a3/DigitaltreeTVOpH_720PA.m3u8?txSecret=3d70b5a88c9f11a891501c56dda11283&txTime=62C23EE5
 
 

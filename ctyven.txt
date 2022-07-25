@@ -119,5 +119,5 @@ https://dev.aftermind.xyz/city_channel.html|agentnodown$$start=source: '$$end=',
 https://dev.aftermind.xyz/vouli.html|agentnodown$$start=source: '$$end=',$$replace=source: '$$replacewith=$$add=
 #EXTINF:-1 group-title="WEBTV" tvg-logo="https://www.seen.cy/wp-content/uploads/2020/12/seentranswhite-opa.png" ,SEEN seen.cy
 https://stream.seen.cy/hls/test.m3u8
-#EXTINF:-1 group-title="WEBTV" tvg-logo="https://digitaltv.com.cy/images/logo.png" ,Digital tv
+#EXTINF:-1 group-title="WEBTV" tvg-logo="https://i.ibb.co/zHMSz0d/digitaltv.png" ,Digital tv
 https://livestream-player.digitaltv.com.cy/v1/01804bc1b4c709df730731f9d43d/01804bc1bd6a09df73103e2450a3/DigitaltreeTVOpH_720PA.m3u8?txSecret=3d70b5a88c9f11a891501c56dda11283&txTime=62C23EE5
