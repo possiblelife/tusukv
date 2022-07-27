@@ -2,6 +2,9 @@
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ALPHA ====
 http://.....
 
+
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png", ΨΕΜΑΤΑ
+https://www.alphatv.gr/show/psemata/?vtype=player&vid=53103&showId=1371|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΣΑΣΜΟΣ
 https://www.alphatv.gr/show/sasmos/?vtype=player&showId=1299|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΑΣΕ ΜΑΣ ΡΕ ΜΑΜΑ
@@ -81,6 +84,9 @@ https://www.alphatv.gr/show/pame-paketo/?vtype=player&showId=834|webvod zoom=100
 #EXTINF:-1 group-title="SKAI" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== SKAI ====
 http://.....
 
+
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Άπιστος
+https://www.skaitv.gr/show/seires/apistos/1os-kuklos#tab1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Μόλις Χθες (2021-2022)
 https://www.skaitv.gr/show/seires/molis-chthes/sezon-2021-2022#tab1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,1821: Οι Ήρωες (2021-2022)
@@ -91,6 +97,8 @@ https://www.skaitv.gr/show/seires/8-lexeis/sezon-2020-2021#tab1|webvod zoom=100 
 https://www.skaitv.gr/show/seires/8-lexeis/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Θα Γίνει Της Πολυκατοικίας(2019-2020)
 https://www.skaitv.gr/show/seires/tha-ginei-tis-polukatoikias/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Survivor(2021-2022)
+https://www.skaitv.gr/show/psuchagogia/survivor/sezon-2021-2022#tab1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Survivor(2020-2021)
 https://www.skaitv.gr/show/psuchagogia/survivor/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,House Of Fame(2020-2021)
@@ -186,67 +194,92 @@ https://www.megatv.com/tvshows/224781/epeisodio-1-38/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ANT1 ====
 http://.....
 
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ
-https://vod.antenna.gr/#/shows/kai_oi_pantremenoi_echoun_psychi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Daddy Cool
+https://watch.antennaplus.gr/#/shows/daddy_cool|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΓΓΙΓΜΑ ΨΥΧΗΣ
-https://vod.antenna.gr/#/shows/aggigma_psychis|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/aggigma_psychis|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΓΡΙΕΣ ΜΕΛΙΣΣΕΣ
-https://vod.antenna.gr/#/shows/agries_melisses|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/agries_melisses|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Άκρως Οικογενειακόν
+https://watch.antennaplus.gr/#/shows/akros_oikogeneiakon|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΝ ΗΜΟΥΝ ΠΛΟΥΣΙΟΣ
-https://vod.antenna.gr/#/shows/an_imoun_plousios|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/an_imoun_plousios|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Βαμένα κόκκινα μαλλιά
+https://watch.antennaplus.gr/#/shows/vammena_kokkina_mallia|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Βότκα Πορτοκάλι
+https://watch.antennaplus.gr/#/shows/votka_portokaliu|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Για μια γυναίκα κι ένα αυτοκίνητο
+https://watch.antennaplus.gr/#/shows/gia_mia_gynaika_kai_ena_aftokinito|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
-https://vod.antenna.gr/#/shows/gynaika_choris_onoma|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/gynaika_choris_onoma|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΕΚΑ ΜΙΚΡΟΙ ΜΗΤΣΟΙ
-https://vod.antenna.gr/#/shows/deka_mikroi_mitsoi|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΙΔΥΜΑ ΦΕΓΓΑΡΙΑ
-https://vod.antenna.gr/#/shows/didyma_feggaria|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/deka_mikroi_mitsoi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔεΛηΓιαΝΝεΙΟ ΠαΡΘεΝαΓωΓειο
+https://watch.antennaplus.gr/#/shows/deligianneion_parthenagogeion|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΓΚΛΗΜΑΤΑ
-https://vod.antenna.gr/#/shows/egklimata|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/egklimata|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΚΕΙΝΕΣ ΚΙ ΕΓΩ
-https://vod.antenna.gr/#/shows/ekeines_ki_ego|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/ekeines_ki_ego|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ελλάς το Μεγαλείο σου
+https://watch.antennaplus.gr/#/shows/ellas_to_megaleio_sou|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ
 https://vod.antenna.gr/#/shows/ergazomeni_gynaika/videos|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΡΩΤΑΣ ΚΛΕΦΤΗΣ
-https://vod.antenna.gr/#/shows/erotas_kleftis|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/erotas_kleftis|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΑΓΑΠΗ ΗΡΘΕ ΑΠΟ ΜΑΚΡΙΑ
-https://vod.antenna.gr/#/shows/i_agapi_irthe_apo_makria|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΕΠΙΣΤΡΟΦΗ
-https://vod.antenna.gr/#/shows/i_epistrofi|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/i_agapi_irthe_apo_makria|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η Γέφυρα
+https://watch.antennaplus.gr/#/shows/i_gefyra|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η Πρόβα του νυφικού
-https://vod.antenna.gr/#/shows/i_prova_tou_nyfikou|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΦΑΜΙΛΙΑ
-https://vod.antenna.gr/#/shows/i_familia|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/i_prova_tou_nyfikou|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η Φαμίλια
+https://watch.antennaplus.gr/#/shows/i_familia/seasons/1/episode/i_familia-season-1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΗΛΙΟΣ
-https://vod.antenna.gr/#/shows/ilios|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/ilios|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ
+https://watch.antennaplus.gr/#/shows/kai_oi_pantremenoi_echoun_psychi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Κάτι χωρισμένα παλικάρια
+https://watch.antennaplus.gr/#/shows/kati_xorismena_palikaria|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΘΑ ΒΡΕΙΣ ΤΟ ΔΑΣΚΑΛΟ ΣΟΥ
-https://vod.antenna.gr/#/shows/tha_vreis_to_daskalo_sou|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/tha_vreis_to_daskalo_sou|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΙΩΑΝΝΑ ΤΗΣ ΚΑΡΔΙΑΣ
-https://vod.antenna.gr/#/shows/ioanna_tis_kardias|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/ioanna_tis_kardias|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ
-https://vod.antenna.gr/#/shows/konstantinou_kai_elenis|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/konstantinou_kai_elenis|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ
-https://vod.antenna.gr/#/shows/mi_mou_les_antio|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/mi_mou_les_antio|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΗΝ ΨΑΡΩΝΕΙΣ
-https://vod.antenna.gr/#/shows/min_psaroneis|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/min_psaroneis|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΠΡΟΥΣΚΟ
-https://vod.antenna.gr/#/shows/mprousko|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/mprousko|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ
-https://vod.antenna.gr/#/shows/oi_men_kai_oi_den|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/oi_men_kai_oi_den|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ
-https://vod.antenna.gr/#/shows/oi_stavloi_tis_erietas_zaimi|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/oi_stavloi_tis_erietas_zaimi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ο κίτρινος Φάκελος
+https://watch.antennaplus.gr/#/shows/o_kitrinos_fakelos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Παρθένα Ζωή
+https://watch.antennaplus.gr/#/shows/parthena_zoi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Παρουσιάστε
+https://watch.antennaplus.gr/#/shows/parousiaste|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ
-https://vod.antenna.gr/#/shows/peta_ti_friteza|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/peta_ti_friteza|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Σέρρες
+https://watch.antennaplus.gr/#/shows/serres|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Σμύρνη μου Αγαπημένη: Η Σειρά
+https://watch.antennaplus.gr/#/shows/smyrni_mou_agapimeni_i_seira|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΣΥΝΟΡΑ ΑΓΑΠΗΣ
-https://vod.antenna.gr/#/shows/synora_agapis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΑΜΑΜ
-https://vod.antenna.gr/#/shows/tamam|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/synora_agapis|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ
-https://vod.antenna.gr/#/shows/tis_agapis_machairia|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/tis_agapis_machairia|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ ΕΛΛΑΔΟΣ ΤΑ ΠΑΙΔΙΑ
-https://vod.antenna.gr/#/shows/tis_ellados_ta_paidia|webvod zoom=100 scroll=0,0
+https://watch.antennaplus.gr/#/shows/tis_ellados_ta_paidia|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΚΑΦΕ ΤΗΣ ΧΑΡΑΣ
-https://vod.antenna.gr/#/shows/to_kafe_tis_charas|webvod zoom=100 scroll=0,0
-
+https://watch.antennaplus.gr/#/shows/to_kafe_tis_charas|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Το Τρίτο Στεφάνι
+https://watch.antennaplus.gr/#/shows/to_trito_stefani|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Φίλα τον Βάτραχό σου
+https://watch.antennaplus.gr/#/shows/fila_ton_vatracho_sou|webvod zoom=100 scroll=0,0
 
 
 
@@ -254,6 +287,8 @@ https://vod.antenna.gr/#/shows/to_kafe_tis_charas|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="OPEN" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== OPEN ====
 http://.....
 
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Το κόκκινο ποτάμι
+https://www.tvopen.gr/tokokkinopotami|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Η τελευταία ώρα
 https://www.tvopen.gr/hteleytaiaora/videos|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,Σ' αγαπάω μεν... αλλά
@@ -297,6 +332,8 @@ https://www.tvopen.gr/joker/j2us/videos|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="STAR" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== STAR ====
 http://.....
 
+#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΤΡΙΑ ΜΙΛΙΑ
+https://www.star.gr/tv/seires/tria-milia|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,COOK BEEF
 https://www.star.gr/tv/psychagogia/cook-beef/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,MasterChef
