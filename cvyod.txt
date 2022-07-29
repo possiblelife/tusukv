@@ -1,75 +1,34 @@
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ANT1 ====
 http://.....
 
-
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+https://www.ant1live.com/webtv/seires|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Μια Φορά Κ' Έναν Καιρό
+https://www.ant1live.com/webtv/seires/mia-fora-k-enan-kairo|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Αίγια Φούξια
+https://www.ant1live.com/webtv/video-demand/aigia-fuxia/epeisodio-1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Δείξε μου το φίλο σου
+https://www.ant1live.com/webtv/seires/deixe-moy-filo-soy|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Φρέντο Καπουτσίνο
+https://www.ant1live.com/webtv/seires/frento-kapoytsino/epeisodio-1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Μελίαρτος
 https://www.ant1live.com/webtv/seires/meliartos/epeisodio-1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Το χάρτινο κουτί
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99838|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Εσύ... στον κόσμο σου (Οι ταινίες)
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99818|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Εσύ... στον κόσμο σου
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99808|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΗΛΙΟΣ
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99831|webvod zoom=100 scroll=0,0
+https://www.ant1live.com/webtv/seires/esy-ston-kosmo-soy/epeisodio-1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,La Pasta Pomilώri
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99789|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Οργή
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99809|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,MAMMA MIA
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99774|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Δίδυμα Φεγγάρια
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99755|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Τα πέντε κλειδιά
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99773|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Χωρίς Εσένα
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99736|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Πρώτη Σταγόνα
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=91383|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Πανσέληνος
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=5406|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Για την αγάπη σου
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=8422|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Οι Χωραϊτες
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=6478|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Santa Γιολάντα
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=16155|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Αίγια Φούξια
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=5352|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Βαλς με 12 Θεούς
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=35300|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Δείξε μου το φίλο σου
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=14184|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Εκείνο το καλοκαίρι...
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=35242|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΛΕΝΗ Η ΠΟΡΝΗ - ΕΝΑΣ ΑΓΓΕΛΟΣ ΣΤΗΝ ΚΟΛΑΣΗ
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=9045|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Λύκε, λύκε, είσαι εδώ;
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=16152|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Νιώσε με
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=33637|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ο κόσμος να χαλάσει
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99790|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Όμικρον Θετικό
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=89718|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ότι αγάπησα
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=16153|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΡΟΥΑ ΜΑΤ
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=89723|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Την Πάτησα
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=7537|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Το έβδομο κλειδί
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=16035|webvod zoom=100 scroll=0,0
+https://www.ant1live.com/webtv/seires/la-pasta-pomilori/epeisodio-1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Casa de Mikel
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99821|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Talk 2 Mika
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99832|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Μένω σπίτι - Μαθαίνω σπίτι
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99829|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Αλφα Chef
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=91360|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,1η Απριλίου - Η έναρξη του αγώνα της ΕΟΚΑ
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99782|webvod zoom=100 scroll=0,0
+https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-1-1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,MAMMA MIA
+https://www.ant1live.com/webtv/seires/mamma-mia|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ο κόσμος να χαλάσει
+https://www.ant1live.com/webtv/seires/o-kosmos-na-halasei|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Την Πάτησα
+https://www.ant1live.com/webtv/seires/tin-patisa|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Το Καφενείο
+https://www.ant1live.com/webtv/seires/kafeneio/epeisodio-1|webvod zoom=100 scroll=0,0
+
+
 
 
 
@@ -77,7 +36,8 @@ https://www.ant1.com.cy/webtv/show-page/episodes/?show=99782|webvod zoom=100 scr
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ALPHA ====
 http://.....
 
-
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,Η ΓΗ ΤΗΣ ΕΛΙΑΣ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΣΑΣΜΟΣ 
@@ -135,6 +95,8 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv|webvod z
 #EXTINF:-1 group-title="SIGMA" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== SIGMA ====
 http://.....
 
+#EXTINF:-1 group-title="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+https://www.sigmatv.com/shows/category/8|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Η Πεθερά (2020-2022)
 https://www.sigmatv.com/shows/pethera/episodes|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Άλλα λόγια θκειε παπά (2019)
@@ -190,8 +152,8 @@ https://www.sigmatv.com/shows/popikaiantzela/episodes/season/128|webvod zoom=100
 #EXTINF:-1 group-title="OMEGA" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== OMEGA ====
 http://.....
 
-#EXTINF:-1 group-title="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
-http://www.omegatv.com.cy/cgibin/hweb?-A=172212&-V=megatvshows|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+http://www.omegatv.com.cy/cgibin/hweb?-V=megatvshowsfull&_FSECTION=7010&-Sr&-dmegatvshows.html&_VLANGUAGE=gr&_VSECTION=7010|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΣΤΟ ΑΛΑΛΟΥΜ
 http://www.omegatv.com.cy/cgibin/hweb?-A=140126&-V=megatvshows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
@@ -232,6 +194,8 @@ http://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=megatvshows|webvod zoom=100 s
 #EXTINF:-1 group-title="RIK1" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== RIK1 ====
 http://.....
 
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+http://cybc.com.cy/video-on-demand/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Όμορφη μέρα κάθε μέρα
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%ba%ce%b1%ce%bb%ce%ae-%cf%83%ce%b1%cf%82-%ce%bc%ce%ad%cf%81%ce%b1-live/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Εμείς και ο κόσμος μας
