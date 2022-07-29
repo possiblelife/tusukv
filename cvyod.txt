@@ -3,7 +3,7 @@ http://.....
 
 
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Μελίαρτος
-https://www.ant1.com.cy/webtv/show-page/episodes/?show=99839|webvod zoom=100 scroll=0,0
+https://www.ant1live.com/webtv/seires/meliartos/epeisodio-1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Το χάρτινο κουτί
 https://www.ant1.com.cy/webtv/show-page/episodes/?show=99838|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Εσύ... στον κόσμο σου (Οι ταινίες)
