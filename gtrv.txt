@@ -28,7 +28,7 @@ https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD (ΑΠΑΙΤΕΊΤΑΙ ΣΥΝΔΕΣΗ ΣΤΗΝ ΙΣΤΟΣΕΛΙΔΑ ΤΟΥ ΑΝΤ1)
 https://watch.antennaplus.gr/#/live/ant1|webdeskepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/132|User-Agent=Dalvik/2.1.0 (Linux; U; Android 7.1.2; SM-G988N Build/QP1A.190711.020)
+http://lol.bz/h6ghQC0M/f1xY2Sq/44082|User-Agent=Dalvik/2.1.0 (Linux; U; Android 7.1.2; SM-G988N Build/QP1A.190711.020)
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1 EUROPE" tvg-logo="https://i.ibb.co/1bxqPfJ/eurant.jpg" ,ANT1 Europe
 http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,MEGA
@@ -54,7 +54,7 @@ http://www.anacon.org/app/chans/gr/open.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="maktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" ,M.TV HD (ΑΠΑΙΤΕΊΤΑΙ ΣΥΝΔΕΣΗ ΣΤΗΝ ΙΣΤΟΣΕΛΙΔΑ ΤΟΥ ΑΝΤ1)
 https://watch.antennaplus.gr/#/live/maktv|webdeskepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="maktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" ,M.TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2673|User-Agent=Dalvik/2.1.0 (Linux; U; Android 7.1.2; SM-G988N Build/QP1A.190711.020)
+http://lol.bz/h6ghQC0M/f1xY2Sq/44097|User-Agent=Dalvik/2.1.0 (Linux; U; Android 7.1.2; SM-G988N Build/QP1A.190711.020)
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="vouli" tvg-logo="https://goo.gl/m1ZYJB" ,ΒΟΥΛΗ
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://goo.gl/m1ZYJB" ,ΒΟΥΛΗ2
