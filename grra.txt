@@ -791,7 +791,7 @@ http://s2.onweb.gr:8624/;
 #EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/cosmosserres.png" ,Cosmos Radio 93
 http://cast5.magicstreams.gr:8132/;
 #EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/noizeradio.png" ,Noize Radio 93.5
-http://live.noizeradio.gr:7004/;listen.pls;listen.pls
+http://live.noizeradio.gr:7004/;listen.pls
 #EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/radio1serres.png" ,Radio 1 101
 http://s3.onweb.gr:8814/;
 #EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/ERT-Serres.png" ,ΕΡΤ Σερρών 96.4
