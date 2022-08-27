@@ -899,10 +899,6 @@ http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 http://123tvnow.com/watch/logo-tv/|webdelayalldig$$delay=1
 #EXTINF:-1 group-title="USA"  tvg-id="46947" tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/12/logo-tv-grid-logo-1.jpg?w=300&h=200&crop=1" ,Logo TV [Alternate]
 httphost://$http-raw=http://123tvnow.com/watch/logo-tv/$http-refferer=http://123tvnow.com/watch/logo-tv/
-#EXTINF:-1 group-title="Sports" tvg-id="76219" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnlhn-269x151.png" ,Longhorn Network (ESPNLHN)
-http://123tvnow.com/watch/longhorn-network-espnlhn/|webdelayalldig$$delay=1
-#EXTINF:-1 group-title="Sports" tvg-id="76219" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnlhn-269x151.png" ,Longhorn Network (ESPNLHN)[Alternate]
-httphost://$http-raw=http://123tvnow.com/watch/longhorn-network-espnlhn/$http-refferer=http://123tvnow.com/watch/longhorn-network-espnlhn/
 #EXTINF:-1 group-title="Sports"  tvg-logo="https://metv.org/wp-content/uploads/2017/08/metv-3d-logo2.png" ,Middle East Television (METV)
 http://cdg3.edge.tmed.pw/metv/abr_live/metv/live_1024p/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="62079"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB NETWORK [Option-1](NORD VPN REQUIRED)
