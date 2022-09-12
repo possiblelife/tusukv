@@ -357,6 +357,12 @@ https://www.youtube.com/embed/tZ-g7UJc2Yg
 https://www.eurotv.gr/live-tv/|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/rygzGN0/edtv.png",ΕΔ ΑΝ ΜΑΚ ΘΡΑΚΗ
 https://s2.netmax-host.eu:2053/tvd/tvd/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="http://www.gnomi.eu/images/gnomi_logo.png",gnomi TV
+https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/dtqb3pV/Aktina-TV.png",Aktina web TV
+https://5e8dfce185af1.streamlock.net/AktinaWebTv/AktinaWebTv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu88DT03p6zMwGXW7TM5zGBxH5-6tLSblAvFwKhH=s48-c-k-c0x00ffffff-no-rj",Naftemporiki TV
+https://www.youtube.com/embed/6S_kYm21G1I
 
 
 
