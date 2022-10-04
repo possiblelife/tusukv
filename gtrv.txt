@@ -166,7 +166,7 @@ https://www.diontv.gr/webtv/|webdig
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DIKTYO TV" tvg-logo="https://diktyotv.gr/wp-content/themes/yootheme/cache/logo-diktyo-inv-3245e176.webp" ,ΔΥΚΤΙΟ (backup)
 https://diktyotv.gr/live/|webdig
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DIKTYO" tvg-logo="https://upload.wikimedia.org/wikipedia/el/d/d3/DIKTYO1_logo_2015.png" ,DIKTYO 1
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DIKTYO" tvg-logo="https://i.ibb.co/LpQsDLg/diktyo1.jpg" ,DIKTYO 1
 https://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="ED TV" tvg-logo="https://i.ibb.co/rygzGN0/edtv.png",ΕΔ ΑΝ ΜΑΚ ΘΡΑΚΗ
 https://s2.netmax-host.eu:2053/tvd/tvd/playlist.m3u8
