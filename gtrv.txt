@@ -407,6 +407,8 @@ https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://netmaxtv.com/wp-content/uploads/2020/07/forweb.png" ,Netmax TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/2kyv1K4/download.png" ,DTV 6 (Dipolo TV 6)
+https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 
 
 
@@ -463,8 +465,6 @@ https://vod.streams.ovh:3528/stream/play.m3u8
 https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.ibb.co/jVRvgqt/red-mus.jpg" ,Red Music
 http://s2.netmax-host.eu:5062/redlive/redlive/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.ibb.co/2kyv1K4/download.png" ,DTV 6 (Dipolo TV 6)
-https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
@@ -473,10 +473,8 @@ http://.....
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,Smile
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgOSA1VHw2sk1iyncECvCtekvLFZqOgfDKM5mjrQ=s48-c-k-c0x00ffffff-no-rj" ,ALL TIME CLASSIC MOMENTS (YouTube)
-https://www.youtube.com/embed/oX8vayzXgYw
-
-
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="http://tv.10dailythings.com/images/channels/GR/wb-kids/normal.png" ,WB KIDS
+https://d807d636299c41678ab04e3ae475f818.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-Digitaltree/0dac99ff-0171-4204-809c-c5f65a660e05/0.m3u8
 
 
 
