@@ -115,7 +115,7 @@ http://89.163.217.252:9400/stream
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="http://resources.live24.gr/resources/images/stations/bdabf03f-7991-4bb0-9072-bc60a902c108.png" ,Ertopen 106.7
 http://netradio.live24.gr/erasport
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/bluespacefmlogo1072.png" ,Blue Space 107.2
-http://91.121.222.81:8104/stream
+https://sp3.streams.ovh/8028/stream
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/a100.png" ,A100 107.4
 http://bestgreek.info:8104/;
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/velvetfm.png" ,Velvet.Fm
