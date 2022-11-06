@@ -3,12 +3,18 @@ http://.....
 
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.ant1live.com/webtv/seires|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Passenger
+https://www.ant1live.com/webtv/psyhagogia/passenger|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Σαλώμη
+https://www.ant1live.com/webtv/seires/salomi/epeisodio-1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Μια Φορά Κ' Έναν Καιρό
-https://www.ant1live.com/webtv/seires/mia-fora-k-enan-kairo|webvod zoom=100 scroll=0,0
+https://www.ant1live.com/webtv/seires/mia-fora-k-enan-kairo/epeisodio-1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Οργή
+https://www.ant1live.com/webtv/seires/orgi/epeisodio-1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Εκείνο το Καλοκαίρι
+https://www.ant1live.com/webtv/video-demand/ekeino-kalokairi/epeisodio-1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Αίγια Φούξια
 https://www.ant1live.com/webtv/video-demand/aigia-fuxia/epeisodio-1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Δείξε μου το φίλο σου
-https://www.ant1live.com/webtv/seires/deixe-moy-filo-soy|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Φρέντο Καπουτσίνο
 https://www.ant1live.com/webtv/seires/frento-kapoytsino/epeisodio-1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Μελίαρτος
@@ -19,18 +25,16 @@ https://www.ant1live.com/webtv/seires/esy-ston-kosmo-soy/epeisodio-1|webvod zoom
 https://www.ant1live.com/webtv/seires/la-pasta-pomilori/epeisodio-1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Casa de Mikel
 https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-1-1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,MAMMA MIA
-https://www.ant1live.com/webtv/seires/mamma-mia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ο κόσμος να χαλάσει
-https://www.ant1live.com/webtv/seires/o-kosmos-na-halasei|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Την Πάτησα
-https://www.ant1live.com/webtv/seires/tin-patisa|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Το Καφενείο
 https://www.ant1live.com/webtv/seires/kafeneio/epeisodio-1|webvod zoom=100 scroll=0,0
-
-
-
-
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Οι Χωραϊτες
+https://www.ant1live.com/webtv/video-demand/oi-horaites/epeisodio-1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Νιώσε Με
+https://www.ant1live.com/webtv/seires/niose-me/epeisodio-1|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ήλιος
+https://www.ant1live.com/webtv/seires/ilios/epeisodio-1-0|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Εσύ Στον Κόσμο Σου
+https://www.ant1live.com/webtv/seires/esy-ston-kosmo-soy/epeisodio-1|webvod zoom=100 scroll=0,0
 
 
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ALPHA ====
@@ -38,6 +42,11 @@ http://.....
 
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires|webvod zoom=100 scroll=0,0
+
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΥΤΗ Η ΝΥΧΤΑ ΜΕΝΕΙ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/nyxta/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/paradeisos/webtv|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,Η ΓΗ ΤΗΣ ΕΛΙΑΣ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΣΑΣΜΟΣ 
@@ -97,6 +106,9 @@ http://.....
 
 #EXTINF:-1 group-title="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.sigmatv.com/shows/category/8|webvod zoom=100 scroll=0,0
+
+#EXTINF:-1 group-title="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Ανεράδες
+https://www.sigmatv.com/shows/anerades/episodes|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Η Πεθερά (2020-2022)
 https://www.sigmatv.com/shows/pethera/episodes|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Άλλα λόγια θκειε παπά (2019)
@@ -196,24 +208,24 @@ http://.....
 
 #EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 http://cybc.com.cy/video-on-demand/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Κυπριώτικα Σκετς
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%ba%cf%85%cf%80%cf%81%ce%b9%cf%8e%cf%84%ce%b9%ce%ba%ce%b1-%cf%83%ce%ba%ce%b5%cf%84%cf%82/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Ειρήνη Πάσι
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%b5%ce%b9%cf%81%ce%ae%ce%bd%ce%b7-%cf%80%ce%ac%cf%83%ce%b9/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Τρικυμία
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%84%cf%81%ce%b9%ce%ba%cf%85%ce%bc%ce%af%ce%b1/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Σε ξένα Χέρια
+http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%83%ce%b5-%ce%be%ce%ad%ce%bd%ce%b1-%cf%87%ce%ad%cf%81%ce%b9%ce%b1/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Όμορφη μέρα κάθε μέρα
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%ba%ce%b1%ce%bb%ce%ae-%cf%83%ce%b1%cf%82-%ce%bc%ce%ad%cf%81%ce%b1-live/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Εμείς και ο κόσμος μας
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%b5%ce%bc%ce%b5%ce%af%cf%82-%ce%ba%ce%b1%ce%b9-%ce%bf-%ce%ba%cf%8c%cf%83%ce%bc%ce%bf%cf%82-%ce%bc%ce%b1%cf%82/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Χρυσές Συνταγές
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%87%cf%81%cf%85%cf%83%ce%ad%cf%82-%cf%83%cf%85%ce%bd%cf%84%ce%b1%ce%b3%ce%ad%cf%82/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Γυναίκα
-http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%b3%cf%85%ce%bd%ce%b1%ce%af%ce%ba%ce%b1/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Happy Hour
-http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/happy-hour/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Καμώματα τζι αρώματα
-http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%ba%ce%b1%ce%bc%cf%8e%ce%bc%ce%b1%cf%84%ce%b1-%cf%84%ce%b6%ce%b9-%ce%b1%cf%81%cf%8e%ce%bc%ce%b1%cf%84%ce%b1/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Το Μυστικό της Πεταλούδας
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%84%ce%bf-%ce%bc%cf%85%cf%83%cf%84%ce%b9%ce%ba%cf%8c-%cf%84%ce%b7%cf%82-%cf%80%ce%b5%cf%84%ce%b1%ce%bb%ce%bf%cf%8d%ce%b4%ce%b1%cf%82/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Χάλκινα Χρόνια
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%87%ce%ac%ce%bb%ce%ba%ce%b9%ce%bd%ce%b1-%cf%87%cf%81%cf%8c%ce%bd%ce%b9%ce%b1/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Ο πιο αδύναμος κρίκος
-http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%ce%bf-%cf%80%ce%b9%ce%bf-%ce%b1%ce%b4%cf%8d%ce%bd%ce%b1%ce%bc%ce%bf%cf%82-%ce%ba%cf%81%ce%af%ce%ba%ce%bf%cf%82/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Παραδοσιακή Βραδιά
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%80%ce%b1%cf%81%ce%b1%ce%b4%ce%bf%cf%83%ce%b9%ce%b1%ce%ba%ce%ae-%ce%b2%cf%81%ce%b1%ce%b4%ce%b9%ce%ac-%cf%83%cf%84%ce%bf-%cf%81%ce%b9%ce%ba/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK1" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Μένω σπίτι και μαθαίνω
