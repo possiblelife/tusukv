@@ -57,6 +57,8 @@ http://www.alphacyprus.com.cy/program|webview zoom=100 scroll=0,300
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 (OPTION 1)
 https://www.ant1live.com/webtv/live|webdelayalldig
+#EXTINF:-1 group-title="CYPRUS"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 (OPTION 1) - ALTERNATE
+https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/ant1cyprus.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - ANT1
