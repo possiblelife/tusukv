@@ -12,7 +12,7 @@ http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|webdeskdig
 http://cybc.com.cy/schedule/|webview zoom=100 scroll=0,6200
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,RIK1 (OPTION 1)[ONLY FOR CYPRUS]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdeskdig
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdelaydeskdig$$delay=1
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,RIK1 (OPTION 1) -ALTERNATE[ONLY FOR CYPRUS]
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,RIK1 (OPTION 2) (Click "PLAY VIDEO" between ads)
@@ -21,7 +21,7 @@ http://www.anacon.org/app/chans/cy/rik1cyprus.php|webview zoom=100 scroll=0,300
 http://cybc.com.cy/schedule/|webview zoom=100 scroll=0,1900
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" ,RIK2 (OPTION 1)[ONLY FOR CYPRUS]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdeskdig
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdelaydeskdig$$delay=1
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" ,RIK2 (OPTION 1) -ALTERNATE[ONLY FOR CYPRUS]
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" ,RIK2 (OPTION 2) (Click "PLAY VIDEO" between ads)
@@ -30,7 +30,7 @@ http://www.anacon.org/app/chans/cy/rik2.php|webview zoom=100 scroll=0,300
 http://cybc.com.cy/schedule/|webview zoom=100 scroll=0,3000
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" ,RIK HD[ONLY FOR CYPRUS]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webdeskdig
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webdelaydeskdig$$delay=1
 #EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" ,RIK HD -ALTERNATE[ONLY FOR CYPRUS]
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webview zoom=100 scroll=0,300
  
