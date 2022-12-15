@@ -6,25 +6,25 @@ http://www.allaboutandroid.gr/wp-content/uploads/2015/02/10362372_31926458828042
 http://.....
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" ,ΕΡΤ1 WebTV (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
-https://www.ertflix.gr/epg/now-on-tv|webepg zoom=100 scroll=0,0
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="https://i.ibb.co/c6gWKyh/ERT2.jpg" ,ΕΡΤ2 WebTV (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
-https://www.ertflix.gr/epg/now-on-tv|webepg zoom=100 scroll=0,0
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="https://i.ibb.co/5YQmVqj/ERT3.jpg" ,ΕΡΤ3 WebTV  (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
-https://www.ertflix.gr/epg/now-on-tv|webepg zoom=100 scroll=0,0
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/2Z6rFsL/ERT-WORLD.jpg" ,ΕΡΤ WORLD WebTV
-https://www.ertflix.gr/epg/now-on-tv|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" ,ONE TV
-https://www.onetv.gr/|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,MEGA
-https://www.megatv.com/live/|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,SKAI
-https://www.skaitv.gr/live|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="https://i.ibb.co/7Gj7KTj/star.jpg" ,STAR HD
-https://www.star.gr/tv/live-stream|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ALPHA
-https://www.alphatv.gr/live/|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="OPEN BEYOND" tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" ,OPEN Beyond TV
-https://www.tvopen.gr/live|webepg zoom=100 scroll=0,0
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" ,ONE TV WebTV (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,MEGA WebTV (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,SKAI WebTV (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="https://i.ibb.co/7Gj7KTj/star.jpg" ,STAR HD WebTV (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+http://livestar.siliconweb.com/media/star1/star1.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ALPHA WebTV (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="OPEN BEYOND" tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" ,OPEN Beyond TV WebTV (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="vouli" tvg-logo="https://goo.gl/m1ZYJB" ,ΒΟΥΛΗ
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://goo.gl/m1ZYJB" ,ΒΟΥΛΗ2
