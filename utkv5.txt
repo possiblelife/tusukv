@@ -363,60 +363,60 @@ https://www.youtube.com/watch?v=9Auq9mYxFEE
 #EXTINF:-1 group-title="Entertainment"  tvg-logo="http://tvnews.by/uploads/posts/2014-10/1413546329_World_Fashion.png"  ,World Fashion
 https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Main Events" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" ,Sky Sports Main Event [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-38.php|weballdig
+https://daddyhd.com/embed/stream-38.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Main Events" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" ,Sky Sports Main Event [Server 2][Advance MODE]
 https://sportsonline.to/channels/hd/hd1.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Main Events" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" ,Sky Sports Main Event [Server 3][Advance MODE]
-https://cdn2.crichd.pro/embed2.php?id=skyfb&q=Sky%20Sports%20Football|weballdig
+https://crichdplayer.xyz/embed2.php?id=skyfb&q=Sky%20Sports%20Football|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" ,Sky Sports F1 [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-60.php|weballdig
+https://daddyhd.com/embed/stream-60.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" ,Sky Sports F1 [Server 2][Advance MODE]
-https://cdn2.crichd.pro/embed2.php?id=skyspf1&q=Sky Sports F1|weballdig
+https://crichdplayer.xyz/embed2.php?id=skyspf1&q=Sky Sports F1|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Cricket" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3458751_sky-sports-cricket-hd-live-online-sky-sports.png" ,Sky Sports Cricket [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-65.php|weballdig
+https://daddyhd.com/embed/stream-65.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Cricket" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3458751_sky-sports-cricket-hd-live-online-sky-sports.png" ,Sky Sports Cricket [Server 2][Advance MODE]
-https://cdn2.crichd.pro/embed2.php?id=skysp2&q=Sky Sports Cricket|weballdig
+https://crichdplayer.xyz/embed2.php?id=skysp2&q=Sky Sports Cricket|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports News" tvg-logo="https://www.laps.careers/wp-content/uploads/2018/05/sky-sports-news-ipad-app-logo1.jpg" ,Sky Sports News [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-366.php|weballdig
+https://daddyhd.com/embed/stream-366.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports News" tvg-logo="https://www.laps.careers/wp-content/uploads/2018/05/sky-sports-news-ipad-app-logo1.jpg" ,Sky Sports News [Server 2][Advance MODE]
-https://cdn2.crichd.pro/embed2.php?id=skynews&q=Sky Sports News|weballdig
+https://crichdplayer.xyz/embed2.php?id=skynews&q=Sky Sports News|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Premier League" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" ,Sky Sports Premier League [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-130.php|weballdig
+https://daddyhd.com/embed/stream-130.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Premier League" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" ,Sky Sports Premier League [Server 2][Advance MODE]
-https://cdn2.crichd.pro/embed2.php?id=skysp5&q=Sky Sports Premier League|weballdig
+https://crichdplayer.xyz/embed2.php?id=skysp5&q=Sky Sports Premier League|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Premier League" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" ,Sky Sports Premier League [Server 3][Advance MODE]
 https://sportsonline.to/channels/hd/hd3.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Football" tvg-logo="https://lh3.googleusercontent.com/nwUWJoSto_JpXbFt5IBZ_1O0_E5do6Wt48VTZI588oKDypv25YHtd0Vx4udnHimtvTs" ,Sky Sports Football [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-35.php|weballdig
+https://daddyhd.com/embed/stream-35.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Football" tvg-logo="https://lh3.googleusercontent.com/nwUWJoSto_JpXbFt5IBZ_1O0_E5do6Wt48VTZI588oKDypv25YHtd0Vx4udnHimtvTs" ,Sky Sports Football [Server 2][Advance MODE]
-https://cdn2.crichd.pro/embed2.php?id=skyfb&q=Sky Sports Football|weballdig
+https://crichdplayer.xyz/embed2.php?id=skyfb&q=Sky Sports Football|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSGOLF.png" ,Sky Sports Golf [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-70.php|weballdig
+https://daddyhd.com/embed/stream-70.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSGOLF.png" ,Sky Sports Golf [Server 2][Advance MODE]
-https://cdn2.crichd.pro/embed2.php?id=skysp4&q=Sky Sports Golf|weballdig
+https://crichdplayer.xyz/embed2.php?id=skysp4&q=Sky Sports Golf|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Arena" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsarena_130x130.png" ,Sky Sports Arena [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-36.php|weballdig
+https://daddyhd.com/embed/stream-36.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Arena" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsarena_130x130.png" ,Sky Sports Arena [Server 2][Advance MODE]
-https://cdn2.crichd.pro/embed2.php?id=skyarena&q=Sky Sports Arena|weballdig
+https://crichdplayer.xyz/embed2.php?id=skyarena&q=Sky Sports Arena|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Racing UK" tvg-logo="https://static1.squarespace.com/static/5767bd2120099e297415297a/t/5cdaa9b724a694cb4996e3f2/1557834178044/Sky+Sports+Racing+Logo+Square.png?format=1500w" ,Sky Sports Racing UK [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-554.php|weballdig
+https://daddyhd.com/embed/stream-554.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Action" tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" ,Sky Sports Action [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-37.php|weballdig
+https://daddyhd.com/embed/stream-37.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Action" tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" ,Sky Sports Action [Server 2][Advance MODE]
-https://cdn2.crichd.pro/embed2.php?id=skysp3&q=Sky Sports Action|weballdig
+https://crichdplayer.xyz/embed2.php?id=skysp3&q=Sky Sports Action|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Mix" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png" ,Sky Sports Mix [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-449.php|weballdig
+https://daddyhd.com/embed/stream-449.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Mix" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png" ,Sky Sports Mix [Server 2][Advance MODE]
-https://cdn2.crichd.pro/embed2.php?id=skymix&q=Sky Sports Mix|weballdig
+https://crichdplayer.xyz/embed2.php?id=skymix&q=Sky Sports Mix|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 1" tvg-logo="https://icdb.tv/images/f712337727fd8922f45402fa933ad664.jpg" ,BT Sport 1 [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-31.php|weballdig
+https://daddyhd.com/embed/stream-31.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 1" tvg-logo="https://icdb.tv/images/f712337727fd8922f45402fa933ad664.jpg" ,BT Sport 1 [Server 2][Advance MODE]
-https://cdn2.crichd.pro/embed2.php?id=btsp1&q=BT Sport 1|weballdig
+https://crichdplayer.xyz/embed2.php?id=btsp1&q=BT Sport 1|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 2" tvg-logo="https://mytv.afrik.live/uploads/fa0f60da30f133c1692cc4ea0adb6e12.png" ,BT Sport 2 [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-32.php|weballdig
+https://daddyhd.com/embed/stream-32.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 2" tvg-logo="https://mytv.afrik.live/uploads/fa0f60da30f133c1692cc4ea0adb6e12.png" ,BT Sport 2 [Server 2][Advance MODE]
-https://cdn2.crichd.pro/embed2.php?id=btsp2&q=BT Sport 2|weballdig
+https://crichdplayer.xyz/embed2.php?id=btsp2&q=BT Sport 2|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" ,BT Sport 3 [Server 1][Advance MODE]
-https://livetvon.click/embed/stream-33.php|weballdig
+https://daddyhd.com/embed/stream-33.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" ,BT Sport 3 [Server 2][Advance MODE]
-https://cdn2.crichd.pro/embed2.php?id=btsp3&q=BT Sport 3|weballdig
+https://crichdplayer.xyz/embed2.php?id=btsp3&q=BT Sport 3|weballdig

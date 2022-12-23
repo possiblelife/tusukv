@@ -375,7 +375,7 @@ https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 https://infopatra.gr/?page_id=56514|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/3yrTWp2/pro-news.png",PRONEWS tv 
 https://storemusic.top:8222/superb33/superb33/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://static.wixstatic.com/media/ed2185_6064e4eff0df4291b52073f656012700~mv2.png/v1/fill/w_189,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20NEWS.png" ,BCI News
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://static.wixstatic.com/media/ed2185_6064e4eff0df4291b52073f656012700~mv2.png/v1/fill/w_189,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20NEWS.png" ,BCI News
 https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
 
 
