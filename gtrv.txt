@@ -27,6 +27,8 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/pla
 http://www.anacon.org/app/chans/gr/ert3s2image.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD (ΑΠΑΙΤΕΊΤΑΙ ΣΥΝΔΕΣΗ ΣΤΗΝ ΙΣΤΟΣΕΛΙΔΑ ΤΟΥ ΑΝΤ1)
 https://watch.antennaplus.gr/#/live/ant1|webdeskepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
+https://antenna-elemental.akamaized.net/cmaf/live/2097595/elemental/ant1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1 EUROPE" tvg-logo="https://i.ibb.co/1bxqPfJ/eurant.jpg" ,ANT1 Europe
 http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,MEGA
