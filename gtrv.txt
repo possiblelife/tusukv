@@ -288,7 +288,8 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 http://www.anacon.org/app/chans/cy/mall.html|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Berginacy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" ,ΒΕΡΓΙΝΑ ΤV
 http://www.anacon.org/app/chans/cy/verginacyimage.php|webview zoom=100 scroll=0,300
-
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="https://i.ibb.co/6YDnHwS/bluesky.jpg" ,Bluesky Cyprus
+http://www.anacon.org/app/chans/cy/blueskycyprus.php|webview zoom=100 scroll=0,300
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ ====

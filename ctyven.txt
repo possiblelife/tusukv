@@ -83,6 +83,8 @@ https://www.cyta.com.cy/tv-guide/en|webview zoom=100 scroll=0,300
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="CYPRUS"  tvg-id="Berginacy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" ,BERGINA ΤV
 http://www.anacon.org/app/chans/cy/verginacyimage.php|webview zoom=100 scroll=0,300
+#EXTINF:-1 group-title="CYPRUS"  tvg-logo="https://i.ibb.co/6YDnHwS/bluesky.jpg" ,Bluesky Cyprus
+http://www.anacon.org/app/chans/cy/blueskycyprus.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="CYPRUS" tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,Smile
 http://www.anacon.org/app/chans/cy/smilecy.html|refererdown$$referer=http://www.anacon.org/app/chans/cy/smilecy.php$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,Smile -ALTERNATE
