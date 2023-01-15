@@ -273,9 +273,9 @@ https://www.alphacyprus.com.cy/live|agentnodown$$start=hls: '$$end=',$$replace=h
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΛΦΑ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/alphacyprus.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1CY" tvg-logo="https://goo.gl/q5aDRg" ,ΑΝΤΕΝΝΑ
-https://www.ant1live.com/webtv/live|webdelayalldig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1CY" tvg-logo="https://goo.gl/q5aDRg" ,ΑΝΤΕΝΝΑ - ΕΝΑΛΛΑΚΤΙΚΟ
 https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1CY" tvg-logo="https://goo.gl/q5aDRg" ,ΑΝΤΕΝΝΑ - ΕΝΑΛΛΑΚΤΙΚΟ
+https://www.ant1live.com/webtv/live|webdelayalldig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="ANT1CY" tvg-logo="https://goo.gl/q5aDRg" ,ΑΝΤΕΝΝΑ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/ant1cyprus.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Capital" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,ΚΑΠΙΤΑΛ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)

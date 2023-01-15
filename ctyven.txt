@@ -34,7 +34,7 @@ http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webdelaydeskdig$$delay=1
 #EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" ,RIK HD -ALTERNATE[ONLY FOR CYPRUS]
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webview zoom=100 scroll=0,300
  
-#EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,OMEGA  (OPTION 1)
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,OMEGA (OPTION 1)
 http://www.omegatv.com.cy/live/|agentnodown$$start="src": "$$end="}$$replace="src": "$$replacewith=$$add=
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,OMEGA (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/megacy.php|webview zoom=100 scroll=0,300
@@ -55,10 +55,10 @@ http://www.anacon.org/app/chans/cy/alphacyprus.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Alpha
 http://www.alphacyprus.com.cy/program|webview zoom=100 scroll=0,300
  
-#EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 (OPTION 1)
-https://www.ant1live.com/webtv/live|webdelayalldig
-#EXTINF:-1 group-title="CYPRUS"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 (OPTION 1) - ALTERNATE
+#EXTINF:-1 group-title="CYPRUS"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 (OPTION 1)
 https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 (OPTION 1) - ALTERNATE
+https://www.ant1live.com/webtv/live|webdelayalldig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/ant1cyprus.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - ANT1
