@@ -32,7 +32,7 @@ http://r1.cloudskep.com/cybcr/cybc1/icecast.audio
 #EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/RadioCy.png" ,Radio Cyprus 97.3
 http://eco.onestreaming.com:8486/;
 #EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/nrjenergy.png" ,NRJ Cyprus 99.0
-http://shout.kalsedia.com:1045/;
+https://n02.radiojar.com/ke923q0hhf9uv
 #EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://i.ibb.co/WDwVJ3K/new-logo-radio-proto-black-1200-x-1200.jpg" ,ΡΑΔΙΟ ΠΡΩΤΟ 99.3
 https://live3.istoikona.net:18191/stream
 #EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/njoy995.png" ,NJOY 99.5
