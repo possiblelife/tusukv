@@ -40,7 +40,7 @@ https://www.filmon.com/tv/bbc-one|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 HD UK ONLY[Option-4]
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="Entertainment"  tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 [Option-5]
-https://easytelly.eu/2020/03/18/bbc-one-london/|weballdig
+https://daddyhd.com/stream/stream-356.php|weballdig
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 [Option-1]
 https://iframe.tv/lala/index.php?stream=86?sid=135695|weballdig
@@ -51,12 +51,16 @@ https://www.filmon.com/tv/bbc-two|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 UK ONLY[Option-4]
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 [Option-5] 
-https://easytelly.eu/2021/01/29/bbc-two/|weballdig
+https://daddyhd.com/stream/stream-357.php|weballdig
 
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC3"  ,BBC 3 
+https://daddyhd.com/stream/stream-358.php|weballdig
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 FILMON [Option-1]
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 [Option-1]
+https://daddyhd.com/stream/stream-359.php|weballdig
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 FILMON [Option-2]
 https://www.filmon.com/tv/cbeebiesbbc-four|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 UK ONLY [Option-2]
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC4 HD" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 UK ONLY [Option-3]
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
@@ -144,9 +148,11 @@ https://www.filmon.com/tv/bbc-parliament|exodig
 #EXTINF:-1 group-title="News" tvg-id="BBC Parliament" tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament UK ONLY [Option-4]
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News FILMON [Option-1] 
+#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-1] 
+https://daddyhd.com/stream/stream-349.php|weballdig
+#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News FILMON [Option-2] 
 https://www.filmon.com/tv/bbc-news|exodig
-#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News UK ONLY[Option-2]
+#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News UK ONLY[Option-3]
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
@@ -164,25 +170,28 @@ https://iframe.tv/lala/index.php?stream=116?sid=357083|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 FILMON [Option-2]
 https://www.filmon.com/tv/itv1|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-3]
-https://easytelly.eu/2021/04/02/itv/|weballdig
+https://daddyhd.com/stream/stream-350.php|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia +1" tvg-logo="https://static.filmon.com/assets/channels/1817/extra_big_logo.png" ,ITV 1+1 FILMON
 https://www.filmon.com/tv/itv-plus-1|exodig
 
 
 
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 FILMON [Option-1]
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-1]
+https://iframe.tv/lala/index.php?stream=117?sid=1438632|weballdig
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 FILMON [Option-2]
 https://www.filmon.com/tv/itv2|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-2] 
-https://easycatchup.eu/watch.php?stream=itv2|weballdig
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-3] 
+https://daddyhd.com/stream/stream-351.php|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2 +1" tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1 FILMON
 https://www.filmon.com/tv/itv2-plus-1|exodig
 
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 FILMON [Option-1]
 https://www.filmon.com/tv/itv3|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 [Option-2]
-https://easycatchup.eu/watch.php?stream=itv3|weballdig
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 FILMON [Option-2]
+https://iframe.tv/lala/index.php?stream=118?sid=176|weballdig
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 [Option-3]
+https://daddyhd.com/stream/stream-352.php|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3+1" tvg-logo="https://static.filmon.com/assets/channels/1823/extra_big_logo.png" ,ITV 3+1 FILMON
 https://www.filmon.com/tv/itv3-plus-1|exodig
 
@@ -192,7 +201,7 @@ https://iframe.tv/lala/index.php?stream=119?sid=308889|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 FILMON [Option-2]
 https://www.filmon.com/tv/itv4|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 [Option-3]
-https://easycatchup.eu/watch.php?stream=itv4|weballdig
+https://daddyhd.com/stream/stream-353.php|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4 + 1" tvg-logo="https://static.filmon.com/assets/channels/1826/extra_big_logo.png" ,ITV 4+1 FILMON
 https://www.filmon.com/tv/itv4-plus-1|exodig
 
