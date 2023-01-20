@@ -110,9 +110,9 @@ http://.....
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="4Ε" tvg-logo="https://goo.gl/2eMR7A" ,4E (Κ. ΜΑΚΕΔΟΝΙΑΣ )
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="https://i.ibb.co/QXfLP4j/action24.png" ,Action 24 (backup) (ΑΤΤΙΚΗΣ)
-https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="https://i.ibb.co/QXfLP4j/action24.png" ,Action 24 (ΑΤΤΙΚΗΣ)
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="https://i.ibb.co/QXfLP4j/action24.png" ,Action 24 (backup) (ΑΤΤΙΚΗΣ)
 https://www.action24.gr/live-stream/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TVM" tvg-logo="https://i.ibb.co/7gQWfqM/aeolos.jpg" ,AEOLOS (Β.Α. ΑΙΓΑΙΟΥ)
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
