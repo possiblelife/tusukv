@@ -2,7 +2,13 @@
 #EXTINF:-1 group-title="Info"   tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" , ===USA TV===
 https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2b/a4/62/2ba4620b-8049-4ea9-97ba-06f9792b8d70/pr_source.png/246x0w.jpg|webepg zoom=100 scroll=0,200
 
-#EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , Message From Developer
+#EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , IMPORANT MESSAGE, PLEASE READ
+https://pastebin.com/raw/SP6QZEAD|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , IMPORANT MESSAGE, PLEASE READ
+https://pastebin.com/raw/SP6QZEAD|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , IMPORANT MESSAGE, PLEASE READ
+https://pastebin.com/raw/SP6QZEAD|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , IMPORANT MESSAGE, PLEASE READ
 https://pastebin.com/raw/SP6QZEAD|webepg zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="Info"   tvg-logo="https://cdn.xl.thumbs.canstockphoto.com/important-vector-stamp-isolated-on-white-eps-vector_csp15090186.jpg" ,NEW IMPORANT ABOUT VPN-CLICK HERE
@@ -16,9 +22,9 @@ https://www.mediafire.com/file/kfffogxa95bv00j/USA_TV_%2526_Radio_V2.31.apk/file
 #EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V2.31. Click here to Download From Browser.
 https://www.mediafire.com/file/kfffogxa95bv00j/USA_TV_%2526_Radio_V2.31.apk/file|newexternalapp
 
-#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Newest Plugin V4.11. Click here to AUTO-UPDATE.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Newest Plugin V4.20. Click here to AUTO-UPDATE.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Newest Plugin V4.11. Click here to Download From Browser.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Newest Plugin V4.20. Click here to Download From Browser.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
 
 
