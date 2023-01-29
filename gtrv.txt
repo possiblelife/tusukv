@@ -535,3 +535,5 @@ https://www.youtube.com/embed/XBPjVzSoepo
 https://f-tx-edge-86.christianworldmedia.com/nexttv/sm_nexttv.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://i.ibb.co/Jd6Q6Kg/NHK-World-Japan-II.png"  ,NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://i.ibb.co/HCT7xgT/1537839003551.jpg"  ,Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
