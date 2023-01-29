@@ -943,8 +943,10 @@ https://stream1.nra.tv/nratv/ngrp:nratvall/chunklist_b1144576.m3u8
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/SC5nyyL.png" ,NWCT 12 (Minnesota)
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://media.glassdoor.com/sqll/859149/one-america-news-network-squarelogo-1431691062076.png" ,One America News Network (OANN)
+#EXTINF:-1 group-title="News" tvg-logo="https://media.glassdoor.com/sqll/859149/one-america-news-network-squarelogo-1431691062076.png" ,One America News Network (OANN) [Option-1] 
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://media.glassdoor.com/sqll/859149/one-america-news-network-squarelogo-1431691062076.png" ,One America News Network (OANN) [Option-2] 
+https://usnewson.com/watch/oann-live-stream|webdig
 #EXTINF:-1 group-title="Local" tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" ,Olelo Community Media 49
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
 #EXTINF:-1 group-title="Local" ,OLELO COMMUNITY MEDIA 53
