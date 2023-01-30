@@ -794,8 +794,10 @@ https://123tv.live/watch/logo-tv/|webdelayalldig$$delay=1
 #EXTINF:-1 group-title="Sports"  tvg-logo="https://metv.org/wp-content/uploads/2017/08/metv-3d-logo2.png" ,Middle East Television (METV)
 http://cdg3.edge.tmed.pw/metv/abr_live/metv/live_1024p/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="62079"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB NETWORK [Option-1]
+https://daddylivehd.sx/stream/stream-399.php|weballdig
+#EXTINF:-1 group-title="Sports" tvg-id="62079"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB NETWORK [Option-2]
 https://tv247.us/watch/mlb-network-us/|webdelayalldig$$delay=0
-#EXTINF:-1 group-title="Sports" tvg-id="62079"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB NETWORK [Option-2] 
+#EXTINF:-1 group-title="Sports" tvg-id="62079"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB NETWORK [Option-3] 
 https://ustream.to/live?id=mlb-network|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-id="62079" tvg-logo="http://channelpear.com/images/media/5249.jpg" ,MLB Network [Option-3]
 https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
@@ -1064,19 +1066,19 @@ http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 #EXTINF:-1 group-title="USA"  tvg-logo="https://123tv.live/wp-content/uploads/2018/08/spike-269x151.png" ,Spike Paramount Network
 https://123tv.live/watch/paramount-network-spike/|webdelayalldig$$delay=1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a203.png" ,sportsnet Ontario 
-https://www.ustream.to/stream.php?id=sportsnet-ontario|weballdig
+https://daddylivehd.sx/stream/stream-406.php|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-logo="https://sport-tv-guide.live/images/stations/a200.png" ,sportsnet one 
-https://www.ustream.to/stream.php?id=sportsnet-one|weballdig
+https://daddylivehd.sx/stream/stream-411.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a202.png" ,sportsnet world 
-https://www.ustream.to/stream.php?id=sports-net-world|weballdig
+https://daddylivehd.sx/stream/stream-410.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a201.png" ,sportsnet 360 
-https://www.ustream.to/stream.php?id=sportsnet-360|weballdig
+https://daddylivehd.sx/stream/stream-409.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a198.png" ,sportsnet pacific 
 https://www.ustream.to/stream.php?id=sportsnet-pacific|weballdig
 #EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a199.png" ,sportsnet west 
-https://www.ustream.to/stream.php?id=sportsnet-west|weballdig
+https://daddylivehd.sx/stream/stream-407.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a197.png" ,sportsnet east 
-https://www.ustream.to/stream.php?id=sportsnet-east|weballdig
+https://daddylivehd.sx/stream/stream-408.php|weballdig
 #EXTINF:-1 group-title="USA"   tvg-logo="http://spydartv.com/wp-content/uploads/2018/02/Spydar-Logo-Revised-3.png" ,Spydar TV
 https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
 #EXTINF:-1 group-title="USA"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" ,Stadium TV [Option-2]
@@ -1112,7 +1114,7 @@ http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://templetv.net/files/2012/06/TUTV_new_fb_logo.jpg" ,Temple University TV
 http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"  tvg-id="33395" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" ,Tennis Channel [Option-1]
-https://daddyhd.com/stream/stream-111.php|weballdig
+https://daddylivehd.sx//stream/stream-111.php|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-id="33395" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" ,Tennis Channel [Option-2] 
 https://www.ustream.to/stream.php?id=tennis-channel|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-id="33395" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" ,Tennis Channel [Option-3] 
@@ -1152,23 +1154,23 @@ https://123tv.live/watch/trutv/|webdelayalldig$$delay=1
 #EXTINF:-1 group-title="Sports"  tvg-logo="https://sport-tv-guide.live/images/stations/a188.png" ,tsn1
 https://crichdplayer.xyz/embed2.php?id=tsn1|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="11182" tvg-logo="https://sport-tv-guide.live/images/stations/a188.png" ,tsn1 
-https://daddyhd.com/stream/stream-111.php|weballdig
+https://daddylivehd.sx//stream/stream-111.php|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" ,tsn2
 https://crichdplayer.xyz/embed2.php?id=tsn2|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="18990" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" ,tsn2 
-https://daddyhd.com/stream/stream-112.php|weballdig
+https://daddylivehd.sx//stream/stream-112.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" ,tsn3
 https://crichdplayer.xyz/embed2.php?id=tsn3|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="90118" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" ,tsn3 
-https://daddyhd.com/stream/stream-113.php|weballdig
+https://daddylivehd.sx//stream/stream-113.php|weballdig
 #EXTINF:-1 group-title="Sports"  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" ,tsn4
 https://crichdplayer.xyz/embed2.php?id=tsn4|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="90122" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" ,tsn4 
-https://daddyhd.com/stream/stream-114.php|weballdig
+https://daddylivehd.sx//stream/stream-114.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="90122" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" ,tsn5 
 https://crichdplayer.xyz/embed2.php?id=tsn5|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="90122" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" ,tsn5 
-https://daddyhd.com/stream/stream-115.php|weballdig
+https://daddylivehd.sx//stream/stream-115.php|weballdig
 #EXTINF:-1 group-title="USA"   tvg-logo="https://i.imgur.com/3QAaaZj.png" ,TSTV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 group-title="USA"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Current_logo_for_TUFF_TV.png" ,Tuff TV
@@ -1254,11 +1256,12 @@ http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
 https://www.wvtm13.com/nowcast|webdig
 #EXTINF:-1 group-title="News"   tvg-logo="http://img.new.livestream.com/events/000000000068bfe1/9052fb7b-99ee-4dcd-87fd-c1102bc5592e_30000.jpg" ,WXXV News 25 (Mississippi)
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK [Option-1] 
+https://daddylivehd.sx/stream/stream-376.php|weballdig
+#EXTINF:-1 group-title="Sports" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK [Option-2]
 https://123tv.live/watch/wwe-network/|webdelayalldig$$delay=1
-#EXTINF:-1 group-title="Sports"  tvg-logo="https://123tv.live/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK [Option-2]
-http://crichd.ws/update/wwe.php|webdeskdig
-
+#EXTINF:-1 group-title="Sports"  tvg-logo="https://123tv.live/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK [Option-3]
+https://crichdplayer.xyz/embed2.php?id=wwenet|weballdig
 
 #EXTINF:-1 group-title="Live cam",USA Arizona – Sedona
 https://www.earthcam.com/usa/arizona/sedona/?cam=sedona_gateway
