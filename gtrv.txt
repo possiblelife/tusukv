@@ -378,6 +378,10 @@ https://storemusic.top:8222/superb33/superb33/playlist.m3u8
 https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://static.wixstatic.com/media/ed2185_b7fdbb8511284919b417cd525d5f4901~mv2.png/v1/fill/w_188,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20TRAVEL%20(2).png" ,BCI Travel
 https://channel.streams.ovh:19360/bcicinema/bcicinema.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/yQ997v6/konitsa-tv.jpg",KONITSA TV
+https://konitsa-tv7.webnode.gr/|webdig
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" ,X TV
+https://m.twitch.tv/xtvision|webdig
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
