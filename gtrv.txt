@@ -432,7 +432,8 @@ https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 https://channel.streams.ovh:19360/cetn/cetn.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://static.wixstatic.com/media/ed2185_1f082aa6bfbc4209bb0266cdde878260~mv2.png/v1/fill/w_189,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20GREEK.png" ,BCI GREEK
 https://channel.streams.ovh:1936/greekcinema/greekcinema/playlist.m3u8
-
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/GQw16hx/STyrob9.jpg" ,Cinema Classics
+https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
@@ -493,7 +494,8 @@ http://s2.netmax-host.eu:5062/redlive/redlive/playlist.m3u8
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://static.wixstatic.com/media/ed2185_1568b7d633d042da88d76a07870c532f~mv2.png/v1/fill/w_189,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20MUSIC%20(1).png" ,BCI Music
 https://live.streams.ovh/cannali/cannali/playlist.m3u8
-
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://klikfm.com.cy/template/img/logos/klikfmlogo.png" ,Klik FM
+https://cdns.istoikona.com/klikfmcy/klikfmcyprus/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
@@ -504,6 +506,13 @@ http://65.108.62.57:8080/live/kidshd.m3u8
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="http://tv.10dailythings.com/images/channels/GR/wb-kids/normal.png" ,WB KIDS
 https://d807d636299c41678ab04e3ae475f818.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-Digitaltree/0dac99ff-0171-4204-809c-c5f65a660e05/0.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/hVpFyMI1aY-zEylSJo6WPD8-HoJfQZp14ZYp_HWNmG1azEakU5B1Qpsrh1OSXq5bYLKMJ_Jl=s48-c-k-c0x00ffffff-no-rj" ,ΑΓΑΠΗΜΕΝΑ ΠΑΙΔΙΚΑ ΤΡΑΓΟΥΔΙΑ με τα Ζουζούνια
+https://www.youtube.com/embed/Gmf871DlkBE
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/hVpFyMI1aY-zEylSJo6WPD8-HoJfQZp14ZYp_HWNmG1azEakU5B1Qpsrh1OSXq5bYLKMJ_Jl=s48-c-k-c0x00ffffff-no-rj" ,ΑΚΑΤΑ ΜΑΚΑΤΑ
+https://www.youtube.com/embed/toOOdFofPoY
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/hVpFyMI1aY-zEylSJo6WPD8-HoJfQZp14ZYp_HWNmG1azEakU5B1Qpsrh1OSXq5bYLKMJ_Jl=s48-c-k-c0x00ffffff-no-rj" ,Βλέπω και Μαθαίνω | Ζωάκια, Οχήματα, Μουσικά Όργανα, Επαγγέλματα
+https://www.youtube.com/embed/-IEei-d2ZK4
+
 
 
 
