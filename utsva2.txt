@@ -261,7 +261,7 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
 #EXTINF:-1 group-title="USA"  tvg-id="11331" tvg-logo="https://123tv.live/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS [Option-1] 
 https://123tv.live/watch/cbs/|webdelayalldig$$delay=1
 #EXTINF:-1 group-title="USA" tvg-id="11331" tvg-logo="https://123tv.live/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS [Option-2]
-https://tv247.us/watch/cbs-us/|webdelayalldig$$delay=0
+https://live.tv247us.com/tv247/cbs.m3u8|referer=https://tv247.us/
 #EXTINF:-1 group-title="USA"  tvg-id="11331" tvg-logo="https://123tv.live/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS [Option-3] 
 https://ustream.to/live?id=cbs-usa|weballdig
 #EXTINF:-1 group-title="USA" tvg-id="11331" tvg-logo="https://123tv.live/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS [Option-4]
@@ -816,7 +816,7 @@ https://123tv.live/watch/msnbc/|webdelayalldig$$delay=1
 #EXTINF:-1 group-title="Music" tvg-id="10987" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/mtv-269x151.png" ,MTV  [Option-1]
 https://123tv.live/watch/mtv/|webdelayalldig$$delay=1
 #EXTINF:-1 group-title="Music" tvg-id="10987" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/mtv-269x151.png" ,MTV [Option-2]
-https://tv247.us/watch/mtv/|webdelayalldig$$delay=0
+https://live.tv247us.com/tv247/mtv.m3u8|referer=https://tv247.us/
 #EXTINF:-1 group-title="Music" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" ,MTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/MTV2_Guy_Code.jpg" ,MTV Guy Code
