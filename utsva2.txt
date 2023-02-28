@@ -218,6 +218,8 @@ http://live94today.com/watch/bravo/|weballdig
 https://tv247.us/watch/bravo/|webdelayalldig$$delay=0
 #EXTINF:-1 group-title="USA"  tvg-id="31555" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/220px-Bravo_TV.svg.png" ,Bravo Channel [Option-3]
 https://olweb.tv/bravo-tv|weballdig
+#EXTINF:-1 group-title="USA"  tvg-id="31555" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/220px-Bravo_TV.svg.png" ,Bravo Channel [Option-4]
+https://123tv.live/watch/bravo/|webdelayalldig$$delay=1
 #EXTINF:-1  group-title="USA" tvg-logo="https://bkat.viebit.com/custom/live_poster/BKATlogo16x9-720.jpg" ,Bremerton Kitsap Access TV
 https://bremerton.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="http://phonebookoftheworld.com/usa/newyork/city/seal-of-buffalo.jpg" ,Buffalo Gov't TV
