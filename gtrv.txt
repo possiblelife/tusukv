@@ -134,8 +134,8 @@ https://til.pp.ua:3026/live/arttvgrlive.m3u8
 https://player.twitch.tv/?channel=astratv2021&parent=www.astratv.gr|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ASTRA TV" tvg-logo="https://goo.gl/nYsDIa" ,ASTRA (backup) (ΘΕΣΣΑΛΙΑΣ)
 https://www.astratv.gr/live-streaming/|webdig
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ATTICA TV" tvg-logo="https://i.ibb.co/HgLW7sN/attica.jpg" ,ATTICA TV (Προσωρινά μη Διαθέσιμο) (ΑΤΤΙΚΗΣ)
-http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ATTICA TV" tvg-logo="https://i.ibb.co/HgLW7sN/attica.jpg" ,ATTICA TV (ΑΤΤΙΚΗΣ)
+https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="AXELWOS TV" tvg-logo="https://goo.gl/mNqHoo" ,ΑΧΕΛΩΟΣ (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BEST TV" tvg-logo="http://4.bp.blogspot.com/-CSt3UGbihus/U_D9TOsr3CI/AAAAAAAAZv4/z1L9SCenBKo/s1600/best_tv.png" ,BEST TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)
