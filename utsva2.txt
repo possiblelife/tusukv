@@ -841,6 +841,8 @@ https://daddylivehd.sx/stream/stream-328.php|webdelayalldig$$delay=1
 https://tv247.us/watch/national-geographic-us/|webdelayalldig$$delay=0
 #EXTINF:-1 group-title="Documentary" tvg-id="24959" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic [Option-3]
 https://www.ustream.to/stream.php?id=national-geographic|weballdig
+#EXTINF:-1 group-title="Sports" tvg-id="32281" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA TV [NEW]
+https://daddylivehd.sx/stream/stream-404.php|webdelayalldig$$delay=1
 #EXTINF:-1 group-title="Sports" tvg-id="32281" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA TV [Option-2]
 https://tv247.us/watch/nbatvus/|webdelayalldig$$delay=0
 #EXTINF:-1 group-title="Sports" tvg-id="32281" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA TV [Option-3] 
@@ -903,6 +905,8 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 #EXTINF:-1 group-title="News"  tvg-id="97163" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" ,NEWSMAX TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="Sports"   tvg-id="34710"  tvg-logo="https://123tv.live/wp-content/uploads/2018/08/nfl-269x151.png" ,NFL Network [NEW]
+https://daddylivehd.sx/stream/stream-405.php|webdelayalldig$$delay=1
 #EXTINF:-1 group-title="Sports"   tvg-id="34710"  tvg-logo="https://123tv.live/wp-content/uploads/2018/08/nfl-269x151.png" ,NFL Network [Option-1]
 https://tv247.us/watch/nfl-network-us/|webdelayalldig$$delay=0
 #EXTINF:-1 group-title="Sports"   tvg-id="59155"  tvg-logo="https://img7.androidappsapk.co/300/7/3/7/jp.or.nhk.nhkworld.tv.png" ,NHK WORLD HD
