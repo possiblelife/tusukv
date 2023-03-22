@@ -332,8 +332,6 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 https://live.cast-control.eu/organismos/organismos/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.anacon.org/app/img/montreal.jpg" ,Montreal
 http://live.greektv.ca/hls1/greektv.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://goo.gl/RmY1lD" ,MESSINIA WEB TV
-http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://ustvstaticcdn1-a.akamaihd.net/i/channel/picture/1/9/8/9/1989576/1989576_greekvoice-logo_1337057406,192x192,r:1.jpg" ,GREEK VOICE 
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/6a/a2/78/6aa278d5-187d-6988-fd3d-3d1d2a7cb3f1/source/512x512bb.jpg" ,Ellas TV MAX
@@ -508,7 +506,8 @@ https://live.streams.ovh/cannali/cannali/playlist.m3u8
 https://cdns.istoikona.com/klikfmcy/klikfmcyprus/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://nasostvradio.gr/wp-content/uploads/nasos-tv-radio.png" ,Nasos TV  Radio
 https://eu1.netmax-host.eu:1936/radioeirhnh1/radioeirhnh1/playlist.m3u8
-
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://goo.gl/RmY1lD" ,MESSINIA WEB TV
+https://til.pp.ua:3303/live/messiniatvlive.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
 http://.....
