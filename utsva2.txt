@@ -811,6 +811,8 @@ https://daddylivehd.sx/stream/stream-327.php|webdelayalldig$$delay=1
 https://tv247.us/watch/msnbc-us/|webdelayalldig$$delay=0
 #EXTINF:-1 group-title="News"  tvg-id="16300" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" ,MSNBC [Option-2]
 https://olweb.tv/msnbc|weballdig
+#EXTINF:-1 group-title="Music" tvg-id="10987" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/mtv-269x151.png" ,MTV [NEW]
+https://daddylivehd.sx/stream/stream-371.php|webdelayalldig$$delay=1
 #EXTINF:-1 group-title="Music" tvg-id="10987" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/mtv-269x151.png" ,MTV [Option-2]
 https://live.tv247us.com/tv247/mtv.m3u8|referer=https://tv247.us/
 #EXTINF:-1 group-title="Music" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" ,MTV
