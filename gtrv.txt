@@ -217,7 +217,7 @@ https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ORT" tvg-logo="https://www.patrisnews.com/wp-content/uploads/images/footer-ort.jpg" ,ΟΡΤ Live (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://s2.netmax-host.eu:2053/ort/ort/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" ,ONE TV (ΑΤΤΙΚΗΣ)
-https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+https://www.twitch.tv/onechanneltv|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-logo="https://www.pellatv.gr/wp-content/themes/pellatv/images/pellatv.jpg" ,Pella tv
 https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="PLP" tvg-logo="https://i.ibb.co/yNtDdjP/plp-tv.png" ,PLP
