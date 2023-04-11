@@ -204,6 +204,8 @@ http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
 http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
 #EXTINF:-1 group-title="Religious" ,BETTER NATURE
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,BIG TEN Network (BTN) [NEW]
+https://daddylivehd.sx/stream/stream-397.php|webdelayalldig$$delay=1
 #EXTINF:-1 group-title="Business"  tvg-id="71799" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/bloomberg-269x151.jpg"  ,Bloomberg US
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://uploads-ssl.webflow.com/5ad7a242e6f07458301b7e6d/5ad7b1a9e6f07495d11b8ffd_btv-logo.png" ,Bloomington TV
