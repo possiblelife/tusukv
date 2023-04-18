@@ -394,6 +394,8 @@ https://konitsa-tv7.webnode.gr/|webdig
 https://m.twitch.tv/xtvision|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/cY2Tgbc/1ochannel.png"  ,10Channel
 https://tv.mediacp.eu:8081/10channel/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/7CBX59D/logo-radio-page-0001.jpg" ,Hydra Arts Lab
+https://rtmp.streams.ovh:1936/ydra/ydra/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
@@ -508,6 +510,8 @@ https://cdns.istoikona.com/klikfmcy/klikfmcyprus/playlist.m3u8
 https://eu1.netmax-host.eu:1936/radioeirhnh1/radioeirhnh1/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://goo.gl/RmY1lD" ,MESSINIA WEB TV
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
+
+
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
 http://.....
