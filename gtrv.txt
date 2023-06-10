@@ -80,7 +80,7 @@ https://www.youtube.com/@Tilesporttv-eb8ip/streams|webepg zoom=100 scroll=0,0
 https://www.youtube.com/embed/0uDTKN24Nw4
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png" tvg-website="https://alfasports.tv/",Alfa Sports TV
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.imgur.com/w9Je47D.png" tvg-website="https://cysports.tv/" ,CYSPORTS
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.imgur.com/w9Je47D.png" tvg-website="https://cysports.tv/" ,CYSPORTS
 https://cysports.tv/Live-CySports|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports" tvg-logo="https://i.ibb.co/MP9Nv3r/sports.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 1 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
