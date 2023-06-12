@@ -373,6 +373,9 @@ https://m.twitch.tv/xtvision|webdig
 https://tv.mediacp.eu:8081/10channel/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/7CBX59D/logo-radio-page-0001.jpg" tvg-website="https://hydraartslab.com/"  ,Hydra Arts Lab
 https://rtmp.streams.ovh:1936/ydra/ydra/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="http://tv.ime.gr//images/logo.png" tvg-website="http://tv.ime.gr/" ,IME Web TV
+http://theagenis.fhw.gr:8080/hls/maintv/index.m3u8
+
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
