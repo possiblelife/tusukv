@@ -30,7 +30,7 @@ http://www.anacon.org/app/chans/gr/ert3s2image.php|webepg zoom=100 scroll=0,100
 https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (ΑΠΑΙΤΕΊΤΑΙ ΣΥΝΔΕΣΗ ΣΤΗΝ ΙΣΤΟΣΕΛΙΔΑ ΤΟΥ ΑΝΤ1)
 https://watch.antennaplus.gr/#/live/ant1|webdeskepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1 EUROPE" tvg-logo="https://i.ibb.co/1bxqPfJ/eurant.jpg" ,ANT1 Europe
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1 EUROPE" tvg-logo="https://i.ibb.co/1bxqPfJ/eurant.jpg" ,ANT1 Europe [offline]
 http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-website="https://www.megatv.com/" ,MEGA
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
@@ -409,6 +409,8 @@ https://www.twitch.tv/cinematimetv?fbclid=IwAR3VxV7iSDzj1gN5pcaQZ-JukuZVYYVDgIl7
 https://www.twitch.tv/artstime|webdig
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://goo.gl/ofVjvQ" ,NETV TORONTO
 https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://goo.gl/ofVjvQ" ,NETV EUROPE
+https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://euroviews.eu/2015/wp-content/uploads/2015/04/clapperboard-563x353.png" ,Greek Oldies
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/88bGzz5/DIAVATA.jpg" ,DiavataTV 
