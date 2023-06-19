@@ -70,8 +70,10 @@ http://.....
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" tvg-website="https://www.tvopen.gr/livegames#" ,OPEN All Live Games
 https://www.tvopen.gr/livegames#|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" tvg-website="https://www.tvopen.gr/livegames#" ,OPEN Live Game (HBBTV) 
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" tvg-website="https://www.tvopen.gr/livegames#" ,OPEN Live Game Argentina(HBBTV) 
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" tvg-website="https://www.tvopen.gr/livegames#" ,OPEN Live Game Brazil(HBBTV) 
+https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://media.pamestoixima.gr/file/logo_horses.png" ,Ιπποδρομίες (pame stoixima)
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="http://i.imgur.com/0Ovqq2f.png" tvg-website="http://www.tilesport.tv/index_live.php" ,TILESPORT (Youtube)
