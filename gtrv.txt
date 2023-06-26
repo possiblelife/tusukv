@@ -385,6 +385,8 @@ https://rtmp.streams.ovh:1936/ydra/ydra/playlist.m3u8
 http://theagenis.fhw.gr:8080/hls/maintv/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://primenews.press/wp-content/uploads/tvlogo-mauro-768x205.png" tvg-website="https://primenews.press/web-tv" ,Prime News TV
 https://vdo.alphaserver.gr:3411/multi_web/play.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://www.ioanninatv.gr/templates/rt_oculus/images/logo/dark/logo.png" tvg-website="https://www.ioanninatv.gr/" ,iTV (ioanninatv)
+https://channel.streams.ovh:1936/ioanninatv/ioanninatv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
@@ -596,7 +598,7 @@ http://.....
 #EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Cosmote TV
 https://www.cosmotetv.gr/portal/residential/program|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Nova
-https://epg.nova.gr/|webepg zoom=100 scroll=0,0
+https://epg.nova.gr/|webdeskepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,NovaSports
 https://www.novasports.gr/tv-program/|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Cyta Cyprus
