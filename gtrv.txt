@@ -368,9 +368,9 @@ https://infopatra.gr/?page_id=56514|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/3yrTWp2/pro-news.png" tvg-website="https://www.pronews.gr/" ,PRONEWS tv 
 https://di-8zai2lrc.leasewebultracdn.com/pronews/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://static.wixstatic.com/media/ed2185_6064e4eff0df4291b52073f656012700~mv2.png/v1/fill/w_189,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20NEWS.png" tvg-website="https://www.bcimediainc.com/" ,BCI News
-https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
+https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://static.wixstatic.com/media/ed2185_b7fdbb8511284919b417cd525d5f4901~mv2.png/v1/fill/w_188,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20TRAVEL%20(2).png" tvg-website="https://www.bcimediainc.com/" ,BCI Travel
-https://channel.streams.ovh:19360/bcicinema/bcicinema.m3u8
+https://eu1.vectromdigital.com:1936/bcitravel/bcitravel/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/yQ997v6/konitsa-tv.jpg" tvg-website="https://konitsa-tv7.webnode.gr/" ,KONITSA TV
 https://konitsa-tv7.webnode.gr/|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" ,X TV
@@ -431,9 +431,9 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/2kyv1K4/download.png" ,DTV 6 (Dipolo TV 6)
 https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/VWLDMPp/bci.jpg" tvg-website="https://www.bcimediainc.com/" ,BCI Cinema
-https://channel.streams.ovh:19360/cetn/cetn.m3u8
+https://eu1.vectromdigital.com:1936/bcicinema/bcicinema/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://static.wixstatic.com/media/ed2185_1f082aa6bfbc4209bb0266cdde878260~mv2.png/v1/fill/w_189,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20GREEK.png" tvg-website="https://www.bcimediainc.com/" ,BCI GREEK
-https://channel.streams.ovh:1936/greekcinema/greekcinema/playlist.m3u8
+https://eu1.vectromdigital.com:1936/bcigreek/bcigreek/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/GQw16hx/STyrob9.jpg" ,Cinema Classics
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 
@@ -495,7 +495,7 @@ http://s2.netmax-host.eu:5062/redlive/redlive/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.ibb.co/w7WtThP/euro.jpg" ,Eurodance 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://static.wixstatic.com/media/ed2185_1568b7d633d042da88d76a07870c532f~mv2.png/v1/fill/w_189,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20MUSIC%20(1).png" tvg-website="https://www.bcimediainc.com/" ,BCI Music
-https://live.streams.ovh/cannali/cannali/playlist.m3u8
+https://eu1.vectromdigital.com:1936/bcimusic/bcimusic/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://klikfm.com.cy/template/img/logos/klikfmlogo.png" tvg-website="https://klikfm.com.cy/" ,Klik FM
 https://cdns.istoikona.com/klikfmcy/klikfmcyprus/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://nasostvradio.gr/wp-content/uploads/nasos-tv-radio.png" tvg-website="https://nasostvradio.gr/" ,Nasos TV  Radio
@@ -516,7 +516,7 @@ https://d807d636299c41678ab04e3ae475f818.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/hVpFyMI1aY-zEylSJo6WPD8-HoJfQZp14ZYp_HWNmG1azEakU5B1Qpsrh1OSXq5bYLKMJ_Jl=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://www.zouzounia.tv/" ,ΑΓΑΠΗΜΕΝΑ ΠΑΙΔΙΚΑ ΤΡΑΓΟΥΔΙΑ με τα Ζουζούνια
 https://www.youtube.com/@zouzounia_tv/videos|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://static.wixstatic.com/media/ed2185_f37f51a228e645c4aa427a3dfa6e62bc~mv2.png/v1/fill/w_108,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCIKIDS%20(2).png" tvg-website="https://www.bcimediainc.com/" ,BCI KIDS
-https://eu1.netmax-host.eu:1936/bcimedia2/bcimedia2/playlist.m3u8
+https://eu1.vectromdigital.com:1936/bcikids/bcikids/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΕΚΚΛΗΣΙΑΣΤΙΚΑ   ====
