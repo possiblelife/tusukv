@@ -1702,6 +1702,8 @@ http://i3.streams.ovh:12214/;
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/BGbjHWY/new-logo-beatbox.png" ,Beatboxradio europe - the 80's channel
+https://eu6.fastcast4u.com/stream/jkouts00/stream.pls
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/06/music-factory-radio-1.jpg" ,Music Factory Radio
 https://i4.streams.ovh:2200/ssl/musicfactory?mp=/stream
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://1.bp.blogspot.com/-mFFyjlfPuPE/XtVWX-F-2JI/AAAAAAAAfZA/BtKsh9qhPmYjmx6dOcfjSYstuJRTx4nsQCLcBGAsYHQ/s1600/pothos%2Bspesial%2B200.png" ,Pothos FM
