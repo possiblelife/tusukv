@@ -9,7 +9,7 @@ http://s3.onweb.gr:8878/;
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/mentafm.png" ,Μέντα 88
 http://stream.radiojar.com/menta
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/music892-athens.png" ,Music 89.2
-http://stream.radiojar.com/k0hua7u1yk5tv
+https://netradio.live24.gr/music892
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/ecclesia.png" ,Εκκλησία της Ελλάδος 89.5
 http://85.10.206.222:8002/;
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/dromosfm.png" ,Δρόμος 89.8
