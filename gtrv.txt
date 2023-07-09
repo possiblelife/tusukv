@@ -385,6 +385,8 @@ http://theagenis.fhw.gr:8080/hls/maintv/index.m3u8
 https://vdo.alphaserver.gr:3411/multi_web/play.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://www.ioanninatv.gr/templates/rt_oculus/images/logo/dark/logo.png" tvg-website="https://www.ioanninatv.gr/" ,iTV (ioanninatv)
 https://channel.streams.ovh:1936/ioanninatv/ioanninatv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://yt3.googleusercontent.com/V1mfR9Buu9AoUlVduOmOUycgLaKzUoW7rzSxEsc2zzyWM-IlL18tcEb81Z3UXyuRN2g3fsPWKw=s176-c-k-c0x00ffffff-no-rj" tvg-website="https://10channel.gr/" ,10 CHANNEL
+https://tv.mediacp.eu:8081/10channel/index.m3u8
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
@@ -402,7 +404,6 @@ https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jr
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/zHMSz0d/digitaltv.png" ,Digital tv
 https://livestream-player.digitaltv.com.cy/v1/01804bc1b4c709df730731f9d43d/01804bc1bd6a09df73103e2450a3/DigitaltreeTVOpH_720PA.m3u8?txSecret=3d70b5a88c9f11a891501c56dda11283&txTime=62C23EE5
-
 
 
 
