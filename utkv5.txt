@@ -152,7 +152,9 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parlia
 https://d.daddylivehd.sx/stream/stream-349.php|weballdig
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News FILMON [Option-2] 
 https://www.filmon.com/tv/bbc-news|exodig
-#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News UK ONLY[Option-3]
+#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News FILMON [Option-3] 
+https://easytelly.eu/2021/03/31/bbc-news/
+#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News UK ONLY[Option-4]
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
@@ -164,7 +166,8 @@ http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" ,BBC Lifestyle
 https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
 
-
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-1]
+https://easytelly.eu/2021/04/02/itv/|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-3]
 https://d.daddylivehd.sx/stream/stream-350.php|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-1]
