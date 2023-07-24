@@ -136,7 +136,7 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="ΑΛΗΘΕΙΑ TV" tvg-logo="https://www.eqvusproductions.gr/wp-content/uploads/2013/07/alithia-tv-logo-446x218.png" tvg-website="https://www.alithia.gr/tv" ,Αλήθεια TV (17:00-00:00) (Youtube) (Β. Α. ΑΙΓΑΙΟΥ)
 https://www.alithia.gr/tv/live|agentnodown$$start=https://www.youtube.com/watch?v$$end=" target$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ART" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png" tvg-website="https://www.arttv.info/" ,AΡΤ (ΑΤΤΙΚΗΣ)
-https://rumble.com/live-hls/2lw7la/playlist.m3u8?
+https://rumble.com/live-hls/2y3nhg/playlist.m3u8?
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ART" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png" tvg-website="https://www.arttv.info/" ,AΡΤ (backup) (ΑΤΤΙΚΗΣ)
 https://www.arttv.info/p/art.html|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ART TV" tvg-logo="http://www.arttv.gr/wp-content/uploads/2017/02/logo_mobile_retina.png" tvg-website="http://www.arttv.gr/" ,Art tv (Άρτα tv) (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
@@ -555,12 +555,14 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/maina
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ertworld" tvg-logo="https://i.ibb.co/2Z6rFsL/ERT-WORLD.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ WORLD WebTV-2
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS
-https://euronews-el-p28-cdn.hexaglobe.net/7e61e4236ce610c856f8e101dcbb2332/64b8ee83/euronews/euronews-euronews-website-web-responsive-2/ewnsabrel_gre.smil/playlist.m3u8
+https://euronews-el-p29-cdn.hexaglobe.net/6bf48ebebc758275b9306d80868423fd/64be7839/euronews/euronews-euronews-website-web-responsive-2/ewnsabrel_gre.smil/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (backup)
+https://gr.euronews.com/live|weballdig
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Al Jazeera English" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" tvg-website="https://www.aljazeera.com/" ,Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="RT" tvg-logo="https://yt3.ggpht.com/-rYFeIFqsCxg/AAAAAAAAAAI/AAAAAAAAAAA/lSsBZ4jxgsg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"  tvg-website="https://www.rt.com/" ,Russia Today
 https://rumble.com/live-hls-dvr/2td0fs/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi.png" tvg-website="https://www.france24.com/en/" ,FRANCE 24 (Youtube)
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSVBDOZ94rhLUbjD8_yFdE05mi8v-YaGPE_vE9miA=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://www.france24.com/en/" ,FRANCE 24 (Youtube)
 https://www.youtube-nocookie.com/embed/live_stream?channel=UCQfwfsi5VrQ8yKZ-UWmAEFg&modestbranding=1
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" tvg-website="https://edition.cnn.com/" ,CNN International
 https://cdn-fr1-eu.lncnetworks.host/hls/cnni_live/index.m3u8|referer=https://livenewschat.eu/
@@ -574,10 +576,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1925/brand.gif?itok=1cN-mqCa" tvg-website="https://www.tv5monde.com/" ,TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/512_300.png" tvg-website="https://www.bbc.com/news/world" ,BBC World News
-https://edge02.smart.az/o1/bbcworld/q_1/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/512_300.png" tvg-website="https://www.bbc.com/news/world" ,BBC World News (Backup)
-https://1292072398.rsc.cdn77.org/cd9MAkd1IEgXSBuvIQcsng==,1676467475/1292072398/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://seeklogo.com/images/B/bbc-news-global-logo-AAC6CDF27E-seeklogo.com.png" tvg-website="https://www.bbc.com/news/world" ,BBC World News
+https://1292072398.rsc.cdn77.org/E5ByQ9RNaU54CCuVoqWw3A==,1690219566/1292072398/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://seeklogo.com/images/B/bbc-news-global-logo-AAC6CDF27E-seeklogo.com.png" tvg-website="https://www.bbc.com/news/world" ,BBC World News (Backup)
+https://www.livenewsmag.com/bbc-world-news-live-stream/|webdig
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://www.open-live.org/it/wp-content/uploads/2017/08/RaiNews-1.png" tvg-website="https://www.rainews.it/" ,Rai News 24
 https://www.rainews.it/notiziari/rainews24|webdig
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-id="Sky News" tvg-logo="https://www.survation.com/wp-content/uploads/2014/02/large-square-sky-news-logo.png"  tvg-website="https://news.sky.com/" ,Sky News (Youtube)
