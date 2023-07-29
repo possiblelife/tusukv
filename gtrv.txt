@@ -433,6 +433,8 @@ https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 https://eu1.vectromdigital.com:1936/bcicinema/bcicinema/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://static.wixstatic.com/media/ed2185_1f082aa6bfbc4209bb0266cdde878260~mv2.png/v1/fill/w_189,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20GREEK.png" tvg-website="https://www.bcimediainc.com/" ,BCI GREEK
 https://eu1.vectromdigital.com:1936/bcigreek/bcigreek/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/gwwjT9k/bciclassic.png" tvg-website="https://www.bcimediainc.com/" ,BCI Classic
+https://eu1.vectromdigital.com:1936/bciclassic/bciclassic/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/GQw16hx/STyrob9.jpg" ,Cinema Classics
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 
