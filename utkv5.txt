@@ -5,17 +5,17 @@ https://clipart.wpblink.com/sites/default/files/wallpaper/slang-clipart/143532/s
 #EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , Message From Developer
 https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , USE BELOW TO UPDATE TO V2.30.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , USE BELOW TO UPDATE TO V3.00.
 http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg|webepg zoom=100 scroll=0,200
 
-#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V2.31. Click here to AUTO-UPDATE.
-https://www.mediafire.com/file/jzf78jjnvbfo3mj/UK_TV_%2526_Radio_V2.31.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V2.31. Click here to Download From Browser.
-https://www.mediafire.com/file/jzf78jjnvbfo3mj/UK_TV_%2526_Radio_V2.31.apk/file|newexternalapp
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V3.00. Click here to AUTO-UPDATE.
+https://www.mediafire.com/file/pol09ebsb4p48ya/UK_TV_%2526_Radio_V3.00.apk/file|externalupdate
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V3.00. Click here to Download From Browser.
+https://www.mediafire.com/file/pol09ebsb4p48ya/UK_TV_%2526_Radio_V3.00.apk/file|newexternalapp
  
-#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Newest Plugin V4.20. Click here to AUTO-UPDATE.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Newest Plugin V4.24. Click here to AUTO-UPDATE.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Newest Plugin V4.20. Click here to Download From Browser.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Newest Plugin V4.24. Click here to Download From Browser.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
 
 #EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , VIDEO FOR ANDROID 5&6 CHANNELS FIX
