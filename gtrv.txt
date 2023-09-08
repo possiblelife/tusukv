@@ -50,9 +50,9 @@ http://www.anacon.org/app/chans/gr/alphaimage.php|webepg zoom=100 scroll=0,100
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="OPEN BEYOND" tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" tvg-website="https://www.tvopen.gr/" ,OPEN Beyond TV (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/open.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="maktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" tvg-website="https://watch.antennaplus.gr/#/" ,M.TV HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="maktv" tvg-logo="https://i.ibb.co/MN6YsJW/mak-tv-0ba38455.jpg" tvg-website="https://watch.antennaplus.gr/#/" ,M.TV HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="maktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" tvg-website="https://watch.antennaplus.gr/#/" ,M.TV HD (ΑΠΑΙΤΕΊΤΑΙ ΣΥΝΔΕΣΗ ΣΤΗΝ ΙΣΤΟΣΕΛΙΔΑ ΤΟΥ ΑΝΤ1)
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="maktv" tvg-logo="https://i.ibb.co/MN6YsJW/mak-tv-0ba38455.jpg" tvg-website="https://watch.antennaplus.gr/#/" ,M.TV HD (ΑΠΑΙΤΕΊΤΑΙ ΣΥΝΔΕΣΗ ΣΤΗΝ ΙΣΤΟΣΕΛΙΔΑ ΤΟΥ ΑΝΤ1)
 https://watch.antennaplus.gr/#/live/maktv|webdeskepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="vouli" tvg-logo="https://goo.gl/m1ZYJB" tvg-website="https://www.hellenicparliament.gr/el/" ,ΒΟΥΛΗ
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
