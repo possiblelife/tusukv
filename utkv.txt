@@ -5,9 +5,21 @@ http://..........
 #EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , Message From Developer
 https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
  
-#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , OLD VERSIONS WONT GET CHANNEL LIST UPDATES ANYMORE
+#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , OLD VERSIONS WILL STOP WORKING 01/01/24.
 https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , CONSIDER UPDATE TO LATEST VERSION.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , GET THE LATEST VERSION TO
 https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Info"   tvg-logo="http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg" , Click here to get link to latest version V2.22.
-http://www.internetbusinessmastery.com/wp-content/uploads//2013/05/IBM192.jpg|webepg zoom=100 scroll=0,200
+#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , CONTINUE USING THE APP.
+https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V3.10: Click here to AUTO-UPDATE.
+https://www.mediafire.com/file/ucw2lvd7i5khgck/UK_TV_%2526_Radio_V3.10.apk/file|externalupdate
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V3.10: Click here to Download From Browser.
+https://www.mediafire.com/file/ucw2lvd7i5khgck/UK_TV_%2526_Radio_V3.10.apk/file|newexternalapp
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , OR USE "https://bit.ly/uktv310"
+https://www.mediafire.com/file/ucw2lvd7i5khgck/UK_TV_%2526_Radio_V3.10.apk/file|externalupdate
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Plugin V4.26. Click here to AUTO-UPDATE.
+http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|externalupdate
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Plugin V4.26. Click here to Download From Browser.
+http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , OR USE "https://bit.ly/ulti411"
+http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
