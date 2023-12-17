@@ -1,7 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7JUwN0afLAI/WLsjPYSr6-I/AAAAAAAAAK4/rpoB9AuvPT4lb-Yn4_KV_ASHHSgjhTmhQCLcB/s1600/cyprus.png" ,===ΤΗΛΕΟΡΑΣΗ===
 https://4.bp.blogspot.com/-7JUwN0afLAI/WLsjPYSr6-I/AAAAAAAAAK4/rpoB9AuvPT4lb-Yn4_KV_ASHHSgjhTmhQCLcB/s1600/cyprus.png|webepg zoom=100 scroll=0,0
- 
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , Αυτή η έκδοση θα σταματήσει να δουλεύει τέλος του 2023.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 4.10 για να συνεχίσετε να την απολαμβάνετε.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Κινητά τηλέφωνα, τάμπλετ, Αndroid TV αναβαθμίστε από το play store.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Huawei κινητά τηλέφωνα και τάμπλετ αναβαθμίστε από το appGallery
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Για amazon Firesticks,Firecubes, Αndroid TV αναβαθμίστε από τον πιο κάτω σύνδεσμο
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , https://bit.ly/cytvradio
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="riksat" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIKS.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT (ΕΠΙΛΟΓΗ 1)
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="riksat" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIKS.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT (ΕΠΙΛΟΓΗ 2)
@@ -92,8 +106,37 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/cyprus/ert_cyprus_main/mainab
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα Eρτ WORLD
 https://www.ertflix.gr/epg/channel/ept-world-live|webepg zoom=0 scroll=0,100
 
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , Αυτή η έκδοση θα σταματήσει να δουλεύει τέλος του 2023.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 4.10 για να συνεχίσετε να την απολαμβάνετε.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Κινητά τηλέφωνα, τάμπλετ, Αndroid TV αναβαθμίστε από το play store.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Huawei κινητά τηλέφωνα και τάμπλετ αναβαθμίστε από το appGallery
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Για amazon Firesticks,Firecubes, Αndroid TV αναβαθμίστε από τον πιο κάτω σύνδεσμο
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , https://bit.ly/cytvradio
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (Youtube)
 https://gr.euronews.com/live|youtubedig
+
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , Αυτή η έκδοση θα σταματήσει να δουλεύει τέλος του 2023.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 4.10 για να συνεχίσετε να την απολαμβάνετε.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Κινητά τηλέφωνα, τάμπλετ, Αndroid TV αναβαθμίστε από το play store.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Huawei κινητά τηλέφωνα και τάμπλετ αναβαθμίστε από το appGallery
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Για amazon Firesticks,Firecubes, Αndroid TV αναβαθμίστε από τον πιο κάτω σύνδεσμο
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , https://bit.ly/cytvradio
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air
 https://s1.cystream.net/live/faros1/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air2
@@ -108,4 +151,6 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 https://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/zHMSz0d/digitaltv.png" ,Digital tv
 https://livestream-player.digitaltv.com.cy/v1/01804bc1b4c709df730731f9d43d/01804bc1bd6a09df73103e2450a3/DigitaltreeTVOpH_720PA.m3u8?txSecret=3d70b5a88c9f11a891501c56dda11283&txTime=62C23EE5
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://www.cycinema.live/templates/itravel/images/logo.png" ,Κυπριακές Ταινίες
+https://www.cycinema.live/tainies/|webepg zoom=0 scroll=0,100
 
