@@ -1,154 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7JUwN0afLAI/WLsjPYSr6-I/AAAAAAAAAK4/rpoB9AuvPT4lb-Yn4_KV_ASHHSgjhTmhQCLcB/s1600/cyprus.png" ,===Cyprus TV===
-https://4.bp.blogspot.com/-7JUwN0afLAI/WLsjPYSr6-I/AAAAAAAAAK4/rpoB9AuvPT4lb-Yn4_KV_ASHHSgjhTmhQCLcB/s1600/cyprus.png|webepg zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , ΠΡΟΣΟΧΗ!!!!!!!!!!
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , ΠΡΟΣΟΧΗ!!!!!!!!!!
 https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , Αυτή η έκδοση θα σταματήσει να δουλεύει τέλος του 2023.
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , Αυτή η έκδοση έχει λήξη.
 https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 4.10 για να συνεχίσετε να την απολαμβάνετε.
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 4.10
 https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Κινητά τηλέφωνα, τάμπλετ, Αndroid TV αναβαθμίστε από το play store.
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,για να συνεχίσετε να την απολαμβάνετε.
 https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Huawei κινητά τηλέφωνα και τάμπλετ αναβαθμίστε από το appGallery
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Κινητά τηλέφωνα, τάμπλετ, Αndroid TV αναβαθμίστε από το play store.
 https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Για amazon Firesticks,Firecubes, Αndroid TV αναβαθμίστε από τον πιο κάτω σύνδεσμο
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Huawei κινητά τηλέφωνα και τάμπλετ αναβαθμίστε από το appGallery
 https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , https://bit.ly/cytvradio
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Για amazon Firesticks,Firecubes, Αndroid TV αναβαθμίστε από τον πιο κάτω σύνδεσμο
 https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="CYPRUS" tvg-id="riksat"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIKS.png" tvg-website="http://cybc.com.cy/" ,RIK SAT (OPTION 1)
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="CYPRUS" tvg-id="riksat"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIKS.png" tvg-website="http://cybc.com.cy/" ,RIK SAT (OPTION 2)
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|webdelaydeskdig$$delay=1
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK SAT 
-http://cybc.com.cy/schedule/|webepg zoom=100 scroll=0,6200
- 
-#EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" tvg-website="http://cybc.com.cy/" ,RIK1 (OPTION 1)[ONLY FOR CYPRUS]
-http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts
-#EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" tvg-website="http://cybc.com.cy/" ,RIK1 (OPTION 1) -ALTERNATE[ONLY FOR CYPRUS]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdelaydeskdig$$delay=1
-#EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" tvg-website="http://cybc.com.cy/" ,RIK1 (OPTION 2) (Click "PLAY VIDEO" between ads)
-http://www.anacon.org/app/chans/cy/rik1cyprus.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK1 
-http://cybc.com.cy/schedule/|webepg zoom=100 scroll=0,1900
- 
-#EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" tvg-website="http://cybc.com.cy/" ,RIK2 (OPTION 1)[ONLY FOR CYPRUS]
-http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts
-#EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" tvg-website="http://cybc.com.cy/" ,RIK2 (OPTION 1) -ALTERNATE[ONLY FOR CYPRUS]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdelaydeskdig$$delay=1
-#EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" tvg-website="http://cybc.com.cy/" ,RIK2 (OPTION 2) (Click "PLAY VIDEO" between ads)
-http://www.anacon.org/app/chans/cy/rik2.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK2
-http://cybc.com.cy/schedule/|webepg zoom=100 scroll=0,1000
- 
-#EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" tvg-website="http://cybc.com.cy/" ,RIK HD [ONLY FOR CYPRUS]
-http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts
-#EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" tvg-website="http://cybc.com.cy/" ,RIK HD -ALTERNATE[ONLY FOR CYPRUS]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webdelaydeskdig$$delay=1
- 
-#EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (OPTION 1)
-https://www.omegatv.com.cy/live/|weballdig
-#EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (OPTION 2) (Click "PLAY VIDEO" between ads)
-http://www.anacon.org/app/chans/cy/megacy.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - OMEGA
-http://www.megatv.com.cy/cgibin/hweb?-V=megatvprogram&_FAA=1&-dmegatvprogramtod.html|webepg zoom=260 scroll=0,100
- 
-#EXTINF:-1 group-title="CYPRUS" tvg-id="Sigma" tvg-logo="http://i.imgur.com/BMvgdlc.png" tvg-website="https://www.sigmatv.com/home" ,Sigma (OPTION 1)
-https://sl3.sigmatv.com/hls/live.m3u8
-#EXTINF:-1 group-title="CYPRUS" tvg-id="Sigma" tvg-logo="http://i.imgur.com/BMvgdlc.png" tvg-website="https://www.sigmatv.com/home" ,Sigma (OPTION 2) (Click "PLAY VIDEO" between ads)
-http://www.anacon.org/app/chans/cy/sigma.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Sigma
-http://www.sigmatv.com/schedule|webepg zoom=100 scroll=0,100
- 
-
-#EXTINF:-1 group-title="CYPRUS"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/",Alpha (OPTION 1)
-https://www.alphacyprus.com.cy/live|weballdig
-#EXTINF:-1 group-title="CYPRUS"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/",Alpha (OPTION 2) (Click "PLAY VIDEO" between ads)
-http://www.anacon.org/app/chans/cy/alphacyprus.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Alpha
-http://www.alphacyprus.com.cy/program|webepg zoom=100 scroll=0,100
- 
-#EXTINF:-1 group-title="CYPRUS"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ANT1 (OPTION 1)
-https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ANT1 (OPTION 1) - ALTERNATE
-https://www.ant1live.com/webtv/live|webdelayalldig
-#EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ANT1 (OPTION 2) (Click "PLAY VIDEO" between ads)
-http://www.anacon.org/app/chans/cy/ant1cyprus.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - ANT1
-https://www.antenna.gr/tvguide|webepg zoom=100 scroll=0,100
- 
-#EXTINF:-1 group-title="CYPRUS" tvg-id="Capital" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" tvg-website="https://capitaltv.cy/" ,Capital (Click "PLAY VIDEO" between ads)
-http://www.anacon.org/app/chans/cy/capitalcyprus.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Capital
-https://www.cyta.com.cy/tv-guide/en|webepg zoom=100 scroll=0,100
- 
-#EXTINF:-1 group-title="CYPRUS" tvg-id="Extra TV" tvg-logo="https://i.ibb.co/K6qFWYF/ONE-CY.png" ,ONE Channel CY (Click "PLAY VIDEO" between ads)
-http://www.anacon.org/app/chans/cy/extracyimage.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - ONE Channel CY
-https://www.cyta.com.cy/tv-guide/en|webepg zoom=100 scroll=0,100
- 
-#EXTINF:-1 group-title="CYPRUS" tvg-id="Plus TV" tvg-logo="http://www.anacon.org/app/img/plus.jpg" ,Plus (Click "PLAY VIDEO" between ads)
-http://www.anacon.org/app/chans/cy/pluscy.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Plus
-https://www.cyta.com.cy/tv-guide/en|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS"  tvg-id="Berginacy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" tvg-website="https://verginatv.cy/" ,BERGINA ΤV
-http://www.anacon.org/app/chans/cy/verginacyimage.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS"  tvg-logo="https://i.ibb.co/6YDnHwS/bluesky.jpg" ,Bluesky Cyprus
-http://www.anacon.org/app/chans/cy/blueskycyprus.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS" tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,Smile
-http://www.anacon.org/app/chans/cy/smilecy.html|refererdown$$referer=http://www.anacon.org/app/chans/cy/smilecy.php$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="CYPRUS" tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,Smile -ALTERNATE
-http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Smile
-http://www.smiletvcyprus.com/gr/index.php/program/monday|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS" tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3" tvg-website="https://www.ertflix.gr" ,ERT WORLD
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/cyprus/ert_cyprus_main/mainabr/playlist.m3u8
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG -  ERT WORLD
-https://www.ertflix.gr/epg/channel/ept-world-live|webepg zoom=0 scroll=0,100
-
-#EXTINF:-1 group-title="WORLDWIDE" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , ΠΡΟΣΟΧΗ!!!!!!!!!!
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , https://bit.ly/cytvradio
 https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WORLDWIDE" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , Αυτή η έκδοση θα σταματήσει να δουλεύει τέλος του 2023.
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WORLDWIDE" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 4.10 για να συνεχίσετε να την απολαμβάνετε.
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WORLDWIDE" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Κινητά τηλέφωνα, τάμπλετ, Αndroid TV αναβαθμίστε από το play store.
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WORLDWIDE" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Huawei κινητά τηλέφωνα και τάμπλετ αναβαθμίστε από το appGallery
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WORLDWIDE" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Για amazon Firesticks,Firecubes, Αndroid TV αναβαθμίστε από τον πιο κάτω σύνδεσμο
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WORLDWIDE" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , https://bit.ly/cytvradio
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WORLDWIDE"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (Youtube)
-https://gr.euronews.com/live|youtubedig
-#EXTINF:-1 group-title="WEBTV" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , ΠΡΟΣΟΧΗ!!!!!!!!!!
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WEBTV" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , Αυτή η έκδοση θα σταματήσει να δουλεύει τέλος του 2023.
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WEBTV" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 4.10 για να συνεχίσετε να την απολαμβάνετε.
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WEBTV" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Κινητά τηλέφωνα, τάμπλετ, Αndroid TV αναβαθμίστε από το play store.
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WEBTV" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Huawei κινητά τηλέφωνα και τάμπλετ αναβαθμίστε από το appGallery
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WEBTV" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Για amazon Firesticks,Firecubes, Αndroid TV αναβαθμίστε από τον πιο κάτω σύνδεσμο
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WEBTV" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , https://bit.ly/cytvradio
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="WEBTV"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,FAROS on Air
-https://s1.cystream.net/live/faros1/chunks.m3u8
-#EXTINF:-1 group-title="WEBTV"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,FAROS on Air 2
-https://s1.cystream.net/live/faros2/chunks.m3u8
-#EXTINF:-1 group-title="WEBTV"  tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png" tvg-website="https://alfasports.tv/" ,Alfa Sports TV
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="WEBTV" tvg-logo="http://citychannel.live/wp-content/uploads/2019/08/cropped-53146093_327305117905839_3890747505498914816_n.png" tvg-website="https://citychannel.live/" ,City Channel
-https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="WEBTV" tvg-logo="http://vouli.tv/wp-content/uploads/2019/09/cropped-voulilogo-e1517760078658.png" tvg-website="https://vouli.tv/" ,Vouli.tv
-https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="WEBTV" tvg-logo="https://i.ibb.co/sCKY5V8/pisti.jpg" ,Pisti
-https://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="WEBTV" tvg-logo="https://i.ibb.co/zHMSz0d/digitaltv.png" ,Digital tv
-https://livestream-player.digitaltv.com.cy/v1/01804bc1b4c709df730731f9d43d/01804bc1bd6a09df73103e2450a3/DigitaltreeTVOpH_720PA.m3u8?txSecret=3d70b5a88c9f11a891501c56dda11283&txTime=62C23EE5
-#EXTINF:-1 group-title="WEBTV" tvg-logo="https://www.cycinema.live/templates/itravel/images/logo.png" ,Cypriot Movies
-https://www.cycinema.live/tainies/|webepg zoom=0 scroll=0,100

@@ -1,184 +1,26 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://images.cdn1.stockunlimited.net/clipart/united-kingdom-flag-icon_1579695.jpg" ,===UK RADIO===
-https://images-eu.ssl-images-amazon.com/images/I/51ogcPy92TL.png|webepg zoom=100 scroll=0,200
+#EXTINF:-1 group-title="Info"  tvg-logo="https://images.cdn1.stockunlimited.net/clipart/united-kingdom-flag-icon_1579695.jpg" , ===UK TV===
+https://clipart.wpblink.com/sites/default/files/wallpaper/slang-clipart/143532/slang-clipart-appropriate-language-143532-1239542.jpg|webepg zoom=100 scroll=0,200
+ 
+#EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , Message From Developer
+https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
 
-#EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" ,BBC - Radio 1 [Option-1]
-https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_one.mpd
-#EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" ,BBC - Radio 1 [Option-2]
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
-#EXTINF:-1  tvg-logo="https://madnews.files.wordpress.com/2010/11/1xtra.jpg" ,BBC - Radio 1Xtra
-http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/702082001755631616/XfiurJDX.jpg" ,BBC - Radio 2 [Option-1]
-https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_two.mpd
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/702082001755631616/XfiurJDX.jpg" ,BBC - Radio 2 [Option-2]
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/702082001755631616/XfiurJDX.jpg" ,BBC - Radio 2 [Option-3]
-http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" ,BBC - Radio 3 [Option-1]
-https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_three.mpd
-#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" ,BBC - Radio 3 [Option-2]
-http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" ,BBC - Radio 4 [Option-1]
-https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_fourfm.mpd
-#EXTINF:-1  tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" ,BBC - Radio 4 [Option-2]
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
-#EXTINF:-1  tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" ,BBC - Radio 4 [Option-3]
-http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="http://www.bbc.co.uk/staticarchive/44a9d03f481254b8be3b4ed19ed9ddaf36e442cc.jpg" ,BBC - Radio 4Xtra
-http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" ,BBC - Radio 5 live [Option-1]
-https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_five_live.mpd
 
-#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" ,BBC - Radio 5 live [Option-2]
-http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" ,BBC - Radio 6 Music [Option-1]
-https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_6music.mpd
-#EXTINF:-1  tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" ,BBC - Radio 6 Music [Option-2]
-http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="http://static.radio.net/images/broadcasts/dd/cb/3476/c175.png" ,BBC World Service
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
-#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p01lclpc.jpg" ,BBC Asian Network
-http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio=320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p02bz7vv.jpg" ,BBC Radio Foyle
-http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio=320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="https://static.radio.net/images/broadcasts/b8/c7/11952/c300.png" ,BBC Radio Nan Gaidheal
-http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio=320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="https://www.una.org.uk/sites/default/files/bbc-radio-ulster_0.gif" ,BBC Radio Ulster
-http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio=320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/BBC_Radio_Cymru_logo.svg/1280px-BBC_Radio_Cymru_logo.svg.png" ,BBC Radio Cymru
-http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio=320000.norewind.m3u8
-#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kAhJHmcnwd.png" ,BBC Radio Merseyside
-https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_merseyside.mpd
-
-#EXTINF:-1 tvg-logo="https://f4.bcbits.com/img/a0840066429_2.jpg" ,88.2 Rude
-http://78.129.228.187:8034/listen.pls
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-C683tbmK6HI/WXimqyLcwGI/AAAAAAAAM9s/eNvyw320XHgD_fxXlxfHEVpMuz00wQXYACLcBGAs/s1600/New_Vision_Radio.jpg" ,88.4 Vision
-http://208.80.53.108:30584/listen.pls
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s103251d.png" ,90.6 Cyndicut
-http://78.129.178.98:9033/listen.pls
-#EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/05/Lightning-Radio.jpg" ,90.8 Lightning
-http://s10.whooshclouds.net:8524/stream.m3u      
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s180918d.png" ,92.6 The Rock 926
-http://143.95.95.223:9998/listen.pls
-#EXTINF:-1 tvg-logo="https://dominicavibes.dm/wp-content/uploads/2013/12/vibes-radio_domain-300x300.jpg" ,93.8 Vibes
-http://s02.whooshserver.net:9091/live.mp3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/u146017297/images/logod.jpg?t=635840563820000000" ,94.2 True Flavas
-http://91.121.202.224:4986/listen.pls
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/592229cbae2795fb4fb15b7e?ops=fit(240%2C240)" ,94.4 Flava Radio
-http://37.187.90.196:8891/listen.pls
-#EXTINF:-1  tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,95.8 Capital FM [Option-1]
-http://media-ice.musicradio.com/CapitalMP3.m3u
-#EXTINF:-1  tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,95.8 Capital FM [Option-2]
-http://media-sov.musicradio.com:80/CapitalMP3
-#EXTINF:-1  tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,95.8 Capital FM London [Option-3]
-http://ice-the.musicradio.com/CapitalMP3
-#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/43/08/34749/c300.png" ,96.1 S-Dance
-http://91.121.122.94:8003/listen.pls
-#EXTINF:-1 tvg-logo="https://static.lbc.co.uk/d/lbc.co.uk/img/ukrp/ukrp_default_screen.png" ,97.3 LBC
-http://media-the.musicradio.com/LBCLondon
-#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/1a/2d/34751/c300.png" ,98.1 Mystic Radio
-http://178.32.222.61:6008/listen.pls
-#EXTINF:-1 tvg-logo="http://ttstation.com/wp-content/uploads/2016/04/131333.png" ,98.3 RJR London
-http://s4.streammonster.com:8596/listen.pls 
-#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/4a/d4/34755/c300.png" ,99.3 Select UK [Option-1]
-http://78.129.228.187:8005/listen.pls
-#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/4a/d4/34755/c300.png" ,99.3 Select UK Radio [Option-2]
-http://selectukradio.com/listen.asx
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s210962d.png" ,99.5 Venture FM
-http://50.7.77.115:8446/listen.pls   
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1613927479/Supremefmliveninglogo.jpg" ,99.8 Supreme FM Live
-http://176.31.239.83:8061/listen.pls
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PYCsF6Z/IMG-20191210-001656-144.jpg" ,100.2 The House of Garage
-http://protostar.shoutca.st:9051
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Facebook_Profile_Pic.png/220px-Facebook_Profile_Pic.png" ,101.9 Real Beat FM
-http://176.31.239.83:8063/stream
-#EXTINF:-1 tvg-logo="http://www.consciousradio.net/logo.jpg" ,102.0 Concious Radio [Option-1]
-http://rascast.podzone.org:8014/conciousradio.xspf
-#EXTINF:-1 tvg-logo="http://www.consciousradio.net/logo.jpg" ,102.0 CONCIOUS RADIO  [Option-2]
-http://rascast.podzone.org:8006/conciousradio
-#EXTINF:-1 tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,102.0 Capital Manchester FM
-http://media-ice.musicradio.com/CapitalManchesterMP3
-#EXTINF:-1  tvg-logo="http://www.rushden-weather.co.uk/images/hfm.jpg" ,Harborough FM 102.3
-http://edge-audio-03-gos2.sharp-stream.com:80/harboroughfm.aac
-#EXTINF:-1 tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,103.2 Capital South Coast FM
-http://media-ice.musicradio.com/CapitalSouthCoastMP3
-#EXTINF:-1 tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,103.2 Capital South Wales FM
-http://media-ice.musicradio.com/CapitalSouthWalesMP3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/99.5_Play_FM.png/200px-99.5_Play_FM.png" ,104.2 Play FM
-http://185.40.87.155:9994/listen.pls
-#EXTINF:-1  tvg-logo="http://www.islandfm.com/wp-content/uploads/2015/03/twitter_profile_pic.png" ,Island FM 104.7/93.7 Guernsey/Alderney
-http://edge-audio-03-gos2.sharp-stream.com:80/tindleisland.mp3
-#EXTINF:-1  tvg-logo="http://burnside-radio-uk.website-radio.com/upload/titres/covers/5c4f6f513c4b88.51901918.png?v=1548709713" ,Burnside Radio 105.0 FM Swansea
-http://aries.streaming.zfast.co.uk:8084/burnsideradiouk.aac
-#EXTINF:-1 tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,105.1 Capital Yorkshire (South and West) 
-http://media-ice.musicradio.com/CapitalYorkshireSouthWestMP3
-#EXTINF:-1 tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" ,105.4 Capital East Midlands (Leicester) 
-http://media-ice.musicradio.com/CapitalLeicestershireMP3
-#EXTINF:-1  tvg-logo="http://static.radio.net/images/broadcasts/51/ec/9458/c175.png" ,Heart 106.2 FM London
-http://media-sov.musicradio.com:80/HeartLondonMP3
-#EXTINF:-1  tvg-logo="http://route2take.co.uk/wp-content/uploads/2014/10/silkBigger1.png" ,Silk 106.9 FM
-http://edge-audio-03-gos2.sharp-stream.com:80/tcsilk.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s9070d.png" ,107.8 Radio Jackie – The Sound of South West London
-http://radiojackie.com:12614/
-#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_6bef6a7c0d5984a562f013c187190d3d/logo200.jpg?size=200" ,Capital XTRA UK
-http://media-ice.musicradio.com/CapitalXTRANationalMP3
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/2/299.1407454834.png" ,PIRATE FM
-http://www.piratefm.co.uk/pirate.asx
-#EXTINF:-1 tvg-logo="https://www.radiocaroline.bzh/upload/design/58b534ee0a1193.21561320.png" ,RADIO CAROLINE
-http://sc3.radiocaroline.net:8030/listen.pls
-#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/09/2d/34075/c300.png" ,Radio Caroline 259 Gold
-http://www.radiocaroline319.nl/winamp_rc259_320.pls
-#EXTINF:-1 tvg-logo="https://www.radioonlinelive.com/wp-content/uploads/2017/06/Radio-Caroline-319-Gold.jpg" ,Radio Caroline 319 Gold
-http://www.radiocaroline319.nl/winamp_RC_320.pls
-#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/c0/f5/6820/c175.png" ,Radio Extra Gold
-http://www.extragold.nl/128.asx
-#EXTINF:-1 tvg-logo="https://evibe.me/images/radimg250237/Monique963.jpg?123" ,Radio Monique 963 Gold
-http://www.radiocaroline319.nl/winamp_RM_320.pls
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/103972/resized/180x172c/the_arrow.png" ,The Arrow – Ditgal Network
-http://media-ice.musicradio.com/ArrowMP3.m3u
-#EXTINF:-1  tvg-logo="https://static-media.streema.com/media/cache/9a/bb/9abbabb2387286d36125195bda17bbb4.jpg" ,Abacus.fm - Mozart Piano
-http://178.33.232.106:8046/stream
-#EXTINF:-1  tvg-logo="http://db.radioline.fr/pictures/radio_ee080f391e04329ca4dcd4575f7db7b3/logo200.jpg?size=200" ,Absolute Radio - 60s
-http://icy-e-bab-04-cr.sharp-stream.com:80/absolute60s.mp3
-#EXTINF:-1  tvg-logo="http://db.radioline.fr/pictures/radio_2a90a0f838c14b0a91d0856d339bdb9f/logo200.jpg?size=200" ,Absolute Radio - 70s
-http://icy-e-bab-04-cr.sharp-stream.com:80/absolute70s.mp3
-#EXTINF:-1  tvg-logo="http://db.radioline.fr/pictures/radio_7cc6681be99085098a6e49d340da9528/logo200.jpg?size=200" ,Absolute Radio - 80s
-http://icy-e-bab-04-cr.sharp-stream.com:80/absolute80s.mp3
-#EXTINF:-1  tvg-logo="http://www.streamitter.com/images/logos/JHJOX.png" ,Absolute Radio - 90s
-http://icy-e-bab-04-cr.sharp-stream.com:80/absolute90s.mp3
-#EXTINF:-1  tvg-logo="http://db.radioline.fr/pictures/radio_8cd9589205c32c3861de155b4f393640/logo200.jpg?size=200" ,Absolute Radio - 00s
-http://icy-e-bab-04-cr.sharp-stream.com:80/absolute00s.mp3
-#EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts4/v4/be/82/e0/be82e03a-c32e-443b-5007-953548c90d58/mza_4763039556385807050.jpg/268x0w.jpg" ,Absolute Radio - Classic Rock
-http://icy-e-bab-04-cr.sharp-stream.com:80/absoluteclassicrock.mp3
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Burst_Red_2012.jpg" ,Bristol University Radio Station (Burst)
-http://app-burst.services.bris.ac.uk:8000/Burst
-#EXTINF:-1  tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple5/v4/2a/a1/1b/2aa11b5a-0b6d-06de-f04d-8249b0444ed5/source/512x512bb.jpg" ,Energy FM
-http://188.40.135.197:8434/listen.
-#EXTINF:-1  tvg-logo="http://www.liveradio.ie/files/images/273298/resized/180x172c/garden_county_radio.jpg" ,Garden County Radio Dublin
-http://5.63.151.52:7044/stream
-#EXTINF:-1  tvg-logo="http://hearme.fm/wp-content/uploads/2018/02/logo.png" ,HearMe.fm - Cool Jazz
-http://78.129.251.150:8181/stream
-#EXTINF:-1  tvg-logo="https://static.heart.co.uk/assets_v4r/dist/combined/img/logos/network_red.png" ,Heart 96-107
-http://media-ice.musicradio.com/HeartUK
-#EXTINF:-1  tvg-logo="https://static.heart.co.uk/assets_v4r/dist/combined/img/logos/heart80s_red.png" ,Heart 80s
-http://media-ice.musicradio.com/Heart80s
-#EXTINF:-1  tvg-logo="https://static.heart.co.uk/assets_v4r/dist/combined/img/logos/extra_red.png" ,Heart Extra
-http://media-ice.musicradio.com/Heartextra
-#EXTINF:-1  tvg-logo="https://static.heart.co.uk/assets_v4r/dist/combined/img/logos/dance_red.png" ,Heart Dance
-https://media-ssl.musicradio.com/HeartDance
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kiss_Network_logo.svg/1200px-Kiss_Network_logo.svg.png" ,Kiss FM 100.0 London
-http://5.63.151.52:7038/stream
-#EXTINF:-1  tvg-logo="http://streamitter.com/images/logos/C7M93S.png" ,Mondo Bongo Radio
-http://5.63.151.52:7082/stream
-#EXTINF:-1  tvg-logo="http://www.pigpenradio.org/listen/pigpen_radio_listen_logo.png" ,Pigpen Radio
-http://178.79.158.160:8213/;
-#EXTINF:-1  tvg-logo="http://www.premierchristianradio.com/var/ezdemo_site/storage/images/media/images/premier-christian-radio2/8520926-1-eng-GB/Premier-Christian-Radio_reference.jpg" ,Premier Christian Radio 1332 AM London
-http://icy-e-05-gos.sharp-stream.com/premiernationallow.mp3
-#EXTINF:-1  tvg-logo="https://i1.sndcdn.com/avatars-000062668653-lkxvyg-t500x500.jpg" ,Radio Jahani
-http://shoutcast.wrn.org:8025/vor
-#EXTINF:-1  tvg-logo="https://cdn-radiotime-logos.tunein.com/s13606d.png" ,Radio Paradise
-http://stream-uk1.radioparadise.com/mp3-192
-#EXTINF:-1  tvg-logo="https://www.invubu.com/radio/radio_images/logos/powerstationuk/powerstationuk-logo500.png" ,The Power Station
-http://5.63.151.52:7032/stream
-#EXTINF:-1   tvg-logo="https://pbs.twimg.com/profile_images/674691790142758912/mtkNQpsg.png"  ,Italy Classical Radio
-http://176.31.107.8:8204/
+#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , This Version Expired
+https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , GET THE LATEST VERSION TO
+https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Info"   tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , CONTINUE USING THE APP.
+https://pastebin.com/raw/f3PHrWM0|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V3.10: Click here to AUTO-UPDATE.
+https://www.mediafire.com/file/ucw2lvd7i5khgck/UK_TV_%2526_Radio_V3.10.apk/file|externalupdate
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V3.10: Click here to Download From Browser.
+https://www.mediafire.com/file/ucw2lvd7i5khgck/UK_TV_%2526_Radio_V3.10.apk/file|newexternalapp
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , OR USE "https://bit.ly/uktv310"
+https://www.mediafire.com/file/ucw2lvd7i5khgck/UK_TV_%2526_Radio_V3.10.apk/file|externalupdate
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Plugin V4.27. Click here to AUTO-UPDATE.
+http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|externalupdate
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Plugin V4.27. Click here to Download From Browser.
+http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , OR USE "https://bit.ly/ulti411"
+http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
